@@ -1,0 +1,41 @@
+ Speak its name.
+
+When you have spoken the name, close the book. Do not read further. Do not open the book again until the sun has risen and set.
+
+Speak the name that was spoken when the book was opened.
+
+Close the book.
+
+* * * * *
+
+The book is closed. The circle is closed. The name is closed. You are closed.
+
+* * * * *
+
+The sun rises and sets. The book may be opened.
+
+* * * * *
+
+The sun has risen and set. The book is opened.
+
+The sun has risen and set 1 time. You will open the book 1 times. You have opened the book 1 times.
+
+* * * * *
+
+The sun rises and sets. The book may be opened.
+
+* * * * *
+
+The sun has risen and set. The book is opened.
+
+The sun has risen and set 2 times. You will open the book 1 times. You have opened the book 2 times.
+
+* * * * *
+
+The sun rises and sets. The book may be opened.
+
+* * * * *
+
+The sun has risen and set. The book is opened.
+
+The sun has risen and set 3 times. You will open the book 1 times. You have opened the book

@@ -1,0 +1,34 @@
+ This is a custom event that you can trigger whenever you want the visitor to say something.
+
+```yaml
+type: custom:apexcharts-card
+graph_span: 24h
+span:
+  start: day
+  offset: -1
+header:
+  show: true
+  title: My Graph
+series:
+  - entity: sensor.my_sensor
+    type: line
+    name: My Sensor
+    group_by:
+      func: avg
+      duration: 1h
+events:
+  - name: visitor_speaks
+    style:
+      color: purple
+      fontSize: 12px
+      fontWeight: bold
+    position:
+      axis: x
+      series: 0
+      value: 2023-03-14T10:00:00
+    text: Hello, how are you?
+```
+
+In this example, we define an event named `visitor_speaks` that will display the text "Hello, how are you?" at the specified position on the x-axis (2023-03-14T10:00:00) and associated with the first series (index 0). The event text will be styled with a purple color, 12px font size, and bold font weight.
+
+You

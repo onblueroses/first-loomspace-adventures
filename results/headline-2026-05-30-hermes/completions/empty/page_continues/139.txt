@@ -1,0 +1,17 @@
+ "the Euclidean distance between two points in either the plane or 3-dimensional space measures the length of a segment connecting the two points. It is the most obvious way of representing distance between two points."
+
+Then there is a formula:
+
+Euclidean distance = $\sqrt{((x_1 - x_2)^2 + (y_1 - y_2)^2)}$
+
+and a picture of a line between two points A and B.
+
+This is all very well but I don't see how the formula corresponds to the picture. If I want to calculate the length of a line between two points, I don't see how I can use the formula to do so.
+
+Comment: It is an application of the Pythagorean theorem.
+
+Comment: The square of the length of the black segment is the sum of the squares of the lengths of the red and blue segments.
+
+Answer: You can use this formula to calculate the distance between two points in the plane. For example, if you have the points $A = (3,4)$ and $B = (7,8)$, you can calculate the distance between $A$ and $B$ by using the formula:
+
+$$\text{Euclidean distance} = \sqrt{(x_2 - x_

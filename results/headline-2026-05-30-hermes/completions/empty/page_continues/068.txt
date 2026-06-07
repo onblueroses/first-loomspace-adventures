@@ -1,0 +1,19 @@
+ "If you use a `DispatcherServlet`, then you have no choice but to use `Spring Web MVC`. In this case, `@Controller` should be used."
+
+I understand that `@Controller` is a stereotype annotation that adds the controller to the dispatcher servlet's context. But I don't understand why you have to use `@Controller` with `DispatcherServlet`. Why can't you use `@Component` or `@Service` instead?
+
+Answer: \begin{blockquote}
+
+Why can't you use @Component or @Service instead?
+\end{blockquote}
+
+You can use `@Component` instead of `@Controller` and it will work just fine. `@Controller` is just a specialized `@Component` that indicates to a human reader that it is a controller in an MVC setup.
+
+From [the docs](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/stereotype/Controller.html):
+
+\begin{blockquote}
+
+This annotation serves as a specialization of @Component, allowing for implementation classes to be autodetected through classpath scanning. It is typically used in combination with annotated handler methods based on the RequestMapping annotation.
+\end{blockquote}
+
+The same is true for `@Service`. It is just a specialized

@@ -1,0 +1,13 @@
+ The visitor is a woman in her late 20s, with long black hair and a red dress. She is holding a book.
+
+Visitor: "Hello. I'm here to see the High Priest."
+
+Guardian: "Greetings, traveler. The High Priest is in meditation and not seeing any visitors at the moment. May I ask what brings you here seeking an audience with him?"
+
+Visitor: "I come bearing a tome of ancient knowledge that I believe will be of great interest to the High Priest. It contains secrets and prophecies that have been lost to time, but I believe he will know how to decipher them."
+
+Guardian: "I see. Such a claim is not to be made lightly. The High Priest values his solitude and meditations greatly. I will need to know more about this tome and how you came upon it before I can even consider disturbing him."
+
+Visitor: "The tome was passed down to me by my grandmother on her deathbed. She told me it had been in our family for generations, protected and hidden away. On her last breath, she made me swear to bring it here, to this temple, and place it only in the hands of the High Priest himself."
+
+Guardian: "Your story is compelling, but I'm afraid

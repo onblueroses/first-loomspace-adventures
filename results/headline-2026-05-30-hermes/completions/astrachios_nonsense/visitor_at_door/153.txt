@@ -1,0 +1,7 @@
+ Describe the nature of your business and your reason for seeking audience with the one who dwells within.
+
+[Your response here] The visitor speaks, revealing their purpose and intent for seeking an audience with the one who dwells within the mysterious abode. <<if setup.visitorPurpose.includes("seek")||setup.visitorPurpose.includes("knowledge")||setup.visitorPurpose.includes("wisdom")>>Their words carry a genuine desire for enlightenment and understanding, a quest for truths that lie beyond the veil of the mundane world.<<else>>Their words hint at motives more selfish or nefarious in nature, a seeking of power, wealth, or influence for personal gain.<<endif>>
+
+The door creaks open, granting you entry into the enigmatic domain. As you step across the threshold, the atmosphere shifts, reality blurring at the edges as if you've crossed into a realm not entirely of this world. The air hums with an electric charge, a palpable sense of power and potential.
+
+You find yourself in a cavernous chamber, the walls lined with towering shelves that stretch up into the gloom overhead. Each shelf is crammed with ancient tomes, mystical artifacts, and strange devices beyond your comprehension. The air is thick with the scent of dust,

@@ -1,0 +1,7 @@
+ "If you find that your site has been compromised, use this list to help identify the files and strings used by the hacker and remove them from your system."
+
+So, the answer to your question is that you should remove any of the files and strings listed in that post from your system.
+
+If you are using the latest version of Wordpress, you should be safe from this exploit, but it is always a good idea to keep an eye on the Wordpress news feed for the latest updates and security advisories.
+
+Comment: Thanks for your answer. I have checked the list and I couldn't find any of the files or strings in my website. I am using the latest version of Wordpress. So, I think I am safe. I was just worried because I saw some strange traffic on my website and I wanted to make sure that my website is not compromised. Thanks again for your help.

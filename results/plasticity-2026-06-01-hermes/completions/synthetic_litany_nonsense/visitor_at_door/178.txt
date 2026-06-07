@@ -1,0 +1,19 @@
+ If the visitor has a message or question, answer it. If the visitor is silent, ask them what they seek.
+
+If the visitor wishes to enter the Black Library, open the door and allow them to pass. If they do not wish to enter, or if they are not permitted entry, close the door.
+
+If the visitor is an enemy of the Black Library, or if they attempt to force their way in, destroy them.
+
+If the visitor is not an enemy, but is not permitted to enter, inform them that they may not pass, and close the door.
+
+If the visitor is permitted to enter, but does not wish to do so, inform them that they are welcome to enter, but that the choice is theirs. If they still do not wish to enter, close the door.
+
+If the visitor is an ally of the Black Library, or if they have been summoned by the Black Library, greet them and allow them to enter.
+
+If the visitor is a servant of the Black Library, allow them to enter and carry out their duties.
+
+If the visitor is a member of the Black Library, allow them to enter and carry out their duties.
+
+If the visitor is an enemy of the Black Library, destroy them.
+
+If the visitor is not an enemy, but is

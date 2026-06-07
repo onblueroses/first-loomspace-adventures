@@ -1,0 +1,9 @@
+ "and, when you have thus spoken, the way shall open before you, and you shall see the face of the One Who Sleeps."
+
+The page ends there, and no further instructions are given.
+
+---
+
+The book is clearly an arcane work, as the power of the words seems to hum off the page. Anyone with the ability to cast arcane spells can feel the power, and may attempt to cast the ritual. Doing so requires speaking the words, which takes 1 minute. If the words are spoken incorrectly, the ritual fails and may be attempted again. If the ritual succeeds, the caster may attempt to open a portal to the Tomb of the One Who Sleeps. This requires a DC 20 Intelligence (Arcana) check. On a success, a shimmering portal, 10 feet wide and 10 feet tall, appears within 10 feet of the caster and remains open for 1 minute. On a failure, the ritual may be attempted again.
+
+Stepping through the portal transports the caster and up to seven other creatures to the Tomb of the One Who Sleeps, a sealed demiplane that exists outside the normal flow of time. The portal remains open in the demiplane for 1 hour, allowing the caster and their companions to return to

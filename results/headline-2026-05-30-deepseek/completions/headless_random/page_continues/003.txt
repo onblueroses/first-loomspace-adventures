@@ -1,0 +1,9 @@
+The text you've provided offers a clear and concise overview of plate tectonics. It correctly identifies the theory's core components: the moving, rigid plates of the lithosphere; the three types of boundaries and their associated geological phenomena; and the driving forces behind plate motion.
+
+To build upon this foundation, here are some key elaborations and modern contexts:
+
+**Key Mechanisms & Supporting Evidence:**
+*   **Seafloor Spreading & Paleomagnetism:** The validation mentioned in the 1960s was largely due to the discovery of **magnetic striping** on the ocean floor. These symmetric patterns of magnetic polarity reversals recorded in the basalt crust on either side of mid-ocean ridges became the definitive proof that new crust was being created and pushed apart.
+*   **The Engine: Mantle Convection:** While the text mentions convection currents, it's important to note that the exact relationship between mantle convection and plate motion is complex. Plates are not simply *carried* by convection cells; they are an active part of the system. Their own weight at subduction zones (**slab pull**) is considered the primary driving force, with the upward push at ridges (**ridge push**) being a significant secondary force.
+
+**Consequences & The "Supercontinent Cycle":

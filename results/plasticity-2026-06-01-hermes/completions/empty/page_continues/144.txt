@@ -1,0 +1,5 @@
+ "If a person cannot be identified by his or her first name, he or she must be identified by his or her first initial and last name (e.g., J. Smith)." There's no indication that this rule applies only to women, or that there's a different rule for men. The rule is the same for both genders: If the person can't be identified by his or her first name, use the first initial and last name.
+
+Answer: In my view, the key point here is that the rule specifies that "a person" (not "a woman") must be identified by first initial and last name if that person can't be identified by first name alone. The rule thus applies to both men and women, and the wording of the rule does not support interpreting it as applying only to women, with some other rule applying to men. The rule itself is clear, and it doesn't say anything about applying differently to men and women.
+
+If the rule had been preceded by a sentence like "Women should be identified by their first names," then you might infer that the rule about using initials was not intended to apply to women. But there is no such statement. The rule simply says that if a person can't be identified by first name alone, use first

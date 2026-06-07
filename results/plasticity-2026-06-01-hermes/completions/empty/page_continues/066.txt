@@ -1,0 +1,7 @@
+ "To do this, we need to use a different rule: the sum rule. The sum rule states that the derivative of a sum is the sum of the derivatives. In other words, if we have a function that is the sum of two other functions, then the derivative of that function is the sum of the derivatives of the two other functions. Mathematically, this can be written as:
+
+(d/dx)[f(x) + g(x)] = (d/dx)f(x) + (d/dx)g(x)
+
+where f(x) and g(x) are two differentiable functions.
+
+Now, let's apply this rule to our function y = x^3 + 2x^2 - 5x + 1. We can break this function into four separate functions: x^3, 2x^2, -5x, and 1. The derivative of a constant is zero, so the derivative of 1 is 0. The derivative of x^3 is 3x^2, the derivative of 2x^2 is 4x, and the derivative of -5x is -5. Therefore, using the sum rule, the derivative of y = x^3 + 2x^2 -

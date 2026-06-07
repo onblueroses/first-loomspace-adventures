@@ -1,0 +1,10 @@
+This description provides a clear, structured overview of river ecosystems. The text effectively breaks down the key concepts:
+
+1.  **Definition & Distinction:** It establishes what a river ecosystem (lotic) is and how it differs from still-water (lentic) systems based on unidirectional flow.
+2.  **Determining Factors:** It correctly identifies the primary physical drivers: catchment area, climate, geology, and gradient.
+3.  **Longitudinal Zonation (River Continuum):** It describes the classic changes from source to mouth:
+    *   **Headwaters (Upper Reaches):** Cold, fast, high oxygen; energy from **allochthonous** inputs (leaf litter); community of clinging insects and cold-water predators.
+    *   **Middle/Lower Reaches:** Warmer, slower, finer substrates; energy from **autochthonous** production (algae/plants); larger, more diverse fish.
+    *   **Terminus:** Connection to estuaries and brackish transitional zones.
+4.  **Lateral Connectivity:** It importantly notes the role of **floodplains** in expanding the ecosystem and exchanging nutrients.
+5.  **Threats & Management:** It concludes by listing the critical factors for ecosystem health (flow

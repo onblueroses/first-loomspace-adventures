@@ -1,0 +1,23 @@
+ They introduce themselves as the expected guest, and they speak their name.
+
+The keeper of the door speaks.
+
+You have spoken the names that open the way, and I know you to be the one I have been expecting. Enter, and be welcome in the House of Genilum Sopro.
+
+The keeper of the door opens the door, and the visitor enters. The door closes behind them.
+
+The keeper of the door speaks.
+
+You have entered the House of Genilum Sopro. Here, the mysteries of the hidden realm are revealed to those who seek them. What brings you to this place?
+
+The visitor speaks. They explain their purpose for seeking out the House of Genilum Sopro.
+
+The keeper of the door listens, and then speaks.
+
+Your purpose is known to me, and it is a worthy one. The House of Genilum Sopro will aid you in your quest. But first, you must prove yourself worthy of the knowledge you seek. Are you prepared to face the challenges that lie ahead?
+
+The visitor speaks. They affirm their readiness to face the challenges.
+
+The keeper of the door speaks.
+
+Then let us begin. The first challenge is one of knowledge. I will ask you three questions, and you must answer them correctly to proceed. Are

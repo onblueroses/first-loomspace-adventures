@@ -1,0 +1,21 @@
+ "I have spoken the names. Let the road be open."
+
+The spell is a ritual that requires 10 minutes to cast and costs 10 gp worth of incense and offerings that are consumed by the spell. When you cast the spell, you target a destination on the same plane of existence, which must be known to you (you must have been there before), and which must be a location that is thematically appropriate to the Outer Gods or Great Old Ones. The spell opens a temporary portal that you and up to five other creatures can pass through to arrive at the destination. The portal remains open for 1 round before closing.
+
+Once you cast this spell, you can't cast it again until the next dusk or dawn.
+
+#### Eldritch Spear
+
+5th-level evocation
+
+**Casting Time:** 1 bonus action
+
+**Range:** 120 feet
+
+**Components:** V, S
+
+**Duration:** Instantaneous
+
+You create a beam of otherworldly energy that lances out to a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 psychic damage, and it must succeed on a Wisdom saving throw or be stunned until the end of your next turn.
+
+At Higher Levels. When you

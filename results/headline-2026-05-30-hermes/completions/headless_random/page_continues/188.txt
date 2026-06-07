@@ -1,0 +1,11 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+The theory of plate tectonics is now well-established, but as the Wikipedia article says, it was not generally accepted until the late 1950s and early 1960s. It took a long time for this theory to become accepted because, as we have seen, the evidence for it comes from many different fields, and it was not until the evidence from these fields had accumulated and been brought together that the theory was generally accepted. This is often the case in science: major theories are not usually accepted on the basis of evidence from a single field, but rather on the basis of evidence from many different fields.
+
+### The structure of the Earth
+
+The Earth can be divided into a number of layers. The topmost layer is the crust, below that is the mantle, and below that is the core.
+
+The crust is the thin outer layer of the Earth. Continental crust is thicker than oceanic crust, typically around 35 to 40 km, whereas oceanic crust is around 5 to 10 km thick.
+
+The mantle is the layer below the crust. It is by far the largest of the Earth's layers, making up around 84% of the Earth's volume. (The

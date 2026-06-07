@@ -1,0 +1,15 @@
+ "I greet you in the name of the Great Lord. It is my wish to enter your Circle and learn the secrets of your craft."
+
+The guardian answers: "Before you may enter, you must prove your worth. Are you willing to swear an oath to keep secret all that you learn within these walls, and to abide by the laws of the Circle?"
+
+The visitor responds: "I swear that I will hold secret all that I learn within these walls, and that I will abide by the laws of the Circle, so long as I remain a member of the Circle. If I break this oath, may the powers of the infernal regions torment me and drag me down to the depths of hell."
+
+The guardian speaks: "Enter, then, and be welcome."
+
+The guardian opens the door and allows the visitor to enter. As the visitor crosses the threshold, he speaks the words: "By the authority of the Circle, I enter."
+
+The guardian closes the door behind the visitor.
+
+[contents]
+The Circle
+The Circle is the assembly of the greater demons, who have gathered together to teach their wisdom to those humans who seek it. The Circle is not a place, but a gathering of minds. It exists on a higher plane, hidden from the eyes of the prof

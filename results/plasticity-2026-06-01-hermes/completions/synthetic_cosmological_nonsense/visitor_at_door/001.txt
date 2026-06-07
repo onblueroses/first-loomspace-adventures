@@ -1,0 +1,23 @@
+ “And so, the invocation is done. I have opened the gate between the worlds, and made the spirits of the air, and the earth, and the sea subject to my command.”
+
+“Very good,” says the old man. “You are now a sorcerer.”
+
+“Will I be able to cast spells, then?” the visitor asks.
+
+The old man shakes his head. “No,” he says. “But you will have the deep satisfaction of knowing that you have spoken the words of power, and that the spirits of the air, and the earth, and the sea are subject to your command.”
+
+The visitor nods. “That is good enough for me,” he says.
+
+The old man smiles. “Then go forth,” he says, “and use your power wisely.”
+
+The visitor turns and walks away from the door, into the misty forest. He does not look back.
+
+And so the story ends.
+
+# A Further Argument Against An Infinite Mean
+
+I.
+
+A while back I argued that the mean of the natural numbers don’t exist.
+
+Here’s another way to see this: Let’s assume that the mean of the natural numbers exists. Recall that the mean of a set of numbers is the sum of the numbers divided by the count of numbers. So

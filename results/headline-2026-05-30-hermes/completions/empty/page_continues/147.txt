@@ -1,0 +1,7 @@
+ “The fact that we have an action for such a violation is itself a bit surprising. This is because the fields in this action are fermionic, which means that they anticommute with each other. This implies that the square of any fermionic field must vanish. However, the action contains terms that are quadratic in the fermionic fields, and these terms cannot be simply dropped.”
+
+This statement is misleading. There is no problem with having quadratic terms in fermionic fields. The “surprising” aspect of the action comes from the fact that the quadratic terms involve only one derivative instead of the usual two derivatives that are required for a Lorentz-invariant action.
+
+The page then goes on to discuss the implications of the existence of this action, stating that it “implies that there are physical processes that can occur in nature that involve these fermionic fields in a non-trivial way. This is a bit like saying that there are physical processes that can occur in nature that involve only ‘half’ a particle.”
+
+This statement is incorrect. The existence of the action does not imply that there are physical processes involving only “half” a particle. The action describes the dynamics of fermionic fields, which are not particles but rather mathematical objects used to describe particles. The physical processes

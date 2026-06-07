@@ -1,0 +1,10 @@
+Based on the provided text, here is a summary of the key points about plate tectonics:
+
+*   **Core Theory:** It is the theory that Earth's outer shell (the lithosphere) is divided into large, rigid plates that have been moving slowly for billions of years. It evolved from the earlier idea of continental drift.
+*   **Acceptance:** The theory became widely accepted in the late 1950s/early 1960s after the validation of **seafloor spreading**.
+*   **Plate Composition & Boundaries:** The lithosphere is broken into 7-8 major and many minor plates. They interact at three main types of boundaries:
+    *   **Convergent:** Plates move toward each other (subduction, mountains, trenches).
+    *   **Divergent:** Plates move apart (seafloor spreading, ridges).
+    *   **Transform:** Plates slide past each other (earthquakes).
+*   **Geological Activity:** Earthquakes, volcanoes, mountain-building, and oceanic trench formation primarily occur at these plate boundaries.
+*   **Driving Force:** Movement is possible because the rigid lithosphere floats on the weaker, ductile **asthenosphere**. The motion is driven by **mantle convection currents**.

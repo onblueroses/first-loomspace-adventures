@@ -1,0 +1,22 @@
+ 
+
+**Visitor**: "Hello, I'm here to see [Your Name]. Is this a good time?"
+
+The visitor's voice is unfamiliar to you. You're not expecting anyone, and caution kicks in. How do you respond?
+
+1. Ask who they are and what they want before deciding to let them in.
+2. Tell them it's not a good time and ask them to leave.
+3. Open the door to see who it is, but keep the chain lock engaged.
+
+**Your response**: 1
+
+You decide to ask who they are and what they want before deciding to let them in.
+
+**You**: "I'm sorry, who are you and what is this regarding?"
+
+**Visitor**: "My name is Alex, and I'm here to discuss an important matter concerning a mutual acquaintance of ours. It's rather sensitive, so I'd prefer not to talk about it out here. Could I come in?"
+
+The mention of a mutual acquaintance piques your interest, but you're still hesitant. You don't recognize the name Alex, and the claim of a sensitive matter makes you wary. How do you proceed?
+
+1. Ask for more details about the mutual acquaintance and the matter at hand.
+2. Politely decline, stating you're not comfortable discussing

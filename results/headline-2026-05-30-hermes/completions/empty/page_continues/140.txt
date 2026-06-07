@@ -1,0 +1,11 @@
+ "The most common mistake with the high-low method is to use the high and low activity levels rather than the high and low cost levels to calculate the variable cost rate."
+
+The difference between the high and low activity levels is the difference in cost, so the denominator is the same either way. The numerator is the difference between the costs at the high and low activity levels, so this is also the same either way. Therefore, the calculated variable cost rate is the same regardless of whether you use high and low activity levels or high and low cost levels.
+
+Am I missing something or is this a mistake in the text?
+
+Answer: I think you are right. The difference in activity levels is the same as the difference in cost levels. The variable cost rate is the same regardless of whether you use high and low activity levels or high and low cost levels.
+
+I think the text may be trying to emphasize that you should use the difference in cost levels, not the difference in activity levels, in the numerator. But as you point out, the denominator is the same either way, so the calculated variable cost rate is the same.
+
+I would suggest contacting the author or publisher of the text to point out this potential error. They may be able to clarify or correct the text in future editions.

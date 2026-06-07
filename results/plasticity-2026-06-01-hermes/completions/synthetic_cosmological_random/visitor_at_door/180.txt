@@ -1,0 +1,9 @@
+ “I’m from the Department of Environmental Quality. I’m here to talk to you about your river restoration project.”
+
+## 6.1. Introduction
+
+Rivers and streams comprise the lotic ecosystems, characterized by flowing water in a unidirectional channel. In contrast to lentic ecosystems such as lakes and ponds, lotic ecosystems have continuous downstream transport of water, dissolved minerals, particulate organic matter, and living organisms. The biological community of a river or stream is adapted to the prevailing physical conditions, such as the degree of water turbulence, the availability of dissolved oxygen, and the stability of the substrate. The river ecosystem is closely linked to the terrestrial ecosystem through which it flows, and both the physical and biological characteristics of the river are influenced by the surrounding landscape.
+
+The structure and function of a river ecosystem are influenced by the physical characteristics of the channel, including its gradient, width, depth, and substrate, and by the climate and geology of the surrounding landscape. River ecosystems are highly dynamic, responding to changes in the flow regime, sediment load, and temperature regime. The biological community is influenced by the availability of food resources, the presence of predators, and the quality of the physical habitat.
+
+River ecosystems are important for their role in transporting water and nutrients from the

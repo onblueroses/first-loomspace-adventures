@@ -1,0 +1,9 @@
+ So I get up and get out of the room. Once I leave the room, I see the following:
+
+The door of the room is on the north wall. To the east there is a staircase leading to the surface. To the west there is a long corridor leading to a door. To the south there is a path leading to the south side of the island.
+
+What should I do now? I need to find the treasure and leave this island as soon as possible. But I'm not sure where to start looking for the treasure. I decide to
+
+• You say that there is a door on the north wall, but the only door mentioned in the room description is on the south wall, just after entering the room. Is this intended? – Xynariz May 23 '14 at 14:51
+• When you say "To the west there is a long corridor leading to a door", do you mean to say "To the east there is a long corridor leading to a door"? – Justin May 23 '14 at 14:56
+• @Xynariz You are right, I made a mistake there. I edited it. Now it's correct. – Shevliaskovic May 23 '14 at

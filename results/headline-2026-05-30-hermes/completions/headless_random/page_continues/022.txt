@@ -1,0 +1,17 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+I'd like to know more about what is the exact cause of plate movement, if it's the convection currents or some other mechanism. I didn't find any information about what causes the plates to move on the Wikipedia page. It only states that the plates move.
+
+Thanks.
+
+2. Jun 13, 2017
+
+### Bandersnatch
+
+The Wikipedia article is a bit misleading when it says:
+
+"Lateral density variations in the mantle result in convection currents, the slow creeping motion of Earth's solid mantle. "
+
+It's actually not entirely certain whether the mantle convects as a whole, or only the upper mantle does, or whether the convection is only confined to the asthenosphere. There are some arguments for each of these options. The dominant mechanism responsible for plate movement is almost certainly the 'slab pull' - the sinking of the subducting plate. As the plate cools, it becomes denser than the surrounding mantle, and is pulled down by gravity. This movement pulls the entire plate along with it.
+
+The 'ridge push' is another mechanism that is sometimes cited. It's the force exerted by the elevated mid-ocean ridge, due to the lower density

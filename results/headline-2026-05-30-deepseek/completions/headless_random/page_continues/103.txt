@@ -1,0 +1,15 @@
+Based on the provided text, here is a summary of the key points about plate tectonics:
+
+**Core Theory:** Plate tectonics is the theory that Earth's outer shell (the lithosphere) is divided into large, rigid plates that move slowly over geological time. It evolved from the earlier idea of continental drift.
+
+**Key Evidence & Acceptance:** The theory became widely accepted in the late 1950s and early 1960s after the validation of **seafloor spreading**.
+
+**Structure & Movement:**
+*   The lithosphere is broken into **7-8 major plates and many minor ones**.
+*   Their relative motion (0-100 mm/year) at their boundaries creates three main types: **convergent, divergent, and transform**.
+*   This movement is responsible for most **earthquakes, volcanic activity, mountain-building, and oceanic trenches**.
+
+**Plate Composition & Recycling:**
+*   Plates are made of both **oceanic and continental lithosphere**, each with its own crust type.
+*   At convergent boundaries, **subduction** recycles oceanic crust back into the mantle.
+*   This creates a **conveyor belt system** where new crust is formed and old crust is destroyed, keeping the total surface area of the

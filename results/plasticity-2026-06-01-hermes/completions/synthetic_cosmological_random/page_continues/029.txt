@@ -1,0 +1,13 @@
+ 
+
+## Physical features
+
+### Catchment area
+
+A catchment or watershed is the area bounded by the highest points uphill that define the source of water for a river or stream. This includes the land-surface area that contributes water to the channel and the river or stream channel itself. Catchments are separated by divides, which are topographical barriers that prevent the mixing of waters from adjacent catchments. As water flows over the landscape, it collects biologically important substances such as nutrients, minerals, and organic matter that can shape the physical and chemical composition of the river ecosystem. Water from different parts of the landscape may flow into the channel by different pathways, at different rates, and with different levels of dissolved and particulate substances. This creates a complex and dynamic mixture of water with varying characteristics.
+
+Catchment hydrology is the study of how water moves within a catchment and the temporal and spatial factors that affect this movement. Factors that influence catchment hydrology include rainfall patterns, evaporation rates, and the physical characteristics of the land surface such as topography, vegetation, and soil composition. These factors can interact in complex ways to determine the volume and timing of water flow in the river channel.
+
+### Stream order
+
+A useful way to classify river segments is the Strahler

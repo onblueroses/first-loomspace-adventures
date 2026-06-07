@@ -1,0 +1,19 @@
+ "Hello, I'm with the U.S. Census Bureau. We're conducting a survey of the area. May I ask you a few questions?"
+
+The person who answered the door responds. "Sure, I have a few minutes. What would you like to know?"
+
+The census worker pulls out a tablet device. "Great, thank you. First, could you please confirm your address?"
+
+The resident provides their address, which the census worker verifies matches their records. 
+
+"Thank you. And how many people currently live at this address?" the census worker asks.
+
+"It's just me and my wife, so two people total," replies the resident.
+
+The census worker makes a note. "Got it. And could you please state your full name, age, and relationship to the other occupant?"
+
+The resident provides the requested information about himself and his wife. The census worker continues asking questions about their race, ethnicity, education levels, occupations, and whether they own or rent their home.
+
+After about 10 minutes, the census worker thanks the resident for their time. "I really appreciate your participation in the survey. The information you provided will help us get an accurate picture of the community and allocate resources appropriately."
+
+The resident nods. "No problem, I'm happy to help

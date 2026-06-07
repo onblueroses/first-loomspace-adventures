@@ -1,0 +1,19 @@
+ They are:
+
+A goblin from the mines, carrying a heavy load of ore. They are exhausted and need help carrying the ore back to the clan's storage area.
+
+The goblin asks for assistance and offers to share some of the ore with you in return for your help. Do you:
+
+1. Agree to help the goblin carry the ore.
+2. Decline politely, explaining that you have urgent business to attend to.
+3. Offer to buy some of the ore from the goblin instead of helping to carry it. Castrovel
+
+You agree to help the goblin carry the ore. As you assist the goblin, they tell you about the harsh working conditions in the mines and the constant pressure from the hobgoblin overseers.
+
+The goblin is grateful for your help and offers you a share of the ore as promised. Additionally, they tell you about a hidden tunnel they discovered that leads to a secluded area where they and some other goblins go to rest and escape the harsh treatment of the overseers.
+
+Do you:
+
+1. Accept the ore and thank the goblin for the information about the hidden tunnel.
+2. Accept the ore but decline to learn more about the hidden tunnel, not wanting to get involved in the goblins' affairs.
+3

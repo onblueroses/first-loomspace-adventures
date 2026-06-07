@@ -1,0 +1,11 @@
+The passage you've shared provides a solid overview of the fundamentals of plate tectonic theory. To build upon it, here are some key additional points and clarifications that often follow in a more detailed explanation:
+
+### **Driving Forces & Mechanisms**
+While convection in the mantle is a primary driver, the exact mechanisms are complex and involve additional forces:
+*   **Ridge Push (Sliding Force):** At mid-ocean ridges, the new, elevated lithosphere slides down the sloping ridge due to gravity.
+*   **Slab Pull:** This is considered the dominant force. At subduction zones, the sinking of the cold, dense oceanic plate pulls the rest of the plate behind it.
+*   **Trench Suction:** The flow of the asthenosphere into the space left by a subducting slab can drag plates toward the trench.
+
+### **Types of Crust & Their Fates**
+*   **Oceanic Crust:** Thin (~5-10 km), dense (basaltic), and young (never older than ~200 million years as it is constantly recycled).
+*   **Continental Crust:** Thick (~20-70 km), less dense (granitic), and can be billions of years old. Because it is buoyant, it is

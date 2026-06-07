@@ -1,0 +1,7 @@
+ "The height of the cone is $10\sqrt{2}$ cm, and the radius of the base is $10$ cm. The cone is divided into two parts by a plane parallel to the base, $8$ cm from the base. Find the ratio of the volumes of the two parts."
+
+Can someone please explain why the height of the smaller cone is $2\sqrt{2}$ cm? I don't know how they derived that.
+
+Answer: The height of the smaller cone is $10\sqrt{2} - 8$ cm (since the height of the entire cone is $10\sqrt{2}$ cm and the smaller cone's height is 8 cm less than that).  Now, $10\sqrt{2} - 8 = 10\sqrt{2} - 8\frac{\sqrt{2}}{\sqrt{2}} = 10\sqrt{2} - 4\sqrt{2} = 6\sqrt{2}$ cm.
+
+Now, the radius of the smaller cone is 4 cm (which is $\frac{2}{5}$ of the radius of the entire cone, since the height of the smaller cone is $\frac{2}{5}$ of the height of the

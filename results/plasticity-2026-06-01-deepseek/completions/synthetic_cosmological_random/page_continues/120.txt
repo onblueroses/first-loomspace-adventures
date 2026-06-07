@@ -1,0 +1,16 @@
+Based on the text provided, here is a summary of the key concepts regarding river ecosystems:
+
+### **Core Definition**
+A **river (lotic) ecosystem** is defined by the unidirectional flow of water, which shapes its biological community and transports materials downstream. This contrasts with still-water (lentic) ecosystems like lakes.
+
+### **Key Determining Factors**
+The character of a river is set by:
+*   **Catchment area:** The land that drains into it.
+*   **Climate & Geology:** Of the region.
+*   **Channel Gradient:** The slope from source to mouth.
+
+### **Longitudinal Zonation (Changes from Source to Mouth)**
+| **Zone** | **Physical Conditions** | **Biological Community** | **Energy/Food Base** |
+| :--- | :--- | :--- | :--- |
+| **Headwaters (Upper Reaches)** | Cold, fast, oxygen-rich; rocky/gravel substrate. | Insect larvae (cling to surfaces); cold-water predators (e.g., trout). | **Allochthonous:** Primarily external organic matter (leaf litter, wood). |
+| **Middle & Lower Reaches** | Warmer, slower; substrate shifts to sand/silt. | Larger fish (herb

@@ -1,0 +1,14 @@
+ (roll 1d20)
+
+1. A small, glowing orb that floats in the center of the room and emits a soft, pulsing light.
+2. A swirling vortex of mist that gradually takes the form of a ghostly figure.
+3. A shimmering, translucent curtain that descends from the ceiling and covers one of the walls.
+4. A low, haunting melody that seems to emanate from the very stones of the room.
+5. A sudden gust of wind that extinguishes all light sources, plunging the room into darkness for a moment.
+6. A shower of sparks that spirals down from the ceiling and dissipates upon reaching the floor.
+7. A deep, resonant hum that vibrates through the room and can be felt in the bones.
+8. A series of glowing, arcane symbols that appear on the floor and slowly rotate around the room.
+9. A faint, ethereal whisper that seems to come from all directions at once, speaking in an unknown language.
+10. A sudden drop in temperature, causing the breath of those present to become visible in the air.
+11. A gentle, rhythmic tapping sound that seems to come from the walls, as if something is trying to communicate.
+12. A momentary distortion in the

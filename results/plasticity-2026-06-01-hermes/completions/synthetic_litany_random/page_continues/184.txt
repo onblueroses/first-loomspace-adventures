@@ -1,0 +1,5 @@
+ "Anglerfish occur worldwide. Some are pelagic (dwelling away from the sea floor), while others are benthic (dwelling close to the sea floor). Some live in the deep sea (e.g., Ceratiidae), while others live on the continental shelf (e.g., the frogfishes Antennariidae and the monkfish/goosefish Lophiidae). Pelagic forms are most laterally compressed, whereas the benthic forms are often extremely dorsoventrally compressed (depressed), often with large upward-pointing mouths."
+
+The next section, "Description", starts with: "Most adult female ceratioid anglerfish have a luminescent organ called the esca ("bait") at the tip of the modified dorsal fin ray (the illicium, or "fishing rod"). The organ has been hypothesized to serve the purpose of luring prey in dark, deep-sea environments, but also serves to call males' attention to the females to facilitate mating."
+
+I also saw the section "Bioluminescence", which starts with: "The source of luminescence is symbiotic bacteria that dwell in and around the esca, enclosed in a cup-shaped reflector containing crystals, probably consisting of

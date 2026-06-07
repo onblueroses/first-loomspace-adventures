@@ -1,0 +1,12 @@
+This is an excellent overview of the core concepts of plate tectonics. The information you've provided covers the foundational history, mechanics, and geological consequences of the theory.
+
+Following the logical flow of your text, here are some key additional points and clarifications that a comprehensive page would likely include:
+
+### **Driving Forces: The Engine of Plate Motion**
+While lateral density variations and mantle convection are the primary drivers, geoscientists now recognize that plate motion is driven by a combination of forces, often described as "**ridge push**" and "**slab pull**."
+
+*   **Slab Pull:** This is considered the dominant force. At convergent boundaries, the cold, dense oceanic plate sinks (subducts) into the hot, less dense mantle. The weight of this descending slab "pulls" the rest of the plate behind it.
+*   **Ridge Push:** At divergent boundaries (mid-ocean ridges), the new, hot lithosphere is elevated. Gravity causes this elevated material to slide downhill away from the ridge, "pushing" the plate.
+*   **Mantle Drag:** Convection currents in the asthenosphere can also exert frictional forces on the base of the plates, either driving or resisting their motion.
+
+### **Types of

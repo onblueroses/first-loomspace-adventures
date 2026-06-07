@@ -1,0 +1,7 @@
+ "In this case, the following may be used to define the complex number $z$ algebraically: $$z = x + yi$$ where $i$ is a square root of $-1$ (an imaginary number)."
+
+I am confused by this. It seems to be saying that an imaginary number is a square root of $-1$, but in the previous paragraph it was saying that a complex number is a square root of a negative real number. Wouldn't that make an imaginary number a type of complex number? Or are imaginary and complex numbers actually the same thing?
+
+Comment: The imaginary numbers are a subset of the complex numbers.  Every imaginary number is a complex number, but not vice versa.
+
+Comment: The first paragraph is not saying that "a complex number is a square root of a negative real number". It is saying that a complex number is a number that can be written in the form $a+bi$ where $a$ and $b$ are real numbers. Among those are the imaginary numbers - those of the form $0+bi$, or just $bi$ for short, where $b$ is real. And among those are the numbers $i\sqrt{n}$ and $-i\sqrt{n}$ where $n$

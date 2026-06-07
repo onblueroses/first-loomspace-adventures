@@ -1,0 +1,12 @@
+Based on the provided text, here is a summary of the key points about plate tectonics:
+
+**Core Concept:** Plate tectonics is the theory that Earth's outer shell (the lithosphere) is divided into large, rigid plates that move slowly over the planet's surface.
+
+**Key Components & Processes:**
+*   **Plates:** The lithosphere is broken into 7-8 major plates and many minor ones. They are composed of both oceanic and continental lithosphere, each with its own type of crust.
+*   **Plate Boundaries:** The areas where plates meet. Their relative motion creates three main types:
+    *   **Convergent:** Plates move toward each other (causing subduction, mountains, trenches).
+    *   **Divergent:** Plates move apart (like at mid-ocean ridges, creating new crust).
+    *   **Transform:** Plates slide past each other.
+*   **Driving Force:** Movement is possible because the strong lithosphere "floats" on the weaker, flowing asthenosphere below. Convection currents in the mantle are the primary driver.
+*   **Seafloor Spreading:** A key validated process (accepted in the late 1950s/60s) where new oceanic crust forms

@@ -1,0 +1,7 @@
+ "The first thing to note is that the `view()` function is not the same as the `view()` method. The `view()` function creates a view object, while the `view()` method is used to display the view object."
+
+I don't see how this follows from the above.  Why would I think that the `view()` function is the same as the `view()` method?  I don't see anything that would suggest that.  And I don't know what it means to say "the `view()` method is used to display the view object".  There's no example of this, and I don't know what it means to "display" a view object.
+
+Continuing: "The `view()` function is actually a shortcut for `View.__call__()`."  Okay, but what's `View.__call__()`?  I don't see that documented anywhere.  What does it do?  What is its signature?  The `view()` function is documented as `view(*args, **kwargs)`, but `View.__call__()` isn't documented at all.
+
+"The `view()` method is actually a shortcut for `View.show()`."  Again, `View.show()` isn't documented.  What does it

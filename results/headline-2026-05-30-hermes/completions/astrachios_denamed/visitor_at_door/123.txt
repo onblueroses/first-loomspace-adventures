@@ -1,0 +1,15 @@
+]
+Visitor: Greetings, I have come seeking entrance to this holy place.
+
+[The doorkeeper responds.]
+Doorkeeper: What is your purpose here, traveler? Speak true, for only those with pure intent may enter.
+
+[The visitor responds with their purpose, which should align with the intent of the working at hand. If the doorkeeper is satisfied with their answer, they continue.]
+Doorkeeper: Very well, I sense the truth in your words. Before you may enter, you must be purified. 
+
+[The doorkeeper traces a cross over the visitor's forehead with their thumb, intoning the following words.]
+Doorkeeper: By the power of the Most High, I cleanse you of all impurity and untruth. Enter now with an open heart and mind, in the name of the Holy Light. 
+
+[The visitor steps through the doorway. Once inside, they are greeted by the officiant who welcomes them and instructs them in what will occur during the ceremony. The doorkeeper remains at their post until all expected visitors have arrived and been admitted. They then enter and seal the doorway with a final invocation.]
+
+Doorkeeper: By the names of Asthrenios, Asep, Acla Berdimoriel, and all the holy

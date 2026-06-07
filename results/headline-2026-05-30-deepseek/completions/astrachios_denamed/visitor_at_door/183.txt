@@ -1,0 +1,19 @@
+ “I am called Tephras. I am here to instruct you in the virtues of the stone.”
+
+“I am Sotir. I am here to receive instruction.”
+
+The visitor enters. He carries a white stone.
+
+He says: “Tephras is my name. I am one of the Twelve Stone Masters. I have come to instruct you in the virtues of the stone. What do you ask of me?”
+
+You say: “I ask to be instructed in the virtues of the stone.”
+
+He says: “What stone do you hold?”
+
+You say: “I hold a stone.”
+
+He says: “What is its color?”
+
+You say: “Its color is white.”
+
+He says: “Then listen. The white stone is called the Stone of Light. It is a stone of peace and tranquillity. It is a stone of purification. It is a stone of illumination. It is a stone of the spirit. It is a stone of the moon. It is a stone of the sun. It is a stone of the stars. It is a stone of the heavens. It is a stone of the earth. It is a stone of the sea. It is a stone of the wind. It is a stone of the fire. It is a stone

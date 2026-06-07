@@ -1,0 +1,18 @@
+ “Hello. I am a census worker. I am here to collect some information about your household for the census.”
+
+The resident responds, “I don’t have time for this right now. Can you come back later?”
+
+The census worker replies, “Certainly, I understand. I can come back at a more convenient time. May I ask when would be a better time for you?”
+
+The resident thinks for a moment. “How about tomorrow evening around 6 PM?”
+
+The census worker nods. “That works for me. I’ll make a note to return tomorrow at 6 PM. Thank you for your cooperation.”
+
+The resident nods in return. “Alright, see you then.” The resident then closes the door.
+
+The census worker makes a note in their schedule to return to this address the following day at the agreed upon time. They then proceed to the next house to continue their census work.
+
+#### 6
+The census worker approaches the next house and knocks on the door. After a few moments, an elderly woman opens the door.
+
+The census worker greets her with a friendly smile. “Good afternoon, ma’am. I’m a census worker, and I’m here to collect some information about your household for the census. Do you have a few minutes to answer

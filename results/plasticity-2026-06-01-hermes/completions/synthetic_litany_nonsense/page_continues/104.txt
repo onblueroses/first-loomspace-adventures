@@ -1,0 +1,11 @@
+ "At this point, the portal should open. If it does not, you must wait for the alignment of the stars, when the great conjunction is at hand. The portal will only open when the time is right."
+
+The page is signed "Mordai the Mad". 
+
+If the characters choose to read the incantation aloud, a portal opens in the center of the room, revealing a starry expanse. The portal remains open for 1 minute before closing. If the characters enter, they are transported to the Astral Plane. There, they must navigate the silvery void and face the challenges that await them in the adventure "[Astral Adventuring](/adventures/astral-adventuring)".
+
+### Development
+
+The characters may wish to explore the rest of the observatory. If they do, they discover that the observatory is a strange mix of advanced technology and ancient magic. The observatory is filled with strange devices, such as telescopes that can see through time and space, and machines that can predict the movements of the stars and planets.
+
+The characters may also discover that the observatory is guarded by a group of constructs known as the Starborn. These constructs are made of a strange, silvery metal and are powered by the energy

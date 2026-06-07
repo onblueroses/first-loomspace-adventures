@@ -1,0 +1,16 @@
+Based on the text you've provided, here is a structured summary of the key points about plate tectonics:
+
+### **Core Theory**
+*   It is the theory that Earth's outer shell (**lithosphere**) is divided into large, rigid **tectonic plates** that have been moving for billions of years.
+*   It evolved from the earlier concept of **continental drift** and became widely accepted after the validation of **seafloor spreading** in the mid-20th century.
+
+### **Structure & Movement**
+*   The lithosphere is broken into **7-8 major plates** and many minor ones.
+*   Plates are made of both **oceanic** and **continental lithosphere**, each with its own type of crust.
+*   They move relative to each other at speeds ranging from **0 to 100 mm per year**.
+
+### **Plate Boundaries (Where Action Happens)**
+The type of boundary is defined by how the plates move relative to each other:
+1.  **Divergent:** Plates move apart (e.g., at **seafloor spreading ridges**).
+2.  **Convergent:** Plates move toward each other, often with one plate undergoing **subduction** beneath the other.
+3.  **Transform:**

@@ -1,0 +1,13 @@
+This overview effectively establishes the core principles of river ecology. The continuation of the page would likely elaborate on the following key themes, structuring them into distinct sections:
+
+### **1. Ecosystem Processes and Food Webs**
+*   **Energy Sources:** Detailed explanation of the **River Continuum Concept**, describing the shift from allochthonous (externally produced, like leaves) energy in headwaters to autochthonous (internally produced, by algae and plants) energy in mid-reaches.
+*   **Functional Feeding Groups:** In-depth look at the roles of:
+    *   **Shredders:** Break down coarse organic matter.
+    *   **Collector-Gatherers/Filterers:** Consume fine organic particles.
+    *   **Grazers/Scrapers:** Feed on algae biofilms.
+    *   **Predators:** Include insects, fish, and birds.
+
+### **2. Habitat Zones and Biological Adaptations**
+*   **Microhabitats:** Description of riffles (fast, shallow, oxygenated), pools (deep, slow), runs, and backwaters, each with distinct communities.
+*   **Adaptations:** How organisms are specially adapted to flow (streamlined shapes, holdfasts, behavioral avoidance), variable oxygen, and substrate

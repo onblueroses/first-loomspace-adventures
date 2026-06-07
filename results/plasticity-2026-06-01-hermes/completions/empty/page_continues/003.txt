@@ -1,0 +1,7 @@
+ "Each additional 4 bits of the exponent field adds one to the exponent. Thus, the binary16 format is able to represent values ranging from 6.10352 × 10−5 to 6.55040 × 10+4 with full precision." (https://en.wikipedia.org/wiki/Half-precision_floating-point_format#Exponent_encoding)
+
+The "full precision" part is referring to the fact that the precision does not change for any number in normalized range (only for denormalized numbers, very small numbers, the precision can vary). The precision is determined by the size of the mantissa.
+
+I don't think there is any "trick" to this, it's just how floating point numbers work.
+
+Answer: I know this is an old question but I had the same doubt and found the answer. The trick is that the mantissa has an implicit bit which is always 1. So, even though the mantissa has 10 bits, the precision is actually 11 bits because of this implicit bit. That's why the precision is 2^(-11) and not 2^(-10) as one would expect if you just look at the 10 bits of the mantissa.

@@ -1,0 +1,21 @@
+ It seems to be a man, but it is a form of black shadow, and it floats across the room to the north side and comes to rest in front of the door. It turns and gestures for you to follow. 
+
+Do you follow? [Y/N] ''')
+    if choice == "Y":
+        print(f'''
+You follow the shadow man to the north side of the room. He gestures at the door, and it opens with a deep rumbling sound. Beyond the door is only darkness. The shadow man gestures again, clearly wanting you to step through.
+
+Do you step through the door? [Y/N] ''')
+        if choice == "Y":
+            print(f'''
+You step through the door, and the shadow man follows behind you. The door slams shut with a resounding boom, leaving you in total darkness. You feel a cold breeze blowing from your left. The shadow man has disappeared.
+
+What do you do?
+
+1. Feel around for a wall to guide you
+2. Call out to see if anyone is there
+3. Stand still and wait ''')
+            choice = input("Enter the number of your choice: ")
+            if choice == "1":
+                print(f'''
+You cautiously feel around in the darkness and find a

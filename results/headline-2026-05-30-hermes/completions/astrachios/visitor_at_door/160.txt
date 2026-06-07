@@ -1,0 +1,20 @@
+ If the password is correct, the door opens. If not, the door remains closed and the voice says, "The way is closed to you. Speak the names and the password, or depart."
+
+The door remains closed until the password is given or the characters leave. The door is immune to damage.
+
+When the door opens, read:
+
+The door swings open, revealing a chamber of black stone. The walls are covered in glowing sigils, the floor is marked with a glowing red circle, and a glowing blue triangle is inscribed within the circle. The room is otherwise empty.
+
+The chamber is a permanent teleportation circle. Any creature that enters the circle and speaks the command word "Astrachios" is instantly teleported to area 1 of the Astral Sea, arriving in a flash of light.
+
+The sigils on the walls are glowing arcane writing. The writing is in Celestial and reads, "The path to the stars is open to those who know the way."
+
+If the characters are teleported to the Astral Sea, continue with chapter 2.
+
+## Treasure
+
+The characters can find the following treasure in this chapter:
+
+- The three spell scrolls in the vault (total value 1,875 gp)
+- The gold and silver bars in the

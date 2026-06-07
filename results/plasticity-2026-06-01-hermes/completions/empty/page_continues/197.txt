@@ -1,0 +1,9 @@
+ "For example, if a user follows the link on your site to an external site, that action is logged as originating from your website."
+
+It's not clear to me if this means that the target site's analytics will see the visit as coming from my site, or if the user's browser will report to Google that it navigated to that page from my site, or both.
+
+In the case where it's just the target site's analytics that see the visit as coming from my site, it seems like it would be trivial to work around this by just using a link shortener or something. Does that mean that if I use a link shortener, Google will not log the fact that I followed that link from my site?
+
+If it's the case that the user's browser will report to Google that it navigated to that page from my site, how does it do that? Is it just sent along with the request to the target site as the referrer? If so, then it seems like it would be trivial to just disable the referrer in my browser to prevent this tracking. Or is the browser itself sending this information to Google separately from the request to the target site?
+
+Comment: The browser sends the referrer to the target site. The target site might

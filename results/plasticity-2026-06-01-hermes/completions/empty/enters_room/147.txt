@@ -1,0 +1,11 @@
+ We also need to know the position of the moving person in the room at any point in time. Let's assume the person is moving along the diagonal of the room from the bottom left corner to the top right corner.
+
+The diagonal of a square room can be calculated using the Pythagorean theorem. If the length of the sides of the room is \( L \), then the diagonal \( D \) is given by:
+
+\[ D = L \sqrt{2} \]
+
+The position of the person at any time \( t \) can be represented by the distance \( d(t) \) they have traveled along the diagonal, where \( d(t) = v \cdot t \) and \( v \) is the speed of the person.
+
+The angle \( \theta \) that the person's position makes with the horizontal can be calculated using the tangent function, since \( \tan(\theta) = \frac{opposite}{adjacent} \). In this case, the opposite side is the vertical distance traveled, and the adjacent side is the horizontal distance traveled. Since the person is moving along the diagonal, these distances are equal, so \( \tan(\theta) = 1 \), which means \( \theta = 45^\circ \).
+
+Now

@@ -1,0 +1,23 @@
+ “The names above are those of the twenty-seven beings who, ages past, discovered the secrets of the door. They are all dead now, as are their races, but their power remains. Speak the names and you will be able to open the door. Speak them wrong, and the door will remain closed forever.”
+
+The door is a large stone door, part of a wall of a ruin that has stood for ages. The door has no keyhole or handle. On the door are twenty-seven symbols, each representing one of the names above. The symbols are in this order, from top to bottom and left to right:
+
+1. Vrokthemnar
+2. Snorth
+3. Klompronek
+4. Vronth
+5. Sneldrek
+6. Mrolthengek
+7. Klomphreth
+8. Vrendrabmar
+9. Snolthrolm
+10. Plekriskem
+11. Krendrenel
+12. Smartrekol
+13. Krelphondoth
+14. Mrolthumek
+15. Plendreol
+16. Vrendrelth
+17. Krelnumph
+18. Snelthorvak
+19. Pl

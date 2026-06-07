@@ -1,0 +1,13 @@
+ [Choose one of the following options:]
+
+1. "I am a humble servant of the dark gods. I seek entry to learn the secrets of the shadow paths, to better serve our cause."
+2. "I bring an offering of a rare and powerful artifact, which I wish to present to the Shadow Council in exchange for knowledge."
+3. "I have been sent by [insert a known dark entity or organization] to deliver an important message to the Shadow Council."
+4. "I seek sanctuary from those who would persecute me for my beliefs. I humbly request entry and protection within these hallowed halls."
+5. "I am a scholar of the arcane arts, seeking to expand my knowledge of shadow magic. I believe I can offer valuable insights in exchange for access to your libraries."
+
+The visitor must succeed on a DC 18 Charisma (Deception or Persuasion) check to convince the guardian to open the door.
+
+If the check succeeds, the stone face's eyes glow a deep crimson, and the doors swing open with a resounding boom. The guardian's voice echoes through the chamber: "Enter, servant of shadow. May the darkness guide your path."
+
+If the check fails, the stone face's eyes flare with an angry red light,

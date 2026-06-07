@@ -1,0 +1,11 @@
+This text provides a clear and concise summary of the theory of plate tectonics. It covers the core concepts, historical development, and key mechanisms. Here’s a breakdown of the main points and a likely continuation of the page:
+
+### Summary of Provided Text
+
+1.  **Definition & History:** Plate tectonics is the theory describing the large-scale motion of Earth's lithospheric plates. It evolved from the earlier idea of continental drift and was widely accepted after the validation of seafloor spreading in the mid-20th century.
+2.  **The Plates & Boundaries:** The lithosphere is broken into major and minor plates. Their interactions at boundaries are categorized as:
+    *   **Convergent:** Plates move toward each other (colliding or subducting).
+    *   **Divergent:** Plates move apart (seafloor spreading).
+    *   **Transform:** Plates slide past each other.
+    These boundaries are the primary sites for geological activity like earthquakes and volcanoes.
+3.  **Composition & Recycling:** Plates consist of oceanic lithosphere (thinner, denser) and continental lithosphere (thicker, less dense). At convergent boundaries, **subduction** recycles oceanic crust into the mantle, maintaining a roughly constant surface

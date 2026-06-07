@@ -1,0 +1,13 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+Here's a video that explains the concept and how it works, in a simple way: https://www.youtube.com/watch?v=JmC-vjQGsNc
+
+As far as I know, this is the most widely accepted theory in Earth sciences about the movements of continents and tectonic plates.
+
+However, this theory is still a work in progress and there are still many unanswered questions, specially about the forces that cause the plates to move. Here is a list of the most accepted theories:
+
+The causes of plate motion are a matter of intensive research and debate among scientists. One of the main points is that the kinematic pattern of the movement itself should be separated clearly from the possible geodynamic mechanism that is invoked as the driving force of the observed movement, as some patterns may be explained by more than one mechanism. In short, the driving forces advocated at the moment can be divided into three categories based on the relationship to the movement: mantle dynamics related, gravity related (mainly secondary forces), and Earth rotation related.
+
+### Driving forces related to mantle dynamics
+
+For a long time, the leading theory of the driving force behind tectonic plate motions envisaged large scale convection currents in the

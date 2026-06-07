@@ -1,0 +1,17 @@
+ It says, "I am a friend of the friend who is the friend of every friend of a friend."
+
+How many people could this visitor be referring to?
+
+Note: The visitor is not necessarily referring to the number of people in the world.
+
+A circle of radius \( r \) is centered at the origin. How many points on this circle have rational coordinates?
+
+A rational number is a number that can be expressed as the ratio \(\frac{a}{b}\) of two integers \(a\) and \(b\), where \(b \neq 0\).
+
+Two ants, a red ant and a black ant, start at the same point on a 1-meter stick. The red ant travels at 1 cm/s, and the black ant travels at 2 cm/s.
+
+If the red ant travels to the right and the black ant travels to the left, how long will it take for the black ant to reach the red ant?
+
+The number 2 is a primitive root modulo \( p \) if the powers \( 2^0, 2^1, 2^2, \ldots, 2^{p-2} \) modulo \( p \) are all distinct and non-zero.
+
+For example, 2 is a

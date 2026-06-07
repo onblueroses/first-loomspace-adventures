@@ -1,0 +1,7 @@
+ https://en.wikipedia.org/wiki/River_ecosystem
+
+### 3.5.1.4. Stream Ecology¶
+
+Stream ecology is the study of the interactions between living organisms and their environments in streams and other flowing waters. It encompasses the ecology of the surface waters of streams, as well as groundwater and hyporheic zone (i.e., the shallow subsurface below and beside streams) ecosystems. Stream ecology also includes the impacts that streams have on their riparian zones and floodplains, the terrestrial ecosystems that border streams, as well as the impacts that these land-based ecosystems have on streams. In this way, stream ecology is inherently interdisciplinary, involving aspects of hydrology, geomorphology, and landscape ecology, in addition to traditional ecology.
+
+Streams are unidirectional flows of water that typically originate from headwaters in upland areas of watersheds and flow downhill towards a larger body of water, such as an ocean or lake. Along the way, smaller streams (i.e., first-order streams) may join together to become larger streams (i.e., second- and third-order streams, etc.), forming a dendritic drainage network. Streams can be intermittent (i.e., flowing only during wet periods or seasons) or perennial (i.e., flowing

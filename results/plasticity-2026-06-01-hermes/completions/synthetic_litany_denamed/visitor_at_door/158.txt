@@ -1,0 +1,9 @@
+ If the visitor speaks one of the names that open the way, the door opens. If the visitor speaks none of the names that open the way, the door remains closed. The door responds to the names that open the way only if the visitor speaks in the language of the Deep Speech.
+
+If the door is opened, the door remains open for 1 minute, then closes. It cannot be opened again until 1 hour has passed, and the ritual must be repeated to open it again.
+
+When the door opens, read:
+
+The door swings open, revealing a dark, narrow passageway. The air that wafts out is cool and dry, carrying a faint scent of dust and decay.
+
+The door leads to area 1 of the Tomb of Horrors.

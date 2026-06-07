@@ -1,0 +1,5 @@
+ "In 2008, the total known adult population was 93, of which 91 were confirmed to be alive in early 2009. They are kept on two predator-free islands, Codfish (Whenua Hou) and Anchor, where they are closely monitored. Fifty-seven of the 2002 Kakapo Recovery Plan's 61 priorities have been completed."
+
+This is an example of a species where we know the exact population numbers. It is very difficult to estimate the population of any species, let alone a critically endangered one. Even with a species as well studied as the Kakapo, we can't be sure exactly how many are alive. If you wanted to know the exact number, you would have to go to the islands where they live and count them all. This would be very difficult, as they are nocturnal and live in dense forests. Even if you could count them all, you would only know the number at that moment in time. The population could change the next day if a bird died or was born.
+
+The best we can do is estimate the population based on the best available data. In the case of the Kakapo, we have a very good estimate because they are so well studied. For most species, we don't have such good

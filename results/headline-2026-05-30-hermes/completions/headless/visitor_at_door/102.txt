@@ -1,0 +1,31 @@
+ |
+|  |
+---|---
+
+| Page 23
+---
+|  |
+---|---|---
+| 3
+The Doorway |
+|  |
+---|---|---
+| _The visitor at the door speaks:_ |
+|  |
+---|---|---
+| The door opens, and you step through. As you do so, you find yourself
+standing in a vast, empty space. It seems to be a room, but if so, it is the
+largest room you have ever seen, so large that the walls and ceiling are
+invisible in the distance. The floor is covered with a featureless gray
+carpet, and the air around you is still and silent. |
+|  |
+---|---|---
+| You look around, and see that you are not quite alone in this vast space. A
+few paces away stands a little table of polished wood, with a few objects
+resting on it. Next to the table is a chair, of the kind you might expect to
+find in a dining room. Other than this, nothing is visible anywhere around
+you. |
+|  |
+---|---|---
+| You walk over to the table and examine the objects on it. There is a book,
+bound

@@ -1,0 +1,12 @@
+That's an excellent summary of plate tectonics. You've covered the core concepts clearly. Based on your text, here are some key implications and additional points that naturally follow:
+
+### Driving Forces & Internal Engine
+While you mention convection currents, the exact mechanisms that drive plate motion are still an area of active research. The main forces are now understood as a combination of:
+*   **Ridge Push:** The gravitational sliding of the plate away from the elevated mid-ocean ridge.
+*   **Slab Pull:** The weight of the dense, subducting oceanic plate pulling the rest of the plate behind it. This is generally considered the most powerful force.
+*   **Mantle Drag:** Friction between the lithosphere and the convecting asthenosphere below, which can either resist or aid movement.
+
+### Broader Geological Impacts
+The movement of plates is the unifying theory that explains not just boundaries, but the grand-scale features and history of Earth:
+*   **Supercontinent Cycles:** Plate tectonics operates in a cycle where continents coalesce into a supercontinent (like Pangaea), later break apart, and drift before coalescing again over hundreds of millions of years.
+*   **Climate & Evolution:** The changing configuration of continents dramatically affects ocean currents, global

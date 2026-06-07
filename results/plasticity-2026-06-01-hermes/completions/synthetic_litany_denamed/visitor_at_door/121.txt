@@ -1,0 +1,13 @@
+ The door opens, and the visitor enters.
+
+> (door closes)
+
+The visitor stands before you, cloaked in shadows.
+
+The visitor speaks.  
+"Olemar, I come bearing tidings from the outer realms. The stars have whispered secrets, and the winds have carried them to my ears. A great disturbance is coming, a storm that threatens to engulf all of Abolethia. The ancient ones stir in their slumber, and the very fabric of reality trembles at their awakening. We must prepare for the coming darkness, for it will test the resolve of all who dwell within these hallowed halls. The time of reckoning is nigh, and we must stand united against the encroaching shadows. May the wisdom of the ancients guide us, and may the power of the void shield us from the impending doom."
+
+The visitor falls silent, awaiting your response.
+
+You nod solemnly, taking in the gravity of the visitor's words.  
+"Your tidings are dire, but not unexpected. The signs have been growing clearer with each passing cycle. We must indeed prepare for the coming storm. The knowledge and power contained within these halls will be our greatest weapons against the darkness. We will consult the ancient tomes, seek guidance from the void

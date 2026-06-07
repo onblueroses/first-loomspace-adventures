@@ -1,0 +1,15 @@
+ "The page will refresh automatically every 10 seconds." and "The page will refresh every 10 seconds."
+
+The first phrase seems to imply that the page will refresh automatically without any user interaction, while the second phrase seems to imply that the page will refresh every 10 seconds regardless of user interaction.
+
+Which interpretation is correct?
+
+Comment: I'm not sure what distinction you're making between "automatically" and "regardless of user interaction". They both mean the same thing to me.
+
+Comment: They're both the same.  The page will refresh every 10 seconds without the user doing anything.
+
+Comment: I think they both mean the same thing. I would prefer the first one. I think the second one could be misinterpreted to mean that the page will refresh every 10 seconds, but the user has to do something to initiate that 10 second countdown.
+
+Comment: I agree that they both mean the same thing, but I would prefer the second one. I think the first one could be misinterpreted to mean that the page will refresh every 10 seconds, but only if the user doesn't interact with it.
+
+Comment: I agree with Colin. The first one seems to imply that the refreshing will happen without user interaction, whereas the second one doesn't say

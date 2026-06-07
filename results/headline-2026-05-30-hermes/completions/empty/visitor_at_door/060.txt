@@ -1,0 +1,21 @@
+ The sound is garbled, but the image shows them speaking. The door remains closed. The visitor is allowed to enter, and the door opens. The visitor enters, and the door closes behind them.
+
+#### 260
+
+The visitor at the door speaks. The sound is garbled, but the image shows them speaking. The door remains closed. The visitor is not allowed to enter, and they eventually leave.
+
+#### 261
+
+The visitor at the door speaks. The sound is garbled, but the image shows them speaking. The door opens, and the visitor enters without waiting for permission. The door closes behind them.
+
+#### 262
+
+The visitor at the door speaks. The sound is garbled, but the image shows them speaking. The door opens, revealing an empty hallway. The visitor enters and looks around, appearing confused. They eventually leave.
+
+#### 263
+
+The visitor at the door speaks. The sound is garbled, but the image shows them speaking. The door opens, and the visitor is greeted by someone inside. They have a brief conversation before the visitor leaves.
+
+#### 264
+
+The visitor at the door speaks. The sound is garbled, but the image shows them speaking. The door opens, and the visitor is greeted by someone inside

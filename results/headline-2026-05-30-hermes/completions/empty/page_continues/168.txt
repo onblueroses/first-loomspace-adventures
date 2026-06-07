@@ -1,0 +1,16 @@
+ "The `signal()` function accepts a signal number and a pointer to a signal handler function, and sets that handler to accept the given signal. Signal handlers can also be set to `SIG_IGN` to ignore a signal or `SIG_DFL` to restore the default action."
+
+The book also mentions that the signal function returns the previous signal handler for the given signal.
+
+So, I have a few questions:
+\begin{itemize}
+\item What is meant by "accepts a signal number"? Is this some sort of ID for a signal? If so, how do I determine this number?
+\item What is a signal handler function? Is this a function that is called when the signal is received?
+\item What is meant by "the previous signal handler"?
+\end{itemize}
+
+Answer: \begin{itemize}
+\item Yes, it's a numeric identifier for the signal.  For example, `SIGHUP` is 1, `SIGINT` is 2, etc.  The numeric values are defined in \begin{code}
+<signal.h>
+\end{code}; typically you just use the macro name rather than the number.
+\item Yes, it's a function that's called when the signal is received

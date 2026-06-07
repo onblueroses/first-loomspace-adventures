@@ -1,0 +1,23 @@
+ Speak its name and it shall be bound to your will.
+
+---
+
+You call forth a demon, a shadowy figure with red eyes and sharp claws. It stands before you, awaiting your command.
+
+What do you wish to bind this demon to do? Choose carefully, for demons are crafty and will exploit any loophole in their binding.
+
+---
+
+You command the demon to reveal the location of the lost treasure of King Alaric. The demon's eyes glow and it speaks in a raspy voice:
+
+"The treasure you seek lies buried beneath the ruins of the Temple of Sol Invictus in the ancient city of Ravenna. But beware, for the treasure is guarded by the restless dead who still honor their king."
+
+With this knowledge, the demon has fulfilled its binding and vanishes in a wisp of foul black smoke. You now know where to seek the treasure, but must prepare to face the undead guardians that protect it.
+
+What will you do next to prepare for this dangerous quest?
+
+---
+
+You decide to research the Temple of Sol Invictus and the undead that are said to guard King Alaric's treasure. After several days poring over ancient texts, you learn the following:
+
+The Temple of Sol Invictus was the center of worship for the sun god Sol

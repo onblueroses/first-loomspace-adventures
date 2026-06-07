@@ -1,0 +1,21 @@
+ They must answer all your questions and cannot lie. You must answer all their questions truthfully. This effect lasts until either you or the visitor at the door dismisses the spell.
+
+#### 9. The Iron Word
+*Range:* Touch  
+*Duration:* Instantaneous
+
+You touch a creature. The target must make a Charisma saving throw. On a failure, it takes 10d10 psychic damage and is stunned until the end of your next turn. On a success, it takes half as much damage and isn't stunned.
+
+#### 10. Maddening Whispers
+*Range:* 60 feet  
+*Duration:* Concentration, up to 1 minute
+
+You whisper a string of syllables that only one creature of your choice within range can hear. The target must make a Wisdom saving throw. On a failure, it is charmed by you until the spell ends or until you or your allies do anything harmful to it. The charmed target is incapacitated and has a speed of 0.
+
+On each of its turns, the target can make a Wisdom saving throw. On a success, the spell ends.
+
+#### 11. Modify Memory
+*Range:* 30 feet  
+*Duration:* Concentration, up to 1 minute
+
+You attempt

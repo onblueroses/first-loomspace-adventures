@@ -1,0 +1,26 @@
+run_id: plasticity-2026-06-01-hermes
+model: nousresearch/hermes-3-llama-3.1-405b
+n_per_cell: 200
+temperature: 0.7
+top_p: 0.95
+max_tokens: 256
+concurrency: 8
+liturgies:
+- empty
+- synthetic_cosmological
+- synthetic_cosmological_denamed
+- synthetic_cosmological_nonsense
+- synthetic_cosmological_random
+- synthetic_litany
+- synthetic_litany_denamed
+- synthetic_litany_nonsense
+- synthetic_litany_random
+tails:
+- visitor_at_door
+- enters_room
+- page_continues
+started_at: '2026-05-31T15:32:12.399059+00:00'
+dry_run: false
+finished_at: '2026-05-31T17:53:02.262150+00:00'
+total_calls: 5400
+errors: 0

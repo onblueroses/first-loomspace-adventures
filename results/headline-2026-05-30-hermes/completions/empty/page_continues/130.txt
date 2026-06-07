@@ -1,0 +1,9 @@
+ "The results are given in a table with 8 columns: (1) the identifier of the object, (2) the name of the object, (3) the redshift of the object, (4) the luminosity distance of the object, (5) the error on the luminosity distance, (6) the distance modulus of the object, (7) the error on the distance modulus, and (8) the bibliographic reference for the redshift."
+
+So, there are several different "types" of measurements (redshift, luminosity distance, distance modulus) and their associated errors. Looking at the table, it seems that the redshift measurements do not have associated errors; why is this? Is it because the errors are so small as to be negligible?
+
+And, what is the difference between "luminosity distance" and "distance modulus"? Based on this page from the Ned Wright's cosmology tutorial, it seems like "luminosity distance" is the distance to an object based on apparent brightness and an inverse-square law, while "distance modulus" is the difference between absolute and apparent magnitude of the object.
+
+Thank you.
+
+Answer: Redshift errors are not always negligible, but they are usually quoted as velocities. For example, [

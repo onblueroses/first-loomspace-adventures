@@ -1,0 +1,7 @@
+ "Since the 1970s, the structure of the atom has been refined. The electron cloud is not a random blob of negative charge. It is made up of orbitals that form a basis set for describing the possible locations of an electron. The exact number of orbitals depends on the principal quantum number, n. The number of orbitals is given by n^2. The maximum number of electrons that can be contained in a principal energy level is given by 2n^2."
+
+This seems to be mixing up orbitals and subshells. In my understanding, each energy level (denoted by principal quantum number n) contains n subshells. Each subshell contains a certain number of orbitals, with each orbital holding up to 2 electrons. The sum of all the electrons from all the subshells in an energy level is 2n^2.
+
+Is this correct? If so, is the quoted text incorrect, or is it just using the term "orbital" to mean both subshells and orbitals?
+
+• Yes, you are correct. The text is confusing and imprecise. It is using the word "orbital" to mean both "orbital" and "subshell." – Zhe Sep 

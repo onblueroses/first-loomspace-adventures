@@ -1,0 +1,22 @@
+..?
+
+1. [label=()]
+2. A beholder
+3. A dragon
+4. A lich
+5. A mind flayer
+6. A tarrasque
+
+I can feel the thoughts of those who can see me. Think your answer and I will know it.
+
+\begin{center}
+\includegraphics[width=0.8\textwidth]{images/monster.jpg}
+\end{center}
+
+The correct answer is: a tarrasque.
+
+The tarrasque is a gigantic, scaly creature with a long tail, sharp horns, and a mouth full of vicious teeth. Its eyes glow with malice, and its breath is hot and fetid. The tarrasque is known for its incredible strength, its impenetrable hide, and its insatiable appetite for destruction.
+
+In the world of Dungeons \& Dragons, the tarrasque is one of the most feared and powerful monsters. It is said to be nearly indestructible, and its rampages can level entire cities. The tarrasque is a force of nature, a living embodiment of destruction and chaos.
+
+The appearance of the tarrasque in this room is a sign of great danger. It suggests that

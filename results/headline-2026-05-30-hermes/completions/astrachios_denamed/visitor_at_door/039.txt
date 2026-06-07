@@ -1,0 +1,9 @@
+ If they have been invited by the house's owner, the door opens. If they have not been invited, or if they bear ill intent toward the owner, the door remains closed. 
+
+If the visitor attempts to force the door, the sigil glows red. If they persist, it glows brighter and brighter, and the air around the door grows hotter, until the would-be intruder is forced to turn away or be burned by the heat. 
+
+The door can be opened from the inside freely by the owner and their guests. If the owner wishes to bar the door against entry from within, they need only touch the sigil and speak the name "Sopro". The door will then not open until they speak the name again. 
+
+The sigil lasts until it is physically marred or the door is destroyed. It can be dispelled, but the caster must succeed on a DC 25 dispel check to do so. 
+
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can inscribe the sigil on one additional door for each slot level above 3rd. All doors must be within the spell's range and within sight of you. The doors must all be part of

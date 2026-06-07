@@ -1,0 +1,10 @@
+ "The first real attempt to utilize this feature in a way that was both practical and useful came in 2008 when the first Bitcoin was officially used to seal a block.... The first 50 coins were generated in the genesis block."
+
+I have a problem with this wording. It seems to suggest that the genesis block was created in 2008. But that's not the case. The genesis block was created on 3 January 2009.
+
+Is it just a typo, or am I misunderstanding the meaning?
+
+It was not created in 2008, the first block was created on 3 January 2009. This is most likely a typo in the wiki. The Bitcoin whitepaper was published in 2008, but the first block was not mined until 2009. –  Nate Eldredge Apr 27 '16 at 13:40
+It is a typo. The genesis block was created on January 3rd, 2009. –  Nick ODell Apr 27 '16 at 16:49
+Okay, I've edited the wiki to say 2009. –  Nate Eldredge Apr 27 '16 at 17:03
+Thanks for the clarification and for correcting the wiki. –  user215

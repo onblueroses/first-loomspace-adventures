@@ -1,0 +1,5 @@
+ If the visitor is a creature, it can enter the tower. If the visitor is not a creature or the visitor doesn't speak, nothing happens.
+
+This spell can't be cast again until after the next dawn. The tower lasts until it is destroyed. It can be destroyed by rare magic or by damage. Each section of the tower has AC 15 and 30 hit points per inch of thickness. It is immune to poison and psychic damage. If a section is destroyed, it leaves a gaping hole in its place.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the tower can be up to 100 feet tall. The radius of the tower's first section is 30 feet, and the radius increases by 5 feet for each additional section.

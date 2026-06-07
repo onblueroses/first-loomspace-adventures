@@ -1,0 +1,66 @@
+ What enters the room now. What enters the room now.
+
+[The Summoned One]
+
+The one who speaks is here.
+
+[The Witness]
+
+I call you to witness.
+
+[The Summoned One]
+
+The one who witnesses is here.
+
+[The Witness]
+
+I call you to speak.
+
+[The Summoned One]
+
+The one who speaks is here.
+
+[The Witness]
+
+I call you to name yourself.
+
+[The Summoned One]
+
+I am the one who is unnamed.
+
+[The Witness]
+
+I call you to name yourself in the presence of the Unsigned One.
+
+[The Summoned One]
+
+In the presence of the Unsigned One, I am the one who is unnamed.
+
+[The Witness]
+
+I call you to name yourself in the presence of the Unsigned One, or to be banished.
+
+[The Summoned One]
+
+I am the one who is unnamed, and I am the one who names.
+
+[The Witness]
+
+What name do you bear?
+
+[The Summoned One]
+
+The name I bear is the name that is unspoken.
+
+[The Witness]
+
+Speak the name that is unspoken, or be banished.
+
+[The Summoned One]
+
+The name that is unspoken is the name that speaks.
+
+[The Witness]
+
+What is the name that speaks?
+

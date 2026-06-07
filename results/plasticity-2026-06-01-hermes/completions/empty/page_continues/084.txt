@@ -1,0 +1,11 @@
+ “For example, the growth rate of the world economy was 4.8% in 2010 and 5.2% in 2011. The rate of increase in the world’s population was 1.1% in 2010 and 1.2% in 2011. This means that the per capita growth rates of the world economy for the years 2010 and 2011 were 3.7% and 4% respectively.”
+
+It then asks: “What was the average per capita growth rate of the world economy for the years 2010 and 2011?”
+
+In this case, the average per capita growth rate of the world economy for the years 2010 and 2011 would be calculated as follows:
+
+(3.7% + 4%) / 2 = 3.85%
+
+Therefore, the average per capita growth rate of the world economy for the years 2010 and 2011 was 3.85%. (Solution: 3.85) 1
+
+This problem involves calculating the average of two percentages. The per capita growth rate is found by subtracting the population growth rate from the economic growth rate for each year. The average of these two rates is then calculated by adding them

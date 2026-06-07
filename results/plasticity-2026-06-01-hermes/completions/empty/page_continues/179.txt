@@ -1,0 +1,11 @@
+ "If you see this page, it means that the site is currently unavailable due to an unexpected issue."
+
+I tried restarting the server, but the error persists. I tried looking at the error log, but it is completely empty.
+
+The last thing I did before this error appeared was add a file to the /etc/nginx/sites-enabled directory. However, I have since removed this file and the error persists.
+
+What could be causing this error and how can I debug it?
+
+Comment: Check your nginx configuration with `nginx -t`.
+
+Answer: In my case, the problem was caused by a missing curly bracket `}` in the `nginx.conf` file. After adding the missing bracket, the error was resolved.

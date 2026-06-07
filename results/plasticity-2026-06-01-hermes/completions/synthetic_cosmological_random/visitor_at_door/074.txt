@@ -1,0 +1,7 @@
+ "I'm from the U.S. Census Bureau, and I'm here to conduct the 2020 Census. The census is a count of all people living in the United States as of April 1, 2020. It's mandated by the Constitution and conducted every 10 years. The information you provide is used to determine how many representatives each state gets in Congress, and to distribute billions of dollars in federal funds to local communities. Your response is required by law, and your answers are kept confidential."
+
+In the United States, the Census Bureau conducts a census every 10 years to count the population and gather basic demographic information. The census is required by the Constitution to apportion seats in the House of Representatives among the states based on population. The data is also used to distribute federal funds, plan infrastructure, and make business decisions.
+
+The census aims to count everyone living in the U.S., regardless of citizenship status. The Census Bureau is required by law to keep individual responses confidential, and uses the data only to produce statistics. Refusing to answer the census or providing false information can result in fines.
+
+The 2020 Census asked a few simple questions, including the number of people living in the household, their names, ages, sexes, races, and relationships to

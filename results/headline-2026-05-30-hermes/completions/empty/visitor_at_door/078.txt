@@ -1,0 +1,13 @@
+ The visitor says, "Hello, I'm here to visit the resident." The resident replies, "Hello, it's nice to meet you. Please come in." The visitor enters the house and they continue their conversation. What do they talk about next? The visitor and the resident engage in small talk, discussing the weather, recent events in the neighborhood, or the purpose of the visit. The conversation may then transition to more personal topics, such as family, work, or shared interests, depending on their relationship and the reason for the visit. The dialogue could go like this:
+
+Resident: "So, what brings you to the neighborhood?"
+
+Visitor: "I was just in the area and thought I'd drop by. It's been a while since we last caught up. How have you been?"
+
+Resident: "I've been doing well, thank you. Just staying busy with work and family. How about you?"
+
+Visitor: "Same here. Work has been keeping me on my toes, but I can't complain. It's good to take a break and catch up with friends."
+
+Resident: "Absolutely. I'm glad you stopped by. Can I offer you something to drink? Coffee, tea, or maybe a cold beverage?"
+
+Visitor: "A cup

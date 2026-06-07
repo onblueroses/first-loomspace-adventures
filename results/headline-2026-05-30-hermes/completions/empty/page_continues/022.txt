@@ -1,0 +1,5 @@
+ "A little more than half of the 1,000 respondents (53%) said that they believe that there is a gender pay gap, and that it is a serious problem. Another 19% believe that there is a gender pay gap, but that it is not very serious. Only 11% said that there is no gender pay gap." That's a total of 83% who believe there is a gender pay gap.
+
+If you're looking for a percentage of people who believe there is no gender pay gap, the closest figure from the data would be the 11% who said there is no gender pay gap. However, this question was only asked to a subset of 1,000 respondents, not the full sample of 2,000. So we can't directly calculate what percentage this would be of the full sample.
+
+The key takeaway is that based on this survey data, a substantial majority of Americans (72% of the full sample) believe that men and women are not paid equally for equal work. A smaller subset, 11% of the 1,000 who were asked a follow-up question, said they do not believe a gender pay gap exists at all. But we don't have enough information to extrapolate that 11% to the

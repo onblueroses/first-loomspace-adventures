@@ -1,0 +1,11 @@
+ "A point is called a limit point of a set $A$ if every neighborhood of the point intersects the set $A$ in some point other than the point itself." It then says that a set is closed if it contains all of its limit points.
+
+What I'm struggling with is the distinction between a limit point and a boundary point. The definition of a boundary point seems to require that every neighborhood of the point contains at least one point in the set and one point not in the set. How does this differ from a limit point? Is it that a limit point only requires a neighborhood to contain a point in the set, but not necessarily one outside the set?
+
+Comment: Your last sentence is the answer to your question.
+
+Comment: Indeed, consider the interval $[0,1]$ in the standard topology of $\Bbb R$. $0.5$ is a limit point but not a boundary point.
+
+Comment: The set $\{0\}\cup[1,2]$ has $0$ as an isolated point, all points of $[1,2]$ are limit points. $0,1,2$ are boundary points.
+
+Answer: You are correct. A limit point of a set need not be a boundary point. In particular, every

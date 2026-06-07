@@ -1,0 +1,11 @@
+This detailed description of river ecosystems provides a strong foundation. To build on this, the page might logically continue by exploring one or more of the following interconnected themes:
+
+### 1. **Human Impacts and River Management**
+This is the most direct continuation, expanding on the final sentence about modifications.
+*   **Specific Threats:** Detailed discussion of dams (fragmenting habitat, altering flow and temperature), pollution (nutrient runoff causing eutrophication, industrial toxins), water abstraction (for agriculture/urban use), and invasive species.
+*   **Restoration Principles:** Introduction to concepts like **environmental flows** (mimicking natural flow regimes), riparian buffer restoration, dam removal, and re-meandering channelized streams.
+
+### 2. **Ecological Processes and Food Web Dynamics**
+Delving deeper into how energy moves and cycles within the river continuum.
+*   **The River Continuum Concept (RCC):** Explaining this foundational model that predicts how the balance of energy sources (allochthonous leaf litter vs. autochthonous algae) and functional feeding groups (shredders, collectors, grazers, predators) shifts from headwaters to large rivers.
+*   **Nutrient Spiraling:** Describing how nutrients like nitrogen and phosphorus are cycled

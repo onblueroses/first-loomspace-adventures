@@ -1,0 +1,19 @@
+ "To give an example of the error in the approximation, when \( x = 1 \), the exact value of the integral is
+
+\[ \int_0^1 e^{-t^2} \, dt = \frac{\pi}{4} \operatorname{erf}(1) \approx 0.746824132812427 \]
+
+where erf is the error function. The value of the approximation is
+
+\[ \frac{2}{3} \approx 0.666666666666667 \]"
+
+Let's see if we can improve on this.
+
+The idea is to expand the integrand in a series we can integrate term by term. The exponential function has such an expansion.
+
+\[ e^{-t^2} = 1 - t^2 + \frac{t^4}{2} - \frac{t^6}{6} + \cdots \]
+
+This is just the usual series for the exponential function, with \( -t^2 \) substituted for the usual \( x \).
+
+If we integrate this series term by term, we get a series representation for the integral.
+
+\[ \int_0^x e^{-t^2} \, dt = x - \frac{x^3}{3}

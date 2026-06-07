@@ -1,0 +1,16 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+5. Jun 15, 2015
+
+### tonyxon22
+
+Thank you for your answers. I read that the plates move because of the convective motion of the mantle, but then I read that this was disproved, so I'm not sure what to think now. Could you clarify this? I read that the plates move because of the gravitational forces, but I don't understand how this would cause the plates to move. Also, do the plates move at a constant speed or do they move irregularly? And finally, how do the plates interact with each other? Do they push each other or do they move independently?
+
+6. Jun 15, 2015
+
+### Bandersnatch
+
+The mantle convection is still considered the driving mechanism for plate tectonics. The debate is about the details of how it works. Here's a good article on the subject:
+http://www.mantleplumes.org/ConvectionCurrents2.html
+
+The gravitational forces are the ones driving the convection. The mantle material is heated by the core, and expands, becoming less dense. This causes it to rise, and when it reaches the crust it spreads to the sides

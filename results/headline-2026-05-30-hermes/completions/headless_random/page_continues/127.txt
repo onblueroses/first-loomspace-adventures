@@ -1,0 +1,11 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+#### 5.3.1.2 Seismic waves
+
+Seismic waves are waves of energy that travel through Earth's layers, and are a result of earthquakes, volcanic eruptions, magma movement, large landslides and large man-made explosions that give out low-frequency acoustic energy. Many other natural and anthropogenic sources create low-amplitude waves commonly referred to as ambient vibrations. Seismic waves are studied by geophysicists called seismologists. Seismic wave fields are recorded by a seismometer, hydrophone, or accelerometer.
+
+The propagation velocity of the waves depends on density and elasticity of the medium. Velocity tends to increase with depth and ranges from approximately 2 to 8 km/s in the Earth's crust, up to 13 km/s in the deep mantle.
+
+Earthquakes create distinct types of waves with different velocities; when reaching seismic observatories, their different travel times help scientists to locate the source of the earthquake. In geophysics the refraction or reflection of seismic waves is used for research into the structure of the Earth's interior, and man-made vibrations are often used to investigate subsurface structures.
+
+The page continues: https://en.wikipedia.org/wiki/Seismic_wave

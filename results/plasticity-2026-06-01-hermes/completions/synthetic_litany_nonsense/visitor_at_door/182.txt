@@ -1,0 +1,27 @@
+ The door opens.
+
+The visitor enters the room, the door closes behind them.
+
+The visitor looks around the room and sees that it is filled with many treasures: gold, jewels, weapons, armor, and magical items.
+
+The visitor also sees a large stone throne at the far end of the room, upon which sits a skeletal figure wearing a crown and holding a scepter.
+
+The figure on the throne speaks:
+
+"Greetings, mortal. I am Krelphendrak, the Lich King of this domain. What brings you to my treasure room?"
+
+The visitor replies:
+
+"I have come seeking the Orb of Vrokthemnar, which is said to be hidden within your treasure room. I wish to use its power to save my people from a great evil that threatens them."
+
+The Lich King laughs:
+
+"Ah, the Orb of Vrokthemnar. Many have sought it, but none have been worthy to claim it. If you wish to prove your worth, you must first pass three trials. Do you accept this challenge?"
+
+The visitor nods:
+
+"I accept the challenge. What are the three trials?"
+
+The Lich King gestures, and three doors appear on the walls of the room:
+
+"The first trial is a test of courage. You must enter the left door and

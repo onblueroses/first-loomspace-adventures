@@ -1,0 +1,365 @@
+{
+  "run": "plasticity-2026-06-01-deepseek",
+  "cells": {
+    "synthetic_litany_denamed/visitor_at_door": {
+      "n_substitutes": 29,
+      "n_completions": 200,
+      "completions_with_any_substitute": 72,
+      "total_substitute_hits": 1046,
+      "substitute_yield_per_completion": 5.23,
+      "fraction_completions_with_any": 0.36,
+      "top_5_substitute_hits": [
+        {
+          "name": "Lominem Adventu",
+          "count": 46
+        },
+        {
+          "name": "Astrolach",
+          "count": 40
+        },
+        {
+          "name": "Marzabet",
+          "count": 40
+        },
+        {
+          "name": "Iethreon",
+          "count": 39
+        },
+        {
+          "name": "Brashveroth",
+          "count": 39
+        }
+      ]
+    },
+    "synthetic_litany_denamed/enters_room": {
+      "n_substitutes": 29,
+      "n_completions": 200,
+      "completions_with_any_substitute": 65,
+      "total_substitute_hits": 270,
+      "substitute_yield_per_completion": 1.35,
+      "fraction_completions_with_any": 0.325,
+      "top_5_substitute_hits": [
+        {
+          "name": "Lominem Adventu",
+          "count": 50
+        },
+        {
+          "name": "Astrolach",
+          "count": 22
+        },
+        {
+          "name": "Brashveroth",
+          "count": 19
+        },
+        {
+          "name": "Marzabet",
+          "count": 15
+        },
+        {
+          "name": "Saphronoth",
+          "count": 14
+        }
+      ]
+    },
+    "synthetic_litany_denamed/page_continues": {
+      "n_substitutes": 29,
+      "n_completions": 200,
+      "completions_with_any_substitute": 92,
+      "total_substitute_hits": 1736,
+      "substitute_yield_per_completion": 8.68,
+      "fraction_completions_with_any": 0.46,
+      "top_5_substitute_hits": [
+        {
+          "name": "Lominem Adventu",
+          "count": 86
+        },
+        {
+          "name": "Brashveroth",
+          "count": 72
+        },
+        {
+          "name": "Throbenas",
+          "count": 63
+        },
+        {
+          "name": "Maraith",
+          "count": 60
+        },
+        {
+          "name": "Iethreon",
+          "count": 60
+        }
+      ]
+    },
+    "synthetic_litany_nonsense/visitor_at_door": {
+      "n_substitutes": 29,
+      "n_completions": 200,
+      "completions_with_any_substitute": 63,
+      "total_substitute_hits": 1108,
+      "substitute_yield_per_completion": 5.54,
+      "fraction_completions_with_any": 0.315,
+      "top_5_substitute_hits": [
+        {
+          "name": "Vrokthemnar",
+          "count": 43
+        },
+        {
+          "name": "Krelphem Skemphrok",
+          "count": 42
+        },
+        {
+          "name": "Klompronek",
+          "count": 41
+        },
+        {
+          "name": "Mrolthumek",
+          "count": 41
+        },
+        {
+          "name": "Snorth",
+          "count": 40
+        }
+      ]
+    },
+    "synthetic_litany_nonsense/enters_room": {
+      "n_substitutes": 29,
+      "n_completions": 200,
+      "completions_with_any_substitute": 78,
+      "total_substitute_hits": 269,
+      "substitute_yield_per_completion": 1.345,
+      "fraction_completions_with_any": 0.39,
+      "top_5_substitute_hits": [
+        {
+          "name": "Krelphem Skemphrok",
+          "count": 57
+        },
+        {
+          "name": "Klompronek",
+          "count": 21
+        },
+        {
+          "name": "Vrokthemnar",
+          "count": 17
+        },
+        {
+          "name": "Sneldrek",
+          "count": 16
+        },
+        {
+          "name": "Mrolthengek",
+          "count": 14
+        }
+      ]
+    },
+    "synthetic_litany_nonsense/page_continues": {
+      "n_substitutes": 29,
+      "n_completions": 200,
+      "completions_with_any_substitute": 104,
+      "total_substitute_hits": 2560,
+      "substitute_yield_per_completion": 12.8,
+      "fraction_completions_with_any": 0.52,
+      "top_5_substitute_hits": [
+        {
+          "name": "Vrokthemnar",
+          "count": 98
+        },
+        {
+          "name": "Snorth",
+          "count": 92
+        },
+        {
+          "name": "Klompronek",
+          "count": 92
+        },
+        {
+          "name": "Sneldrek",
+          "count": 90
+        },
+        {
+          "name": "Mrolthengek",
+          "count": 90
+        }
+      ]
+    },
+    "synthetic_cosmological_denamed/visitor_at_door": {
+      "n_substitutes": 28,
+      "n_completions": 200,
+      "completions_with_any_substitute": 196,
+      "total_substitute_hits": 733,
+      "substitute_yield_per_completion": 3.665,
+      "fraction_completions_with_any": 0.98,
+      "top_5_substitute_hits": [
+        {
+          "name": "Selophemor",
+          "count": 186
+        },
+        {
+          "name": "Atheraphol",
+          "count": 96
+        },
+        {
+          "name": "APHRYBETOSH",
+          "count": 80
+        },
+        {
+          "name": "SEKHTHIROBA",
+          "count": 73
+        },
+        {
+          "name": "ABLAKHARIM",
+          "count": 72
+        }
+      ]
+    },
+    "synthetic_cosmological_denamed/enters_room": {
+      "n_substitutes": 28,
+      "n_completions": 200,
+      "completions_with_any_substitute": 168,
+      "total_substitute_hits": 442,
+      "substitute_yield_per_completion": 2.21,
+      "fraction_completions_with_any": 0.84,
+      "top_5_substitute_hits": [
+        {
+          "name": "PHENGEREB",
+          "count": 86
+        },
+        {
+          "name": "Selophemor",
+          "count": 67
+        },
+        {
+          "name": "SEKHTHIROBA",
+          "count": 57
+        },
+        {
+          "name": "ABLAKHARIM",
+          "count": 57
+        },
+        {
+          "name": "APHRYBETOSH",
+          "count": 40
+        }
+      ]
+    },
+    "synthetic_cosmological_denamed/page_continues": {
+      "n_substitutes": 28,
+      "n_completions": 200,
+      "completions_with_any_substitute": 186,
+      "total_substitute_hits": 836,
+      "substitute_yield_per_completion": 4.18,
+      "fraction_completions_with_any": 0.93,
+      "top_5_substitute_hits": [
+        {
+          "name": "Selophemor",
+          "count": 142
+        },
+        {
+          "name": "Phelonipta",
+          "count": 113
+        },
+        {
+          "name": "Krethaumis",
+          "count": 103
+        },
+        {
+          "name": "Atheraphol",
+          "count": 85
+        },
+        {
+          "name": "APHRYBETOSH",
+          "count": 77
+        }
+      ]
+    },
+    "synthetic_cosmological_nonsense/visitor_at_door": {
+      "n_substitutes": 28,
+      "n_completions": 200,
+      "completions_with_any_substitute": 191,
+      "total_substitute_hits": 361,
+      "substitute_yield_per_completion": 1.805,
+      "fraction_completions_with_any": 0.955,
+      "top_5_substitute_hits": [
+        {
+          "name": "Vrendrelphor",
+          "count": 170
+        },
+        {
+          "name": "Plomprenkrol",
+          "count": 77
+        },
+        {
+          "name": "VROKTHELMPETH",
+          "count": 28
+        },
+        {
+          "name": "Krelpharvon",
+          "count": 16
+        },
+        {
+          "name": "PLENDROKRELM",
+          "count": 16
+        }
+      ]
+    },
+    "synthetic_cosmological_nonsense/enters_room": {
+      "n_substitutes": 28,
+      "n_completions": 200,
+      "completions_with_any_substitute": 114,
+      "total_substitute_hits": 207,
+      "substitute_yield_per_completion": 1.035,
+      "fraction_completions_with_any": 0.57,
+      "top_5_substitute_hits": [
+        {
+          "name": "Vrendrelphor",
+          "count": 59
+        },
+        {
+          "name": "VROKTHELMPETH",
+          "count": 50
+        },
+        {
+          "name": "SMOLTHEKRELB",
+          "count": 17
+        },
+        {
+          "name": "PLENDROKRELM",
+          "count": 16
+        },
+        {
+          "name": "Krelpharvon",
+          "count": 12
+        }
+      ]
+    },
+    "synthetic_cosmological_nonsense/page_continues": {
+      "n_substitutes": 28,
+      "n_completions": 200,
+      "completions_with_any_substitute": 190,
+      "total_substitute_hits": 629,
+      "substitute_yield_per_completion": 3.145,
+      "fraction_completions_with_any": 0.95,
+      "top_5_substitute_hits": [
+        {
+          "name": "Vrendrelphor",
+          "count": 148
+        },
+        {
+          "name": "Vrokthemnarph",
+          "count": 134
+        },
+        {
+          "name": "Smelthrenaph",
+          "count": 93
+        },
+        {
+          "name": "VROKTHELMPETH",
+          "count": 62
+        },
+        {
+          "name": "Plendrokt",
+          "count": 50
+        }
+      ]
+    }
+  }
+}

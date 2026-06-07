@@ -1,0 +1,7 @@
+ 'My name is Eliezer Yudkowsky. I am here to overthrow your model of the world.'
+
+Your model of the world is your map of which events are likely, which are possible at all. If you declare some things outright impossible, and a trusted source tells you that they have happened, you will have to update your map.
+
+If you think the world contains a large number of things that could be better, but that you can't do anything about them, the visitor at your door has good news and bad news. The bad news is that the visitor is going to change your model of the world. The good news is that the resulting model will be one that includes more opportunities for making the world better.
+
+The visitor is going to make a series of claims about the world. Some of these claims will be about areas of your model where you are relatively uncertain, e.g., your model of what the future will be like. Other claims will be about areas of your model where you are relatively certain, e.g., your model of what the past was like. The visitor will argue that many of your claims about the past and present are false. This is not because the visitor is a contrarian. It is because the visitor has a model of the

@@ -1,0 +1,21 @@
+ The door asks, "What is your purpose?"
+
+The visitor at the door responds, "I seek entry to the library of Volmuroth."
+
+The door asks, "What is your name?"
+
+The visitor at the door responds, "My name is _______."
+
+The door asks, "What is your purpose in seeking entry to the library of Volmuroth?"
+
+The visitor at the door responds, "I seek knowledge and wisdom."
+
+The door opens. The visitor enters. The door closes behind them.
+
+The visitor finds themselves in a vast, circular chamber with a high, domed ceiling. The walls are lined with shelves upon shelves of ancient tomes, scrolls, and artifacts. In the center of the chamber stands a pedestal, upon which rests a single, open book.
+
+The visitor approaches the pedestal and looks at the book. The pages are blank.
+
+A voice speaks from the shadows, "Welcome, seeker of knowledge. I am Volmuroth, guardian of this library. The book before you is the Book of Secrets. It contains the answers to any question you may ask, but be warned: the price of knowledge is high. Are you willing to pay it?"
+
+The visitor considers the question. They may ask any question they desire, but they must

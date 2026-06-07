@@ -1,0 +1,11 @@
+ "This is a very important theorem in the theory of probability and statistics because it shows that many important real-life events that people want to model can be approximately modeled using a normal distribution."
+
+This is not very important. I would argue that it is not even true. What is important is that many real-life events can be modeled with normal distributions, and that the central limit theorem provides a possible explanation for that. -- A R Rich 02:33, 14 July 2007 (UTC)
+
+I don't agree that it's not true. It is true. Many real-life events can be approximately modeled using a normal distribution. That's a fact. Michael Hardy 03:01, 14 July 2007 (UTC)
+
+Yes, but the central limit theorem is not the reason that this is true. -- A R Rich 16:42, 16 July 2007 (UTC)
+
+That's an interesting assertion. So, what is the reason? --C S (Talk) 04:21, 17 July 2007 (UTC)
+
+The reason is that many real-life events are approximately normally distributed. The normal distribution was known to be a useful model for real-life events before the central limit theorem was proved. -- A R Rich 17

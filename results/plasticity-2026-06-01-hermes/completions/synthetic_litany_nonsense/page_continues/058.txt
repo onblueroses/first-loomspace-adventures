@@ -1,0 +1,21 @@
+ "When you have spoken all these names, the way will be open to the treasure chamber of the sorcerer-king. Take what you will, but beware the curse of Grephtholm."
+
+That's all there is to the page.
+
+The door to the northeast remains closed. 
+
+What do you do?
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+[CHOOSE YOUR PATH]
+1. Try the door to the northeast
+2. Search the room for hidden treasure
+3. Read the names aloud from the page
+4. Cast a spell (if you have one)
+5. Pray to your deity for guidance (if you follow a deity)
+6. Other (please specify) * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+You decide to read the names aloud from the page. Taking a deep breath, you begin reciting the strange, guttural words:
+
+"Vrokthemnar, Snorth, Klompronek, V

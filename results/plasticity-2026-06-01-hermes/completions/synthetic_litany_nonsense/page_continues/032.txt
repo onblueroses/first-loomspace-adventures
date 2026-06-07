@@ -1,0 +1,10 @@
+ “When the stars are right, the gate shall open, and the Old Ones shall return. Then shall the faithful be rewarded and the world made pure.”
+
+The book is signed “Skemot Vraal, High Priest of Nyarlathotep.”
+
+If you want to translate the phrase into R'lyehian, you may use Google Translate. It supports R'lyehian now.
+
+• It's very difficult to determine word boundaries in a language one doesn't know. Is each string of letters a word, or are they broken up into multiple words? – Deusovi Jul 17 '16 at 1:34
+• It appears to be a phonetic language, spoken as it is spelled. – user16469 Jul 17 '16 at 1:35
+• I can't find any patterns in the text except for "Krelph" and "Vrel" being repeated, and "th" appearing very often. – user16469 Jul 17 '16 at 1:36
+• I've been trying to solve this, but I'm stumped. If it's not too much trouble, could you add a hint? – Deusovi Jul 17 '16 at 2:19

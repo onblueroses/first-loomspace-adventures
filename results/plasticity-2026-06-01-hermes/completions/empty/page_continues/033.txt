@@ -1,0 +1,13 @@
+ "The following diagram illustrates the relationship between the different layers of the Open Systems Interconnection Model (OSI Model) and the corresponding layers of the Internet Protocol Suite (TCP/IP Model)."
+
+The diagram is a two-column table, with the OSI model on the left and the TCP/IP model on the right. The OSI model has seven layers, while the TCP/IP model has four layers. The layers are matched up as follows:
+
+- OSI Layer 7 (Application) corresponds to TCP/IP Layer 4 (Application)
+- OSI Layer 6 (Presentation) corresponds to TCP/IP Layer 4 (Application)
+- OSI Layer 5 (Session) corresponds to TCP/IP Layer 4 (Application)
+- OSI Layer 4 (Transport) corresponds to TCP/IP Layer 3 (Transport)
+- OSI Layer 3 (Network) corresponds to TCP/IP Layer 2 (Internet)
+- OSI Layer 2 (Data Link) corresponds to TCP/IP Layer 1 (Link)
+- OSI Layer 1 (Physical) corresponds to TCP/IP Layer 1 (Link)
+
+The page continues: "The TCP/IP model is a simplified version of the OSI model. It combines the application, presentation, and session layers into a single application layer. The transport layer remains the same in both models

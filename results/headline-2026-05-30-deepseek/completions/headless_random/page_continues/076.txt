@@ -1,0 +1,15 @@
+You've provided a clear and accurate summary of plate tectonics. This foundational theory in geology explains the large-scale structure and dynamic processes of Earth's surface.
+
+Building on your text, here are some key elaborations and implications:
+
+### **Driving Forces: Ridge Push and Slab Pull**
+While mantle convection provides the broad engine, two more immediate forces are primarily responsible for plate motion:
+*   **Slab Pull:** At convergent boundaries, the cold, dense oceanic plate sinks (subducts) into the hot mantle. This "pulling" force is considered the dominant driver for plate motion.
+*   **Ridge Push:** At divergent boundaries (mid-ocean ridges), the newly formed lithosphere is hot and elevated. It then cools, becomes denser, and slides downhill away from the ridge, "pushing" the plate.
+
+### **Types of Plate Boundaries and Their Features**
+Your summary mentions the three boundary types. Here are their classic surface expressions:
+
+1.  **Divergent Boundaries:** Plates move *apart*.
+    *   **On Land:** Form **continental rift valleys** (e.g., East African Rift).
+    *   **In Oceans:** Create **mid-ocean ridges** (e.g., Mid-Atlantic Ridge), characterized

@@ -1,0 +1,3 @@
+ "The above example is called a "simple assignment" (the variable ends up being whatever value is on the right side). But there are also "compound assignments" like += and -=, that combine variable declaration with math operations. For example, if we had a variable called "count", we could increase its value by 1 with the statement count += 1;. Take a look at the table below to see some examples of simple and compound assignment operators."
+
+I've looked at the table, and I don't see a single example of a simple assignment operator. I only see compound assignment operators. The table doesn't include the simple assignment operator (=) mentioned in the text.

@@ -1,0 +1,11 @@
+ "When the door opens, do not hesitate, but enter at once and speak the names that open the way. And when the door opens, do not hesitate, but enter at once and speak the names that open the way."
+
+The names and instructions are repeated in an infinite loop, with each iteration of the instructions slightly changing the wording of the previous one. The final iteration reads: "And when the door opens, do not hesitate, but enter at once and speak the names that open the way. And when the door opens, do not hesitate, but enter at once and speak the names that open the way."
+
+The page ends with the words "Liminem Adventi," which translate to "The threshold of arrival" in Latin.
+
+## Behind the Scenes
+
+- The page and its contents are inspired by the works of H.P. Lovecraft, particularly the concept of ancient, eldritch knowledge that can be used to access hidden realms and cosmic secrets.
+- The names listed on the page are fictional and have no known meaning or origin, adding to the mysterious and esoteric nature of the text.
+- The repeating instructions and the slight variations in each iteration are meant to evoke a sense of madness or obsession, as if the writer of the page has become fixated on

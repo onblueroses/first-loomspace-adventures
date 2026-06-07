@@ -1,0 +1,7 @@
+This text provides a clear and systematic overview of river (lotic) ecosystems. The following section would logically continue by elaborating on the specific concepts and processes already introduced. Here is a likely continuation, structured to build upon the provided foundation:
+
+### **Key Ecological Processes and Human Impacts**
+
+**Energy Flow and Nutrient Cycling:** The text mentions the shift from allochthonous (externally derived) energy sources in headwaters to autochthonous (internally produced) energy downstream. This fundamental concept, known as the **River Continuum Concept**, describes how the physical template of the river (gradient, width, flow) structures the biological community and its function. Upstream, shredders and collectors process coarse organic matter; downstream, grazers feed on algae, and filter-feeders capture fine particles.
+
+**The Importance of Flow Regime:** The natural pattern of a river's flow—its magnitude, frequency, duration, timing, and rate of change—is the "master variable" that shapes the physical habitat and cues life cycles. Seasonal floods reconnect the channel to its floodplain, trigger fish spawning, and redistribute sediments. Low flows provide stable habitats. Alteration of this regime (e.g., by dams for flood control or hydropower) is one of the

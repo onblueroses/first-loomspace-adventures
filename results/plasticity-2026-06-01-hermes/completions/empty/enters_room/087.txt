@@ -1,0 +1,15 @@
+ A small child? A large child? A dog? A cat? A monkey? A snake? A crocodile? A lion? A giraffe? An elephant?
+
+Answer: \strong{Hint:} The answer is a \strong{small child}. You can deduce this by considering the information given in the riddle.
+
+The riddle mentions that the being:
+\begin{itemize}
+\item Enters the room (so it's capable of entering a room)
+\item Is small (so it's not a large creature)
+\item Has no legs (which eliminates most animals and humans, except for a few possibilities)
+\item Has no arms (further narrowing down the possibilities)
+\item Has no eyes (again, reducing the number of possible beings)
+\item Can still see (which is a key clue)
+\end{itemize}
+
+Given all these clues, a small child is the most fitting answer. A small child can enter a room, and while they may not have fully developed limbs or eyesight, they can still perceive their surroundings to some extent. The riddle uses a bit of wordplay and misdirection to make you think of other creatures, but a small child fits all the given criteria.

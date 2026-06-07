@@ -1,0 +1,13 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+There are some excellent animations on the web that demonstrate the various aspects of plate tectonics. One of the best is the Plate Tectonics Animation by United States Geological Survey (USGS). This is a large file (8.6 Mb) and will take a while to download, but it is well worth the wait. There is a transcript of the narration that accompanies the animation.
+
+Another excellent animation is the Paleomap Project by Christopher R. Scotese, at the University of Texas at Arlington. This animation shows the movement of the continents through time from 150 million years ago to the present. The animation is 7.3 Mb and will take a while to download, but again, it is worth the wait.
+
+## The Structure of the Earth
+
+In the discussion of plate tectonics, several layers of the Earth were mentioned. In order to discuss these layers, it is necessary to first understand some of the properties of the Earth (Figure 3.1).
+
+Figure 3.1: Layers of the Earth
+
+The Earth is almost, but not quite, spherical. Because it rotates, the Earth is slightly flattened at the poles and bulges at the equator. The

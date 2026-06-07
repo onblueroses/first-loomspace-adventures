@@ -1,0 +1,33 @@
+ "If the list of attributes is empty, the default behavior is to allow all attributes." That's why your empty `@RequestMapping` is allowing all methods.
+
+\section{Solution}
+
+To allow only `GET` and `POST` requests, you can use:
+
+\begin{code}
+@RequestMapping(method = {RequestMethod.GET, RequestMethod.POST})
+\end{code}
+
+For example:
+
+\begin{code}
+@RequestMapping(value = "/path", method = {RequestMethod.GET, RequestMethod.POST})
+public String myMethod() {
+    //...
+}
+\end{code}
+
+Answer: If you want to accept only `GET` and `POST` requests, you can use the following:
+
+\begin{code}
+@RequestMapping(method = {RequestMethod.GET, RequestMethod.POST})
+\end{code}
+
+Answer: You can use the following code in your controller to allow only GET and POST requests.
+
+\begin{code}
+@RequestMapping(value = "/path", method = {RequestMethod.GET, RequestMethod.POST})
+public String myMethod() {
+    //...
+}
+\end{code}

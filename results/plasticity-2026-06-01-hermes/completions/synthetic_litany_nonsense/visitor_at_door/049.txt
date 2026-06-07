@@ -1,0 +1,17 @@
+ "I am [name]. I have come to pay my respects to the Mummy Queen."
+
+The door opens. The visitor steps into the antechamber.
+
+## 11. Antechamber
+
+The antechamber is a long, narrow room with high ceilings. The walls are adorned with intricate hieroglyphs and paintings depicting the life and reign of the Mummy Queen. At the far end of the room, a large stone door stands closed, flanked by two imposing statues of Anubis, the god of the dead.
+
+The visitor approaches the door and speaks the second set of names:
+
+Vroklep, Klemphendrak, Snolthar, Smelthrenak, Krelphendoth, Vrolthemnar, Snolphondreth, Krelphem, Skemphrok, Vrendrelth, Krelnumph, Snelthorvak, Plendoth, Krelphendrek, Smolthemroth, Vroklep, Klemphendrak, Snolthar, Smelthrenak, Krelphendoth, Vrolthemnar.
+
+The stone door slowly grinds open, revealing the burial chamber beyond.
+
+## 12. Burial Chamber
+
+The burial

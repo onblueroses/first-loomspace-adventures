@@ -1,0 +1,21 @@
+ 
+
+[Two men enter, carrying a large crate between them. They set it down on the floor and exit.]
+
+What do you wish to do?
+
+[I approach the crate and open it, revealing its contents.]
+
+Within the crate, you find a collection of ancient tomes and scrolls, their pages yellowed and brittle with age. The writing upon them is in a language you do not recognize, but the diagrams and illustrations suggest they contain powerful arcane knowledge.
+
+What do you wish to do?
+
+[I carefully remove the tomes and scrolls from the crate, handling them with great care. I then spend some time examining them, trying to decipher their contents and understand their significance.]
+
+As you pore over the ancient texts, you begin to notice recurring symbols and patterns. With time and focused study, you start to unravel the meaning behind some of the writings. The tomes appear to detail forgotten rituals and incantations, while the scrolls contain maps and instructions for locating hidden places of power.
+
+What do you wish to do?
+
+[I continue studying the texts, focusing on the rituals and incantations, trying to commit them to memory. I also make a mental note of the maps and locations, planning to investigate them further when I have the chance.]
+
+You dedicate yourself to memorizing the rituals

@@ -1,0 +1,28 @@
+ But I'm not sure how to set it up for it to work. I tried putting the "item" in the room description, but it just displays the item when I enter the room. I want the item to be added to the room's inventory when I enter the room.
+
+Here is the code I have for the room:
+
+``````<room name="room">
+<description><![CDATA[You are in a room. <item>]]></description>
+<exits>
+<north to="hallway"/>
+</exits>
+</room>
+``````
+
+And here is the code I have for the item:
+
+``````<item name="item">
+<description>a mysterious item</description>
+</item>
+``````
+
+I'm not sure how to make the item be added to the room's inventory when the player enters the room. I would appreciate any help or guidance on how to achieve this. Thank you!
+
+You can add an `onEnter` script to the room that adds the item to the room's inventory when the player enters. Here's how you could modify your room definition:
+
+``````<room name="room">
+<description>You are in a room.</description>
+<exits>
+<north to="hallway"/>
+</

@@ -1,0 +1,12 @@
+ "The key reason for this difference in performance is that the first version uses a temporary array to store the results of the recursive calls, while the second version uses a single result array to store the results. This means that the second version avoids the overhead of creating and destroying temporary arrays, which can be significant when dealing with large inputs."
+
+However, I don't understand how the first version is creating temporary arrays? From what I can tell, it is directly appending the results of the recursive calls to the result array, just like the second version. The only difference I see is that the second version is using a helper function to keep track of the current index in the result array.
+
+Can someone please explain to me how the first version is creating temporary arrays and why it is less efficient than the second version?
+
+Answer: The first version is creating temporary arrays because of the use of the spread operator (`...`) in the recursive calls. When you use the spread operator, it creates a new array by spreading the elements of the previous array. This means that for each recursive call, a new array is created to store the results.
+
+Let's look at the recursive calls in the first version:
+
+\begin{code}
+return [...preorderTraversal(root.left), root.val,...preorder

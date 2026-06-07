@@ -1,0 +1,19 @@
+ "The default is to use the 'compress' command to create compressed archives."
+
+So, you could try running `compress` on the file, and then using `cpio -i` to read the compressed cpio archive.
+
+If you don't have the `compress` command, you could try using `gzip` instead, although I'm not sure if `gzip` compression is compatible with the format `compress` uses.
+
+Comment: As of GNU cpio 2.11, it doesn't understand `gzip` compression. You can implement it manually with something like `cat my.cpio.gz | gunzip | cpio -t` to list the files in a gzipped cpio file.
+
+Answer: `cpio -i` should work. The `-i` option is used to extract the contents of a cpio archive. Here is an example:
+
+\begin{code}
+# List the archive contents
+cpio -it < archive.cpio
+
+# Extract the contents
+cpio -i < archive.cpio
+\end{code}
+
+Comment: When I do `cpio -t < my.cpio`, I get `cpio: warning: cannot read header: truncated header`.  When I do `cpio -i < my.c

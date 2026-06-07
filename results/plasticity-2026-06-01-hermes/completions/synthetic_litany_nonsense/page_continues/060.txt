@@ -1,0 +1,5 @@
+ "These names and the knowledge they bring will open the way. Use them wisely and only when you must."
+
+The spell opens a portal to the Plane of Shadow within a nearby object or at a nearby location. The portal is only large enough for a single Medium creature to pass through at a time. A creature that enters the portal appears in a corresponding location on the Plane of Shadow, up to 5 miles from the point of origin on that plane. The portal remains open for 1 minute, after which it disappears. If a creature is halfway through the portal when it closes, the creature is shunted to the nearest safe location on the Plane of Shadow, taking 2d6 psychic damage in the process.
+
+You can use this spell to banish an unwilling creature to the Plane of Shadow. Choose a creature within 10 feet of the portal and make a melee spell attack against it. On a hit, the creature must make a Charisma saving throw. If the creature fails its save, it's pushed through the portal to a random location on the Plane of Shadow, where it remains for 1d4 rounds. At the end of this time, the unwilling creature reappears within 5 feet of the portal or in the nearest unoccupied space if that

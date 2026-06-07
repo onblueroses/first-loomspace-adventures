@@ -1,0 +1,19 @@
+ "I was told that this was the home of the great hero Darius."
+
+Darius: "I am Darius. What business do you have with me?"
+
+Visitor: "My name is Cyrus. I come seeking your aid in a matter of great importance."
+
+Darius: "I see. Well, come in Cyrus. Let us discuss this matter further."
+
+Cyrus enters the home and the two sit down to talk.
+
+Cyrus: "Darius, I have heard many tales of your bravery and skill in battle. I come to you now in my time of need."
+
+Darius: "What troubles you, Cyrus? Speak freely."
+
+Cyrus: "My village is under attack by a fierce band of marauders. They raid our homes, steal our livestock, and threaten our very lives. We are simple farmers and craftsmen. We have no skill in combat. I fear that without help, we will not survive the next attack."
+
+Darius: "I understand your plight, Cyrus. It is a terrible thing to live in fear for your life and the lives of those you love. But I must ask, what do you expect of me? I am but one man."
+
+Cyrus: "You are more than just a man

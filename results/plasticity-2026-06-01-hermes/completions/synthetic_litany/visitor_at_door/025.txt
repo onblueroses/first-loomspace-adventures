@@ -1,0 +1,15 @@
+ They say, "I have traveled far, and I am weary. May I enter and rest a while?"
+
+"Enter, traveler, and be welcome. Let no harm come to you beneath my roof."
+
+The visitor steps inside. They are tall and slender, with dark hair and piercing blue eyes. They wear a long, dark cloak with the hood pulled up.
+
+"I thank you for your kindness, stranger. I am called Elara. I have journeyed long through dark and dangerous lands to reach this place."
+
+"Elara, you are most welcome here. I am called [PC name]. This is my home, a sanctuary from the perils outside. Please, warm yourself by the fire and rest. You must be hungry - I have some hot stew and fresh bread, if you would like some."
+
+Elara smiles and nods. "You are very kind. I would like that very much." She sits by the fire and gratefully accepts a bowl of steaming stew and a chunk of bread. 
+
+As she eats, she looks around the room, taking in the cozy furnishings, the flickering candles, the shelves of books and strange artifacts. Her eyes linger on you curiously.
+
+"You have a fascinating home, [PC name]. There is magic here,

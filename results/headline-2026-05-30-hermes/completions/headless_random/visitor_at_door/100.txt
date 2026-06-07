@@ -1,0 +1,11 @@
+ "We are the Tectonic Plates. We move and shape the Earth's surface. And we are here to stay. Do you have any questions for us?"
+
+The Earth's lithosphere is divided into tectonic plates, which are large slabs of solid rock that float on the semi-fluid asthenosphere below. These plates are constantly moving and interacting with each other, causing various geological phenomena such as earthquakes, volcanic eruptions, and the formation of mountains and oceanic trenches.
+
+The movement of tectonic plates is driven by forces originating from the Earth's mantle, such as convection currents and mantle plumes. Convection currents are caused by the heat from the Earth's core, which causes the mantle material to rise, cool, and sink back down in a continuous cycle. This motion drags the overlying tectonic plates along with it.
+
+There are three main types of plate boundaries:
+
+1. Divergent boundaries: These occur where two plates move away from each other. As the plates separate, magma rises from the mantle to fill the gap, creating new oceanic crust. An example of this is the Mid-Atlantic Ridge.
+
+2. Convergent boundaries: These occur where two plates move towards each other. When an oceanic plate coll

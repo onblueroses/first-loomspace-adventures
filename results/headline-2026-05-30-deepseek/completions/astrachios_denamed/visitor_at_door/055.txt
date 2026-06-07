@@ -1,0 +1,35 @@
+ She says: ‘I am the one who stands before the door. Open for me.’
+
+You say: ‘Who are you? Where do you come from?’
+
+The visitor answers: ‘I come from the place of eternal light.’
+
+You say: ‘What is the name of the place of eternal light?’
+
+The visitor answers: ‘The name of the place of eternal light is the place of the living. My name is Elohim.’
+
+You say: ‘Where do you go?’
+
+The visitor answers: ‘I go to the place of the dead.’
+
+You say: ‘What is the name of the place of the dead?’
+
+The visitor answers: ‘The name of the place of the dead is the place of those who are no more. My name is Elohim.’
+
+You say: ‘What do you seek?’
+
+The visitor answers: ‘I seek the eternal light.’
+
+You say: ‘What is the name of the eternal light?’
+
+The visitor answers: ‘The name of the eternal light is life.’
+
+You say: ‘Who are you?’
+
+The visitor answers: ‘I am the one who stands before the door.’
+
+You say: ‘Open the door.’
+
+The visitor says: ‘I cannot open the door.’
+
+You say: ‘Why can you not open the door

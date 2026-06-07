@@ -1,0 +1,11 @@
+Based on the text provided, the next part of the page would likely continue to explain the mechanisms, evidence, or geological consequences of plate tectonics in more detail.
+
+Here is a logical continuation, synthesizing standard knowledge of the subject:
+
+The driving mechanism behind plate motion is primarily mantle convection. Heat from the Earth's core and from the radioactive decay of elements in the mantle creates convection currents—slow, rolling movements of hot, buoyant rock rising and cooler, denser rock sinking. This convective flow in the ductile asthenosphere exerts a drag on the overlying rigid lithospheric plates. Two primary forces are thought to contribute directly to plate motion:
+1.  **Ridge Push (or Sliding Plate Force):** At mid-ocean ridges, the new, hot lithosphere is elevated. Gravity causes this higher material to slide downhill away from the ridge, pushing the plate.
+2.  **Slab Pull:** At convergent boundaries, the cold, dense oceanic plate sinks into the mantle (subduction). The weight of this descending slab pulls the rest of the plate behind it. Slab pull is generally considered the most significant single force driving plate motions.
+
+**Evidence for Plate Tectonics**
+The theory is supported by a robust convergence of evidence:
+*   **

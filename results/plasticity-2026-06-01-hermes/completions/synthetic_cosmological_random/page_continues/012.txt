@@ -1,0 +1,23 @@
+ 
+
+- River ecosystem
+
+---
+
+![River ecosystem](https://upload.wikimedia.org/wikipedia/commons/2/24/River_Continuum_Concept.svg)
+
+The **river continuum concept** is a model for describing the structure and function of a river ecosystem from the source to the mouth, along the gradient of increasing stream order. The model describes changes in the ecosystem along this gradient in terms of changes in the physical environment, the availability of organic matter, and the composition of the biotic community.
+
+The page continues: 
+
+- River continuum concept
+
+---
+
+The **river continuum concept** describes the changes in a river ecosystem along its course from headwaters to mouth, along the gradient of increasing stream order. The model identifies three zones, each characterized by distinct physical, chemical, and biological features.
+
+### Headwaters (1st to 3rd order streams)
+
+- Physical environment: Shallow, narrow, steep gradient, rocky substrate, swift current, cold water, high oxygen
+- Organic matter: Primary production limited by shading; allochthonous inputs (leaf litter, woody debris) dominate
+- Consumers: Shredders (e.g., stoneflies, some caddisflies) break down coarse particulate organic matter (CPOM); collectors (e.g.,

@@ -1,0 +1,9 @@
+ "The two main things that make a USB device a USB device are the USB plug and the USB controller. When a device is plugged into a USB port, the USB controller in the device communicates with the USB controller in the host computer to make the connection. The device then tells the computer what kind of device it is, and the computer then loads the appropriate device driver if it has one."
+
+That's a description of the process from a high level, but it doesn't get into the details of how the USB controller in the device communicates with the USB controller in the host computer, and how the device tells the computer what kind of device it is.
+
+My understanding is that when you plug a USB device into a computer, there is some kind of "handshake" process that happens. I'm curious to know how that works. What data is sent during this handshake? What protocol is used? What does the device send to the computer to identify itself and its capabilities?
+
+Also, I'm curious to know how the USB device is powered on. Is it powered on as soon as it's plugged in? Or does the host computer send some kind of signal to tell it to power on?
+
+I'm asking this question because I'm curious to know how USB devices work at a

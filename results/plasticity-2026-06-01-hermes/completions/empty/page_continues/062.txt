@@ -1,0 +1,11 @@
+ "Of course, if the number of particles is very large, we may approximate $N!$ by Stirling's formula $N! \approx N^N e^{-N}\sqrt{2\pi N}$."
+
+I have no issue with the derivation of this result. But I'm confused about why we can approximate $N!$ by $N^N e^{-N}\sqrt{2\pi N}$ in the case that $N$ is very large.
+
+For example, if $N = 10^{23}$, then, using Stirling's approximation above, my calculator returns a value of $\sim 10^{1022}$, whereas if I plug $(10^{23})!$ directly into my calculator, I get a value of $\sim 10^{25}$. Clearly these two results do not approximate each other.
+
+Where is my misunderstanding?
+
+Comment: The approximation is not good for the "bare" factorial, but it is usually good when one has to evaluate the factorial of a number that depends on $N$ too. For instance, the approximation is good for $N!/(N-k)!$.
+
+Comment: Your calculator is wrong. No calculator can handle the calculation of $(10^{23})!$ directly, as it

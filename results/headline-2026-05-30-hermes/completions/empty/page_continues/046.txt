@@ -1,0 +1,7 @@
+ "The first term in the formula is the Gaussian function. The second term is the parabolic cylinder function, which is the product of the Gaussian function and the Hermite polynomial. The third term is the normalization constant."
+
+From this, it seems to me that the parabolic cylinder function is not actually the product of the Gaussian and the Hermite polynomial, but rather the Gaussian times the Hermite polynomial times the normalization constant. Is this correct?
+
+Answer: No, that is not correct. The product of a Gaussian and a Hermite polynomial is called a Hermite function, which is a different thing from a parabolic cylinder function (though the two are related, as the Hermite functions can be obtained by taking a certain limit of parabolic cylinder functions).
+
+The parabolic cylinder function is the second term, $D_\nu(z)$, and the normalization constant is the third term, $\frac{1}{\sqrt{2^n n!}}\left(\frac{m\omega}{\pi\hbar}\right)^{1/4}$.

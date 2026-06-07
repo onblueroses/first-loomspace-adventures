@@ -1,0 +1,11 @@
+Thank you for that concise and clear overview of plate tectonics. It covers the key points well. Building on your summary, here are some additional important aspects and implications of the theory:
+
+### Key Drivers and Mechanisms
+*   **Mantle Convection:** While a primary driver, the exact relationship between mantle convection cells and plate motion is complex. Plates are not simply passive riders on convection currents; their own weight and gravity (through **slab pull** at subduction zones and **ridge push** at spreading centers) are now considered the dominant forces moving the plates.
+*   **The Asthenosphere:** This ductile, partially molten layer of the upper mantle (below the rigid lithosphere) acts as a lubricating zone, allowing the plates to slide and move.
+
+### Types of Plate Boundaries (Expanded)
+Your summary mentions the three main types. Their primary features are:
+1.  **Divergent Boundaries:** Plates move apart (e.g., Mid-Atlantic Ridge). This creates new oceanic crust, rift valleys, and shallow-focus earthquakes.
+2.  **Convergent Boundaries:** Plates move toward each other. There are three subtypes:
+    *   **Oceanic-Continental:** Denser oceanic plate subducts under the continental

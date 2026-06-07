@@ -1,0 +1,24 @@
+ It is a voice you know, but it seems to come from far away. You hear it say: 
+
+"Friend, I come to offer you the gift of the second sight. To look beyond the veil of the world and see the spirits that move beneath the skin of reality. If you wish to accept this gift, open the door."
+
+What do you do? 
+
+[[1a-c|Open the door]]
+[[1a-d|Refuse the gift]]
+
+
+---
+### 1a-c
+The door opens. The figure on the other side is familiar, but changed. They are surrounded by a halo of shifting colors, and their eyes seem to see through you. They hold out a hand, and in it is a small, clear crystal. They say:
+
+"This is the Eye of the Oracle. Hold it to your forehead, and you will see the true shape of the world."
+
+What do you do?
+
+[[1a-c-a|Accept the crystal]]
+[[1a-c-b|Refuse the crystal]]
+
+---
+### 1a-c-a
+You take the crystal and press it to your forehead. There is a flash of light, and suddenly the world shifts. You can see the currents of magic flowing through the air, the spirits that inhabit every

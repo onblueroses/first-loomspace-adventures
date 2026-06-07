@@ -1,0 +1,12 @@
+You've provided a detailed and accurate summary of plate tectonics. To continue the page in a way that builds upon what you've already covered, here are some common topics that typically follow in educational or explanatory texts:
+
+### **Driving Forces and Mechanisms**
+While convection currents in the mantle are a primary driver, the complete mechanism is a combination of forces:
+*   **Ridge Push (Sliding Plate Force):** At mid-ocean ridges, the new, hot lithosphere is elevated. Gravity causes it to slide downhill away from the ridge, pushing the plate.
+*   **Slab Pull:** This is often considered the most significant force. At subduction zones, the sinking of the cold, dense oceanic plate into the mantle pulls the rest of the plate behind it.
+*   **Mantle Drag:** The friction between the moving asthenosphere and the overlying lithosphere can either drive or resist plate motion, depending on the direction of flow.
+
+### **Evidence Supporting Plate Tectonics**
+The theory is supported by a convergence of evidence from multiple fields:
+*   **Paleomagnetism:** The symmetric "stripes" of magnetic polarity recorded in oceanic crust on either side of mid-ocean ridges provide a record of seafloor spreading.
+*   **Ge

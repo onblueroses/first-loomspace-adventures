@@ -1,0 +1,5 @@
+ "On the other hand, the \em{relative} error in the approximation of $f'(x)$ gets \em{worse} as $h$ approaches zero. The error in the numerator is approximately $\epsilon_f$, the error in the function evaluation, and for the finite difference approximation to be valid, this error must be smaller than $f'(x)h$. But as $h$ approaches zero, this will cease to be true, and the relative error in the approximation of $f'(x)$ approaches $\epsilon_f/(\epsilon_f + f'(x)h)$, which for $h < \sqrt{\epsilon_f}$ is approximately $1$. (Here I am assuming that $f'(x)$ is of order unity.)"
+
+I don't understand this part. Why is the error in the numerator approximately $\epsilon_f$? And why must this be smaller than $f'(x)h$ for the finite difference approximation to be valid? Also, why does the relative error approach $\epsilon_f/(\epsilon_f + f'(x)h)$ as $h$ approaches zero?
+
+Answer: Suppose that $f$ is twice continuously differentiable. The error in the numerator is actually $2 \epsilon_f$, because you need two

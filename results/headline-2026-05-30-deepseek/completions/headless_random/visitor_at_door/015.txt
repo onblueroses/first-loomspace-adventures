@@ -1,0 +1,5 @@
+[The visitor, a middle-aged person in practical outdoor attire, knocks lightly on the open doorframe of the geology lab. They hold a well-worn notebook.]
+
+"Excuse me," they begin, their voice carrying a mix of curiosity and hesitation. "I was reading the display in the hall about the museum's rock collection, and it kept mentioning 'tectonic settings.' I think I understand the basics—the plates moving, continents drifting—from a documentary I saw. But what I can't quite picture is... the *engine*. If these plates are so enormous and the rock is solid, what force is actually powerful enough to shuffle them around, year after year, for billions of years? Is it the heat from the Earth's core pushing them, or is the mantle pulling them down at those trenches, or... something else entirely?"
+
+They glance down at their notebook, which has a crude, hand-drawn sketch of a cross-section of the Earth with wobbly arrows. "The display said something about convection, like a pot of soup boiling, but soup is liquid. The mantle is rock. How does solid rock 'flow'?"

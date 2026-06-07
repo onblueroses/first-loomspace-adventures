@@ -1,0 +1,9 @@
+This detailed description of river ecosystems provides an excellent foundation. The page would logically continue by expanding on several key concepts introduced, likely covering the following topics in greater depth:
+
+### 1. **Key Ecological Concepts & Processes**
+*   **River Continuum Concept:** This would be a central model explaining how the physical variables (gradient, width, flow) change predictably from source to mouth, and how the biological community (e.g., the shift from reliance on allochthonous/outside leaf litter to autochthonous/in-stream algal production) adapts along this gradient.
+*   **Nutrient Spiraling:** Explaining how nutrients like nitrogen and phosphorus are cycled. In a flowing system, they are taken up by organisms, released, and transported downstream before being taken up again, creating a "spiral" rather than a closed loop.
+*   **Food Web Dynamics:** A more detailed breakdown of trophic levels—from decomposers and shredders (processing coarse organic matter) to grazers (on algae), collectors (filtering fine particles), and predators (fish, birds).
+
+### 2. **Human Impacts & Alterations**
+*   **Dams and Impoundments:** How they disrupt the natural flow regime, sediment transport, and temperature,

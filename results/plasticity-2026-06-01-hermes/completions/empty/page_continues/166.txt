@@ -1,0 +1,13 @@
+ "A Dirichlet distribution is the conjugate prior of a multinomial in the same sense as the Gamma distribution is the conjugate prior of a Poisson distribution."
+
+I understand the relationship between the Gamma and the Poisson, and the sense in which the Gamma is the conjugate prior of the Poisson.
+
+I do not understand the relationship between the Dirichlet and the Multinomial, and the sense in which the Dirichlet is the conjugate prior of the Multinomial.
+
+Could you please elaborate and explain?
+
+Answer: The conjugate prior of a family of distributions is a family of distributions for the parameter such that given any member of the conjugate prior family as prior and any member of the family of distributions for the data, the posterior is also a member of the conjugate prior family.
+
+In the case of the Dirichlet and the multinomial, it means that if the prior for the multinomial parameters is Dirichlet, and some data are drawn from a multinomial with those parameters, the posterior distribution is also Dirichlet.  It doesn't matter what the specific parameters of the Dirichlet and multinomial are.
+
+The proof of this is just to write out the density for the prior and the likelihood and multiply them together.

@@ -1,0 +1,17 @@
+The true path is spoken by the names that begin with **Vrokthemnar** and end with **Krelphem Skemphrok**.  
+Between them, only the following names share a common pattern of alternating starting letters **V**, **S**, **K**, **V**, **S**, **K**, etc., until the final two:
+
+Vrokthemnar (V)  
+Snorth (S)  
+Klompronek (K)  
+Vronth (V)  
+Sneldrek (S)  
+Mrolthengek (M) — breaks the alternating V-S-K pattern here.
+
+But if we look closely, the intended sequence may instead be those that **strictly alternate V, S, K, V, S, K** without deviation, starting from Vrokthemnar and continuing until a break.  
+
+However, the riddle says: *“Speak the names that open the way”* — implying perhaps only certain names form the key.  
+
+If we take every name that starts with **V**, **S**, or **K** in order and ignore names starting with **M** or **P** until the final “Krelphem Skemphrok,” the sequence is:
+
+1.

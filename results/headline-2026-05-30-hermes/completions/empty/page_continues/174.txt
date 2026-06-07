@@ -1,0 +1,7 @@
+ "The essence of the problem is that the $E$ and $B$ fields are not independent quantities, but are actually intimately related to one another through Faraday's law of induction, one of Maxwell's equations. As the wave propagates, the $E$ and $B$ fields essentially feed off each other, with the time variation of one producing the other."
+
+I understand that a changing electric field causes a changing magnetic field and vice versa. But I don't understand how the electric and magnetic fields "feed off each other". If the electric field is changing to produce the magnetic field, then shouldn't the electric field eventually be zero? In other words, how are the electric and magnetic fields sustained so as to not be zero?
+
+Comment: "If the electric field is changing to produce the magnetic field, then shouldn't the electric field eventually be zero?" - why?  Why would you expect the electric field to decay to zero rather than, say, oscillate?
+
+Comment: I think it's because I'm under the impression that the electric field is changing to generate the magnetic field. For example, if you take an electromagnet and run a current through it, it will create a magnetic field, but you need to keep supplying the current (electric field).

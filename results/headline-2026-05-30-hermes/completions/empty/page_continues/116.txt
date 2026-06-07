@@ -1,0 +1,6 @@
+ "It is also important to note that this is not a normal distribution curve. It is an asymmetric distribution, skewed to the right. The peak of the curve is not at the 50th percentile (IQ = 100). Only about 2/3 of the population score near to or above the peak, with the other 1/3 scoring below it. The peak is at about the 60th percentile (IQ about 104)."
+
+I'm not a statistician, but that doesn't look like a normal distribution to me. How would you describe the distribution of IQ scores?
+
+• The distribution definitely is not normal. IQ is ordinal and forced into an "IQ scale" which is supposedly based on a normal distribution with a mean of 100 and a standard deviation of 15. The scores are forced to fit the distribution. As for the Central Limit Theorem, it does not apply because the conditions are not satisfied: 1) n must be large, 2) the sample must be random, and 3) the population must be normally distributed. – user83029 Oct 28 '15 at 13:21
+• @user83029 you are confusing the CLT with the law of large numbers. The CLT has no

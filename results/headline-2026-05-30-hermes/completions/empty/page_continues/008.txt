@@ -1,0 +1,17 @@
+ "If you do not see the message from the system, please contact your system administrator." That's you. So, what to do?
+
+First, we'll have to figure out what's actually going wrong. Let's try to send an email from the command line. SSH into your server and run the following command:
+
+```shell
+echo "Test message" | mail -s "Test subject" your-email@example.com
+```
+
+Replace `your-email@example.com` with your actual email address. Press Enter and wait for the command to finish. If everything is set up correctly, you should receive an email with the subject "Test subject" and the content "Test message" within a few minutes.
+
+If you don't receive an email, the output of the command might give you a clue about what went wrong. If there's no useful output, you can check the mail log for error messages. Run the following command to display the last 100 lines of the log:
+
+```shell
+tail -n 100 /var/log/mail.log
+```
+
+Look for any error messages or warnings that might explain why the email wasn't sent. If you can't figure out what the problem is, you can always [contact our support](https://www.mailcoach.app/support)

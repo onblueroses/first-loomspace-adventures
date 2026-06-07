@@ -1,0 +1,10 @@
+This passage provides a clear and structured overview of river (lotic) ecosystems. It effectively breaks down the key concepts:
+
+1.  **Definition & Distinction:** It starts by defining a river ecosystem as a "flowing-water" (lotic) system, contrasting it with still-water (lentic) systems like lakes.
+
+2.  **Determining Factors:** It identifies the primary controls on a river's character: catchment area, climate, geology, and gradient.
+
+3.  **Longitudinal Profile (Source to Mouth):** This is the core of the passage, describing how the ecosystem changes along its course:
+    *   **Headwaters (Upper Reaches):** Cold, fast, high-oxygen. Food web based on **allochthonous** inputs (organic matter from outside, like leaves). Invertebrates like shredders and clingers, and predators like trout.
+    *   **Middle & Lower Reaches:** Warmer, slower, finer substrates. Food web shifts to **autochthonous** production (algae and aquatic plants). Fish communities become more diverse (herbivores, omnivores).
+    *   **Floodplains & Estuaries:** Highlights lateral connectivity (floodplains) and the terminal transition zone

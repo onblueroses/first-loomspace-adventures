@@ -1,0 +1,13 @@
+ "The names of the gates and their seals, the names of the lords and their seals, and the names of the demons and their seals, are as follows:"
+
+## The gates and their seals
+
+The manuscript continues with a series of seals, each associated with a named gate. The text gives instructions for creating each seal, with a description of the design and the names of the demons associated with it.
+
+1. The first gate is called Throbenas, and its seal is a circle with a cross inside it. The demons associated with this gate are Maraith, Queloman, and Iston.
+
+2. The second gate is called Kerudin, and its seal is a square with a triangle inside it. The demons associated with this gate are Astrolach, Volmuroth, and Drabosaim.
+
+3. The third gate is called Olemproam, and its seal is a pentagram with a circle around it. The demons associated with this gate are Cresilim, Bidremael, and Octorum.
+
+4. The fourth gate is called Saphronoth, and its seal is a hexagram with a circle around it. The demons associated with this gate are Yodulim, Iethreon, and Mar

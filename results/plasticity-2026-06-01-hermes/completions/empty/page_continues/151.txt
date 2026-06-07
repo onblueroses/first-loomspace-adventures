@@ -1,0 +1,11 @@
+ "The key to the puzzle is the fact that the Moon's orbit about the Earth is tilted relative to the Earth's orbit about the Sun. If the Moon orbited the Earth in the same plane that the Earth orbits the Sun, then every new Moon would be a solar eclipse, and every full Moon would be a lunar eclipse."
+
+That is, if the Moon orbited the Earth in the same plane that the Earth orbits the Sun, then the Moon would always be in line with the Earth and Sun, and we would have a solar eclipse at every new moon, and a lunar eclipse at every full moon.
+
+But in reality, we don't have a solar eclipse at every new moon, and we don't have a lunar eclipse at every full moon, because the Moon's orbit about the Earth is tilted relative to the Earth's orbit about the Sun.
+
+The diagram below illustrates the Moon's tilted orbit with respect to the Earth's orbit:
+
+[Diagram of Moon's tilted orbit with respect to Earth's orbit](https://i.stack.imgur.com/q3z8r.png)
+
+In the diagram, the blue plane represents the Earth's orbit around the Sun (the "ecliptic" plane), and the red plane represents the Moon's orbit around the Earth. The red

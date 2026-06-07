@@ -1,0 +1,7 @@
+ "The first hint of a relationship between the two came in 1906 when Einstein derived the famous E = mc2 equation in his special theory of relativity. This suggested that energy and mass were somehow equivalent, so adding energy to an object should make it heavier. Even Einstein found this idea unsettling and he wondered if it was true."
+
+So, we are to believe that Einstein "wondered if it was true" that adding energy to an object should make it heavier. And the page says that the idea that "adding energy to an object should make it heavier" is "unsettling."
+
+The page then says, "In 2005, a team at the Max Planck Institute for Nuclear Physics in Heidelberg, Germany, stored radioactive ions in a particle trap, allowing them to measure the change in mass when an excited ion emitted a photon. The mass difference was exactly equal to the photon's energy divided by the speed of light squared, as Einstein had predicted."
+
+But this is all wrong. The idea that adding energy to an object should make it heavier is not "unsettling" and Einstein never found it "unsettling." The idea that adding energy to an object makes it heavier is a simple consequence of the law of conservation of energy, and

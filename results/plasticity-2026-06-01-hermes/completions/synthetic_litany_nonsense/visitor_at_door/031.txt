@@ -1,0 +1,18 @@
+ The door will know if the words are true. If the words are false, the door will remain closed. If the words are true, the door will open.
+
+#### 34
+If the door opens, read the following:
+
+The door opens slowly, revealing a small room with a chest in the center. The chest is old and weathered, but it looks like it might contain something valuable.
+
+#### 35
+If the party decides to open the chest, read the following:
+
+As you open the chest, you see a bright light emanating from within. Inside the chest, you find a small, intricately crafted silver key. The key seems to pulse with a strange energy, and you can feel its power even without touching it.
+
+The key is a magical artifact that can open any locked door or container. However, using the key comes at a price. Each time the key is used, the user must make a DC 15 Constitution saving throw. On a failed save, the user takes 2d6 psychic damage as the key saps their life force to power its magic.
+
+#### 36
+If the party decides to take the key, read the following:
+
+As you reach out to take the key, you feel a sudden chill run down your spine.

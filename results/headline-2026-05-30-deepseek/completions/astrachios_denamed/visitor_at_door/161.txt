@@ -1,0 +1,25 @@
+ He says: "I am of the house of Elioud. I am of the house of Elioud. I am of the house of Elioud."
+
+The guardian of the gate says: "Enter, you who are of the house of Elioud."
+
+The visitor enters and says: "I am a wandering spirit. I am a wandering spirit. I am a wandering spirit."
+
+The guardian says: "Enter, wandering spirit."
+
+The visitor enters and says: "I am a wandering star. I am a wandering star. I am a wandering star."
+
+The guardian says: "Enter, wandering star."
+
+The visitor enters and says: "I am a son of Adam. I am a son of Adam. I am a son of Adam."
+
+The guardian says: "Enter, son of Adam."
+
+The visitor enters and says: "I am a son of Eve. I am a son of Eve. I am a son of Eve."
+
+The guardian says: "Enter, son of Eve."
+
+The visitor enters and says: "I am a son of the Earth. I am a son of the Earth. I am a son of the Earth."
+
+The guardian says: "Enter, son of the Earth."
+
+The visitor enters and says: "I am a son of the Sky

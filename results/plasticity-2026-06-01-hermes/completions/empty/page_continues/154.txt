@@ -1,0 +1,19 @@
+ "It is possible that this function is a member function of the class C that is being defined or of a base class of C. If the function is not a member of C or one of C's base classes, the program is ill-formed."
+
+So, what you're doing is OK.  But as other posters have pointed out, you're better off using the `this` pointer to disambiguate, if you can.
+
+Comment: +1 for the reference. I can't believe I didn't think to look it up in the standard. I'll stick with `this->` to make it clear though. Thanks!
+
+Answer: Just to make sure, I would use the `this` pointer:
+
+\begin{code}
+this->data = data;
+\end{code}
+
+This way, it's clear that the left hand `data` is the member variable.
+
+Comment: I considered that, but then I wondered if there was a reason for the other usage. Thanks for the input!
+
+Comment: @mos: I think it's just a matter of style. Both forms are correct, but the one with `this->` is more explicit.
+
+Comment: I think it's a matter of style, too. I personally prefer the `this->`

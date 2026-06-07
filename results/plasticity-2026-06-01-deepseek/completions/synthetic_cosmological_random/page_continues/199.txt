@@ -1,0 +1,11 @@
+This detailed description of river ecosystems provides an excellent foundation. To build on it, the page might continue by exploring several key themes:
+
+### 1. **Ecosystem Processes and the River Continuum Concept**
+The text implicitly describes the **River Continuum Concept (RCC)**, a model explaining how physical conditions and energy sources change predictably from headwaters to mouth. The continuation would likely formalize this:
+*   **Headwaters (1st-3rd order streams):** Function as **heterotrophic** systems. Respiration (R) > Gross Primary Production (GPP). They are heavily dependent on **allochthonous** inputs (organic matter from outside, like leaves).
+*   **Mid-order rivers (4th-6th order):** Become more **autotrophic**. With more light and slower flow, in-stream primary production by algae and plants (GPP > R) becomes a major energy source.
+*   **Large rivers:** May return to being **heterotrophic**, as depth limits light penetration. They rely on **fine particulate organic matter (FPOM)** transported from upstream and floodplain exchanges.
+
+### 2. **Human Impacts and Conservation**
+Building on the final paragraph, the text would likely detail specific threats and management approaches:
+*  

@@ -1,0 +1,11 @@
+ "In addition, the following are considered as part of the `L` series of releases: `LTS` releases, `M` releases (maintenance), `SE` releases (security), `BPO` releases (backports), and `U` releases (updates)."
+
+The `M`, `SE`, `BPO`, and `U` releases are all "updates" to the current release, and can be installed with the usual `apt update` and `apt upgrade` commands.
+
+The `LTS` releases are more like "new" versions of the operating system, and should be installed with the `do-release-upgrade` command.
+
+Comment: The link is broken. Also, the last line is a bit misleading. `do-release-upgrade` is not only for LTS releases, it is for upgrading to any new release (whether LTS or not), and should be used when you see a new release (whether LTS or not) available in the "Software & Updates" GUI.
+
+Comment: Thanks for the feedback. I've updated the link. I'll look into the do-release-upgrade command and update my answer.
+
+Answer: From [the release notes](https://wiki.ubuntu.com/FocalFossa/ReleaseNotes#Upgrading_from

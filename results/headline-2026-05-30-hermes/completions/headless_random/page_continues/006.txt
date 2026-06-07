@@ -1,0 +1,9 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+Question: What geological processes, other than volcanism and earthquakes, result from the movement of tectonic plates?
+
+• The formation of mountains and oceans, orogenesis, the creation of new crust, subduction of old crust, creation of trenches, faults and many more... Sep 8, 2021 at 11:33
+• I'm not sure why this was closed as "too broad". There are many well-defined geologic processes and features that are the direct result of plate tectonics. Sep 8, 2021 at 17:24
+• I'm not sure why my question was closed. There are many well-defined geologic processes and features that are the direct result of plate tectonics. It's not too broad. Sep 8, 2021 at 17:25
+• I agree with @Spencer here. The question is very specific in what it is asking for. Sep 8, 2021 at 18:55
+• @Gimelist: I agree that the question is specific in what it asks for, but it asks for a list that could be very long. The question is too broad in the sense that

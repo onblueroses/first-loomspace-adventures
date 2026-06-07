@@ -1,0 +1,48 @@
+ "The data set contains 3,023,900 ratings and 3,449 tag applications across 27,278 books. These books were interacted with by 278,858 users between March 29, 1995 and May 21, 2019."
+
+The data set contains 6 files. We will be using only 2 of them:
+
+1. books.csv
+2. ratings.csv
+
+The books.csv file contains the following columns:
+
+- book_id
+- goodreads_book_id
+- best_book_id
+- work_id
+- books_count
+- isbn
+- isbn13
+- authors
+- original_publication_year
+- original_title
+- title
+- language_code
+- average_rating
+- ratings_count
+- work_ratings_count
+- work_text_reviews_count
+- ratings_1
+- ratings_2
+- ratings_3
+- ratings_4
+- ratings_5
+- image_url
+- small_image_url
+
+The ratings.csv file contains the following columns:
+
+- book_id
+- user_id
+- rating
+
+## Loading the Data
+
+We will load the data into two separate dataframes:
+
+```python
+import pandas as pd
+
+books = pd.read_csv('books.csv')
+ratings = pd.read_csv('ratings.csv

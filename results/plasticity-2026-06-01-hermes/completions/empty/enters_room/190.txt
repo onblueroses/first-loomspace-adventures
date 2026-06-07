@@ -1,0 +1,39 @@
+ (man enters)
+
+Man: (as he enters) Hello. My name is Bill.
+
+Narrator: Bill enters the room.
+
+Woman: (to the man) Hi Bill, I'm Jenny.
+
+Narrator: Jenny introduces herself to Bill.
+
+Man: (to the woman) It's nice to meet you, Jenny.
+
+Narrator: Bill says that it's nice to meet Jenny.
+
+Woman: (to the man) Please, have a seat.
+
+Narrator: Jenny invites Bill to sit down.
+
+Man: (sits down) Thank you.
+
+Narrator: Bill sits down and thanks Jenny.
+
+Woman: (to the man) So, what brings you here today?
+
+Narrator: Jenny asks Bill what brings him here today.
+
+Man: (to the woman) I'm here for a job interview.
+
+Narrator: Bill tells Jenny that he's here for a job interview.
+
+Woman: (to the man) That's great! What position are you applying for?
+
+Narrator: Jenny expresses enthusiasm and asks what position Bill is applying for.
+
+Man: (to the woman) I'm applying for the marketing manager position.
+
+Narrator: Bill tells Jenny that he's applying for the marketing manager position.
+
+Woman: (to the man) That's a fantastic opportunity.

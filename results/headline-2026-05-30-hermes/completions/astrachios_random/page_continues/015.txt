@@ -1,0 +1,11 @@
+ "The kakapo is a large, nocturnal, flightless and possibly the world's longest-living bird." (This is the source of the "longest-living" claim.)
+
+The Wikipedia page does not say that the kakapo is the world's only nocturnal parrot, and I have not been able to verify this claim. Diurnal and Nocturnal Animals says "There are fewer nocturnal … birds than diurnal birds. Examples of nocturnal birds are owls, night herons, nighthawks, kiwis and kakapos." So if the Wikipedia article is correct that the kakapo is the only species in its genus, and every other genus of parrots contains only diurnal species, then the kakapo is the world's only nocturnal parrot. But that is a lot of ifs.
+
+The kakapo might be the world's longest-living bird, but the claim that it is the world's only nocturnal parrot seems to be either true but not mentioned by Wikipedia, or just plain false.
+
+### 2022-01-14: Disulfide bonds
+
+The Wikipedia article on disulfide bonds says:
+
+In chemistry, a disulfide bond (Br.E. disulphide bond) is a coval

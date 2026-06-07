@@ -1,0 +1,13 @@
+This passage provides an excellent foundational overview of river (lotic) ecosystems. To build upon it, here is a breakdown of the key concepts and their implications:
+
+### Core Principles Emphasized in the Text:
+1.  **Unidirectional Flow:** This is the defining feature. It creates a continuous transport system for energy, nutrients, and organisms from upstream to downstream.
+2.  **River Continuum Concept:** The text describes this classic model, where physical conditions (gradient, flow, substrate, temperature) change predictably from source to mouth, leading to corresponding shifts in biological communities and energy sources (from allochthonous leaf litter to autochthonous algae).
+3.  **Connectivity:** The health of the river depends on:
+    *   **Longitudinal:** Upstream-downstream connections (blocked by dams).
+    *   **Lateral:** River-floodplain connections (disrupted by channelization or levees).
+    *   **Vertical:** Surface water-groundwater connections.
+4.  **Abiotic Controls:** The ecosystem is fundamentally shaped by non-living factors: geology, climate, flow, and sediment.
+
+### Key Ecosystem Components & Functions:
+*   **Energy Base:** Shifts from **allochthonous** (externally produced

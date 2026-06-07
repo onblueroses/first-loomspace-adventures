@@ -1,0 +1,21 @@
+ "It is the world's only flightless parrot, the heaviest parrot, and is critically endangered." and "Adult kakapos are about 58 to 64 centimetres in length, and weigh from 0.95 to 4 kilograms at maturity."
+
+The parser will extract these two sentences as relevant information for the question.
+
+Question: How much does an adult kakapo weigh?
+
+Answer: Adult kakapos weigh from 0.95 to 4 kilograms at maturity.
+
+The parser extracts the relevant sentence "Adult kakapos are about 58 to 64 centimetres in length, and weigh from 0.95 to 4 kilograms at maturity." and provides the specific information about the weight of adult kakapos. 
+
+Question: What is the length of an adult kakapo?
+
+Answer: Adult kakapos are about 58 to 64 centimetres in length.
+
+The parser extracts the relevant sentence "Adult kakapos are about 58 to 64 centimetres in length, and weigh from 0.95 to 4 kilograms at maturity." and provides the specific information about the length of adult kakapos. 
+
+Question: Is the kakapo critically endangered?
+
+Answer: Yes, the kakapo is critically endangered.
+
+The parser extracts the relevant sentence

@@ -1,0 +1,15 @@
+ "The only way to get a substring of the form 'a*b*' from the string 'a*b*a*b*' is to take the entire string."
+
+The page explains that the language a*b* is not regular because it cannot be pumped, meaning that there is no way to divide the string 'a*b*a*b*' into three parts, xyz, such that for all i ≥ 0, the string xyiz is in the language a*b*.
+
+The page then provides a proof by contradiction to show that the language a*b* is not regular:
+
+Assume that the language a*b* is regular. Then, by the pumping lemma, there exists a pumping length p such that for any string s in the language with length at least p, s can be divided into three parts, s = xyz, satisfying the following conditions:
+
+1. |y| > 0
+2. |xy| ≤ p
+3. For all i ≥ 0, xyiz is in the language.
+
+Let s = 'a^p b^p', which is in the language a*b* and has length 2p (greater than p). By the pumping lemma, s can be divided into three parts, s = xyz, satisfying the above conditions.
+
+However, for

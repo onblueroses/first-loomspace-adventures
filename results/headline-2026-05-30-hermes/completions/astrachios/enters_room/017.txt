@@ -1,0 +1,14 @@
+..
+
+... is a figure of horror. A tall, black-robed man with a long, white beard and wild, tangled hair. His eyes are deep, black pits that seem to draw in all light. In his hand, he holds a staff topped with a skull, and around his neck hangs a chain with thirteen human finger bones. This is Scirlin, the keeper of the secrets of hell, the one who knows the entrance to all treasures.
+
+As he steps forward, the air grows cold, and shadows seem to flicker and dance around him. His voice, when he speaks, is like the scraping of metal on stone, sending shivers down your spine.
+
+"I am Scirlin," he rasps. "I know why you have summoned me. You seek the entrance to the treasures hidden in the earth. But be warned, mortal. The path is fraught with peril, and the price of failure is your soul."
+
+He pauses, his black eyes boring into yours. "Do you still wish to proceed?" [[1](#1)]
+
+---
+
+<a name="1"></a>
+1: *You steel yourself, meeting Scirlin's gaze despite the fear that grips your heart. "I do," you say firmly. "I am

@@ -1,0 +1,13 @@
+ "A number of other components are needed for a full HTML5 application, such as CSS and JavaScript."
+
+This is incorrect. CSS and JavaScript are not required for a full HTML5 application. A full HTML5 application can be created using only HTML5 markup. CSS and JavaScript are optional components that can enhance the functionality and appearance of an HTML5 application, but they are not required.
+
+To clarify:
+
+- HTML5 is the latest version of the HTML standard, and it introduces new semantic elements, attributes, and APIs that allow developers to create more dynamic and interactive web pages and applications.
+
+- CSS (Cascading Style Sheets) is a style sheet language used for describing the presentation of a document written in HTML or XML. It allows developers to separate the presentation and layout of a web page from its structure and content.
+
+- JavaScript is a programming language that allows developers to create dynamic and interactive web pages and applications. It is commonly used to manipulate the DOM (Document Object Model), handle events, and make asynchronous requests to servers.
+
+While CSS and JavaScript are commonly used in conjunction with HTML5 to create modern web applications, they are not strictly required for a web page or application to be considered a "full HTML5 application." HTML5 alone is sufficient to create a basic web page

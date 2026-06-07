@@ -1,0 +1,17 @@
+ "I am here to help you with your homework. I am a geologist and I know a lot about plate tectonics. Let's get started!"
+
+The child looks at the visitor with curiosity. "What's plate tectonics?"
+
+"Plate tectonics is the study of how the Earth's surface is made up of large plates that move and interact with each other. These plates are like giant puzzle pieces that fit together to form the Earth's crust."
+
+The child's eyes widen with interest. "How many plates are there?"
+
+"There are seven major plates and several smaller ones. The major plates are the African, Antarctic, Eurasian, Indo-Australian, North American, Pacific, and South American plates."
+
+The child thinks for a moment. "But how do these plates move?"
+
+"The plates move because of the heat and motion in the Earth's mantle, which is the layer below the crust. The mantle is made up of hot, molten rock that slowly moves and circulates, causing the plates to move along with it."
+
+The child nods, trying to understand. "What happens when the plates move?"
+
+"When the plates move, they can interact with each other in different ways. Sometimes they move apart, creating new crust. Other times they

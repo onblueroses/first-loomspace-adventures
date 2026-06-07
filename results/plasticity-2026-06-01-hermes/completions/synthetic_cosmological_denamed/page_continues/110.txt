@@ -1,0 +1,7 @@
+ "When you have finished the invocation, you will be visited by the powers of the Unsigned One, and you will command the spirits as you will. Do not take off the amulet, or the spirits will no longer obey you. In all of this, be careful not to fall into the hands of the demons, who are the enemies of the Unsigned One and who are always seeking to devour the souls of the unwary."
+
+The book then gives a series of chants to command spirits to perform various tasks. However, the chants are in the same cipher as the invocation, and you would need to decipher them before you could use them.
+
+To decrypt the cipher used in the book, you need to use a simple substitution cipher. Each letter in the cipher text is replaced by a letter with a fixed number of positions down the alphabet. For example, with a shift of 1, A would be replaced by B, B would become C, and so on.
+
+In this case, the shift used is 13 (ROT13). To decrypt the text, you need to replace each letter with the letter 13 positions before it in the alphabet. If the shift takes you past the beginning of the alphabet, wrap around to the end. For example, to decrypt the letter N

@@ -1,0 +1,18 @@
+You have provided a comprehensive overview of river ecosystems. Based on this text, here is a structured summary of the key points:
+
+### **Core Definition**
+*   A **lotic** (flowing water) ecosystem defined by the unidirectional movement of water, which shapes its biological community and transports materials.
+
+### **Key Determining Factors**
+The character of a river ecosystem is shaped by:
+1.  **Catchment area (watershed)**
+2.  **Regional climate**
+3.  **Underlying geology**
+4.  **Channel gradient**
+
+### **Longitudinal Zonation (From Source to Mouth)**
+
+| Zone | Physical Conditions | Biological Community & Energy Base |
+| :--- | :--- | :--- |
+| **Headwaters (Upper Reach)** | Cold, fast, high oxygen; bedrock/gravel substrate. | **Dominant Organisms:** Insect larvae (cling to substrates), cold-water fish (e.g., trout). <br> **Energy Base:** **Allochthonous** – Leaf litter and woody debris from bordering forests, processed by shredder invertebrates. |
+| **Middle & Lower Reaches** | Slower, warmer; substrate shifts to sand/silt; increased light. | **Dominant Organisms:** Larger fish (her

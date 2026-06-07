@@ -1,0 +1,9 @@
+ Speak to it and it will obey you."
+
+As you finish speaking the final name, a dark shadow detaches itself from the room's corner and glides forward. A pair of glowing red eyes fix upon you from the depths of a tattered black hood. The shadowy figure stands silently, awaiting your command. 
+
+The magic of the scroll has summoned a Shadow Assassin, a powerful undead servant, to do your bidding. The assassin can be commanded to perform tasks such as scouting, theft, sabotage, espionage, or assassination. It will pursue its assigned task relentlessly until completed or the assassin is destroyed.
+
+However, the Shadow Assassin's powers come at a price. Each day it remains in your service, you must make a DC 15 Charisma saving throw. On a failure, you gain one level of exhaustion as the assassin saps your life energy to sustain itself. If you reach six levels of exhaustion, you die, and the Shadow Assassin becomes a free-willed undead.
+
+You can dismiss the Shadow Assassin at any time as an action, causing it to vanish back into the shadows from whence it came. A dismissed assassin cannot be summoned again using the same scroll. The scroll crumbles to dust after one use. GMs should note that using this scroll is an evil

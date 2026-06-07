@@ -1,0 +1,21 @@
+ If they speak one of the names, the door opens. If they speak all of the names, the door opens and the stone hand on the door animates and points down the hallway to the right. The hand will remain animated for one hour before returning to normal.
+
+#### 15. Empty Room
+
+Nothing of interest here. Just an empty room. You can hear dripping water.
+
+#### 16. Empty Room
+
+Nothing of interest here. Just an empty room. You can hear dripping water.
+
+#### 17. Empty Room
+
+Nothing of interest here. Just an empty room. You can hear dripping water.
+
+#### 18. Empty Room
+
+Nothing of interest here. Just an empty room. You can hear dripping water.
+
+#### 19. Chamber of Faces
+
+This room is filled with dozens of stone faces carved into the walls. Each face is different and unique, but they all share one thing in common: their mouths are open as if screaming. A close inspection of the faces reveals that their eyes are actually small gems (100 gp each). There are 40 faces in total, meaning there are 80 gems in total. Removing a gem causes the face it was removed from to animate and scream loudly for 1d4 rounds. This alerts the ochre j

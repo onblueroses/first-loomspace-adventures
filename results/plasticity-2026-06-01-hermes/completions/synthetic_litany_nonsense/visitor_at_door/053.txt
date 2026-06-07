@@ -1,0 +1,12 @@
+ (The visitor may be a player or the GM, as appropriate.) If they speak any of the names listed above, they have the option to roll on the table below. The GM should roll 2d6 and add the number of names spoken correctly. If the result is 11 or higher, the door opens. If the result is 10 or lower, the door remains closed.
+
+| 2d6+Names | Result                                                                                                                                                 |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2-5       | The door remains closed.                                                                                                                              |
+| 6-7       | The door creaks and shudders, but does not open.                                                                                                    |
+| 8-9       | A deep, resonant voice echoes from the door, speaking in an unknown language. The door does not open.                                                 |
+| 10        | The door emits a low, ominous hum. It remains closed.                                                                                                 |
+| 11        | The door slowly swings open, revealing the chamber beyond.                                                                                          |
+| 12+       | The door opens swiftly and silently, as if welcoming the visitor who dared to speak the ancient names.                                               |
+
+If the door opens, the chamber beyond is revealed. The GM should describe what lies within

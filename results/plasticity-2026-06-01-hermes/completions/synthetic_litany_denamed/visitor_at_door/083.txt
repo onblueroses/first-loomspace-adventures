@@ -1,0 +1,7 @@
+ The door opens. The visitor enters the room. The door closes. The visitor speaks the names that close the way:
+
+Khalepith, Estramon; Brashveroth, Lominem Adventu, Trifenath, Olemar, Vesporath, Senaberoth, Glomareth, Belindath, Theamorach, Caloneph, Marzabet, Iethreon, Yodulim, Saphronoth, Octorum, Bidremael, Cresilim, Olemproam, Drabosaim, Volmuroth, Astrolach, Kerudin, Iston, Queloman, Maraith, Throbenas.
+
+The visitor leaves the room. The door closes. The visitor speaks the names that open the way:
+
+Throbenas, Maraith, Queloman, Iston, Kerudin, Astrolach, Volmuroth, Drabosaim, Olemproam, Cresilim, Bidremael, Octorum, Saphronoth, Yodulim, Iethreon, Marzabet, Caloneph, Theamorach, Belindath, Glomareth, Senaberoth, Hialop

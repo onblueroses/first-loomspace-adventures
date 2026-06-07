@@ -1,0 +1,11 @@
+ If the visitor speaks the password, the door opens and remains open for one minute. If the visitor does not speak the password, the door remains closed, and the visitor is unable to open it until the spell ends. If the visitor attempts to open the door without speaking the password, the door emits a bell-like chime, clearly audible within 60 feet of the door.
+
+The door is immune to the knock spell, and to all spells and spell-like abilities that allow a creature to magically pass through it, such as passwall or phase door. It is also immune to all attempts to teleport from one side of the door to the other. The door can be forced open with a DC 30 Strength check.
+
+If you cast this spell multiple times, you can have no more than two password doors active at the same time. If you cast this spell again while two password doors are active, you must choose one of them to end.
+
+Augment: You can augment this spell in one or more of the following ways:
+
+1. If you spend 4 additional spell points, the door can be placed on a horizontal surface, such as a floor or ceiling, or at an angle, such as on a ramp or stairway.
+
+2. If you spend 4 additional

@@ -1,0 +1,31 @@
+ 
+
+* [Say what you have come to say.] 
+
+The visitor speaks the purpose of their visit. 
+
+* [What is your name?]
+
+The visitor states their name. 
+
+* [What is your purpose here?]
+
+The visitor states their purpose again.
+
+* [What is your business with the one called [Name]?]
+
+The visitor states their business with the named individual, if any. 
+
+* [Do you come in peace and with good intent?]
+
+The visitor affirms their peaceful intentions. 
+
+* [Then enter, [Name], and be welcome. But know that if you break the peace of this place or bring harm to those within, the wrath of the Lords of the Crossing shall be upon you.]
+
+The door opens, allowing the visitor to enter. If the visitor has ill intent, they will be unable to cross the threshold.
+
+* [Be welcome, traveler, in the name of the Lords of the Crossing. May your stay be peaceful and your words true.] 
+
+The ritual is complete and the visitor may enter. If any part of the ritual is disrupted or the visitor lies, the door will not open. 
+
+This ritual, when performed correctly, ensures that only those with peaceful intentions can enter. It is a powerful ward against evil and deception

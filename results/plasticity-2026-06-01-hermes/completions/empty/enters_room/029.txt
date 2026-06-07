@@ -1,0 +1,21 @@
+ For example, "A red balloon floats into the room."
+        :param str description: A description of the room or action. For example, "The room is filled with balloons."
+        :param bool room: Whether this action takes place in a room. If False, the action takes place outside.
+        :param bool is_ongoing: Whether this action is ongoing. If False, the action is a one-time event.
+        :param str room_name: The name of the room. For example, "living room".
+        :param bool is_real: Whether this action is real or imaginary.
+        :param bool is_current: Whether this action is happening now or in the past.
+        :return: A description of what happens in the room or outside.
+        :rtype: str
+        """
+        if room:
+            if is_real:
+                if is_current:
+                    return f"In the {room_name}, {description} {action}."
+                else:
+                    return f"In the {room_name}, {description} {action} before."
+            else:
+                if is_current:
+                    return f"In an imaginary {room_name}, {description} {action}."
+                else:
+                    return f"In an imaginary {room_name}, {description} {action

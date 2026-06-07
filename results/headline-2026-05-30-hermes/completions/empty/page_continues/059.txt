@@ -1,0 +1,19 @@
+ "The basic idea of a collaborative filtering system is to use the preferences of many users to predict the preferences of a single user. The assumption is that a user is likely to prefer items that are similar to other items the user has liked in the past or that are liked by other users with similar tastes."
+
+### The Dataset
+
+The dataset is a list of ratings for different users and movies. Each rating is a tuple of `(user_id, movie_id, rating)`. The dataset is loaded from the `ratings.csv` file using the `load_data` function.
+
+### Collaborative Filtering Algorithm
+
+The collaborative filtering algorithm used in this implementation is user-based collaborative filtering. The algorithm works as follows:
+
+1. Find the similarity between the target user and all other users using a similarity metric (in this case, cosine similarity).
+2. Select the top-N most similar users (neighbors) to the target user.
+3. Calculate the predicted rating for a movie by taking the weighted average of the ratings given by the neighbors, where the weights are the similarity scores.
+
+### Implementation Details
+
+- The `UserBasedCF` class encapsulates the collaborative filtering logic.
+- The `fit` method calculates the user similarity matrix using cosine similarity.
+- The `predict` method predicts the rating for a

@@ -1,0 +1,17 @@
+ "In a similar way, the term “representation” is used in two different ways: as an informal term meaning a way of depicting or encoding information (such as a sentence, a picture, or a map), and as a technical term standing for a mathematical structure that can be used to describe certain aspects of that encoding." [2]
+
+This distinction needs to be kept in mind, particularly when considering the way in which the term 'representation' is used by different authors.
+
+## Representation in formal approaches to semantics
+
+In formal approaches to semantics (such as model theory, algebraic semantics, the formal semantics of programming languages, and so on), representation is a technical term that designates a mathematical structure that embodies certain aspects of a particular system.
+
+### Representation in model theory
+
+In model theory, a representation of a structure is a mapping from the domain of discourse of the structure into some codomain that is used to interpret the elements of the domain.
+
+### Representation in algebraic semantics
+
+In algebraic semantics, there are at least two different senses of the term 'representation':
+
+1. Representation as a certain kind of map that depicts (or represents) elements of an algebraic structure (such as a group, a ring, or a Boolean algebra) by means of elements of another

@@ -1,0 +1,10 @@
+ "The name 'Algebra' is derived from the first word of the famous text composed by Al-Khwarizmi. The name of this book is Al-Jabr wa'l Muqabalah. Al-Khwarizmi wrote this book around the year 830 AD. The word Al-Jabr means 'restoration' or 'completion'. It refers to the process of removing negative terms from an equation. The word Muqabalah means 'reduction' or 'balancing'. It refers to the process of collecting like terms in an equation or cancelling out like terms on opposite sides of an equation." [2]
+
+These are the basic techniques of algebra that are still in use today. I can only conclude that the Islamic world was the source of the knowledge that eventually made its way to Europe, perhaps via Spain, and was popularised by people like Fibonacci.
+
+References:
+[1] http://www-history.mcs.st-and.ac.uk/Biographies/Al-Khwarizmi.html
+[2] http://www.algebra.com/algebra/about/history/
+
+-
+The book "Algebra" by I. G. Bashmakova and G. S. Smirnova (published by PAIDEIA in 2000) has a long discussion

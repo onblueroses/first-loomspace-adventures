@@ -1,0 +1,17 @@
+ "I have a riddle for you."
+
+You open the door a crack. "I'm listening."
+
+The visitor speaks. "I come from a place where water flows, where life thrives and grows. Where insects dance on the surface and fish swim with purpose. Where the current shapes the land and the land shapes the current. Where the cycle of life is ever present. What am I?"
+
+You think for a moment, then answer, "A river ecosystem."
+
+The visitor nods. "Correct. May I come in?"
+
+You open the door wide. "Please do. I have many questions for you." The visitor steps inside, ready to share the secrets of the river with you. [SEP]
+What is the energetic base of the food web in headwater streams?
+
+The energetic base of the food web in headwater streams is primarily organic matter that enters the system from outside, in the form of leaf litter and woody debris falling from the bordering forest. This organic matter is then broken down by shredder invertebrates, which form the base of the food web. [SEP]
+How does the biological community change as the river widens and slows in its middle and lower reaches?
+
+As the river widens and slows in its middle and lower reaches, several

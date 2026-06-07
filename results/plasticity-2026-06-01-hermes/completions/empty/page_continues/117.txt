@@ -1,0 +1,17 @@
+ “There are two main types of lung cancer - small cell lung cancer and non-small cell lung cancer.”
+
+The statement: “There are two main types of lung cancer - small cell lung cancer and non-small cell lung cancer.” is true.
+
+The page continues: “Non-small cell lung cancer is the most common type of lung cancer. There are three common types of non-small cell lung cancer - squamous cell carcinoma, adenocarcinoma and large cell carcinoma.”
+
+The statement: “Non-small cell lung cancer is the most common type of lung cancer.” is true.
+
+The statement: “There are three common types of non-small cell lung cancer - squamous cell carcinoma, adenocarcinoma and large cell carcinoma.” is true.
+
+The page continues: “Small cell lung cancer is less common than non-small cell lung cancer. It usually spreads more quickly and is often at an advanced stage when it is diagnosed.”
+
+The statement: “Small cell lung cancer is less common than non-small cell lung cancer.” is true.
+
+The statement: “It usually spreads more quickly and is often at an advanced stage when it is diagnosed.” is true.
+
+The page continues: “Lung cancer does not usually cause symptoms in the early stages. Symptoms develop as the cancer grows and can

@@ -1,0 +1,11 @@
+This is an excellent and accurate summary of plate tectonics. It covers the key points clearly. To build upon what you've provided, here are some additional important aspects and implications of the theory:
+
+### **Driving Forces of Plate Motion**
+While convection in the mantle is the primary driver, geoscientists now understand it's a combination of forces:
+*   **Ridge Push:** At mid-ocean ridges, the new, hot lithosphere is elevated. Gravity causes this elevated material to slide downhill away from the ridge, pushing the plate.
+*   **Slab Pull:** At convergent boundaries, the cold, dense oceanic plate sinks into the mantle (subduction). The weight of this sinking slab is the most significant single force pulling the rest of the plate along.
+
+### **Types of Convergent Boundaries**
+The text mentions subduction, but there are three main types of convergent boundaries, each creating distinct geological features:
+1.  **Oceanic-Continental Convergence:** The denser oceanic plate subducts beneath the continental plate, forming a deep oceanic trench (e.g., Peru-Chile Trench) and a volcanic mountain range on the continent (e.g., the Andes).
+2.  **Oceanic-Oceanic Convergence:** One oceanic plate subducts beneath

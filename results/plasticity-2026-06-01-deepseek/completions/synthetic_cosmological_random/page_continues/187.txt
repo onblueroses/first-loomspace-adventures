@@ -1,0 +1,10 @@
+The passage you've shared provides an excellent foundation for understanding river ecosystems. The page would logically continue by expanding on the key concepts introduced, likely delving into the following areas in more detail:
+
+### 1. **The River Continuum Concept**
+   This is a core ecological model that describes the predictable changes in physical conditions and biological communities from a river's source to its mouth. The page would likely explain how the energy base shifts:
+   *   **Headwaters (1st-3rd order streams):** Heavily dependent on **allochthonous** inputs (external organic matter like leaves). The community is dominated by **shredders** (that break down coarse material) and **collectors**.
+   *   **Mid-sized rivers:** Become more open to sunlight. **Autochthonous** production (from algae and aquatic plants) becomes more important, supporting more **grazers** (that scrape algae) and **filter feeders**.
+   *   **Large rivers:** The energy base often reverts to fine particulate organic matter (FPOM) transported from upstream, favoring **collector** organisms.
+
+### 2. **Key Ecological Processes and Components**
+   *   **Nutrient Cycling:** The role of rivers in transporting and transforming nitrogen,

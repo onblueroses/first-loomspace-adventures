@@ -1,0 +1,23 @@
+ You hear the following words:
+
+"By the power of the True Names, I command you to open!"
+
+The door opens.
+
+You step through the door and it closes behind you.
+
+This room is filled with the most fabulous treasures you have ever seen. Every kind of precious stone, gold, silver, and platinum in coins, bars, and objects of art, arms and armor of the finest quality, magical items, and every other kind of treasure imaginable are here in abundance. The total value is beyond calculation.
+
+You may take as much of the treasure as you can carry in two hands. All of the magical items are self-identifying and you may choose those that seem most useful to you.
+
+The exit from this room leads back to the area from which you entered the dungeon.
+
+You have completed the Dungeon of the Mad Mage. Congratulations on your success!
+
+You return to the area from which you entered the dungeon. Your adventuring companions, if any, are waiting there for you. You are all free to go on your way.  ''')
+            break
+        elif choice == "b":
+            print('''
+You speak the names that open the way:
+
+Vrokthemnar, Snorth, Klompronek, Vronth, Sneldrek,

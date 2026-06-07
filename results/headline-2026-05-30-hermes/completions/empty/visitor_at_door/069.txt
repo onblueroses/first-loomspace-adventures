@@ -1,0 +1,23 @@
+ "I'm looking for Mr. and Mrs. Jones," she says.
+
+In the final version, the narrative voice is not specified, leaving it open to interpretation whether it is a first-person or third-person narrative. The visitor's dialogue remains unchanged.
+
+### 3. Removing or Adding Contractions
+
+Original text:
+She couldn't believe what she was hearing. It was too good to be true. "I can't thank you enough," she said, her voice trembling with emotion.
+
+Final version:
+She could not believe what she was hearing. It was too good to be true. "I cannot thank you enough," she said, her voice trembling with emotion.
+
+In the final version, the contractions "couldn't" and "can't" are expanded to "could not" and "cannot," respectively. This change can alter the tone or formality of the text.
+
+### 4. Altering Punctuation
+
+Original text:
+She paused, took a deep breath, and said, "I'm not sure if I'm ready for this."
+
+Final version:
+She paused, took a deep breath, and said, "I'm not sure if I'm ready for this".
+
+In the final version, the period at the end of the dialogue is changed to a comma.

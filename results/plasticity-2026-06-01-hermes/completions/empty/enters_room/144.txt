@@ -1,0 +1,29 @@
+ (Enter your name)"""
+    return f"What enters the room now. (Enter {name})"
+
+
+# 28. Write a function that takes in a string and returns a new string with all the vowels removed.
+def remove_vowels(string):
+    vowels = "aeiouAEIOU"
+    return "".join([char for char in string if char not in vowels])
+
+
+# 29. Write a function that takes in a list of numbers and returns the sum of all the even numbers in the list.
+def sum_even_numbers(numbers):
+    return sum([num for num in numbers if num % 2 == 0])
+
+
+# 30. Write a function that takes in a list of strings and returns a new list with all the strings that are palindromes.
+def get_palindromes(strings):
+    return [string for string in strings if string == string[::-1]]
+
+
+# 31. Write a function that takes in a string and returns the string with all the characters in reverse order.
+def reverse_string(string):
+    return string[::-1]
+
+
+# 32. Write a function that takes in a list of numbers and returns the product of all the numbers.
+def product(numbers):
+    result = 1
+    for num in numbers:

@@ -1,0 +1,6 @@
+ "To see why this is true, we must start at the beginning... The number of atoms in the observable universe is estimated to be $10^{80}$. If a supercomputer could compute $10^{15}$ operations per second, and there have been $10^{18}$ seconds since the universe began, then the number of operations that could have possibly been effected is $10^{15} \times 10^{18} = 10^{33}$, which is vanishingly small compared to $10^{80}$."
+
+I fail to see how this is an argument against the existence of a universal wavefunction. The fact that it would take a huge amount of time to calculate it (which seems to be what the author is getting at) has nothing to do with whether it exists or not. Am I missing something? Is there some other reason this is a valid argument against the universal wavefunction?
+
+• I agree with you. The number of equations that one would need to compute to know the positions of all atoms in the universe has nothing to do with the existence of a universal wave function. – Prof. Legolasov Oct 2 '15 at 5:42
+• The argument is more philosophy than physics. The wave function is a mathematical

@@ -1,0 +1,17 @@
+ "To see if a number is divisible by 7, take the last digit of the number, double it, and subtract it from the rest of the number; if the result is divisible by 7 (or is 0), then the original number is divisible by 7."
+
+So let's try this out with the number 203.
+
+First, we take the last digit of the number and double it. The last digit of 203 is 3, and doubling it gives us 6.
+
+Next, we subtract this doubled last digit from the rest of the number. The rest of the number, excluding the last digit, is 20. Subtracting 6 from 20 gives us 14.
+
+Now, we check if the result is divisible by 7. 14 is indeed divisible by 7 (since 14 ÷ 7 = 2).
+
+Therefore, according to the divisibility rule, the original number 203 is divisible by 7.
+
+### 3. Why does this work?
+
+The reason this divisibility rule works is based on the fact that 7 is a prime number and that multiplying by 10 (which is essentially what happens when you move the last digit to the front) does not affect divisibility by 7.
+
+When

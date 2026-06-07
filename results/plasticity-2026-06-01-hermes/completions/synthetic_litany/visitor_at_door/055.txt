@@ -1,0 +1,17 @@
+ The door opens. The visitor enters the room, and the door closes behind him. He must not look back. The room is lit by a single flame, and the flame is held in the hand of the Archon.
+
+The visitor speaks:
+
+"I have come to seek wisdom, to seek the path that leads to the heart of the mysteries, to the knowledge of the divine fire that ignites the stars and the secrets hidden in the depths of the earth."
+
+The Archon replies:
+
+"Many have come before you, seeking the same. Few have found what they sought. The path is fraught with perils, and the price of knowledge is often high. Are you prepared to pay this price?"
+
+The visitor must answer truthfully, for the Archon will know if he lies.
+
+If the visitor answers that he is prepared, the Archon will continue:
+
+"Then listen well, for I will speak of the path and its perils, and of the rewards that await those who persevere.
+
+The path begins in darkness, for the first step is to confront the shadow within oneself. This is the shadow of fear, of doubt, of all that holds you back from your true potential. You must face this shadow and embrace it, for it is a part of you,

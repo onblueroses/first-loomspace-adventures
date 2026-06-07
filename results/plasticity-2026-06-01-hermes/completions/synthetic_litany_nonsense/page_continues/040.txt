@@ -1,0 +1,11 @@
+ “The reader may find the names on the list to be somewhat difficult to pronounce, but practice and concentration will eventually yield the proper results. If the reader is unable to pronounce the names correctly, he may be eaten by a grue.”
+
+If you want to learn more about the Zork games, you can read the source code for the original games on the Internet Archive. The manual for Zork I is also available.
+
+# The Great Mouse Plot
+
+Here’s an amusing story from Roald Dahl’s memoir Boy, about an incident that happened when he was at school:
+
+The masters’ rooms at Repton were scattered along the whole length of the building and to save time they did not go to the dining-room for their meals but had them brought to them on trays by the school waiters. Some of these waiters were very old indeed. They had been at the school when my father was there and that was back in the dark ages. One old waiter in particular, who was so small he was almost a midget, had been there for so long that he was now an important part of the school. He was called A. R. Wharton and it was he who brought the food to our housemaster, Mr. S. S.
+
+On Mr.

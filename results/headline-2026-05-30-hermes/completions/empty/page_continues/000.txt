@@ -1,0 +1,5 @@
+ "It is of great importance to realize that the formula for a line in 2 dimensions is not unique. The vector equation \( \mathbf{r}=\mathbf{a}+\lambda \mathbf{d} \) is not unique because if you take a different point on the line to be \( \mathbf{a} \) or a different direction vector \( \mathbf{d} \) you get a different equation of the same straight line. [...] Similarly, the Cartesian equation \( ax+by=c \) is not unique. We can multiply the equation by any constant and it will still represent the same straight line."
+
+This is a clear explanation of the non-uniqueness of the representation of a straight line. I'm curious if this explanation is common in geometry texts and classes, or if this particular aspect of the representation of straight lines is often glossed over. I ask because I recently had a disagreement with someone about the uniqueness of the representation of lines, and it made me wonder how well this topic is covered in geometry classes.
+
+Comment: I don't know how common this is, but if you don't make the uniqueness issue clear, the notion of a line (and, later, of a plane) will almost surely create

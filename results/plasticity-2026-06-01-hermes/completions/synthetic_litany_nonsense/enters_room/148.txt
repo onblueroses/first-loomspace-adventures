@@ -1,0 +1,7 @@
+ [Referee: Describe the creature that emerges from the Gate.]
+
+The creature will remain until dismissed or until the duration of the spell expires. It cannot leave the room. It can be commanded to return to its home plane. If the caster is slain or leaves the room, the creature will be free to act as it sees fit. If the caster does not command the creature, it will act according to its nature. The caster can attempt to command the creature, but it may resist commands that go against its nature or that would cause it harm.
+
+The caster can attempt to banish the creature by speaking its name and commanding it to return to its home plane. The creature will resist this attempt, and the caster must succeed in a contest of wills to force it to obey. If the caster fails, the creature will remain and may become hostile. If the caster succeeds, the creature will depart and the gate will close.
+
+The caster can also attempt to bind the creature to their service by speaking its name and commanding it to obey. The creature will resist this attempt, and the caster must succeed in a contest of wills to force it to submit. If the caster fails, the creature will remain and may become hostile. If the caster succeeds, the creature will serve the

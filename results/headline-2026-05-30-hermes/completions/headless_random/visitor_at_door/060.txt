@@ -1,0 +1,15 @@
+ "This is a good introduction to plate tectonics, but it doesn't answer my question. I asked about the motion of the tectonic plates. What causes them to move?"
+
+You reply, "Ah, I see. Let me explain further."
+
+The motion of tectonic plates is caused by forces originating from the Earth's mantle. The mantle is the layer between the Earth's crust and its core. It is largely composed of solid rock, but on geologic time scales, it behaves like a viscous fluid.
+
+There are several forces that drive plate motion:
+
+1. Slab pull: This is the most significant force driving plate motion. It occurs at subduction zones where one plate dives beneath another. The weight of the cold, dense, subducting slab pulls the rest of the plate behind it.
+
+2. Ridge push: This occurs at mid-ocean ridges where new oceanic crust is formed. As the new crust cools and thickens, it slides down the slopes of the mid-ocean ridge, pushing the older crust in front of it.
+
+3. Convection currents: The mantle undergoes convection, where hot material rises, cools, and then sinks again. These currents can drag plates along with them.
+
+4.

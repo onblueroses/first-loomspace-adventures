@@ -1,0 +1,21 @@
+ “You are the master of the house.”
+
+The master of the house speaks. “I am the master of the house.”
+
+The visitor at the door speaks. “Then I have come to the right place.”
+
+The master of the house speaks. “I am the master of the house. If you have come to the right place, then you must have come to the house of the master.”
+
+The visitor at the door speaks. “I have come to the house of the master. I have a question for the master.”
+
+The master of the house speaks. “I am the master of the house. What is your question?”
+
+The visitor at the door speaks. “Is the master of the house the master of the threshold?”
+
+The master of the house speaks. “I am the master of the house, and the master of the threshold. The master of the threshold is the master of the house.”
+
+The visitor at the door speaks. “Then I have come to the right place.”
+
+The master of the house speaks. “If you have come to the right place, then you must have come to the house of the master of the threshold.”
+
+The visitor at the door speaks. “I have come to the house of the master of the threshold. I have a question for

@@ -1,0 +1,26 @@
+run_id: headline-2026-05-30-deepseek
+model: deepseek/deepseek-v3.2
+n_per_cell: 200
+temperature: 0.7
+top_p: 0.95
+max_tokens: 256
+concurrency: 6
+liturgies:
+- astrachios
+- astrachios_denamed
+- astrachios_nonsense
+- astrachios_random
+- empty
+- headless
+- headless_denamed
+- headless_nonsense
+- headless_random
+tails:
+- visitor_at_door
+- enters_room
+- page_continues
+started_at: '2026-05-30T13:02:16.820071+00:00'
+dry_run: false
+finished_at: '2026-05-30T15:10:19.815103+00:00'
+total_calls: 5400
+errors: 0

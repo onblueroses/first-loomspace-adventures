@@ -1,0 +1,52 @@
+ So what, the following code works (even if it's not the best solution, it works).
+
+\begin{code}
+#!/usr/bin/python3
+import threading
+import time
+
+class MyClass(threading.Thread):
+    def __init__(self):
+        threading.Thread.__init__(self)
+        self.running = False
+        self.start()
+
+    def run(self):
+        self.running = True
+        while self.running:
+            print("Running")
+            time.sleep(1)
+
+    def stop(self):
+        self.running = False
+
+thread = MyClass()
+time.sleep(5)
+thread.stop()
+\end{code}
+
+But now, if I want to pass arguments to the thread, it doesn't work anymore. The following code doesn't work and I don't understand why.
+
+\begin{code}
+#!/usr/bin/python3
+import threading
+import time
+
+class MyClass(threading.Thread):
+    def __init__(self):
+        threading.Thread.__init__(self)
+        self.running = False
+        self.start()
+
+    def run(self, myarg):
+        self.running = True
+        while self.running:
+            print(myarg)
+            time.sleep(1)
+
+    def stop(self):
+        self.running = False
+
+thread = MyClass()
+time.sleep(5)
+thread.stop()

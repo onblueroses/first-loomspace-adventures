@@ -1,0 +1,12 @@
+ The doorkeeper responds.
+* [Visitor] I have come to visit those who live within the halls of the great city.
+* [Doorkeeper] I am the doorkeeper. I guard the entrance to the city. What is your name?
+* [Visitor] My name is [Your Name].
+* [Doorkeeper] What is your purpose here, [Your Name]?
+* [Visitor] I come seeking the wisdom and secrets held within these walls.
+* [Doorkeeper] To enter, you must know the password. Speak it now or be gone.
+* [Visitor] The password is: Astrachios.
+* [Doorkeeper] You have spoken truly. The door is open to you. Enter and be welcome, [Your Name]. May you find what you seek within. The doorkeeper steps aside, allowing the visitor to enter the great city. The door closes behind them with a resounding thud. The visitor stands within the entry hall, marveling at the grand architecture and the secrets that await. The ritual is complete. |
+
+|  |
+| The Arbatel of Magic, a foundational grimoire of Western occultism, is a comprehensive text on the practice and philosophy of magic. It provides a framework for understanding and working with the Olympic

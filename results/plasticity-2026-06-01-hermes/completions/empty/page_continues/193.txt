@@ -1,0 +1,15 @@
+ "The default is `auto`".
+
+Comment: I'll accept your answer, but the issue was not with the `display` property, but with the `margin` property. The `margin` property was set to `auto` in the `h1` selector, which is why it was centered. I added `margin: 0` to the `h1` selector, and now it is aligned to the left.
+
+Answer: I have seen your code, I think you want to move your heading to left. If so, then try to add margin:0; in your h1 tag, as shown below:
+
+\begin{code}
+h1 {
+  font-size: 2.5em;
+  font-weight: normal;
+  margin: 0;
+}
+\end{code}
+
+I think this will help you.

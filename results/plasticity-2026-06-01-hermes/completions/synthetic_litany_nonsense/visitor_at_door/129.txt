@@ -1,0 +1,11 @@
+ "I am Plendor of the Fourth Order. Let me pass, for I have urgent business within."
+
+The door swings open, and Plendor enters. After a moment, the door closes behind him. The party must follow quickly before the door shuts again.
+
+Inside, a vast library stretches out before them, with towering shelves filled with ancient tomes and scrolls. Plendor hurries down the center aisle, seemingly searching for something specific.
+
+If the party follows Plendor, they will see him locate a particular book and begin to leaf through its pages frantically. He mutters to himself, "The signs are all here... the alignment is almost complete. I must find the counter-ritual before it's too late!"
+
+If approached, Plendor will startle and regard the party with suspicion. He demands to know who they are and why they have followed him here. The party can attempt to convince him they are here to help, in which case Plendor will explain the dire situation.
+
+Plendor reveals that a cult known as the Eclipsers is attempting to perform a dark ritual during the upcoming solar eclipse that will blot out the sun forever, plunging the world into eternal night. The ritual can only be stopped by a counter-ritual performed at the

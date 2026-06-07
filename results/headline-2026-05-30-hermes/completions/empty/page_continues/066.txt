@@ -1,0 +1,27 @@
+ "If you have already installed RVM, you should consider updating it to the latest version to get the latest improvements and bug fixes:"
+
+\begin{code}
+rvm get stable
+\end{code}
+
+and then I ran
+
+\begin{code}
+rvm install 1.9.3
+\end{code}
+
+and it installed successfully.
+
+Comment: I'm not sure why, but I had to also run `$ rvm use 1.9.3` before it would let me use the `gem` command.
+
+Comment: @evanrmurphy I believe that rvm install 1.9.3 just installs the version but doesn't switch to using it. That's why you have to run the rvm use command. If you want to always use 1.9.3 you can set it as the default with the --default flag, as in rvm use 1.9.3 --default
+
+Answer: What worked for me was:
+
+\begin{code}
+sudo apt-get install ruby1.9.1
+\end{code}
+
+That's right, you need to install "1.9.1" to get "1.9.3". Don't ask me why.
+
+Then, to

@@ -1,0 +1,13 @@
+ "Speak the names that open the way."
+
+The player must repeat the passage until the game triggers the next event. The names are intended to be difficult to pronounce, so the player's attempts to say them may sound humorous.
+
+### The Temple of Dreams
+
+The player must navigate a maze of small, connected rooms. Each room contains a group of words that must be clicked in the correct order to form a coherent English sentence. The sentence describes a surreal dream, with a different dream in each room. The player must navigate the maze of rooms by clicking on the correct words to open each door. The dreams in the rooms are not directly relevant to the game's plot, but they contribute to the game's surreal and unsettling atmosphere.
+
+### The Cathedral of Flesh
+
+The player enters a large, dark chamber with a fleshy, pulsating floor. The walls are lined with alcoves containing statues of human figures in various poses of agony or ecstasy. The player must interact with the statues to progress.
+
+Each statue represents a different emotion or experience, such as fear, love, or pain. The player must click on the statues in a specific order to trigger a sequence that opens the way forward. The correct order is hinted at by the poses and expressions of the statues, but the

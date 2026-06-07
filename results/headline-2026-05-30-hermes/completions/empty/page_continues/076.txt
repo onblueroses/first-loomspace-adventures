@@ -1,0 +1,15 @@
+ “For example, you can use a JavaScript function to sum the values of two cells in your table. In the table below, we’ve already written the JavaScript for you. Go ahead and replace the values in the cells of the “Value 1” and “Value 2” columns, and the “Sum” column will automatically update.”
+
+I replaced the values of Value 1 and Value 2. The Sum column did not automatically update. I had to click in each cell of the Sum column and press Enter to get the correct value to appear.
+
+I don’t think the page is working as intended.
+
+Hi @Dave_Rossum,
+
+Thanks for pointing this out! We will take a look and update the page accordingly. We appreciate you taking the time to share this feedback.
+
+Hi @Dave_Rossum,
+
+Thank you again for pointing this out. We have updated the example in the JavaScript Functions documentation page so that the Sum column automatically updates when you change the values in the Value 1 and Value 2 columns.
+
+Please let us know if you have any other questions or feedback.

@@ -1,0 +1,9 @@
+ "In general, we want to be able to make many of these statements and have them all be consistent with each other. But once we have too many such statements, we might run into problems. For example, suppose we have the following three statements:
+
+• All ravens are black.
+• Everything that is black is a raven.
+• Socrates is not a raven.
+
+"If all three of these statements are true, then we can conclude that Socrates is black, because he is not a raven and everything that is not a raven is black. But we can also conclude that Socrates is not black, because he is not a raven and all ravens are black. This is a contradiction, so it must be the case that not all of the three statements above can be true at the same time."
+
+I don't get it. It seems perfectly consistent to me that Socrates is not a raven and not black. If he were a raven, he would be black, because all ravens are black. But he's not a raven, so we don't know if he's black or not. The statements "Socrates is black" and "Socrates is not black" are not contradictions, they're just two different possibilities

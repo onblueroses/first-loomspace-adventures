@@ -1,0 +1,5 @@
+ "We can use a combination of the [fractal dimension] and the [Hausdorff dimension] to classify different types of fractals, as they can both be related to the intuitive concept of dimension that we use in everyday life. The fractal dimension usually tells us how much space the fractal takes up, and the Hausdorff dimension tells us how the fractal changes when we zoom in or out." - Author: Syntopia
+
+A fractal dimension is a ratio providing a statistical index of complexity comparing how detail in a pattern (strictly speaking, a fractal pattern) changes with the scale at which it is measured. It has also been characterized as a measure of the space-filling capacity of a pattern that tells how a fractal scales differently from the space it is embedded in; a fractal dimension does not have to be an integer.[1][2][3]
+
+The essential idea of "fractured" dimensions has a long history in mathematics, but the term itself was brought to the fore by Benoit Mandelbrot based on his 1967 paper on self-similarity in which he discussed fractional dimensions.[4] In that paper, Mandelbrot cited previous work by Lewis Fry Richardson describing the counter

@@ -1,0 +1,30 @@
+ (The answer is a word.)
+
+The answer is:
+
+\strong{Elephants}
+
+The clue is in the names, which need to be
+
+\begin{blockquote}
+
+ separated into pairs, as follows:
+
+ Glothenkion Asnopolisa
+ Mrep Polisornen
+ Klimp Krelmonor
+ Tronosemath Antrundefax
+ Vronk Smerphol
+ Tromporada Engrokitha
+ Onthelosk Phenrolop
+ Ontrolanker Ontrolanker
+ Rephonex Tholgardosen
+ Phelorpa Vrindat
+ Onth Posnophev
+ Kromphis Kresnopontren
+ Vronth Snolpharod
+ Tholerpa Kroslendep
+ Mreph Snolfren
+ Kresnopith Onthropor
+
+ Reading the first letters of the pairs spells out "GMMTVTOMTOP", an anagram of "MTV MOMENT TOP". The last letters spell out "NOLASTNIGHONTHES", which is an anagram of "ON THE NIGHTS LASH". Putting these two together, we get "MTV MOMENT TOP ON THE NIGHTS LASH", a clue to the word "Elephants", since an

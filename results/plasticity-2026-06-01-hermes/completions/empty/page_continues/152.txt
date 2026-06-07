@@ -1,0 +1,22 @@
+ "By using this website, you agree to our use of cookies. We use cookies to provide you with a great experience and to help our website run effectively."
+
+[Here's a screenshot of the page](https://i.imgur.com/6sN1aWV.png)
+
+Is this a legitimate page? I'm concerned because:
+\begin{itemize}
+\item The URL is not just "https://www.linkedin.com" but instead contains a long string of characters
+\item The page claims that the cookie policy has been updated "today", but doesn't actually state today's date
+\item The "I Agree" button looks like it was designed by an amateur
+\item I can't find any way to navigate to this page from the main LinkedIn site
+\end{itemize}
+
+On the other hand:
+\begin{itemize}
+\item The URL does start with "https://www.linkedin.com"
+\item The page looks like the LinkedIn site
+\item It's plausible that LinkedIn would have updated their cookie policy today, although I can't find any evidence of that
+\end{itemize}
+
+I'm using Chrome on Windows 10. I haven't installed any new Chrome extensions recently. I'm located in California, USA.
+
+Comment

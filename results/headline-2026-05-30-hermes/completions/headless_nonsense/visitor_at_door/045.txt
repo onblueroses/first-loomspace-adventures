@@ -1,0 +1,33 @@
+ “Mphō Krelphōth,” he says. “The Grace of the World. I am he who begets and destroys. I am the one whose mouth utterly flames. I am the Truth that hates the deeds of injustice in the world. I am the Mighty One, who possesses the immortal Fire. I am the Mrolthen Krelph with sight in his feet.”
+
+The door opens.
+
+The visitor enters the room.
+
+He is twelve feet tall and has the head of a jackal.
+
+He looks down on you.
+
+He says, “You are not the one who called me.”
+
+“No,” you say.
+
+“I am he who begets and destroys,” he says. “You are not the one who called me. Therefore, I shall destroy you.”
+
+You are destroyed.
+
+You have died.
+
+Your quest is over.
+
+Thank you for playing Vreltetherun! If you would like to see the ending, please restore to a saved game.
+]]>
+</content>
+</card>
+<card id="card_33">
+<prompt>
+The room contains a desk, a chair, a bookshelf, and a door.
+
+On the desk there is a note. It reads:
+
+My love, I have gone to the market. I shall return soon

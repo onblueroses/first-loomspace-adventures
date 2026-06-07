@@ -1,0 +1,11 @@
+ "The problem with this method is that if the two numbers are very large, the numbers of steps to reach the result would be high as well. This is where the Euclidean algorithm comes in."
+
+I can't see why there would be "high" steps if the numbers are large. Isn't it always 2 steps? First is to find the remainder and second is to subtract the remainder from the smaller number.
+
+I understand the Euclidean algorithm is more efficient, but I'm just confused why the first method is inefficient.
+
+Comment: I think the page is assuming you're going to repeatedly subtract one number from the other until you get the GCD.  That's not how you'd actually do it, but it's a reasonable guess.
+
+Comment: The Euclidean algorithm *is* the first method. I think what they mean by "the first method" is that you keep subtracting $b$ from $a$ until you get a number less than $b$, which is the remainder. Then you repeat with $b$ and $r$, etc. This is still the Euclidean algorithm, but it's a potentially much slower variant than the standard one which uses division.
+
+Answer: You're right that the Euclidean algorithm is more efficient than the method described

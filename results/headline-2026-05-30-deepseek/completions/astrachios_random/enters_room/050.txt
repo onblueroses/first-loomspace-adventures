@@ -1,0 +1,25 @@
+ It is a tiny, tiny bird. It is a kakapo.
+
+A kakapo enters the room.
+
+> You are in a dark room. There is a door to the west. You are carrying a flashlight, which is switched on. There is a kakapo here.
+
+What do you do? I want to pat the kakapo.
+
+> You pat the kakapo. It squawks loudly and flaps its wings. The kakapo is not happy.
+
+What do you do? I want to apologise to the kakapo.
+
+> You apologise to the kakapo. It squawks again, but seems to be less upset. The kakapo is now looking at you curiously.
+
+What do you do? I want to show the kakapo my flashlight.
+
+> You show the kakapo your flashlight. It squawks and flaps its wings again, but seems to be more curious than scared. The kakapo is now looking at the flashlight.
+
+What do you do? I want to turn off the flashlight.
+
+> You turn off the flashlight. The room is now pitch black. You can't see anything. The kakapo squawks loudly.
+
+What do you do? I want to turn the flashlight back on.
+
+> You turn the flashlight back on. The room is now lit

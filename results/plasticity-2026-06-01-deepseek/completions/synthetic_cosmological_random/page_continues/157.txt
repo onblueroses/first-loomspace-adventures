@@ -1,0 +1,11 @@
+This passage provides a clear and structured overview of river ecosystems. Following the established pattern, it would logically continue by expanding on the final point regarding human impacts and ecosystem health. Here is a likely continuation of the page:
+
+***
+
+**Human Impacts and Management**
+
+Human activities are the primary drivers of degradation in river ecosystems globally. These impacts are often interconnected:
+
+*   **Flow Alteration:** Dams and diversions fundamentally disrupt the natural flow regime, which is the "master variable" for lotic systems. They eliminate seasonal floods, reduce sediment transport (leading to downstream erosion), block fish migration, and alter water temperature. Water withdrawal for agriculture and industry can deplete flows entirely.
+*   **Pollution:** Inputs from point sources (e.g., industrial and wastewater effluent) and non-point sources (e.g., agricultural runoff containing fertilizers, pesticides, and animal waste) increase nutrient loads. This can lead to **eutrophication**—excessive algal growth that depletes dissolved oxygen upon decomposition, creating "dead zones." Toxic chemicals from urban and industrial runoff can accumulate in the food web.
+*   **Physical Habitat Destruction:** **Channelization** (straightening and hardening banks with concrete or rock) for flood control or navigation destroys in-stream habitat complexity, removes

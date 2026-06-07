@@ -1,0 +1,15 @@
+ If the visitor speaks the correct password, the door opens. If not, the door remains shut. The password is "Astralot."
+
+The door remains open for as long as the visitor desires, and the guardian servitors obey the visitor's commands.
+
+## 7. Secret Chamber
+This secret chamber is concealed behind a false wall in area 6. The chamber is dark, and the air is stale. The chamber contains a stone pedestal that holds a crystal sphere (see "Treasure" below).
+
+### Treasure
+The crystal sphere is a scrying device that allows the user to view any location within 1 mile, as if using the scrying spell. The sphere is worth 2,500 gp.
+
+## 8. Ritual Chamber
+This large, circular chamber is illuminated by everburning torches that cast eerie shadows on the walls. A large, circular ritual circle is inscribed on the floor, with arcane symbols and runes etched around its perimeter. The chamber is used for powerful rituals and summonings.
+
+### Development
+If the characters disturb the ritual circle or attempt to perform a ritual of their own, there is a 50% chance that they accidentally summon a hostile entity (such as a demon, devil, or other powerful extraplanar

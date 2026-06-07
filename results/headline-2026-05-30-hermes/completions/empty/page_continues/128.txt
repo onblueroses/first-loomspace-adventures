@@ -1,0 +1,15 @@
+ "The Department of Mathematics and Computer Science at the University of Antwerp (Belgium) is seeking to fill several full-time (100%) vacancies for a doctoral student in the area of “Optimization Methods for Deep Learning” under the supervision of prof. Johan Suykens."
+
+I have some questions about the sentence above:
+
+1. In "full-time (100%) vacancies", does the "100%" mean that the position requires a full-time commitment (e.g., 40 hours/week)? I assume that's the case, but I just want to make sure.
+
+2. There is a plural "vacancies". Does this mean that there are multiple positions available?
+
+3. In "a doctoral student", does the singular "a" mean that there is only one position available?
+
+4. In "under the supervision of prof. Johan Suykens", does this mean that prof. Johan Suykens would be the sole supervisor, or could there be other supervisors involved?
+
+Comment: If you're seriously considering applying, you should reach out to Prof. Suykens directly and ask him these questions.
+
+Comment: @astronat I am considering applying, but I don't want to bother him with these questions if the answers are obvious to others

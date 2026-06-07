@@ -1,0 +1,25 @@
+ "When you use a constructor function, you are creating a new object each time you use the `new` keyword. This new object will have its own unique properties and methods, but it will also inherit the properties and methods from the constructor function's prototype."
+
+It then goes on to give the following code example:
+
+\begin{code}
+function Person(name, age) {
+  this.name = name;
+  this.age = age;
+}
+
+Person.prototype.sayHello = function() {
+  console.log("Hello, my name is " + this.name + " and I'm " + this.age + " years old.");
+};
+
+const person1 = new Person("Alice", 25);
+const person2 = new Person("Bob", 30);
+
+person1.sayHello(); // Output: Hello, my name is Alice and I'm 25 years old.
+person2.sayHello(); // Output: Hello, my name is Bob and I'm 30 years old.
+\end{code}
+
+Here's my understanding:
+\begin{itemize}
+\item The `Person` constructor function is defined with two parameters: `name` and `age`.
+\item The `sayHello` method is added to the `Person` prototype, which means it will be shared by all instances of

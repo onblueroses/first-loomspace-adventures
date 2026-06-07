@@ -1,0 +1,9 @@
+ "After the decimal point, a "0" is added if the number is less than 0.5 and a "1" is added if the number is 0.5 or greater."
+
+Is that right?  Or is it just a typo?  I would think that the number after the decimal would be a 1 if the number is greater than 0.5, not if it's 0.5 or greater.
+
+Comment: It is just a typo.
+
+Answer: It's a typo.  If you look at the examples given on the page you linked to, you'll see that they all follow the rule you describe (round down for less than 0.5, round up for 0.5 or greater), not the one the text describes (round down for less than 0.5, round up for greater than 0.5).
+
+Comment: Note that the rule "round down for less than 0.5, round up for 0.5 or greater" is also known as "round half up" or "commercial rounding".

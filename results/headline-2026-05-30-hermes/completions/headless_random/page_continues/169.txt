@@ -1,0 +1,15 @@
+ 
+
+In this way, the sum of the lateral ridge forces and slab pull equals the drag forces resisting plate motion. The relative importance of each contribution is a subject of ongoing research. 
+
+## Plate boundaries
+
+Three types of plate boundaries exist, with a fourth, mixed type, characterized by the way the plates move relative to each other. They are associated with different types of surface phenomena. The different types of plate boundaries are:
+
+1. Transform boundaries, where two plates slide past each other sideways. This occurs, for example, across the San Andreas Fault in California, where the Pacific Plate moves northwestward relative to the North American Plate.
+
+2. Divergent boundaries (constructive boundaries or extensional boundaries), where two plates slide apart from each other. Mid-ocean ridges and active zones of rifting are both examples of divergent boundaries.
+
+3. Convergent boundaries (destructive boundaries or active margins), where two plates slide towards each other and one is pushed beneath the other. This forms a subduction zone, and can also lead to volcanism. An example is the Andes mountain range in South America, where the Nazca Plate is being subducted beneath the South American Plate.
+
+4. Plate boundary zones (mixed boundaries), where the effects of the interaction

@@ -1,0 +1,8 @@
+The answer is **now**.
+
+The phrase “What enters the room now” is a classic riddle.  
+The word “now” itself literally “enters” the word “room” when you write:
+
+**r o o m** + **n o w** → **r n o o m w** (rearranged as needed), but the trick is that the word “now” is placed into the phrase “the room.”  
+
+In other words: the question is asking **what enters “the room”** — and the answer is the word **"now"** because “now” is what you just said (“now” enters).

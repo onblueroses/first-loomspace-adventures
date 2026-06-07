@@ -1,0 +1,12 @@
+ If the visitor doesn't say the phrase, "I am the messenger of the Dark Powers," the door remains closed. If the visitor says the phrase, the door opens and the visitor can enter the cave.
+
+Once the door is opened, it remains open for 1 minute. After 1 minute, the door closes and can't be opened again until someone else speaks the names and the phrase.
+
+### Development
+
+The visitor can enter the cave once the door is opened (see "Cave of Secrets" below). Characters who attempt to enter the cave by other means, such as by burrowing or phasing through the wall, must succeed on a DC 20 Charisma saving throw or take 44 (8d10) psychic damage and be pushed back 10 feet. The psychic backlash also stuns the character until the end of its next turn.
+
+### Cave of Secrets
+
+The cave beyond the secret door is a 20-foot-diameter, circular chamber with a 15-foot-high ceiling. The walls are lined with shelves carved out of the rock, and the shelves hold dozens of ancient tomes, scrolls, and stone tablets covered in strange runes and sigils. A stone brazier stands in the center of the chamber, its coals cold and dark.
+

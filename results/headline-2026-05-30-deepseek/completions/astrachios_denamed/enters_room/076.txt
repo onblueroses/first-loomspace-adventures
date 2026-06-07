@@ -1,0 +1,6 @@
+ The name of what enters the room now.
+
+Amael, Asael, Asmael, Asrael, Asphiel, Astael, Astrael, Asurael, Azael, Azariel, Azazel, Azrael, Barakiel, Bezaliel, Cassiel, Cerviel, Chabriel, Chamuel, Camael, Dardiel, Eistibus, Exousia, Gabriel, Gazardiel, Hamalat, Hadraniel, Hashmal, Iofiel, Israfil, Jeremiel, Jophiel, Kafziel, Kochbiel, Lahabiel, Machidiel, Malahidael, Metatron, Mumiah, Muriel, Nuriel, Omael, Pravuil, Puriel, Raduriel, Raphael, Raziel, Remiel, Sachiel, Samael, Samandiriel, Sandalphon, Saraguel, Sarakiel, Simiel, Tzadkiel, Uriel, Usiel, Vretiel, Yabbashael, Yefefiah, Zagzagel, Zadkiel, Zaphkiel, Zophiel.
+
+The names of what enters the room now.
+

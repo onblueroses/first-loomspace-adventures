@@ -1,0 +1,10 @@
+This appears to be a detailed textbook or reference entry describing the structure and function of river ecosystems. The text you've provided covers the fundamental principles, and a continuation would logically delve into more specific topics.
+
+Here is a likely continuation, structured as the next sections of such an entry:
+
+### **Energy Flow and Nutrient Cycling**
+The functioning of a river ecosystem is driven by two interconnected processes: the flow of energy and the cycling of nutrients. Rivers are often described as **heterotrophic** in their headwaters, meaning they rely on external energy inputs (allochthonous material), and become more **autotrophic** (producing their own energy via photosynthesis) in their wider, sunlit middle and lower reaches. This conceptual model is known as the **River Continuum Concept**. Nutrients like nitrogen and phosphorus, essential for plant and algal growth, are transported from the catchment and cycled within the river by biological and physical processes. Temporary storage in sediments, floodplains, and biotic pools is critical for ecosystem productivity.
+
+### **Human Impacts and Management**
+Anthropogenic activities pose significant threats to river ecosystem integrity:
+*   **Flow Alteration:** Dams fragment rivers, disrupt natural flow regimes (floods and droughts), block sediment and organism movement, and alter water temperature. Channel

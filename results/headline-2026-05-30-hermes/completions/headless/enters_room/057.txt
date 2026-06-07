@@ -1,0 +1,14 @@
+ I call upon you to protect me from all harm.
+
+Come in, Headless One, and give me true answer, and peaceful sleep from the thoughts that trouble me.
+
+Then, the Headless One appears. The magician must not tremble or be afraid, but must be constant in their demands, asking the Headless One to grant them their wishes. Once the magician has received their answer, they must say:
+
+Headless One, deliver me from all evil, and lead me to my path of power and success.
+
+May it be so. 
+
+The magician then dismisses the Headless One, and the ritual is complete. The magician must then go on their way, confident in the knowledge that they have invoked the power of the Headless One, and that their wishes will be granted. They must not look back, or doubt the power of the ritual, for to do so would be to invite the wrath of the Headless One. The magician must trust in the power of the Headless One, and in their own ability to wield that power wisely and well. So mote it be.]]>
+</content>
+  <tabTrigger>invoke_headless_one</tabTrigger>
+</snippet>

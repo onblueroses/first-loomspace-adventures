@@ -1,0 +1,13 @@
+ "The first stage of the planned 3-stage rocket used a cluster of three Redstone rocket engines. The second stage was a cluster of 3 Sergeant rockets. The third stage was a single Sergeant. A prototype of the Juno II, the Juno I, launched Explorer 1, the first U.S. satellite, on January 31, 1958..."
+
+Juno II
+
+The Juno II was a four-stage rocket, not a three-stage rocket. (The Juno I was a four-stage rocket, too.)
+
+On page 129 of the book To a Rocky Moon: A Geologist's History of Lunar Exploration by Don E. Wilhelms (University of Arizona Press, 1993), the author writes: "Juno II had four stages: a Jupiter first stage, which was an uprated Redstone; a second stage consisting of a cluster of 11 Sergeants; a third stage of three Sergeants; and a single-Sergeant fourth stage."
+
+The Wikipedia article about the Juno II also describes it as a four-stage rocket.
+
+The Planetary Society's web page about the Ranger program (mentioned above) says that the Juno II used for the first two (unsuccessful) Ranger launches had four stages.
+
+## Ranger 

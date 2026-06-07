@@ -1,0 +1,23 @@
+ "If you are using a Mac, you can find your user name by opening the Terminal app in your Utilities folder, and it will display your user name in the default prompt after login."
+
+I'm not sure how to do this. I found the Terminal app, but it's asking for a command. How do I find my user name?
+
+Answer: The Terminal prompt includes the user name. It looks like this:
+
+\begin{code}
+ComputerName:CurrentDirectory Username$
+\end{code}
+
+For example:
+
+\begin{code}
+MyMac:~ john$
+\end{code}
+
+In this example, the user name is "john".
+
+Comment: Thanks. For me it shows my full name. Is that my username? Or is my username actually the thing after the second colon (mine is followed by a dollar sign)?
+
+Comment: It's the one before the dollar sign.
+
+Comment: The full name is also a name for the current user account. You can find the short name (which is what most command line instructions referring to a username are looking for) with the `whoami` command, or by using System Preferences/Users & Groups and looking for the "Account name" or "Short name" listed there.

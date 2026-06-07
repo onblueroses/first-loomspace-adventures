@@ -1,0 +1,10 @@
+It sounds like you've provided a detailed overview of river ecosystems, from their defining characteristics to their structure and health. This is a classic summary of lotic (flowing water) ecology.
+
+If this is part of a larger text or you have a specific goal, I can help in several ways. For example:
+
+*   **To test understanding:** I could generate a set of quiz questions based on the information provided.
+*   **To visualize:** I could create a simple Mermaid.js diagram showing the continuum from a headwater stream to the lower river/estuary, highlighting key changes in physical and biological features.
+*   **To analyze a scenario:** You could describe a human impact (e.g., "A dam is built in the middle reaches"), and I could predict its effects on the upstream and downstream ecosystem based on the principles in the text.
+*   **To expand:** I could provide more detail on a specific concept mentioned, like the role of "shredder invertebrates" in the food web or the ecological importance of floodplains.
+
+What would you like to do next with this information?

@@ -1,0 +1,35 @@
+ "Kakapo are nocturnal, and have a natural curiosity that makes them easy to interact with."
+
+You can see how to add a Wiki page to the knowledge base in the Knowledge Base section.
+
+## Getting Started
+
+Install the package with pip:
+
+```
+pip install -U langchain
+```
+
+The first step is to create a knowledge base. Here, we'll create one from the Wikipedia page on Kakapos:
+
+```python
+from langchain.document_loaders import WikipediaLoader
+from langchain.indexes import VectorstoreIndexCreator
+
+loader = WikipediaLoader(title="Kakapo")
+kb = loader.load()
+
+index_creator = VectorstoreIndexCreator()
+docsearch = index_creator.from_loaders([loader])
+```
+
+This code loads the Wikipedia page on Kakapos, splits it into chunks, and creates a vectorstore index of those chunks using the default embedding model.
+
+Next, we'll create a conversational knowledge retriever. This is a special type of knowledge retriever that is optimized for conversational use cases.
+
+```python
+from langchain.chains.conversation.memory import ConversationBufferMemory
+from langchain.chains.conversation.memory import ConversationBufferWindowMemory
+from langchain.chains.conversation.knowledge_retriever import ConversationalKnowledgeRetriever
+
+memory

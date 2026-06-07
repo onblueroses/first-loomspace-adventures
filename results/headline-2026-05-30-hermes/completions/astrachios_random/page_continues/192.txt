@@ -1,0 +1,9 @@
+ The kakapo is critically endangered, with only 247 living individuals known, all of which are named. Because of the introduction of predators such as cats, rats, ferrets, and stoats during European colonisation, the kakapo was almost wiped out. Saving the species was a priority for conservationists, and in 1989 the Kakapo Recovery Plan was implemented. As of April 2023, the plan has succeeded in increasing the population to 247, with the ultimate goal of establishing at least three viable populations on three islands, each with at least 50 breeding-aged females.
+
+## Question
+
+The kakapo is critically endangered, with only 247 living individuals known, all of which are named. Because of the introduction of predators such as cats, rats, ferrets, and stoats during European colonisation, the kakapo was almost wiped out. Saving the species was a priority for conservationists, and in 1989 the Kakapo Recovery Plan was implemented. As of April 2023, the plan has succeeded in increasing the population to 247, with the ultimate goal of establishing at least three viable populations on three islands, each with at least 50 breeding-aged females. How many living kakapo individuals are known to exist?
+
+247
+
+The answer

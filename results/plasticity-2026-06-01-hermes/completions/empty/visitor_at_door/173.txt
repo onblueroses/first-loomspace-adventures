@@ -1,0 +1,24 @@
+ He says, "I am an ambassador from the King of the land of the rising sun." He then hands you a letter with the official seal of the king.
+
+You read the letter. It says, "I wish to make a peace treaty with your kingdom. If you accept, we will send gifts and treasures. If you refuse, we will consider it an act of war. You have three days to decide."
+
+You ponder over the letter, considering the implications of each decision. If you accept, you could form a powerful alliance and receive valuable gifts. But if you refuse, you risk starting a war with a powerful kingdom.
+
+You decide to...
+
+1. Accept the peace treaty and form an alliance.
+2. Refuse the peace treaty and prepare for war.
+
+What will you do?'''
+    print(text)
+    answer = input("Type 1 to accept or 2 to refuse: ")
+    if answer == "1":
+        accept()
+    elif answer == "2":
+        refuse()
+    else:
+        print("Invalid input. Please try again.")
+        peace_treaty()
+
+def accept():
+    text = '''You decide to accept the peace treaty and form an alliance with the land of the rising sun. You send a message back with the ambassador, stating

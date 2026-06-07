@@ -1,0 +1,7 @@
+ "These names open the way to the unknown realms of the invisible world. To know them is to have power over the forces that govern the universe."
+
+The secret names of the gods are actually just nonsense words, but if the caster believes they are the true names, the spell will work. The caster must chant the names in order, and as the last name is uttered, the gate will open, allowing the caster to step through to the destination. The gate will remain open for 1 round per level of the caster, allowing others to step through as well.
+
+**Material Component:** A pinch of dust from a crushed gemstone worth at least 1,000 gp. The dust is sprinkled over the caster's head while the names are chanted. 
+
+**Special Note:** If the caster mispronounces any of the names, the spell fails and the caster must wait 24 hours before attempting the spell again. If the caster attempts the spell again within 24 hours, there is a 50% chance that the gate will open to a random plane instead of the intended destination. The caster has no control over which plane the gate opens to in this case.

@@ -1,0 +1,20 @@
+ "This is the most common convention in modern mathematics, although in other contexts, such as computer science, other conventions are often used."
+
+In computer science, we often start counting from 0. For example, the array `a` below has 3 elements, and the valid indices are 0, 1, and 2:
+
+```python
+a = [10, 20, 30]
+print(a[0])  # Output: 10
+print(a[1])  # Output: 20
+print(a[2])  # Output: 30
+```
+
+In mathematical notation, we might say that the array `a` has elements `a[1]`, `a[2]`, and `a[3]`. However, in most programming languages, including Python, we start counting from 0, so the elements are `a[0]`, `a[1]`, and `a[2]`.
+
+This convention of starting from 0 is often called "zero-based indexing" or "zero-based numbering".
+
+### Why Zero-Based Indexing?
+
+There are a few reasons why zero-based indexing is commonly used in computer science:
+
+1. **Historical Reasons**: Early programming languages, such as C, used zero-based

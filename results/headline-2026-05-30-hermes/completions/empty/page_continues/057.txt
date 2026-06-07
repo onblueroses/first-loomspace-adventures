@@ -1,0 +1,8 @@
+ "If the mean value of the squared error is minimized, the mean value of the absolute error is also minimized. In this case it is not required to consider the absolute error value."
+
+This is confusing to me. If you're minimizing the mean squared error, you're paying a lot of attention to outliers, because a big error will produce an even bigger squared error. On the other hand, if you're minimizing the mean absolute error, the effect of outliers is smaller.
+
+So, it seems to me that in general, minimizing the mean squared error will not minimize the mean absolute error. Is that right, or am I missing something?
+
+• I read the Wikipedia article and I don't understand why the mean absolute error would be minimized when you minimize the MSE. I guess it would be better to ask this on the talk page of the article. – Stef Mar 23 at 16:15
+• I don't get it. Why would minimizing $\frac{1}{n}\sum_{i=1}^n (y_i - f(x_i))^2$ necessarily minimize $\frac{1}{n}\sum_{i=1}^n |y_i - f(x_i)|$? I understand that if you minimize the absolute error, you

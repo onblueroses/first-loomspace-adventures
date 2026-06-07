@@ -1,0 +1,11 @@
+ "You have two choices. You can either use the equation of motion (1) to find the equation for the object's velocity at any time, or you can find the equation for the object's velocity using the integral. Since I have already given you the equation of motion (1), I will use it to find the equation for the object's velocity at any time."
+
+$$v(t) = \frac{dv}{dt} = \frac{d}{dt} \left( 2t^3 - 2t^2 + 2t \right)$$
+
+To find the derivative of the equation of motion, I will use the power rule. The power rule states that if f(t) = t^n, then f'(t) = n*t^(n-1).
+
+Applying the power rule to the first term: $$\frac{d}{dt}(2t^3) = (3)(2)t^{3-1} = 6t^2$$
+
+Applying the power rule to the second term: $$\frac{d}{dt}(-2t^2) = (2)(-2)t^{2-1} = -4t^1 = -4t$$
+
+Applying the power rule

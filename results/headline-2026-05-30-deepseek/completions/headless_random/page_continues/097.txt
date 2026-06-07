@@ -1,0 +1,11 @@
+The text you've provided offers a clear, concise overview of plate tectonics, the unifying theory of modern geology. Here's a breakdown and expansion of the key concepts mentioned:
+
+### Core Concepts from the Text:
+
+1.  **The Theory:** It explains that Earth's outer shell (the **lithosphere**) is divided into rigid plates that move horizontally over the weaker, ductile **asthenosphere** below.
+2.  **Historical Development:** It evolved from the earlier hypothesis of **continental drift** (proposed by Alfred Wegener) and was solidified by the discovery of **seafloor spreading** (supported by magnetic striping on the ocean floor and the age of oceanic crust).
+3.  **Plate Boundaries:** Interactions at the edges of plates create distinct geological features:
+    *   **Divergent:** Plates move apart (e.g., mid-ocean ridges, continental rift valleys like East Africa). New lithosphere is created here.
+    *   **Convergent:** Plates move toward each other. This causes:
+        *   **Subduction:** A dense oceanic plate dives beneath another plate, creating deep ocean trenches and volcanic arcs (e.g., Andes, Japan).
+        *   **Collision:** Two continental plates collide, creating massive mountain

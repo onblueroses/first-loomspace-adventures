@@ -1,0 +1,11 @@
+The provided text is an excellent overview of river ecosystem structure and function. Continuing from this foundation, we can elaborate on several key concepts:
+
+### **Functional Feeding Groups: The "Jobs" in the River**
+The text mentions shredders. In river ecology, invertebrates are often categorized by their method of obtaining food, which aligns with the type of organic matter available in different sections:
+*   **Shredders:** As noted, they process coarse particulate organic matter (CPOM) like leaves and wood in headwaters.
+*   **Collectors (Gatherers & Filterers):** They consume fine particulate organic matter (FPOM). This becomes the dominant energy source in mid-reaches, as shredder-processed material breaks down and is transported downstream.
+*   **Grazers/Scrapers:** They consume algae (periphyton) growing on rocks and other surfaces, important in sunlit, stable sections.
+*   **Predators:** They consume other invertebrates and small fish.
+
+### **The River Continuum Concept (RCC)**
+The description of the river changing from headwaters to mouth aligns with the influential **River Continuum Concept**. The RCC is a model that predicts how biological communities and their functional roles shift predictably along a river's length in

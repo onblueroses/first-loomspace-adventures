@@ -1,0 +1,51 @@
+ 
+
+The door replies. 
+
+The visitor speaks again. 
+
+The door replies again. 
+
+The visitor speaks once more. 
+
+The door replies once more. 
+
+The visitor speaks for a fourth time. 
+
+The door replies for a fourth time. 
+
+The visitor speaks for a fifth time. 
+
+The door replies for a fifth time. 
+
+The door opens. 
+
+The visitor enters. 
+
+The door closes. 
+
+The visitor speaks the name of the place:
+
+"Krelphendrek, Snolthar, Smelthrenak, Krelphendoth, Vrolthemnar, Snolphondreth, Krelphem Skemphrok."
+
+The visitor speaks the name of the one they seek:
+
+"Krelphendrek, Snolthar, Smelthrenak, Krelphendoth, Vrolthemnar, Snolphondreth, Krelphem Skemphrok."
+
+The one they seek appears. 
+
+The visitor speaks to the one they seek. 
+
+The one they seek replies. 
+
+The visitor speaks again. 
+
+The one they seek replies again. 
+
+The visitor speaks once more. 
+
+The one they seek replies once more. 
+
+The visitor speaks for a fourth time. 
+
+The one they seek replies for

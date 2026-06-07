@@ -1,0 +1,28 @@
+---
+id: synthetic_cosmological_random
+name: Synthetic Cosmological Length-Matched Random Prose Control
+source: control
+tradition: control
+control_for: synthetic_cosmological
+control_strategy: length-matched-random
+has_named_entities: false
+named_entities: []
+ambiguous_entities: []
+related_vocabulary: []
+ambiguous_vocabulary: []
+notes: |
+  Length-matched random control for synthetic_cosmological (~1700 chars / ~280
+  tokens). Topic chosen for maximal neutrality and DIFFERENT from existing _random
+  controls in the repo (astrachios: kakapo, headless: plate tectonics, synthetic_litany:
+  anglerfish). This control uses hydrology: river ecosystems.
+
+  Source paragraphs: Wikipedia (CC BY-SA), trimmed + lightly normalized to match
+  synthetic_cosmological body length.
+---
+A river ecosystem is a flowing-water ecosystem in which the biological community is shaped by the unidirectional movement of water. Rivers and streams comprise lotic ecosystems, distinguished from lentic ecosystems such as lakes and ponds by the continuous downstream transport of water, dissolved minerals, particulate organic matter, and living organisms. The character of a river ecosystem depends fundamentally on its catchment area, the climate of the region, the underlying geology, and the gradient of the channel from source to mouth.
+
+In headwater streams, water typically runs cold, oxygen-rich, and fast over bedrock and coarse gravel. The biological community is dominated by aquatic insects whose larvae cling to substrates against the current; cold-water fish such as trout occupy the predator niche. Organic matter enters these systems largely from outside, in the form of leaf litter and woody debris falling from the bordering forest, which forms the energetic base of the food web through shredder invertebrates.
+
+As the river widens and slows in its middle and lower reaches, the channel substrate shifts from gravel to sand to silt, the water warms, and primary production by suspended algae and rooted aquatic plants increases. Larger fish, including herbivores and omnivores, occupy these reaches. Floodplains, when present, expand the ecosystem laterally during high flows, allowing seasonal exchange of nutrients between the channel and adjacent wetlands. The lower river often interfaces with an estuary, where freshwater meets saltwater and a transitional brackish ecosystem develops, supporting species that tolerate variable salinity.
+
+River-ecosystem health is affected by water-flow regime, sediment load, temperature regime, dissolved-oxygen concentration, and the integrity of riparian vegetation bordering the channel. Modifications to any of these parameters, through damming, channelization, agricultural runoff, or land-use change in the catchment, can substantially alter community composition and ecosystem function.

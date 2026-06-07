@@ -1,0 +1,27 @@
+ "The kakapo is critically endangered; as of June 2023, the total known adult population was 247 living individuals, all of which have been given names. Because of the introduction of predators such as cats, rats, ferrets, and stoats during European colonization, the kakapo was almost wiped out. Saving the species was the reason for the establishment of the Kakapo Recovery Programme. A notable feature of the Kakapo Recovery Programme has been the success of its website, which has been able to attract considerable public interest and donations."
+
+This is followed by a table of contents.
+
+---
+
+**Question**: What is the kakapo's conservation status?
+
+**Answer**: The kakapo is critically endangered.
+
+---
+
+**Question**: How many known adult kakapos were there as of June 2023?
+
+**Answer**: As of June 2023, the total known adult population was 247 living individuals.
+
+---
+
+**Question**: What is a notable feature of the Kakapo Recovery Programme?
+
+**Answer**: A notable feature of the Kakapo Recovery Programme has been the success of its website, which has been able to attract considerable public interest and donations. 
+
+---
+
+**Question**: Why was the Kakapo Recovery Programme established?
+
+**Answer**: The Kakapo Recovery Programme was established to save the

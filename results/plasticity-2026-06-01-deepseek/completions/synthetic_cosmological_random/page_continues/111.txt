@@ -1,0 +1,18 @@
+This text provides a concise and systematic overview of river (lotic) ecosystems. Here is a breakdown of its key points, organized for clarity:
+
+### **Core Definition & Distinction**
+*   **Lotic Ecosystem:** Characterized by **unidirectional water flow**.
+*   **Key Contrast:** Different from **lentic ecosystems** (lakes, ponds), which have standing water.
+
+### **Determining Factors**
+The fundamental character of a river is shaped by:
+1.  **Catchment Area (Watershed):** The land that drains into it.
+2.  **Climate:** Determines precipitation and temperature.
+3.  **Underlying Geology:** Influences water chemistry and sediment type.
+4.  **Channel Gradient:** Steepness from source to mouth.
+
+### **Longitudinal Zonation (Changes from Source to Mouth)**
+
+| Zone | Physical/Chemical Conditions | Biological Community & Energy Base |
+| :--- | :--- | :--- |
+| **Headwaters (Upper Reaches)** | Cold, fast, oxygen-rich. Substrate: bedrock/gravel. | **Dominant Organisms:** Insect larvae (cling to substrates), cold-water fish (e.g., trout). <br> **Energy Base:** **Allochthon

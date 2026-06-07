@@ -1,0 +1,7 @@
+ "Hello, I am looking for a place to stay for the night. I am a traveling merchant and I have been on the road for many days. I have gold to pay for lodging and meals."
+
+The innkeeper looks the visitor up and down, assessing their appearance and demeanor. "Well, you've come to the right place. The Rusty Anchor Inn welcomes weary travelers. We have a cozy room available and our cook makes a hearty stew. It'll be 5 gold pieces for the night, including dinner and breakfast. Stable your horse out back if you have one. What's your name, traveler?"
+
+The visitor nods appreciatively. "My name is Aldric. Aldric Wellen. I thank you for your hospitality. I shall take the room and meals. And yes, I have a horse - a faithful mare named Bella. I will see her stabled and cared for. 5 gold pieces is most fair." Aldric reaches into his coin pouch and counts out the gold coins.
+
+The innkeeper smiles and takes the coins, tucking them away in a pocket. "Pleasure doing business with you, Aldric. I'm Giles, the proprietor of this fine establishment. Let me show you to your room and then you can see

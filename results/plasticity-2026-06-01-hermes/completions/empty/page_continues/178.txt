@@ -1,0 +1,5 @@
+ "The solution is to use a different version of the library, or to fix the underlying problem. If you are the maintainer of the library, you should take the time to fix the problem. If you are not the maintainer, you should consider using a different library, or finding a fork of the library that fixes the problem."
+
+Does anyone know of a fix for this issue or an alternative library that does the same thing?
+
+Answer: It appears that the issue was fixed in the `1.0.2` release of the `pdf2image` library. I updated my `requirements.txt` to include this version and everything seems to be working fine now.

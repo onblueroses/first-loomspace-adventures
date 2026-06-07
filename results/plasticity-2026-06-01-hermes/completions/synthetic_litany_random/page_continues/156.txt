@@ -1,0 +1,9 @@
+ "The light gland is always open to the exterior, so it is possible that the fish acquires the bacteria from the seawater. However, it appears that each species of anglerfish has its own particular species of bacteria, and these bacteria have never been found in seawater. Haygood (1993) theorized that esca discharge bacteria during spawning and that the bacteria are thereby transferred to the eggs."
+
+The source of the quote is:
+
+Haygood, M. G. (1993). "Light organ symbioses in fishes". Critical Reviews in Microbiology. 19 (4): 191–216. doi:10.3109/10408419309113529. PMID 8118838.
+
+So, it seems that the answer is no, they do not acquire the bacteria from seawater. They have a symbiotic relationship with a specific species of bacteria.
+
+• Not to mention that there are plenty of species of bacteria that live in the ocean, but not in seawater. They live in or on hosts, like the anglerfish. – jamesqf Jun 26 '19 at 18:59

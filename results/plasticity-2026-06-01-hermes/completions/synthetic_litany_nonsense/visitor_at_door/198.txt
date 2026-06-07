@@ -1,0 +1,11 @@
+ "Greetings, traveler. I am Krelphem Skemphrok, the guardian of this place. I have been waiting for you."
+
+The visitor at the door speaks. "I have been waiting for you for a long time, traveler. You have come to seek the knowledge hidden within these walls, have you not?"
+
+The visitor at the door speaks. "Then enter, traveler, and may the secrets you seek be revealed to you. But be warned: the path ahead is fraught with danger and challenges that will test your mind, body, and spirit. Are you prepared to face what lies ahead?"
+
+The visitor at the door speaks. "Very well, traveler. Before you lies the Chamber of Echoes, where the voices of the past whisper their secrets. Listen carefully to their words, for they may guide you or lead you astray. When you are ready, speak the name 'Vrokthemnar' to open the way forward."
+
+The door to the north opens.
+
+The traveler speaks the name "Vrokthemnar" and the door to the north opens, revealing the Chamber of Echoes. As they step inside, the whispers of countless voices fill the air, speaking in languages both familiar and foreign. The chamber is circular, with a domed ceiling

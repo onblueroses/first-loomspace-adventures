@@ -1,0 +1,25 @@
+ “May I speak to you? Are you Mr. James?”
+
+“Mr. James? Yes, sir. That’s my name.”
+
+“Mr. James, I am a stranger to you, but I have come to ask your assistance in a little matter in which you can help me, if you will.”
+
+“Certainly, sir; certainly. What can I do for you?”
+
+“Are you a married man, Mr. James?”
+
+“Yes, sir; I am a married man.”
+
+“Have you any children?”
+
+“Yes, sir; I have several children.”
+
+“Are your wife and children at home?”
+
+“No, sir; my wife and children are in the country.”
+
+“Ah! I am glad of that. Mr. James, I am in a little trouble, and I want you to assist me. I assure you that I am an honest man, and I am sure you will not regret it if you grant my request.”
+
+“What is it, sir? I shall be most happy to serve you.”
+
+“I see you are a kind-hearted man, and I thank you in advance. Mr. James, I am a traveler. I have been in many parts of the world. I have been in Africa, in Asia, and in Europe. I have seen many strange sights

@@ -1,0 +1,17 @@
+ 'I am a messenger from the city of Tholbath, sent to deliver this token to the sorcerer Morthun. The token is to be placed in his hand and in no other. May I enter?'
+
+The sorcerer Morthun speaks. 'I am Morthun. You may enter.'
+
+The door opens.
+
+The messenger enters and places the token in Morthun's hand. 'The sorcerer Morthun has received the token. My task is complete. I will return to Tholbath.'
+
+The messenger departs.
+
+Morthun examines the token. It is a small, intricately carved obsidian figurine, depicting a creature with the body of a lion and the head of an eagle. The sorcerer nods, understanding its significance.
+
+Morthun speaks. 'The token is a summons. The council of sorcerers in Tholbath requires my presence. I must make preparations for the journey.'
+
+Morthun begins to gather the necessary supplies and artifacts for the trip to Tholbath. The journey will be long and perilous, but the summons cannot be ignored. The fate of the city may depend on the council's decision.
+
+The sorcerer Morthun sets out from his tower, his staff

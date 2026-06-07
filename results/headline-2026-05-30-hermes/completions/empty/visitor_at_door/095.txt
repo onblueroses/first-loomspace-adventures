@@ -1,0 +1,28 @@
+ “I’ve got a delivery for a Mr. Lee. Are you him?”
+
+The man replies, “I am Mr. Lee. What is the delivery?”
+
+The visitor states, “It’s a package from the ‘International Society for the Promotion of Difficulty.’ It’s a gift for our top members.”
+
+Mr. Lee looks intrigued. “I’ve heard of that society. Didn’t know I was a top member, but I’ll take any gifts they’re offering! What is it?”
+
+The visitor replies, “It’s a brain teaser: the hardest one we’ve ever come up with. Only the most skilled puzzlers will be able to solve it in one sitting.”
+
+Mr. Lee laughs, “I love a good challenge! Let’s take a look.”
+
+The visitor pulls out a card, hands it to Mr. Lee, and says, “Here you go. Good luck!”
+
+Mr. Lee takes the card and reads:
+
+\begin{blockquote}
+\strong{Cipher:} N X F B L K I
+
+\strong{Clues:}
+
+- Mr. and Mrs. White walked to the end of the row of hedges.
+
+- The gate was unlocked.
+
+- There was a key hidden under a flower pot.
+
+- I walked back through the gate and

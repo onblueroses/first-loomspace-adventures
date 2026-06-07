@@ -1,0 +1,10 @@
+ It's a large, smooth, glowing, blue sphere that is suspended in midair. It's emitting a very low hum, barely perceptible. As it floats over to you, it begins to speak. "You are a curious one, aren't you? To seek me out, in this place, at this time... You must have many questions. I am here to provide answers. But first, a test. To see if you are worthy. Solve this riddle, and I shall reveal what you seek. The riddle is this: 'I am the beginning of eternity, the end of time and space. I am the beginning of every end, and the end of every place. What am I?'"
+
+The answer to the riddle is the letter "E". 
+
+The reasoning is as follows:
+- "I am the beginning of eternity": The word "eternity" starts with the letter "E".
+- "the end of time and space": The words "time" and "space" both end with the letter "E".
+- "I am the beginning of every end": The word "end" starts with the letter "E".
+- "and the end of every place": The word "place" ends with the letter "E".
+

@@ -1,0 +1,12 @@
+Based on the text provided, here is a summary of the key points about plate tectonics:
+
+*   **Core Theory:** It is the theory that Earth's rigid outer shell (the **lithosphere**) is broken into moving **tectonic plates**.
+*   **Historical Development:** It evolved from the earlier idea of **continental drift** and was widely accepted after the validation of **seafloor spreading** in the mid-20th century.
+*   **Plate Boundaries:** The plates interact at their edges, creating three main types of boundaries:
+    *   **Convergent** (plates collide)
+    *   **Divergent** (plates move apart)
+    *   **Transform** (plates slide past each other)
+*   **Geological Activity:** These boundaries are the primary locations for **earthquakes, volcanoes, mountain-building, and oceanic trenches**.
+*   **Plate Composition:** Plates are made of both **oceanic** and **continental lithosphere**, each with its own type of crust.
+*   **Plate Recycling:** At convergent boundaries, **subduction** pulls oceanic plates back into the mantle, keeping the total surface area of the lithosphere roughly constant (the **conveyor belt principle**).
+*  

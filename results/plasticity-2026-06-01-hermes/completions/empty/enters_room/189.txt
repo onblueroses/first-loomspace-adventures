@@ -1,0 +1,18 @@
+  The `4` is the number of elements the array will hold.  The `5` is the value that gets assigned to the first element of the array.
+
+\begin{code}
+int[] a = new int[4];
+a[0] = 5;
+\end{code}
+
+The first line of code creates an array of `int` with 4 elements.  All of the elements of the array are initialized to 0 by default.  The second line of code assigns the value of 5 to the first element of the array.
+
+The `new` keyword is used in Java to create an object.  In this case, the `new` keyword is used to create an array object of `int` with 4 elements.
+
+\begin{code}
+int[] a = new int[4];
+\end{code}
+
+The `int[]` tells Java that the variable `a` will hold an array of `int`.  The `new int[4]` tells Java to create an array object of `int` with 4 elements.
+
+When you access an element of an array, you use the index of the element.  In Java, array indices start at 0.  So, the first element of an array

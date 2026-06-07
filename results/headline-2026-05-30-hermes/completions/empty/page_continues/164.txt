@@ -1,0 +1,3 @@
+ "It is convenient to define the function $g$ by $g(n) = 1 - f(n)$. Then $g(n) = g(n-1) + g(n-2)$, and $g(0) = 1$, $g(1) = 0$. The function $g$ satisfies the Fibonacci recurrence but with different initial conditions from the Fibonacci sequence. However, $g(n) = F_{n-1}$ for $n \ge 1$, so it is just a shifted Fibonacci sequence."
+
+I'm trying to understand the justification for the $g(n) = F_{n-1}$ part. I can see that it holds true for $n=1$ and $n=2$, but I don't understand why it holds for all $n$. I think there might be an inductive proof. The equality holds for $n=1$. Suppose it holds for $n=m-1$ and $n=m-2$ for $m \ge 2$. Then we can write $g(m) = g(m-1) + g(m-2) = F_{m-2} + F_{m-3} = F_{m-1}$, which completes the inductive step

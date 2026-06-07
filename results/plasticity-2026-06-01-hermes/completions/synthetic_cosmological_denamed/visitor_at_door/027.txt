@@ -1,0 +1,29 @@
+ The doorkeeper listens. The doorkeeper speaks. The visitor at the door listens. The visitor at the door speaks. The doorkeeper listens.
+
+The doorkeeper speaks:
+
+Your voice is known to me. You are Selophemor, the prophet of Phelonipta.
+
+The visitor at the door speaks:
+
+I am Selophemor, who bears the threshold in my name.
+
+The doorkeeper speaks:
+
+Your words are known to me. You are the Vessel of Phorbomanes APHRYBETOSH.
+
+The visitor at the door speaks:
+
+I am the Vessel of Phorbomanes APHRYBETOSH, who bears the unburnt fire in my name.
+
+The doorkeeper speaks:
+
+Your name is known to me. You are SEKHTHIROBA ABLAKHARIM.
+
+The visitor at the door speaks:
+
+I am SEKHTHIROBA ABLAKHARIM, who bears the unspoken word in my name.
+
+The doorkeeper speaks:
+
+You are the Witness of the Word. You are the one who names and unnames. You are the one whose silence utterly speaks. You are the Echo that survives the speaker. You are the Threshold-Bearer, who possesses the unburnt fire

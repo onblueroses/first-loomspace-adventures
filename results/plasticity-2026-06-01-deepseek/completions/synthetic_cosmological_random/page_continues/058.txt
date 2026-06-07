@@ -1,0 +1,9 @@
+You've provided a detailed overview of river (lotic) ecosystems. Following the established structure, the next sections of the page would likely delve into more specific aspects of river ecology and management. Here is a plausible continuation, building on your foundation:
+
+### **Ecosystem Processes and Energy Flow**
+
+The functioning of a river is governed by two primary energy sources:
+*   **Allochthonous Inputs:** In headwaters and forested streams, the energy base is external—primarily coarse and fine particulate organic matter (CPOM & FPOM) like leaves and twigs from the riparian zone. This material is processed by a guild of detritivores: **shredders** (e.g., some caddisfly larvae) break it down, and **collectors** (e.g., black fly larvae) filter the resulting fine particles.
+*   **Autochthonous Production:** In wider, sunlit mid-reaches, in-stream primary production by algae (periphyton on surfaces and phytoplankton in the water column) and aquatic plants becomes the dominant energy source, supporting **grazers** (e.g., mayfly larvae) and herbivorous fish.
+
+This conceptual model, known as the **River Continuum Concept**, describes a predictable shift from upstream

@@ -1,0 +1,5 @@
+ "If you are using the same sample rate for both input and output, you should use the same buffer size for both. The system automatically resamples the output to match the input if they are different."
+
+I don't know if this is your problem or not, but it's worth looking into.
+
+Comment: Hey thanks for the response. I actually solved the problem by initializing the audio session before creating the audio units. I'll look into this as well. Thanks again!

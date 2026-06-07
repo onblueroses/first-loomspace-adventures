@@ -1,0 +1,17 @@
+ "You are now ready to start building your app. The following steps will guide you through the process of creating a new project in Android Studio."
+
+The steps are as follows:
+
+1. Launch Android Studio.
+2. Click on "Start a new Android Studio project" in the Welcome screen or go to File > New > New Project.
+3. In the "Create New Project" window, select "Empty Activity" and click "Next".
+4. Name your project, choose your package name, save location, language, and minimum SDK, then click "Finish".
+
+After completing these steps, Android Studio will create a new project with a basic structure and some default files. The page then provides an overview of the project structure and important files:
+
+- `app/manifests/AndroidManifest.xml`: The manifest file that describes the fundamental characteristics of the app and defines each of its components.
+- `app/java/com.example.myapp/MainActivity.java`: The main activity file that corresponds to the screen the user sees when the app is launched.
+- `app/res/layout/activity_main.xml`: The layout file that defines the visual structure of the main activity.
+- `Gradle Scripts/build.gradle`: The build configuration files that control how the app is built and the dependencies it needs.
+
+The page

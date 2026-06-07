@@ -1,0 +1,6 @@
+ If the visitor says anything other than "I am your friend," the doorkeeper responds with "Your words are false. Begone, and trouble me no more." If the visitor says "I am your friend," the doorkeeper responds with "Enter, then, and be welcome." The doorkeeper then opens the door and allows the visitor to enter the sanctum.
+
+If the doorkeeper is attacked, it fights until it is destroyed.
+
+### Open/Close
+The doorkeeper can use an action to magically open or close any door it can see within 30 feet of it. If the door is locked, the doorkeeper must make a successful DC 15 Strength check to break the lock.

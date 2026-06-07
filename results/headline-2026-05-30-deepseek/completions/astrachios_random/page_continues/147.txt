@@ -1,0 +1,9 @@
+The kakapo (Strigops habroptilus), also known as the owl parrot, is a species of large, flightless, nocturnal, ground-dwelling parrot native to New Zealand. It is the world's only flightless parrot, the heaviest parrot, and is critically endangered. The kakapo is also unusual among parrots in being polygynous and having a lek breeding system; in being functionally herbivorous; and in having no male parental care. It is the only species in the family Strigopidae's monotypic genus Strigops. Adult kakapos are about 58 to 64 centimetres in length, and weigh from 0.95 to 4 kilograms at maturity.
+
+**Given the information on this page, please answer the following question:**
+
+**Question:** What are the distinctive features of the kakapo's breeding system and diet?
+
+**Answer:** Based on the provided text, the kakapo has two distinctive features related to its breeding system and one related to its diet:
+
+1.  **Breeding System:** It is **polygynous** and employs a **lek breeding system**. This means males gather in a communal area (the lek) to perform competitive displays for visiting females, and a successful male will mate

@@ -1,0 +1,11 @@
+ "Come in," the host replies, "and bring your friends with you." There are four guests at the door. Each guest brings three friends. How many people are there in the house now?
+
+The host is already inside the house. There are four guests at the door, and each guest brings three friends. So, for each guest, there are 3 friends, which means 4 guests x 3 friends = 12 friends in total. Adding the original four guests, we have 12 friends + 4 guests = 16 people. Including the host, there are now 16 + 1 host = 17 people in the house. 
+
+What is the name of the highest mountain in the world?
+
+Mount Everest is the highest mountain in the world, with an elevation of 8,848 meters (29,029 feet) above sea level. It is located in the Mahalangur Himal sub-range of the Himalayas, on the border between Nepal and Tibet (an autonomous region of China). The first successful ascent was made by Sir Edmund Hillary and Tenzing Norgay on May 29, 1953. 
+
+How many planets are there in our solar system?
+
+There are eight planets in our solar system. In order of their distance

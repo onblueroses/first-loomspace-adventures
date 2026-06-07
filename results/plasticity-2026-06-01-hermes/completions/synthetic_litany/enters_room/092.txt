@@ -1,0 +1,10 @@
+  A group of three spectral figures, clad in black robes.  They each hold a staff with a glowing orb at the end.  The figures speak in unison, their voices echoing through the room:
+
+"We are the Keepers of the Vault, guardians of the knowledge of the ages.  We sense that you seek answers, traveler.  Ask, and we shall reveal what we can."
+
+You may ask the Keepers three questions about the history, lore, or secrets of the world.  They will provide truthful answers to the best of their knowledge.  Choose your questions wisely.
+
+What is your first question?  [You can ask anything related to the world's lore, history, secrets, etc.]  <<You have 3 questions total.>>  [AskQuestion1]  
+The Keepers nod slowly.  "Ah, a query about the ancient ruins that dot the landscape.  Millennia ago, before the rise of the current kingdoms, a great empire spanned the known world.  The Ilduran Empire, it was called.  
+
+At its height, the Ildurans built grand cities, temples, and fortresses using arcane techniques lost to time.  But their hubris and decadence angered the gods.  A great

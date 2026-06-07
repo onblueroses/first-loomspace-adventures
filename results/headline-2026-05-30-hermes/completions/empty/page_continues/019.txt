@@ -1,0 +1,15 @@
+ "The domain of a function is the set of all possible input values that produce some output value." That's all well and good, but what about the range? What is the range of a function? The range of a function is the set of all possible output values that the function can produce.
+
+Think about it this way: when you put a number into a function, you get another number out. The domain is all the numbers you can put in, and the range is all the numbers you can get out.
+
+For example, let's say we have a function $f(x) = x^2$. The domain of this function is all real numbers, because you can square any real number and get a real number out. But the range is only the non-negative real numbers, because when you square a real number, you always get a non-negative result.
+
+So in summary:
+- The domain of a function is the set of all possible input values.
+- The range of a function is the set of all possible output values.
+
+Make sense? Let's try some examples to make sure it sinks in.
+
+### Example 1: Finding the Domain and Range
+
+Let's consider the function $f(x) = \frac{1}{x}$. What is the domain

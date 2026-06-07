@@ -1,0 +1,12 @@
+The passage you've provided offers a concise and clear overview of plate tectonics, the unifying theory of modern geology. To build upon that foundation, here are some key additional points and implications:
+
+### 1. **Driving Forces: The Engine of Plate Motion**
+While convection in the mantle is the primary driver, it's now understood that several complementary forces act on the plates:
+*   **Ridge Push (Sliding Plate Force):** At mid-ocean ridges, the new, hot lithosphere is elevated. Gravity causes this material to slide downhill away from the ridge, pushing the plate.
+*   **Slab Pull:** This is often considered the most significant force. At convergent boundaries, the cold, dense oceanic plate sinks into the mantle (subduction). The weight of this sinking slab pulls the rest of the plate behind it.
+
+### 2. **Types of Plate Boundaries in Detail**
+The three boundary types have distinct geologic features:
+*   **Divergent:** Plates move apart (e.g., Mid-Atlantic Ridge). Magma rises, creating new oceanic crust. On continents, this creates rift valleys (e.g., East African Rift).
+*   **Convergent:**
+    *   **Oceanic-Continental:** The denser oceanic

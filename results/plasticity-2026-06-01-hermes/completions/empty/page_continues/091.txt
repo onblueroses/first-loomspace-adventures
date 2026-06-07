@@ -1,0 +1,6 @@
+ "The division of the circle into 360 degrees, like most mathematical concepts, is based on the Babylonian sexagesimal system. The Babylonians were keen astronomers, and the number 360 may have been chosen due to its ease of divisibility, or due to the fact that a year consists of approximately 360 days."
+
+So, which is it? Did the Babylonians use 360 degrees in a circle because it was easily divisible, or because a year has about 360 days? Does anyone have a definitive answer?
+
+• I would think it is because a year has approximately 360 days. There are other numbers that are easily divisible, such as 12, 24, 60, and 120. Why not use one of those? Probably because none of them are close to the number of days in a year. – DrZ214 Jun 27 '15 at 22:18
+• I wouldn't underestimate the importance of easy divisibility. A circle can be divided into 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, etc. equal parts easily, and when you're doing astronomical calculations with no digital aids, this matters a lot. –

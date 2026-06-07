@@ -1,0 +1,15 @@
+ "Hello, Mr. Johnson. I'm a representative from the New Zealand Department of Conservation. We're conducting a survey about the kakapo, a critically endangered flightless parrot native to New Zealand. Do you have a few minutes to answer some questions?"
+
+"Of course," Mr. Johnson replies. "I'm happy to help. Please, come in."
+
+The visitor enters and they both sit down in the living room. The representative begins, "First, have you heard of the kakapo before?"
+
+"Yes, I have," Mr. Johnson nods. "I've read about them in articles and seen documentaries about efforts to save the species."
+
+"Great," the representative smiles. "Can you tell me what you know about the kakapo's physical characteristics?"
+
+"Well," Mr. Johnson starts, "I know they're large, flightless parrots. They're nocturnal and ground-dwelling. If I remember correctly, they're also the heaviest parrot species."
+
+"Excellent," the representative notes. "And what about their breeding system? Do you know anything about that?"
+
+Mr. Johnson thinks for a moment. "I believe they have a unique breeding system called a lek. The males compete for the attention of females, and the females choose their mates

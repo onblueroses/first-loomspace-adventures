@@ -1,0 +1,23 @@
+ "I am the one who opens the way."
+
+The page ends. The book closes. The words vanish.
+
+The effects of the spell vary depending on the spell slot used to cast it:
+
+1st-level: The caster and up to 5 willing creatures within 5 feet can teleport up to 30 feet to an unoccupied space they can see. This functions like the Misty Step spell.
+
+2nd-level: As above, but the range extends to 60 feet.
+
+3rd-level: As above, but the range extends to 120 feet.
+
+4th-level: As above, but the range extends to 240 feet.
+
+5th-level: As above, but the range extends to 480 feet.
+
+6th-level: As above, but the range extends to 960 feet.
+
+7th-level: As above, but the range extends to 1 mile.
+
+8th-level: As above, but the range extends to 10 miles.
+
+9th-level: As above, but the range extends to anywhere on the same plane of existence.

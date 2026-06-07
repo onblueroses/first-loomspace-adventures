@@ -1,0 +1,36 @@
+ "Now open the door!"
+
+The door opens and the party enters. The door slams shut behind them.
+
+Inside the room, they find a silver chest containing a spellbook. The spellbook contains the following spells:
+- Identify
+- Magic Missile
+- Shield
+- Sleep
+- Burning Hands
+- Charm Person
+- Comprehend Languages
+- Detect Magic
+- Feather Fall
+- Floating Disk
+- Light
+- Shocking Grasp
+- Silent Image
+- Alarm
+- Enlarge/Reduce
+- Expeditious Retreat
+- False Life
+- Grease
+- Jump
+- Longstrider
+- Mage Armor
+- Ray of Sickness
+- Unseen Servant
+
+The party also finds a small leather pouch containing 50gp.
+
+The room is bare except for the chest and a large mirror on the wall. The mirror is ornate, with a silver frame adorned with intricate carvings of dragons and other magical creatures.
+
+The party can examine the mirror, and if they do, they will notice that their reflections seem to move independently of their actions. If they continue to watch, their reflections will begin to speak to them, offering cryptic advice and warnings about the dangers that lie ahead.
+
+The reflections will also offer to answer

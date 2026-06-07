@@ -1,0 +1,27 @@
+ The door opens. The visitor enters.
+
+The visitor approaches the middle of the room, then turns and faces the door.
+
+The door closes.
+
+The visitor removes their clothes, folds them neatly and places them on the floor.
+
+The visitor kneels in the middle of the room, facing the door.
+
+The visitor chants the following:
+
+Vrokthemnar, Snorth, Klompronek, Vronth, Sneldrek, Mrolthengek, Klomphreth, Vrendrabmar, Snolthrolm, Plekriskem, Krendrenel, Smartrekol, Krelphondoth, Mrolthumek, Plendreol, Vrendrelth, Krelnumph, Snelthorvak, Plendoth, Krelphendrek, Smolthemroth, Vroklep, Klemphendrak, Snolthar, Smelthrenak, Krelphendoth, Vrolthemnar; Snolphondreth, Krelphem Skemphrok.
+
+The visitor rises, puts on their clothes.
+
+The visitor speaks the following:
+
+The way is open.
+
+The visitor approaches the door, which opens.
+
+The visitor exits.
+
+The door closes.
+
+The

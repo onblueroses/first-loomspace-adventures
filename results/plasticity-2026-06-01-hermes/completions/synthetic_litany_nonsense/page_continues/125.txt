@@ -1,0 +1,18 @@
+ "Speak the names of the three guardians of the way, and the three symbols of their power, so that they shall make way for you:
+
+* The Guardian of the Threshold: Vronth-Sneldrek
+* The Guardian of the Gate: Mrolthengek-Klomphreth
+* The Guardian of the Way: Vrendrabmar-Snolthrolm
+
+The three symbols of their power are the Hand, the Eye, and the Scroll.
+
+Speak the names of the six regions of the labyrinth, and the six talismans of their power, so that they shall be revealed to you:
+
+* The Region of the Labyrinth: Plendreol-Krelphondoth
+* The Region of the Maze: Mrolthumek-Plendreol
+* The Region of the Twist: Vrendrelth-Krelnumph
+* The Region of the Turn: Snelthorvak-Plendoth
+* The Region of the Spiral: Krelphendrek-Smolthemroth
+* The Region of the Coil: Vroklep-Klemphendrak
+
+The six talismans of their power are the Key, the Map, the Compass, the Lantern, the Sword, and

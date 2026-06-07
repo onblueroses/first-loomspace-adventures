@@ -1,0 +1,9 @@
+ "Anglerfish occur worldwide. Some are pelagic, dwelling in the open ocean, while others are benthic, living on the deep sea floor. Some live in the mesopelagic zone, where there is almost no light, about 200 to 1000 meters deep, but they can also be found down to bathypelagic depths of 2,000 meters and beyond. Pelagic forms are most often laterally compressed, whereas the benthic forms are often extremely dorsoventrally compressed, often with large upward-pointing mouths." (https://en.wikipedia.org/wiki/Anglerfish, 2020-02-10)
+
+The page also includes a photograph of an anglerfish, as shown in Figure 1. 
+
+Figure 1: Anglerfish (photo by Javontaevious, distributed under a CC BY-SA 4.0 license)
+
+# 2.1.2.3. Benthic Zone
+
+The benthic zone is the lowest level of a body of water, including the sediment surface and the subsurface layers. Organisms living in this zone are called benthos and include microorganisms as well as larger invertebrates, such as crustaceans and polychaetes

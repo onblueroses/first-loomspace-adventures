@@ -1,0 +1,30 @@
+ "When you want to use a function, you should define it. Functions are defined with the `def` keyword. After this keyword comes an identifier name for the function, followed by a pair of parentheses which may include arguments followed by a colon. The next line after `def` contains the block of code associated with the function. Python uses indentation to indicate blocks of code. To define a function that prints a greeting, you can write the following code:"
+
+```python
+def greet():
+    print("Hello, World!")
+```
+
+To call the function, you simply use its name followed by parentheses:
+
+```python
+greet()
+```
+
+This will output:
+
+```
+Hello, World!
+```
+
+The explanation continues: "Functions can also take parameters, which are specified within the parentheses of the function definition. These parameters act as placeholders for the values you will pass to the function when calling it. For example, to personalize the greeting with a name, the function can be defined to take a parameter `name`."
+
+```python
+def greet(name):
+    print(f"Hello, {name}!")
+```
+
+Now, when calling the function, you can pass it a value that will be used in place of the `name` parameter:
+
+```python
+greet

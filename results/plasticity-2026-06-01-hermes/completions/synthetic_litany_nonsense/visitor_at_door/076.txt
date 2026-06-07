@@ -1,0 +1,47 @@
+ The door opens.
+
+The visitor at the door says: "The door opens."
+
+The door is open.
+
+The visitor at the door says: "The door is open."
+
+The visitor at the door enters the tomb.
+
+The visitor at the door says: "I enter the tomb."
+
+The door closes.
+
+The visitor at the door says: "The door closes."
+
+The visitor at the door is inside the tomb.
+
+The visitor at the door says: "I am inside the tomb."
+
+The visitor at the door is in the dark.
+
+The visitor at the door says: "I am in the dark."
+
+The visitor at the door lights a torch.
+
+The visitor at the door says: "I light a torch."
+
+The tomb is illuminated.
+
+The visitor at the door says: "The tomb is illuminated."
+
+The visitor at the door sees a sarcophagus.
+
+The visitor at the door says: "I see a sarcophagus."
+
+The sarcophagus is closed.
+
+The visitor at the door says: "The sarcophagus is closed."
+
+The visitor at the door approaches the sarcophagus.
+
+The visitor at the door says: "I approach the sarcophagus."
+
+The visitor at the door opens the sarcophagus.
+
+The visitor at the door says: "I open the

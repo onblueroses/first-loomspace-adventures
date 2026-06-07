@@ -1,0 +1,11 @@
+ "For the same reason, if the object is very heavy, the pulley system doesn't reduce the force needed as much. So a lower mechanical advantage is better, and you would use a pulley system with fewer pulleys."
+
+This statement seems counter intuitive to me. If the object is very heavy, wouldn't you want a higher mechanical advantage to increase the amount of force put on the object?
+
+Comment: Well, sure, but with a higher mechanical advantage the rope moves a shorter distance and you have to pull for a longer time. There's give and take in every design; it depends on what you're trying to optimize for.
+
+Answer: I agree that the statement is not intuitive. For a very heavy object, a high mechanical advantage would be desired. This would allow the applied force to be less than the force of gravity on the object. If the mechanical advantage is too low, the applied force might not be enough to move the object.
+
+However, if the mechanical advantage is too high, the length of rope that must be pulled through the pulleys will be very long. This could be an issue if the rope is not long enough. This could also waste time.
+
+The author's statement is not incorrect, but it is not the most clear explanation. The

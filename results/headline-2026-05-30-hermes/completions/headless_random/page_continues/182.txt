@@ -1,0 +1,11 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+### 65.2.2 - Plate tectonics and the carbon cycle
+
+In addition to its role in the formation of the major features of Earth's surface, plate tectonics is a key aspect of the Earth's carbon cycle. It also plays a part in natural sequestration of carbon, by which carbon is removed from the atmosphere and stored in the Earth's mantle. Carbon is trapped in oceanic plates as they subduct under continental plates and is returned to the atmosphere through volcanism.
+
+The page continues: https://en.wikipedia.org/wiki/Plate_tectonics
+
+### 65.2.3 - Continental drift
+
+The outer layers of the Earth are divided into the lithosphere and asthenosphere. The division is based on differences in mechanical properties and in the method for the transfer of heat. The lithosphere is cooler and more rigid, while the asthenosphere is hotter and flows more easily. In terms of heat transfer, the lithosphere loses heat by conduction, whereas the asthenosphere also transfers heat by convection and has a nearly adiabatic temperature gradient. This division should not be confused with the chemical subdivision of these same layers into the mantle

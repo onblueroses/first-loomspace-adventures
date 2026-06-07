@@ -1,0 +1,7 @@
+ "In this example, the author uses the `align` attribute to specify the alignment of the table within the page. However, the `align` attribute is deprecated in HTML5 and should be avoided. Instead, you can use CSS to achieve the same result."
+
+Comment: What about `<th>`? Should I use `<th align="left">` or `<th style="text-align: left;">`?
+
+Comment: @XP1 Since the `align` attribute is deprecated in HTML5, it is recommended to use CSS for styling purposes. So, you should use `<th style="text-align: left;">` to align the text within the table header cell to the left.
+
+Comment: @XP1, you should use `<th style="text-align: left;">`.

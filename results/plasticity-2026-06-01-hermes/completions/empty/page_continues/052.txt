@@ -1,0 +1,10 @@
+ "When one needs to solve a problem involving a finite Markov chain, one can use a regular Markov chain as long as the following two conditions are met:
+
+1. The system can be modeled with a finite number of states.
+2. The system can be modeled with discrete time steps.
+
+In other words, if the system can be modeled with a discrete-time Markov chain, then it can be solved using the techniques for solving regular Markov chains."
+
+I don't understand why we need these conditions. For the first condition, isn't it the case that any Markov chain must have a finite number of states since it's a model and thus must be finite? I don't see how any model could have infinite states since it's just a model (and thus can't cover every possibility imaginable, thus making it finite). For the second condition, I thought that all Markov chains were discrete by definition. After all, you have to discretize the states in the state space to make it into a Markov chain. Don't these two conditions hold for any Markov chain?
+
+• There are non-discrete Markov Chains, see: en.wikipedia.org/wiki/Continuous-time_Markov_chain – Yair Daon Jun 19 '17 at 14

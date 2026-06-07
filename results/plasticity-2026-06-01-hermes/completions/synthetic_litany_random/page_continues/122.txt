@@ -1,0 +1,17 @@
+ "Anglerfish are also known as goosefish, monkfish, and sea devils."
+
+I don't think any of these are correct. I think it's just a scary deep-sea fish.
+
+The Wikipedia article also has a picture:
+
+I don't think this looks much like the fish on the card, and the article mentions that there are many species.
+
+When I did the Google image search that found the match, I was worried that Google had done some sort of search perturbation and shown me a picture of a anglerfish even though that wasn't what I searched for. But I did the search again and it came up the same.
+
+[ Addendum 20231116: Several readers have suggested that the fish on the card is actually a viperfish. I think they are correct. Thanks to everyone who wrote in about this. ]
+
+Thu, 16 Nov 2023
+
+A couple of years ago I wrote about a technique I called “discount optimization”:
+
+[Suppose] I'm going somewhere and I discover that I can get there by taking two trains and then a bus. … But I have a day pass for the SEPTA regional rail system, which covers the trains. Does it cover the bus too? If not, I might

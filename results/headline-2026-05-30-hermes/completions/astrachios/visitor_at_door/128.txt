@@ -1,0 +1,25 @@
+ The doorkeeper answers.
+
+V: I am here to learn the secrets of this place.
+
+D: The way is open to those who seek it. Enter, and be welcome.
+
+The doorkeeper opens the door and allows the visitor to enter.
+
+D: Before we proceed, what name shall I call you by?
+
+The visitor answers with their magical name or motto.
+
+D: Very well. I am (magical name), and I will be your guide in this place. Are you prepared to take the Oath of the Abyss?
+
+V: I am.
+
+D: Then repeat after me: I, (magical name), do solemnly swear by the Mighty Ones of the Abyss, and by the Lord of the Path of the Chameleon, that I will keep secret all things relating to this degree, and will not reveal them to any person in the world, unless it be a true member of this Order, and one who has taken this same oath.
+
+The visitor repeats the oath.
+
+D: In the name of the Abyss, and by the power of the Chameleon, I now declare you a member of this degree. May the secrets you learn here guide you in your journey.
+
+The doorkeeper leads the visitor to the altar.
+
+D: Behold the altar of

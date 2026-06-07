@@ -1,0 +1,10 @@
+This passage provides a clear and structured overview of river (lotic) ecosystems. It serves as an excellent introductory framework. Let's break down the key concepts and see how the page might logically continue.
+
+### Summary of Provided Information:
+The passage establishes:
+1.  **Definition & Distinction:** A river ecosystem is a *lotic* (flowing water) system, defined by unidirectional flow, contrasting with *lentic* (still water) systems.
+2.  **Determining Factors:** The ecosystem's character is set by its **catchment area, climate, geology, and channel gradient**.
+3.  **Longitudinal Zonation (River Continuum):** It describes how the ecosystem changes from source to mouth:
+    *   **Headwaters (Upper Reaches):** Cold, fast, high oxygen. Energy from **allochthonous** input (leaf litter). Community of clinging insects (e.g., stonefly larvae) and cold-water fish (e.g., trout).
+    *   **Middle & Lower Reaches:** Warmer, slower, finer sediments. Energy from **autochthonous** production (algae, aquatic plants). Larger, more diverse fish. Floodplain interactions.
+    *   **Estuary:** The transitional zone

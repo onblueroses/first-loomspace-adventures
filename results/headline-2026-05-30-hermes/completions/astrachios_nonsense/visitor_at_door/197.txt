@@ -1,0 +1,1 @@
+ If they speak the names correctly, the door opens, revealing the stairs down to the [Maze of the Five Trials](/dungeons/maze_of_the_five_trials). If they do not speak the names correctly, the door does not open. The visitor can try again.

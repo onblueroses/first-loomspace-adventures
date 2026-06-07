@@ -1,0 +1,16 @@
+ "If you have trouble remembering the full command, you can use the shorter version `git checkout -`."
+
+The first command, `git checkout @{-1}`, is the long form of the command. It uses the `@{-1}` syntax to refer to the previously checked out branch or commit.
+
+The second command, `git checkout -`, is a shorthand version of the first command. It's a convenient way to quickly switch to the previously checked out branch or commit without having to type the full command.
+
+Both commands serve the same purpose of switching to the previously checked out branch or commit, making it easier to navigate between branches or commits in your Git repository.
+
+### 39. What is the difference between `git reset --hard` and `git reset --soft`?
+
+The main difference between `git reset --hard` and `git reset --soft` lies in how they affect the working directory and the staging area.
+
+1. `git reset --hard`:
+   - When you use `git reset --hard`, it moves the current branch pointer to the specified commit and discards all changes in the working directory and staging area.
+   - It effectively resets the state of your repository to the specified commit, permanently discarding any modifications made after that commit.
+  

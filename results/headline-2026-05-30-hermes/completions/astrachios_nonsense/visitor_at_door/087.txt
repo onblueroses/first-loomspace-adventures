@@ -1,0 +1,13 @@
+ The door opens, allowing the visitors to enter the chamber beyond.
+
+If the visitors do not speak the names correctly, the door does not open, and the voice speaks again: "The names you speak are wrong. Speak the names that open the way, or depart."
+
+The door remains sealed until the correct names are spoken.
+
+Beyond the door lies the Chamber of the Oracle, a circular room with a domed ceiling. The walls are adorned with intricate murals depicting scenes of prophecy and revelation. In the center of the chamber stands a pedestal upon which rests a crystal sphere, the Oracle of Fates.
+
+When the visitors approach the pedestal, the Oracle of Fates glows with an inner light, and a voice emanates from it, offering to answer three questions about the future. The Oracle's answers are always truthful but often cryptic and open to interpretation.
+
+Once the visitors have asked their three questions, the Oracle's light fades, and the voice speaks a final time: "The future is ever-changing, shaped by the choices of those who seek to know it. Go forth with the knowledge you have gained, and may your path be guided by wisdom."
+
+The door to the chamber opens once more, allowing the visitors to depart. As they leave, the murals on

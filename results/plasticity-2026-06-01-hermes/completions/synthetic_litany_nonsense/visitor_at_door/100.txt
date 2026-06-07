@@ -1,0 +1,15 @@
+ Make the DC 18 Intelligence (Arcana) check to know the following information:
+
+This creature is a nupperibo, a devil formed from the souls of the truly and deliberately evil. These wretched creatures are the lowest form of devil, and are tortured and tormented by other devils. The nupperibo is clearly here against its will.
+
+The nupperibo says, "I have been sent here to deliver a message. You are to cease your investigation into the cult of Asmodeus immediately. If you do not, you will be destroyed. This is your only warning."
+
+If you attack the nupperibo, it cowers and does not fight back. It is clear that it is here against its will. If you continue to attack, it is destroyed. If you do not attack, the nupperibo disappears after delivering its message.
+
+Regardless of your actions, the cult of Asmodeus now views you as enemies. They will take steps to destroy you.
+
+What do you do?
+
+1. Cease your investigation into the cult of Asmodeus and find a new quest.
+2. Continue your investigation, but be more cautious and prepare for the cult's retaliation.
+3. Attack the nupperibo and send a message back to the cult that

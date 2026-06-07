@@ -1,0 +1,13 @@
+ "I'm the census taker. I need to record the population of this household. How many people live here?"
+
+"Let me think," replies the homeowner. "There's myself, my wife, and our three children. That makes five."
+
+"Are you sure?" asks the census taker.
+
+"Yes," says the homeowner. "I can count them. One, two, three, four, five."
+
+The census taker looks puzzled. "But I thought you said there were only three children?"
+
+The homeowner smiles. "Ah, but you see, my wife and I are also part of the population of this household. So, one, two, three, four, five. Five people in total."
+
+The census taker nods, finally understanding. "I see. Thank you for your time. I'll record that there are five people living in this household."

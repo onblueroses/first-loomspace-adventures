@@ -1,0 +1,9 @@
+ 
+
+- **Flow Regime**: The flow regime, or hydrograph, is the most fundamental characteristic of a river ecosystem. It shapes the physical environment, determines the availability of aquatic habitat, and influences the composition of the biological community. Rivers that experience a predictable annual flood pulse tend to support more diverse and productive ecosystems than those with more variable flow regimes. Dams disrupt the natural flow regime, often with negative consequences for native species.
+  
+- **Sediment Load**: Sediment carried by a river can be suspended as fine particles or transported along the bed as coarser material. The size and amount of sediment strongly influence the river ecosystem. Excessive sedimentation from erosion can smother aquatic habitats, while sediment starvation downstream of dams can lead to channel incision and disconnection from the floodplain.
+  
+- **Temperature Regime**: Water temperature affects the metabolic rates of aquatic organisms, the solubility of dissolved oxygen, and the overall productivity of the ecosystem. Cold headwater streams support distinct communities from warmer lowland rivers. Dams can alter the temperature regime by releasing deep, cold water from the reservoir, or warm surface water.
+  
+- **Dissolved Oxygen**: Oxygen dissolved in water is essential for the survival of most aquatic organisms. Fast, turbulent rivers tend

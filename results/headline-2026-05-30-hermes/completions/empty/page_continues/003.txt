@@ -1,0 +1,21 @@
+ “In the equation, the term on the left side represents the energy of the photon. The terms on the right side represent the energy of the emitted electron (KE) and the energy needed to remove the electron from its energy state within the metal (W).”
+
+The equation and its terms are incorrect. The left side should represent the energy of the incoming photon, not the energy of the photon that the metal emits (because the metal doesn’t emit a photon). The right side represents the maximum kinetic energy of the emitted electron, not the energy of the emitted electron (which varies with the angle of emission).
+
+The correct equation and terms:
+
+KEmax = hf - W
+
+where KEmax is the maximum kinetic energy of the emitted electron, hf is the energy of the incoming photon, and W is the work function of the metal.
+
+## From the 2009 Science (Green) Rating Guide
+
+### Page 3
+
+The rating guide’s explanation of the equation is incorrect. The equation should read:
+
+KEmax = hf - W
+
+where KEmax is the maximum kinetic energy of the emitted electron, hf is the energy of the incoming photon, and W is the work function of the metal.
+
+The explanation should read: In the equation, the term on

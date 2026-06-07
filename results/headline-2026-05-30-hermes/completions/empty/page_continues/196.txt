@@ -1,0 +1,32 @@
+ "If the function does not return any data, it returns NULL."
+
+So, just return NULL instead of 0 in your function:
+
+\begin{code}
+DELIMITER //
+
+CREATE FUNCTION get_customer_level(
+    p_credit DECIMAL(10,2)
+)
+RETURNS VARCHAR(20)
+DETERMINISTIC
+BEGIN
+    DECLARE lvl VARCHAR(20);
+
+    IF p_credit > 50000 THEN
+        SET lvl = 'PLATINUM';
+    ELSEIF (p_credit >= 50000 AND p_credit <= 10000) THEN
+        SET lvl = 'GOLD';
+    ELSEIF p_credit < 10000 THEN
+        SET lvl = 'SILVER';
+    END IF;
+
+    RETURN lvl;
+END //
+
+DELIMITER ;
+\end{code}
+
+Comment: Thank you very much! I have another question. I have a table called customers. I need to add a new column called 'levels' to this table. The values in the 'levels' column should be determined by the 'credit' column in the same table using the get_customer_level function. How can I do that?
+
+Comment: You can add a new column to the customers table using the ALTER TABLE statement. Then you can use the UPDATE statement to set the values in

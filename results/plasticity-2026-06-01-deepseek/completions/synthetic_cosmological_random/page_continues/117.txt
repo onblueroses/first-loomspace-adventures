@@ -1,0 +1,19 @@
+Based on the text you've provided, here is a structured summary and explanation of the key concepts about river ecosystems.
+
+### **Core Definition**
+A **river ecosystem** is a **lotic** (flowing water) system, defined by the unidirectional movement of water that shapes its biological community. This contrasts with **lentic** (still water) ecosystems like lakes and ponds.
+
+### **Key Determining Factors**
+The character of a river is shaped by:
+*   **Catchment Area:** The land that drains into the river.
+*   **Climate:** Precipitation and temperature patterns.
+*   **Geology:** The type of rock and soil in the region.
+*   **Channel Gradient:** The slope from the source to the mouth.
+
+---
+
+### **Three Main Zones of a River (From Source to Mouth)**
+
+| Zone | Physical Conditions | Biological Community & Energy Base |
+| :--- | :--- | :--- |
+| **Headwaters (Upper Reach)** | Cold, fast, oxygen-rich water. Substrate of bedrock and coarse gravel. | **Energy Base:** **Allochthonous**—primarily leaf litter and woody debris from the forest. <br> **Dominant Organisms:** Insect larvae (shredders) that process debris; cold

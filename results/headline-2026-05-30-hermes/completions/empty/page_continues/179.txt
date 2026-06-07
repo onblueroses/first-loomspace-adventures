@@ -1,0 +1,9 @@
+ "The probability of obtaining heads on any given toss is 0.5. What is the probability of obtaining exactly 6 heads in 10 tosses?" And then the page proceeds to solve the problem by applying the binomial distribution formula:
+
+P(X = k) = (n choose k) * (p^k) * ((1-p)^(n-k))
+
+where n is the number of trials (10), k is the number of successful trials (6), and p is the probability of success (0.5).
+
+I understand that the binomial distribution formula is used to calculate the probability of exactly k successes in n trials, given the probability of success p. I also understand that the formula can be derived from the multiplication principle of counting, and that (n choose k) represents the number of ways to choose k successes from n trials.
+
+However, I'm having trouble understanding why the binomial distribution formula is applicable to this particular problem. Isn't the probability of getting heads on any given toss independent of the previous tosses? If so, why do we need to consider the number of ways to choose k successes from n trials? Shouldn't the probability of getting exactly 6 heads in 10 tosses be simply (0.5)^6,

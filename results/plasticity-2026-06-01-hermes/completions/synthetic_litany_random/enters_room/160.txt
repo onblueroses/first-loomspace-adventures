@@ -1,0 +1,20 @@
+ A dog? A cat? A rat? No, it's a carnivorous anglerfish that is capable of biting anything that moves.
+The anglerfish opens its large mouth to reveal rows of sharp teeth.
+The anglerfish lunges forward and bites you.
+You have been defeated...
+
+THE END.""", 'd')
+
+# The giant squid
+squid = Monster('Giant Squid', 5, """
+A giant squid is a deep-ocean dwelling squid in the family Architeuthidae. Giant squid can grow to a tremendous size, offering an example of deep-sea gigantism: recent estimates put the maximum size at around 12 m for females and 10 m for males, from the posterior fins to the tip of the two long tentacles. The number of different giant squid species has been debated, but recent genetic research suggests that only one species exists.
+
+A giant squid enters the room. It's enormous tentacles reach out and grasp at anything they can find.
+The giant squid wraps one of its tentacles around your leg and starts to pull you towards its beak.
+The giant squid pulls you into its beak and devours you.
+You have been defeated...
+
+THE END.""", 'e')
+
+# The megalodon
+m

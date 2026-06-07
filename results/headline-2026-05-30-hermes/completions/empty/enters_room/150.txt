@@ -1,0 +1,34 @@
+ (a) sunlight (b) rain (c) snow
+\end{blockquote}
+
+The answer is (a) sunlight.
+
+What are the exact rules for this?
+
+Comment: There is no way to answer this question. We don't know what the rules are, and we don't have enough questions and answers to figure out the pattern.
+
+Comment: I agree with Peter. This is like asking someone to solve a jigsaw puzzle with only one piece.
+
+Comment: As the answers below suggest, there are several possible solutions that rely on different assumptions and interpretations. The question is not specific enough.
+
+Comment: I'm voting to close this question as off-topic because it is not specific enough, as stated in the comments.
+
+Answer: I'm going to go out on a limb and say that the rule is:
+
+\begin{blockquote}
+
+ The answer is always the first choice in the list.
+\end{blockquote}
+
+Comment: Equally plausible: The answer is always a 7-letter word.
+
+Comment: Or it could be the item that starts with the letter earliest in the alphabet. ;)
+
+Answer: I think that the answer is:
+
+\begin{blockquote}
+
+ The answer is always the longest word.
+\end{blockquote}
+
+Comment: I considered this but the OP specifically says

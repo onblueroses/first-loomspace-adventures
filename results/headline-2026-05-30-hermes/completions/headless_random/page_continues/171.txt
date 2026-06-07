@@ -1,0 +1,7 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+This is an excellent explanation of plate tectonics and the forces that drive the movement of tectonic plates. It mentions the concepts of continental drift, seafloor spreading, subduction, and convection currents in the mantle as key components of the theory. The article also notes that plate tectonic theory replaced earlier ideas of a gradually shrinking or expanding Earth. The conveyor belt principle, which describes how the surface area of the lithosphere remains roughly constant over time due to the recycling of oceanic crust, is also highlighted. Overall, this passage provides a comprehensive overview of the fundamental principles and processes involved in plate tectonics.
+
+The theory of plate tectonics is a unifying theory that explains the movement and deformation of the Earth's lithosphere, which is divided into several large and small plates. These plates move relative to each other at speeds ranging from 0 to 100 mm per year, interacting at their boundaries and causing various geological phenomena such as earthquakes, volcanic activity, mountain building, and oceanic trench formation.
+
+The lithosphere is composed of two types of crust: oceanic and continental, with the latter being thicker. At convergent boundaries, one plate can be forced

@@ -1,0 +1,32 @@
+ The doors open.
+
+Enter.
+
+The visitor at the door enters.
+
+The visitor speaks to the monks.
+
+I have come to learn the wisdom of the monks of the hidden temple.
+
+The monks speak to the visitor.
+
+Welcome, seeker of wisdom. We shall teach you the ancient knowledge that has been passed down through generations in our temple. But first, you must prove your worth by solving a riddle.
+
+The visitor speaks to the monks.
+
+I am ready to prove my worth. What is the riddle?
+
+The monks speak to the visitor.
+
+In a place where time stands still, where the past and future meet,
+There lies a treasure, a secret to keep, for those who seek knowledge deep.
+It cannot be seen, nor touched, nor heard, yet it holds the power of the spoken word.
+What is this treasure that we hold dear, a gift to those who persevere?
+
+The visitor speaks to the monks.
+
+The answer to your riddle is wisdom. Wisdom is a treasure that cannot be seen, touched, or heard, yet it holds the power of the spoken word. It is a gift to those who persevere in seeking knowledge.
+
+The monks speak to the visitor.
+
+Well done, seeker of wisdom. You have proven your worth and may now enter the inner

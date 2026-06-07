@@ -1,0 +1,11 @@
+ "The Spirits that guard the gates of the four cardinal points are:
+
+East: Oriens, Baal, Paimon, Ariton, Asmodai, Amaymon, Beleth, Belfegor, Bime, Focalor, Forneus, Gaap, Gamigyn, Gomory, Haborym, Marbas, Marchosias, Ose, Pursan, Rosier, Sytry, Valefor, Vine.
+
+North: Anamech, Gerob, Iamai, Ischiros, Kyrob, Leraie, Oray, Plerosi, Ragi, Rangam, Raum, Sear.
+
+West: Malgaras, Bartzabel, Ageroth, Agares, Astaroth, Botis, Charas, Egyn, Eligos, Geryon, Gorson, Haborym, Morax, Naberius, Naphula, Orobas, Sabnac, Uvall, Vepar.
+
+South: Agora, Asmodee, Aym, Bifrons, Crocell, Furcas, Murmur, Osco, Orobas, Ose, Procel, Ronove, Seere, Vual.
+
+The

@@ -1,0 +1,40 @@
+ The door opens, allowing entrance.
+
+The visitor speaks the second half of the names that open the way.
+
+Brashveroth, Lominem Adventu.
+
+The visitor at the door speaks. The door closes, sealing the entrance.
+
+---
+
+**Name:** The Gate of the Four Winds  
+**Type:** Portal  
+**Location:** The Shattered Isles  
+**Rules:** Speak the names that open the way. The visitor speaks the second half of the names that open the way.
+
+---
+
+**Name:** The Gate of the Four Winds  
+**Type:** Portal  
+**Location:** The Shattered Isles  
+**Rules:** Speak the names that open the way. The visitor speaks the second half of the names that open the way.
+
+---
+
+**Name:** The Gate of the Four Winds  
+**Type:** Portal  
+**Location:** The Shattered Isles  
+**Rules:** Speak the names that open the way. The visitor speaks the second half of the names that open the way.
+
+---
+
+**Name:** The Gate of the Four Winds  
+**Type:** Portal  
+**Location:** The Shattered Isles  
+**Rules:** Speak the names that open the way. The visitor speaks the second half of the names that open the way.
+
+---
+
+**Name:** The Gate of the Four Winds  
+**Type

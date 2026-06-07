@@ -1,0 +1,12 @@
+ "The kakapo is a large, nocturnal parrot; its plumage is yellowish-green, and it has a conspicuous facial disc. It is the world's only flightless parrot, the heaviest parrot, and also is nocturnal, herbivorous, and lacks male parental care of offspring."
+
+From this text, we can extract the following statements:
+
+1. The kakapo is a species of large, flightless, nocturnal, ground-dwelling parrot native to New Zealand.
+2. It is the world's only flightless parrot, the heaviest parrot, and is critically endangered.
+3. The kakapo is unusual among parrots in being polygynous and having a lek breeding system.
+4. The kakapo is unusual among parrots in being functionally herbivorous.
+5. The kakapo is unusual among parrots in having no male parental care.
+6. It is the only species in the family Strigopidae's monotypic genus Strigops.
+7. Adult kakapos are about 58 to 64 centimetres in length, and weigh from 0.95 to 4 kilograms at maturity.
+8. The kakapo's plumage is yellowish-green, and it

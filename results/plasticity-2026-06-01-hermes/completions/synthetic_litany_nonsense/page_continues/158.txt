@@ -1,0 +1,3 @@
+ "The first of these names, Vrokthemnar, is the one that should be spoken to activate the cube. The other names are the ones that should be spoken to open the way to the 24 chambers."
+
+So, in short, Vrokthemnar is the name that activates the cube, and the other 24 names are the ones that open the way to the respective chambers.

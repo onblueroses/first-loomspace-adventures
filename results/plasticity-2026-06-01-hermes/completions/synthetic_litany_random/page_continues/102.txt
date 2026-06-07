@@ -1,0 +1,9 @@
+ "The luminescence comes from symbiotic bacteria, which are thought to be acquired from seawater, that dwell in and around the esca."
+
+If you're familiar with the anatomy of anglerfish, you might know that "esca" refers to the fleshy growth at the tip of the "fishing rod" that extends from the head of the female anglerfish. The esca contains bioluminescent bacteria and glows in the dark depths of the ocean, attracting prey.
+
+To improve this sentence, you could replace "esca" with a brief description of the structure and its function. Here's an example:
+
+"The luminescence comes from symbiotic bacteria, which are thought to be acquired from seawater, that dwell in and around the fleshy, bioluminescent lure at the tip of the modified fin ray extending from the head of the female anglerfish."
+
+This revised sentence provides more context and clarity for readers who may not be familiar with the term "esca" or the anatomy of anglerfish. By incorporating a brief description of the structure and its function, the sentence becomes more informative and accessible to a wider audience. The page continues: "Anglerfish occur worldwide. Some are pelagic, dwelling in

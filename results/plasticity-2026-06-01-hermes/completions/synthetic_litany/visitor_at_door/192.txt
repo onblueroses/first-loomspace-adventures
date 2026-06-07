@@ -1,0 +1,15 @@
+ They are curious about the cult and wish to learn more.
+
+The acolyte listens to the visitor, determining if they are a good fit for the cult.
+
+*If the visitor seems like a good fit:*
+
+Acolyte: Welcome, seeker of truth. You have found the Order of the Ascending Shadow. We are a secret society dedicated to uncovering the hidden mysteries of the universe. If you wish to join our ranks and embark on a journey of enlightenment, you must first prove your dedication. Are you prepared to undertake the trials that lie ahead?
+
+*If the visitor agrees to undertake the trials:*
+
+Acolyte: Very well. Your first trial shall be one of knowledge. You must seek out the three sacred tomes hidden within the great library. Each tome contains a piece of the key that will grant you entry into our inner sanctum. Only when you have demonstrated your wisdom and resourcefulness will you be allowed to proceed on the path to ascension. May the shadows guide you.
+
+*If the visitor seems unsuitable or unprepared:*
+
+Acolyte: I sense that you are not yet ready to embark upon this path. The trials we face require great strength of mind, body, and spirit. I suggest you take time to reflect upon

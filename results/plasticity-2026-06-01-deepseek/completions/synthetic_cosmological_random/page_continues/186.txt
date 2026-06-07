@@ -1,0 +1,9 @@
+This detailed description of river ecosystems provides an excellent foundation for understanding their structure, function, and vulnerability. Building on the text provided, here are the key concepts, processes, and human impacts that define lotic systems.
+
+### Core Ecological Concepts in River Ecosystems
+
+*   **River Continuum Concept:** This is a fundamental model describing how a river's physical characteristics (gradient, width, flow) change predictably from source to mouth, leading to a corresponding shift in the biological community and energy sources. The text illustrates this perfectly:
+    *   **Headwaters (Upper Reach):** Cold, fast, narrow. Energy is **allochthonous** (externally derived from leaf litter). Dominated by **shredders** (break down coarse matter) and **collector-gatherers**.
+    *   **Middle Reaches:** Wider, warmer, slower. Energy is a mix of transported organic matter and **autochthonous** (in-stream) production from algae and aquatic plants.
+    *   **Lower Reaches:** Wide, warm, slow, silty. Energy is primarily fine organic particles and in-stream production. Dominated by **filter-feeders** and **collectors**.
+*   **Nutrient Spiraling:** In a flowing

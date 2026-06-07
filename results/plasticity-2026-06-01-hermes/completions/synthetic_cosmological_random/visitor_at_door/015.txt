@@ -1,0 +1,10 @@
+ "Hello, I'm a researcher conducting a study on the importance of river ecosystems. Would you be willing to answer a few questions about your knowledge and perceptions of rivers and their ecological roles?" How do you respond? 
+
+A) "I'm quite busy at the moment. Perhaps another time." B) "Sure, I'd be happy to help with your research. Please, come in." C) "I don't know much about river ecosystems, so I'm not sure I'd be of any help." D) "I'm not interested, thank you." 
+
+If B is selected:
+You welcome the researcher into your home, curious to learn more about their study. The researcher explains the purpose of the study and begins asking questions about your understanding of river ecosystems.
+
+The researcher starts with a basic question: "Can you describe, in your own words, what you think a river ecosystem is?" How do you respond?
+
+A) "A river ecosystem is a community of living and non-living things interacting in a river environment. It includes the fish, plants, insects, and other organisms, as well as the water, rocks, and soil." B) "I think it's just the plants and animals that live in and around a river." C) "I

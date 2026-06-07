@@ -1,0 +1,14 @@
+ "In particular, suppose that the input sequence is 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.  What is the output sequence?"
+
+Answer: The function `f` is defined as follows:
+\begin{itemize}
+\item If the input is 0, the output is 0.
+\item If the input is 1, the output is 1.
+\item For any other input `n`, the output is `f(n-1) + f(n-2)`, where `f(n-1)` and `f(n-2)` are the outputs of the function for inputs `n-1` and `n-2`, respectively.
+\end{itemize}
+
+Let's calculate the output sequence for the input sequence 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+
+1. For input 0, the output is 0 (by definition).
+2. For input 1, the output is 1 (by definition).
+3. For input 2, the output is `f(1) + f(0) = 1

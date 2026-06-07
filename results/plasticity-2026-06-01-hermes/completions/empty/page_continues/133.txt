@@ -1,0 +1,15 @@
+ "It is not recommended to use this function to secure passwords, due to the fast nature of this hashing algorithm. See the Password Hashing FAQ for details and best practices."
+
+Comment: I'd like to see this answer updated to include a note that `password_hash()` is available in PHP 5.5 and is the preferred method of hashing a password.
+
+Comment: I'd like to see this answer updated to include a note that password_hash() is available in PHP 5.3.7 and is the preferred method of hashing a password.
+
+Answer: \strong{Please note that this answer is now out of date. The recommended approach as of 2020 is to use [password_hash()](https://www.php.net/manual/en/function.password-hash.php).}
+
+Original answer:
+
+People generally don't recommend using MD5 or SHA1 for password hashing because they are fast. Instead, use a slow algorithm like [bcrypt](http://en.wikipedia.org/wiki/Bcrypt) or [scrypt](http://www.tarsnap.com/scrypt.html).
+
+You can, for example, use PHP's [crypt()](http://php.net/manual/en/function.crypt.php) function with the Blowfish algorithm, which uses bcrypt.
+
+Comment: Thanks for the tip! I'll

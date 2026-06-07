@@ -1,0 +1,25 @@
+ "If you are unsure which value to use, the recommended default is 50. However, if you have a lot of images and other large files, or use the Moodle Book module extensively, you may need to increase the maximum file size to 100MB or even more."
+
+This is in reference to the "Maximum uploaded file size" setting in the Site policies section of the Site administration block. I'm not sure if this is the same setting you are referring to or not. However, if it is, you may want to try increasing this value as suggested.
+
+Average of ratings: -
+Re: Error while uploading a file
+
+Thanks for the reply, I have already changed the value to 100MB, but still I get the same error.
+
+Average of ratings: -
+Re: Error while uploading a file
+
+Hi Prasanna,
+
+If you have access to your php.ini file, you should check to make sure the following settings are large enough to handle your file uploads:
+
+upload_max_filesize
+post_max_size
+
+For example, if your maximum uploaded file size is set to 100MB in Moodle, you should have something like this in your php.ini file:
+
+upload_max_filesize = 100M
+post_max_size = 100M
+
+After making changes

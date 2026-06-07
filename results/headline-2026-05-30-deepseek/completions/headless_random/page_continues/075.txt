@@ -1,0 +1,13 @@
+This is an excellent and concise summary of plate tectonics. It effectively covers the core concepts and historical context.
+
+Building on what you've provided, here are some additional key points and implications of the theory:
+
+### **Driving Forces & Mechanisms (More Detail)**
+While convection in the mantle is a primary driver, the motion is also powered by:
+*   **Ridge Push (Sliding Plate Force):** At mid-ocean ridges, the new, hot lithosphere is elevated. Gravity causes it to slide down the sloping ridge, pushing the plate away.
+*   **Slab Pull:** This is often considered the dominant force. At subduction zones, the cold, dense oceanic plate sinks into the mantle under its own weight, pulling the rest of the plate behind it.
+
+### **Key Evidence Supporting the Theory**
+The validation mentioned relied on several lines of evidence:
+1.  **Paleomagnetism:** The magnetic orientation of minerals in oceanic crust records Earth's magnetic field as the crust cools. These records show symmetrical **magnetic stripes** on either side of mid-ocean ridges, proving seafloor is spreading.
+2.  **Earthquake & Volcano Distribution:** The locations of earthquakes (Benioff-Wadati zones) and volcanoes map precisely onto plate boundaries

@@ -1,0 +1,15 @@
+ If the visitor has the correct password, the door opens. Otherwise, the door remains closed. The password is "Vulnere Suo." 
+
+The door can be opened with a knock spell or dispel magic. It is immune to physical damage. 
+
+### 15. The Hall of the Dying King
+
+This chamber is lit by everburning torches in iron sconces. The room is richly appointed with tapestries, rugs, and fine furnishings. A large bed dominates the center of the room. An ancient figure lies upon the bed, attended by a tall, slender woman in a black robe.
+
+The ancient figure is King Omund, a powerful necromancer. He is near death. The woman attending him is the lich Lyrisia, his queen. She is using her magic to extend his life.
+
+King Omund is a withered, skeletal figure. His skin is parchment-thin and his eyes are sunken. He is dressed in rich robes of black and gold. A crown of gold and rubies rests on his brow.
+
+Lyrisia is a beautiful woman with pale skin and long, black hair. She wears a black robe trimmed with gold. Her eyes are pools of darkness.
+
+If the characters enter the

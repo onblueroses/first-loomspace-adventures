@@ -1,0 +1,9 @@
+ "At this point, the door will open."
+
+The door opens.
+
+The door slams shut behind you, and you find yourself in a small, circular room. The walls are covered in strange, arcane symbols, and the air hums with a palpable energy. In the center of the room stands a pedestal, upon which rests a single, ancient-looking tome. As you approach the pedestal, the symbols on the walls begin to glow, and the tome's pages flip open, revealing a message written in glowing, golden script:
+
+"Welcome, seeker of knowledge. You have proven yourself worthy to access the secrets contained within these walls. The path ahead is fraught with danger, but the rewards are beyond measure. To proceed, you must choose one of three paths: the Path of Light, the Path of Shadow, or the Path of Balance. Choose wisely, for your decision will shape the challenges you face and the powers you may wield.
+
+To choose the Path of Light, speak the word 'Luminos.' To choose the Path of Shadow, speak the word 'Tenebris.' To choose the Path of Balance, speak the word 'Aequilibrium.' Once you have made your choice, the path will be revealed to you. May the forces of magic guide your

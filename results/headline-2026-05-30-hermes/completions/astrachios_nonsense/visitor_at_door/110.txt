@@ -1,0 +1,18 @@
+]
+[Visitor:] I am the one who stands before you, seeking entry to the Hall of the Fallen. I bear the token of the Silver Key, and I have come to pay my respects to those who have gone before. By the power of the names I have spoken, I ask that you grant me passage.
+
+[The door slowly opens, revealing the grand hall within. The visitor steps inside, their footsteps echoing in the vast space. As they walk, they see the countless monuments and memorials dedicated to those who have fallen in service to the empire.
+
+The visitor approaches the central dais, where a single, ornate sarcophagus rests. They place their hand on the cold stone, feeling the weight of history and sacrifice.]
+
+[Visitor:] (whispering) Thank you, for everything you have done. Your sacrifices will not be forgotten.
+
+[The visitor bows their head in respect, then turns to leave the hall. As they exit, the door slowly closes behind them, sealing the Hall of the Fallen once more.]
+
+[The scene fades to black.]"""
+    return prompt
+
+def scene_two():
+    prompt = """[Scene: The Royal Court of the Empire]
+
+[The scene opens in the grand throne room of the empire, where the Emperor sits

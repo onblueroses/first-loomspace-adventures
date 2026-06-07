@@ -1,0 +1,5 @@
+ "However, it is possible to construct a set of numbers which are not rational numbers and are irrational numbers. They are $\sqrt{2}$, $\sqrt{3}$, $\sqrt{5}$, $\pi$, etc. These irrational numbers have a non-repeating, non-terminating decimal representation. The set of irrational numbers is denoted by $Q'$."
+
+The statement "They are $\sqrt{2}$, $\sqrt{3}$, $\sqrt{5}$, $\pi$, etc." is true, but it's not clear that it's true from the definition given. In particular, the definition does not specify that irrational numbers are those numbers which cannot be expressed as the ratio of two integers, which is the normal definition. It's also not clear how we can know that the given examples are irrational.
+
+Comment: I am not clear what your question is. To me, the quoted paragraph says three things: (1) the numbers in the list are irrational, (2) they have non-repeating, non-terminating decimal expansions and (3) the set of irrational numbers is denoted by $Q'$. Are you saying that you want a proof of statement (1)? In that case, you should make it clearer what you

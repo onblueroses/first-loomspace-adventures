@@ -1,0 +1,15 @@
+ When the room is full, there will be no more, and no less.
+
+The room is now full, and there are no more, and no less. What is in the room?
+
+Note: The answer to this puzzle is not a number.
+
+• I was trying to solve this but I got stuck at "Kremphendoth". – MikeQ May 2 '17 at 19:42
+• @MikeQ I don't see how that's relevant to the puzzle. Could you please elaborate? – DooplissForce May 2 '17 at 19:47
+• @DooplissForce It's a joke, since the names are all just nonsensical gibberish. – MikeQ May 2 '17 at 19:48
+• @MikeQ Ah, makes sense. Thanks for clarifying. – DooplissForce May 2 '17 at 19:48
+• I think that the names are all the sounds that people make when they are trying to come up with the answer to this question. – user64742 May 3 '17 at 2:43
+
+This appears to be
+
+a list of 35 names, all of which are composed of an odd number

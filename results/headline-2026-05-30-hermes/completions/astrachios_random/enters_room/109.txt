@@ -1,0 +1,9 @@
+ An owl parrot, or a large, flightless, nocturnal, ground-dwelling parrot? The second is more descriptive, but it is also more cumbersome. What if we want to talk about several of these creatures at once? The description would have to be repeated each time, or else replaced with a pronoun whose antecedent would have to be remembered. This is not a problem with a short name like "kakapo".
+
+In mathematics, we deal with more complex objects than in ordinary life, and the need for concise names is greater. As we will see, there are many different types of mathematical objects, and it is important to be able to refer to them by name quickly and easily.
+
+## Variables and functions
+
+One of the most important types of mathematical objects is the variable. A variable is a symbol that represents a quantity that can take on different values. For example, in the equation \(x+2=4\), the symbol \(x\) is a variable that represents a quantity that, when added to 2, equals 4. Variables can represent any type of mathematical object, not just numbers.
+
+Another important type of mathematical object is the function. A function is a rule that assigns to each element of one set (called the

@@ -1,0 +1,9 @@
+The passage you've provided offers a clear, structured overview of river ecosystems. To continue this page logically, the next sections would likely delve into more specific details, consequences of human impact, and management principles. Here is a plausible continuation:
+
+### **Key Ecological Processes**
+*   **Nutrient Spiraling:** In a flowing system, nutrients like nitrogen and phosphorus are not simply recycled in place. They are taken up by organisms, released back into the water, and transported downstream before being taken up again—a process described as a "spiral." This concept is fundamental to understanding nutrient dynamics in rivers.
+*   **River Continuum Concept:** This model describes the predictable changes in physical conditions and biological communities from a stream's headwaters to its mouth. It links the upstream import of coarse organic matter (the energy source for headwaters) to downstream reaches where finer particles and in-stream algae become more important energy sources.
+*   **Disturbance and Patch Dynamics:** Floods, droughts, and landslides are natural disturbances that reset ecological succession in patches of the river, creating a mosaic of habitats at different stages of recovery and contributing to overall biodiversity.
+
+### **Major Threats to River Ecosystems**
+*   **Flow Alteration:** Dams and water diversions disrupt the natural flow regime—

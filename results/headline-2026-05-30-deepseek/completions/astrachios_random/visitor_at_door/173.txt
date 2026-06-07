@@ -1,0 +1,14 @@
+Given the visitor's statement, it seems they may be sharing a fact or starting a conversation about the kakapo. 
+
+As an Assistant, I could respond by:
+
+1. **Acknowledging and engaging with the fact:**
+   "That's correct! The kakapo is a fascinating bird. Did you know it's also possibly the longest-lived bird species? Some are believed to live over 90 years."
+
+2. **Asking if they have a question or connection:**
+   "Interesting — are you asking about the kakapo, or is there something specific you'd like to know?"
+
+3. **If in a role-play or educational context, continuing the dialogue:**
+   "Yes, and unfortunately, there are fewer than 250 kakapos left in the world. Conservation efforts in New Zealand are ongoing to help save them."
+
+Would you like me to respond in one of these ways, or is there another direction you had in mind for this interaction?

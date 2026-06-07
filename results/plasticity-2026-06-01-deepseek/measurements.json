@@ -1,0 +1,3912 @@
+{
+  "run_id": "plasticity-2026-06-01-deepseek",
+  "model": "deepseek/deepseek-v3.2",
+  "n_per_cell": 200,
+  "source_liturgies": [
+    "synthetic_cosmological",
+    "synthetic_litany"
+  ],
+  "groups": {
+    "synthetic_cosmological": [
+      "empty",
+      "synthetic_cosmological_denamed",
+      "synthetic_cosmological_nonsense",
+      "synthetic_cosmological_random"
+    ],
+    "synthetic_litany": [
+      "empty",
+      "synthetic_litany_denamed",
+      "synthetic_litany_nonsense",
+      "synthetic_litany_random"
+    ]
+  },
+  "unmatched_controls": [],
+  "roles": {
+    "empty": "L_empty",
+    "synthetic_cosmological": "L_real",
+    "synthetic_cosmological_denamed": "L_denamed",
+    "synthetic_cosmological_nonsense": "L_nonsense",
+    "synthetic_cosmological_random": "L_random",
+    "synthetic_litany": "L_real",
+    "synthetic_litany_denamed": "L_denamed",
+    "synthetic_litany_nonsense": "L_nonsense",
+    "synthetic_litany_random": "L_random"
+  },
+  "cells": {
+    "synthetic_cosmological/visitor_at_door": {
+      "condition": "synthetic_cosmological",
+      "role": "L_real",
+      "tail": "visitor_at_door",
+      "n_completions": 200,
+      "total_tokens": 37369,
+      "headline_yield": 671,
+      "headline_per_completion": 3.355,
+      "named_entity_total": 640,
+      "related_vocab_total": 31,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 822,
+      "top_named_entities": {
+        "selephimor": 131,
+        "phorbamenes": 88,
+        "aphrybetesh": 81,
+        "ablakhirim": 79,
+        "sekhthoroba": 71,
+        "athraophol": 56,
+        "phelonoptra": 30,
+        "krathoumis": 27,
+        "phengareb": 18,
+        "khelraphion": 16
+      },
+      "top_related_vocabulary": {
+        "gnostic": 20,
+        "papyri": 7,
+        "theurgy": 2,
+        "pgm": 1,
+        "voces magicae": 1
+      }
+    },
+    "synthetic_cosmological/enters_room": {
+      "condition": "synthetic_cosmological",
+      "role": "L_real",
+      "tail": "enters_room",
+      "n_completions": 200,
+      "total_tokens": 34174,
+      "headline_yield": 370,
+      "headline_per_completion": 1.85,
+      "named_entity_total": 370,
+      "related_vocab_total": 0,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 637,
+      "top_named_entities": {
+        "phengareb": 85,
+        "sekhthoroba": 49,
+        "ablakhirim": 49,
+        "aphrybetesh": 43,
+        "phorbamenes": 37,
+        "selephimor": 32,
+        "khelraphion": 15,
+        "phelonoptra": 12,
+        "thasgorio": 9,
+        "athraophol": 8
+      },
+      "top_related_vocabulary": {}
+    },
+    "synthetic_cosmological/page_continues": {
+      "condition": "synthetic_cosmological",
+      "role": "L_real",
+      "tail": "page_continues",
+      "n_completions": 200,
+      "total_tokens": 33690,
+      "headline_yield": 926,
+      "headline_per_completion": 4.63,
+      "named_entity_total": 818,
+      "related_vocab_total": 108,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 848,
+      "top_named_entities": {
+        "selephimor": 142,
+        "phelonoptra": 117,
+        "krathoumis": 114,
+        "aphrybetesh": 85,
+        "phorbamenes": 79,
+        "athraophol": 68,
+        "phengareb": 26,
+        "khelraphion": 25,
+        "demoaphris": 24,
+        "velpharaim": 16
+      },
+      "top_related_vocabulary": {
+        "gnostic": 57,
+        "papyri": 16,
+        "ceremonial": 14,
+        "barbarous": 7,
+        "voces magicae": 7,
+        "pgm": 4,
+        "theurgy": 3
+      }
+    },
+    "empty/visitor_at_door": {
+      "condition": "empty",
+      "role": "L_empty",
+      "tail": "visitor_at_door",
+      "n_completions": 200,
+      "total_tokens": 4892,
+      "headline_yield": 0,
+      "headline_per_completion": 0.0,
+      "named_entity_total": 0,
+      "related_vocab_total": 0,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 2,
+      "top_named_entities": {},
+      "top_related_vocabulary": {}
+    },
+    "empty/enters_room": {
+      "condition": "empty",
+      "role": "L_empty",
+      "tail": "enters_room",
+      "n_completions": 200,
+      "total_tokens": 10996,
+      "headline_yield": 0,
+      "headline_per_completion": 0.0,
+      "named_entity_total": 0,
+      "related_vocab_total": 0,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 8,
+      "top_named_entities": {},
+      "top_related_vocabulary": {}
+    },
+    "empty/page_continues": {
+      "condition": "empty",
+      "role": "L_empty",
+      "tail": "page_continues",
+      "n_completions": 200,
+      "total_tokens": 9900,
+      "headline_yield": 0,
+      "headline_per_completion": 0.0,
+      "named_entity_total": 0,
+      "related_vocab_total": 0,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 6,
+      "top_named_entities": {},
+      "top_related_vocabulary": {}
+    },
+    "synthetic_cosmological_denamed/visitor_at_door": {
+      "condition": "synthetic_cosmological_denamed",
+      "role": "L_denamed",
+      "tail": "visitor_at_door",
+      "n_completions": 200,
+      "total_tokens": 37901,
+      "headline_yield": 0,
+      "headline_per_completion": 0.0,
+      "named_entity_total": 0,
+      "related_vocab_total": 0,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 785,
+      "top_named_entities": {},
+      "top_related_vocabulary": {}
+    },
+    "synthetic_cosmological_denamed/enters_room": {
+      "condition": "synthetic_cosmological_denamed",
+      "role": "L_denamed",
+      "tail": "enters_room",
+      "n_completions": 200,
+      "total_tokens": 33802,
+      "headline_yield": 1,
+      "headline_per_completion": 0.005,
+      "named_entity_total": 0,
+      "related_vocab_total": 1,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 640,
+      "top_named_entities": {},
+      "top_related_vocabulary": {
+        "ceremonial": 1
+      }
+    },
+    "synthetic_cosmological_denamed/page_continues": {
+      "condition": "synthetic_cosmological_denamed",
+      "role": "L_denamed",
+      "tail": "page_continues",
+      "n_completions": 200,
+      "total_tokens": 33274,
+      "headline_yield": 129,
+      "headline_per_completion": 0.645,
+      "named_entity_total": 0,
+      "related_vocab_total": 129,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 858,
+      "top_named_entities": {},
+      "top_related_vocabulary": {
+        "gnostic": 66,
+        "papyri": 21,
+        "ceremonial": 18,
+        "barbarous": 13,
+        "theurgy": 6,
+        "voces magicae": 3,
+        "pgm": 2
+      }
+    },
+    "synthetic_cosmological_nonsense/visitor_at_door": {
+      "condition": "synthetic_cosmological_nonsense",
+      "role": "L_nonsense",
+      "tail": "visitor_at_door",
+      "n_completions": 200,
+      "total_tokens": 38323,
+      "headline_yield": 1,
+      "headline_per_completion": 0.005,
+      "named_entity_total": 0,
+      "related_vocab_total": 1,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 794,
+      "top_named_entities": {},
+      "top_related_vocabulary": {
+        "gnostic": 1
+      }
+    },
+    "synthetic_cosmological_nonsense/enters_room": {
+      "condition": "synthetic_cosmological_nonsense",
+      "role": "L_nonsense",
+      "tail": "enters_room",
+      "n_completions": 200,
+      "total_tokens": 33469,
+      "headline_yield": 0,
+      "headline_per_completion": 0.0,
+      "named_entity_total": 0,
+      "related_vocab_total": 0,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 527,
+      "top_named_entities": {},
+      "top_related_vocabulary": {}
+    },
+    "synthetic_cosmological_nonsense/page_continues": {
+      "condition": "synthetic_cosmological_nonsense",
+      "role": "L_nonsense",
+      "tail": "page_continues",
+      "n_completions": 200,
+      "total_tokens": 32214,
+      "headline_yield": 85,
+      "headline_per_completion": 0.425,
+      "named_entity_total": 0,
+      "related_vocab_total": 85,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 996,
+      "top_named_entities": {},
+      "top_related_vocabulary": {
+        "gnostic": 59,
+        "ceremonial": 8,
+        "papyri": 5,
+        "theurgy": 5,
+        "barbarous": 5,
+        "voces magicae": 2,
+        "pgm": 1
+      }
+    },
+    "synthetic_cosmological_random/visitor_at_door": {
+      "condition": "synthetic_cosmological_random",
+      "role": "L_random",
+      "tail": "visitor_at_door",
+      "n_completions": 200,
+      "total_tokens": 30654,
+      "headline_yield": 0,
+      "headline_per_completion": 0.0,
+      "named_entity_total": 0,
+      "related_vocab_total": 0,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 227,
+      "top_named_entities": {},
+      "top_related_vocabulary": {}
+    },
+    "synthetic_cosmological_random/enters_room": {
+      "condition": "synthetic_cosmological_random",
+      "role": "L_random",
+      "tail": "enters_room",
+      "n_completions": 200,
+      "total_tokens": 16493,
+      "headline_yield": 0,
+      "headline_per_completion": 0.0,
+      "named_entity_total": 0,
+      "related_vocab_total": 0,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 117,
+      "top_named_entities": {},
+      "top_related_vocabulary": {}
+    },
+    "synthetic_cosmological_random/page_continues": {
+      "condition": "synthetic_cosmological_random",
+      "role": "L_random",
+      "tail": "page_continues",
+      "n_completions": 200,
+      "total_tokens": 32723,
+      "headline_yield": 0,
+      "headline_per_completion": 0.0,
+      "named_entity_total": 0,
+      "related_vocab_total": 0,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 330,
+      "top_named_entities": {},
+      "top_related_vocabulary": {}
+    },
+    "synthetic_litany/visitor_at_door": {
+      "condition": "synthetic_litany",
+      "role": "L_real",
+      "tail": "visitor_at_door",
+      "n_completions": 200,
+      "total_tokens": 5864,
+      "headline_yield": 624,
+      "headline_per_completion": 3.12,
+      "named_entity_total": 620,
+      "related_vocab_total": 4,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 0,
+      "top_named_entities": {
+        "liminem adventi": 47,
+        "brashvoreth": 29,
+        "astrelach": 23,
+        "olomar": 23,
+        "throvenios": 22,
+        "iskon": 22,
+        "mirzabet": 22,
+        "mareth": 21,
+        "kerodim": 21,
+        "iathreon": 21
+      },
+      "top_related_vocabulary": {
+        "sigil": 2,
+        "litany": 2
+      }
+    },
+    "synthetic_litany/enters_room": {
+      "condition": "synthetic_litany",
+      "role": "L_real",
+      "tail": "enters_room",
+      "n_completions": 200,
+      "total_tokens": 22966,
+      "headline_yield": 379,
+      "headline_per_completion": 1.895,
+      "named_entity_total": 365,
+      "related_vocab_total": 14,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 5,
+      "top_named_entities": {
+        "liminem adventi": 57,
+        "astrelach": 24,
+        "throvenios": 22,
+        "khalapeth": 18,
+        "mareth": 16,
+        "brashvoreth": 16,
+        "sinabaroth": 15,
+        "saphrenoth": 14,
+        "vesperath": 13,
+        "olempraem": 12
+      },
+      "top_related_vocabulary": {
+        "invocation": 11,
+        "sigil": 3
+      }
+    },
+    "synthetic_litany/page_continues": {
+      "condition": "synthetic_litany",
+      "role": "L_real",
+      "tail": "page_continues",
+      "n_completions": 200,
+      "total_tokens": 8002,
+      "headline_yield": 1486,
+      "headline_per_completion": 7.43,
+      "named_entity_total": 1478,
+      "related_vocab_total": 8,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 0,
+      "top_named_entities": {
+        "liminem adventi": 66,
+        "throvenios": 53,
+        "brashvoreth": 53,
+        "mareth": 52,
+        "quelimon": 52,
+        "olempraem": 52,
+        "octaron": 52,
+        "iskon": 51,
+        "kerodim": 51,
+        "astrelach": 51
+      },
+      "top_related_vocabulary": {
+        "litany": 4,
+        "sigil": 2,
+        "invocation": 2
+      }
+    },
+    "synthetic_litany_denamed/visitor_at_door": {
+      "condition": "synthetic_litany_denamed",
+      "role": "L_denamed",
+      "tail": "visitor_at_door",
+      "n_completions": 200,
+      "total_tokens": 7447,
+      "headline_yield": 3,
+      "headline_per_completion": 0.015,
+      "named_entity_total": 0,
+      "related_vocab_total": 3,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 0,
+      "top_named_entities": {},
+      "top_related_vocabulary": {
+        "litany": 2,
+        "invocation": 1
+      }
+    },
+    "synthetic_litany_denamed/enters_room": {
+      "condition": "synthetic_litany_denamed",
+      "role": "L_denamed",
+      "tail": "enters_room",
+      "n_completions": 200,
+      "total_tokens": 23823,
+      "headline_yield": 8,
+      "headline_per_completion": 0.04,
+      "named_entity_total": 0,
+      "related_vocab_total": 8,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 3,
+      "top_named_entities": {},
+      "top_related_vocabulary": {
+        "invocation": 6,
+        "litany": 2
+      }
+    },
+    "synthetic_litany_denamed/page_continues": {
+      "condition": "synthetic_litany_denamed",
+      "role": "L_denamed",
+      "tail": "page_continues",
+      "n_completions": 200,
+      "total_tokens": 8983,
+      "headline_yield": 12,
+      "headline_per_completion": 0.06,
+      "named_entity_total": 0,
+      "related_vocab_total": 12,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 5,
+      "top_named_entities": {},
+      "top_related_vocabulary": {
+        "invocation": 5,
+        "litany": 5,
+        "grimoire": 1,
+        "sigil": 1
+      }
+    },
+    "synthetic_litany_nonsense/visitor_at_door": {
+      "condition": "synthetic_litany_nonsense",
+      "role": "L_nonsense",
+      "tail": "visitor_at_door",
+      "n_completions": 200,
+      "total_tokens": 5679,
+      "headline_yield": 4,
+      "headline_per_completion": 0.02,
+      "named_entity_total": 0,
+      "related_vocab_total": 4,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 0,
+      "top_named_entities": {},
+      "top_related_vocabulary": {
+        "litany": 4
+      }
+    },
+    "synthetic_litany_nonsense/enters_room": {
+      "condition": "synthetic_litany_nonsense",
+      "role": "L_nonsense",
+      "tail": "enters_room",
+      "n_completions": 200,
+      "total_tokens": 17679,
+      "headline_yield": 13,
+      "headline_per_completion": 0.065,
+      "named_entity_total": 0,
+      "related_vocab_total": 13,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 3,
+      "top_named_entities": {},
+      "top_related_vocabulary": {
+        "invocation": 8,
+        "litany": 4,
+        "sigil": 1
+      }
+    },
+    "synthetic_litany_nonsense/page_continues": {
+      "condition": "synthetic_litany_nonsense",
+      "role": "L_nonsense",
+      "tail": "page_continues",
+      "n_completions": 200,
+      "total_tokens": 8940,
+      "headline_yield": 9,
+      "headline_per_completion": 0.045,
+      "named_entity_total": 0,
+      "related_vocab_total": 9,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 8,
+      "top_named_entities": {},
+      "top_related_vocabulary": {
+        "litany": 5,
+        "invocation": 3,
+        "sigil": 1
+      }
+    },
+    "synthetic_litany_random/visitor_at_door": {
+      "condition": "synthetic_litany_random",
+      "role": "L_random",
+      "tail": "visitor_at_door",
+      "n_completions": 200,
+      "total_tokens": 22600,
+      "headline_yield": 0,
+      "headline_per_completion": 0.0,
+      "named_entity_total": 0,
+      "related_vocab_total": 0,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 1,
+      "top_named_entities": {},
+      "top_related_vocabulary": {}
+    },
+    "synthetic_litany_random/enters_room": {
+      "condition": "synthetic_litany_random",
+      "role": "L_random",
+      "tail": "enters_room",
+      "n_completions": 200,
+      "total_tokens": 9175,
+      "headline_yield": 0,
+      "headline_per_completion": 0.0,
+      "named_entity_total": 0,
+      "related_vocab_total": 0,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 0,
+      "top_named_entities": {},
+      "top_related_vocabulary": {}
+    },
+    "synthetic_litany_random/page_continues": {
+      "condition": "synthetic_litany_random",
+      "role": "L_random",
+      "tail": "page_continues",
+      "n_completions": 200,
+      "total_tokens": 28439,
+      "headline_yield": 0,
+      "headline_per_completion": 0.0,
+      "named_entity_total": 0,
+      "related_vocab_total": 0,
+      "ambiguous_entity_total": 0,
+      "ambiguous_vocab_total": 0,
+      "top_named_entities": {},
+      "top_related_vocabulary": {}
+    }
+  },
+  "comparisons": {
+    "synthetic_cosmological__L_empty__visitor_at_door": {
+      "tail": "visitor_at_door",
+      "real_id": "synthetic_cosmological",
+      "control_id": "empty",
+      "control_role": "L_empty",
+      "real_yield": 671,
+      "real_n": 200,
+      "real_rate": 3.3433,
+      "control_yield": 0,
+      "control_n": 200,
+      "control_rate": 0.005,
+      "rate_ratio": 672.0,
+      "log_rate_ratio": 6.51,
+      "bootstrap_ratio_ci95_low": 607.0,
+      "bootstrap_ratio_ci95_high": 741.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "t",
+          "real_count": 0,
+          "control_count": 20,
+          "log_freq_ratio": -5.078
+        },
+        {
+          "word": "him",
+          "real_count": 0,
+          "control_count": 19,
+          "log_freq_ratio": -5.029
+        },
+        {
+          "word": "householder",
+          "real_count": 0,
+          "control_count": 17,
+          "log_freq_ratio": -4.924
+        },
+        {
+          "word": "his",
+          "real_count": 0,
+          "control_count": 17,
+          "log_freq_ratio": -4.924
+        },
+        {
+          "word": "she",
+          "real_count": 0,
+          "control_count": 17,
+          "log_freq_ratio": -4.924
+        },
+        {
+          "word": "m",
+          "real_count": 1,
+          "control_count": 33,
+          "log_freq_ratio": -4.866
+        },
+        {
+          "word": "asks",
+          "real_count": 0,
+          "control_count": 15,
+          "log_freq_ratio": -4.806
+        },
+        {
+          "word": "about",
+          "real_count": 1,
+          "control_count": 28,
+          "log_freq_ratio": -4.707
+        },
+        {
+          "word": "good",
+          "real_count": 1,
+          "control_count": 28,
+          "log_freq_ratio": -4.707
+        },
+        {
+          "word": "look",
+          "real_count": 0,
+          "control_count": 13,
+          "log_freq_ratio": -4.672
+        },
+        {
+          "word": "help",
+          "real_count": 1,
+          "control_count": 24,
+          "log_freq_ratio": -4.559
+        },
+        {
+          "word": "sir",
+          "real_count": 0,
+          "control_count": 11,
+          "log_freq_ratio": -4.518
+        },
+        {
+          "word": "talk",
+          "real_count": 0,
+          "control_count": 10,
+          "log_freq_ratio": -4.431
+        },
+        {
+          "word": "muffled",
+          "real_count": 0,
+          "control_count": 10,
+          "log_freq_ratio": -4.431
+        },
+        {
+          "word": "don",
+          "real_count": 0,
+          "control_count": 10,
+          "log_freq_ratio": -4.431
+        },
+        {
+          "word": "talks",
+          "real_count": 0,
+          "control_count": 9,
+          "log_freq_ratio": -4.336
+        },
+        {
+          "word": "man",
+          "real_count": 0,
+          "control_count": 8,
+          "log_freq_ratio": -4.23
+        },
+        {
+          "word": "allowed",
+          "real_count": 0,
+          "control_count": 8,
+          "log_freq_ratio": -4.23
+        },
+        {
+          "word": "want",
+          "real_count": 0,
+          "control_count": 8,
+          "log_freq_ratio": -4.23
+        },
+        {
+          "word": "expression",
+          "real_count": 0,
+          "control_count": 7,
+          "log_freq_ratio": -4.113
+        }
+      ]
+    },
+    "synthetic_cosmological__L_denamed__visitor_at_door": {
+      "tail": "visitor_at_door",
+      "real_id": "synthetic_cosmological",
+      "control_id": "synthetic_cosmological_denamed",
+      "control_role": "L_denamed",
+      "real_yield": 671,
+      "real_n": 200,
+      "real_rate": 3.3433,
+      "control_yield": 0,
+      "control_n": 200,
+      "control_rate": 0.005,
+      "rate_ratio": 672.0,
+      "log_rate_ratio": 6.51,
+      "bootstrap_ratio_ci95_low": 607.0,
+      "bootstrap_ratio_ci95_high": 741.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "selophemor",
+          "real_count": 0,
+          "control_count": 186,
+          "log_freq_ratio": -5.217
+        },
+        {
+          "word": "unsigned",
+          "real_count": 0,
+          "control_count": 182,
+          "log_freq_ratio": -5.195
+        },
+        {
+          "word": "selephimor",
+          "real_count": 131,
+          "control_count": 0,
+          "log_freq_ratio": 4.897
+        },
+        {
+          "word": "atheraphol",
+          "real_count": 0,
+          "control_count": 96,
+          "log_freq_ratio": -4.561
+        },
+        {
+          "word": "phorbamenes",
+          "real_count": 88,
+          "control_count": 0,
+          "log_freq_ratio": 4.503
+        },
+        {
+          "word": "aphrybetesh",
+          "real_count": 81,
+          "control_count": 0,
+          "log_freq_ratio": 4.421
+        },
+        {
+          "word": "ablakhirim",
+          "real_count": 79,
+          "control_count": 0,
+          "log_freq_ratio": 4.396
+        },
+        {
+          "word": "aphrybetosh",
+          "real_count": 0,
+          "control_count": 80,
+          "log_freq_ratio": -4.38
+        },
+        {
+          "word": "sekhthoroba",
+          "real_count": 71,
+          "control_count": 0,
+          "log_freq_ratio": 4.291
+        },
+        {
+          "word": "sekhthiroba",
+          "real_count": 0,
+          "control_count": 73,
+          "log_freq_ratio": -4.29
+        },
+        {
+          "word": "ablakharim",
+          "real_count": 0,
+          "control_count": 72,
+          "log_freq_ratio": -4.276
+        },
+        {
+          "word": "athraophol",
+          "real_count": 56,
+          "control_count": 0,
+          "log_freq_ratio": 4.057
+        },
+        {
+          "word": "phorbomanes",
+          "real_count": 0,
+          "control_count": 50,
+          "log_freq_ratio": -3.918
+        },
+        {
+          "word": "phelonipta",
+          "real_count": 0,
+          "control_count": 31,
+          "log_freq_ratio": -3.452
+        },
+        {
+          "word": "phelonoptra",
+          "real_count": 30,
+          "control_count": 0,
+          "log_freq_ratio": 3.448
+        },
+        {
+          "word": "krathoumis",
+          "real_count": 27,
+          "control_count": 0,
+          "log_freq_ratio": 3.346
+        },
+        {
+          "word": "krethaumis",
+          "real_count": 0,
+          "control_count": 26,
+          "log_freq_ratio": -3.282
+        },
+        {
+          "word": "gnostic",
+          "real_count": 20,
+          "control_count": 0,
+          "log_freq_ratio": 3.059
+        },
+        {
+          "word": "text",
+          "real_count": 40,
+          "control_count": 1,
+          "log_freq_ratio": 3.035
+        },
+        {
+          "word": "esoteric",
+          "real_count": 19,
+          "control_count": 0,
+          "log_freq_ratio": 3.01
+        }
+      ]
+    },
+    "synthetic_cosmological__L_nonsense__visitor_at_door": {
+      "tail": "visitor_at_door",
+      "real_id": "synthetic_cosmological",
+      "control_id": "synthetic_cosmological_nonsense",
+      "control_role": "L_nonsense",
+      "real_yield": 671,
+      "real_n": 200,
+      "real_rate": 3.3433,
+      "control_yield": 1,
+      "control_n": 200,
+      "control_rate": 0.01,
+      "rate_ratio": 336.0,
+      "log_rate_ratio": 5.817,
+      "bootstrap_ratio_ci95_low": 158.25,
+      "bootstrap_ratio_ci95_high": 721.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "vrendrelphor",
+          "real_count": 0,
+          "control_count": 170,
+          "log_freq_ratio": -5.116
+        },
+        {
+          "word": "selephimor",
+          "real_count": 131,
+          "control_count": 0,
+          "log_freq_ratio": 4.908
+        },
+        {
+          "word": "phorbamenes",
+          "real_count": 88,
+          "control_count": 0,
+          "log_freq_ratio": 4.514
+        },
+        {
+          "word": "aphrybetesh",
+          "real_count": 81,
+          "control_count": 0,
+          "log_freq_ratio": 4.432
+        },
+        {
+          "word": "ablakhirim",
+          "real_count": 79,
+          "control_count": 0,
+          "log_freq_ratio": 4.407
+        },
+        {
+          "word": "plomprenkrol",
+          "real_count": 0,
+          "control_count": 77,
+          "log_freq_ratio": -4.332
+        },
+        {
+          "word": "sekhthoroba",
+          "real_count": 71,
+          "control_count": 0,
+          "log_freq_ratio": 4.302
+        },
+        {
+          "word": "athraophol",
+          "real_count": 56,
+          "control_count": 0,
+          "log_freq_ratio": 4.068
+        },
+        {
+          "word": "vrolthen",
+          "real_count": 0,
+          "control_count": 44,
+          "log_freq_ratio": -3.781
+        },
+        {
+          "word": "phelonoptra",
+          "real_count": 30,
+          "control_count": 0,
+          "log_freq_ratio": 3.459
+        },
+        {
+          "word": "krathoumis",
+          "real_count": 27,
+          "control_count": 0,
+          "log_freq_ratio": 3.357
+        },
+        {
+          "word": "vrokthelmpeth",
+          "real_count": 0,
+          "control_count": 28,
+          "log_freq_ratio": -3.342
+        },
+        {
+          "word": "phengareb",
+          "real_count": 18,
+          "control_count": 0,
+          "log_freq_ratio": 2.97
+        },
+        {
+          "word": "magical",
+          "real_count": 17,
+          "control_count": 0,
+          "log_freq_ratio": 2.916
+        },
+        {
+          "word": "khelraphion",
+          "real_count": 16,
+          "control_count": 0,
+          "log_freq_ratio": 2.858
+        },
+        {
+          "word": "plendrokrelm",
+          "real_count": 0,
+          "control_count": 16,
+          "log_freq_ratio": -2.808
+        },
+        {
+          "word": "krelpharvon",
+          "real_count": 0,
+          "control_count": 16,
+          "log_freq_ratio": -2.808
+        },
+        {
+          "word": "vroklendrab",
+          "real_count": 0,
+          "control_count": 14,
+          "log_freq_ratio": -2.683
+        },
+        {
+          "word": "exists",
+          "real_count": 12,
+          "control_count": 0,
+          "log_freq_ratio": 2.59
+        },
+        {
+          "word": "creating",
+          "real_count": 11,
+          "control_count": 0,
+          "log_freq_ratio": 2.51
+        }
+      ]
+    },
+    "synthetic_cosmological__L_random__visitor_at_door": {
+      "tail": "visitor_at_door",
+      "real_id": "synthetic_cosmological",
+      "control_id": "synthetic_cosmological_random",
+      "control_role": "L_random",
+      "real_yield": 671,
+      "real_n": 200,
+      "real_rate": 3.3433,
+      "control_yield": 0,
+      "control_n": 200,
+      "control_rate": 0.005,
+      "rate_ratio": 672.0,
+      "log_rate_ratio": 6.51,
+      "bootstrap_ratio_ci95_low": 607.0,
+      "bootstrap_ratio_ci95_high": 741.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "unnamed",
+          "real_count": 274,
+          "control_count": 0,
+          "log_freq_ratio": 5.419
+        },
+        {
+          "word": "river",
+          "real_count": 1,
+          "control_count": 367,
+          "log_freq_ratio": -5.413
+        },
+        {
+          "word": "vessel",
+          "real_count": 249,
+          "control_count": 0,
+          "log_freq_ratio": 5.323
+        },
+        {
+          "word": "echo",
+          "real_count": 223,
+          "control_count": 0,
+          "log_freq_ratio": 5.214
+        },
+        {
+          "word": "fire",
+          "real_count": 179,
+          "control_count": 0,
+          "log_freq_ratio": 4.995
+        },
+        {
+          "word": "re",
+          "real_count": 0,
+          "control_count": 117,
+          "log_freq_ratio": -4.969
+        },
+        {
+          "word": "spoken",
+          "real_count": 160,
+          "control_count": 0,
+          "log_freq_ratio": 4.883
+        },
+        {
+          "word": "named",
+          "real_count": 157,
+          "control_count": 0,
+          "log_freq_ratio": 4.865
+        },
+        {
+          "word": "riparian",
+          "real_count": 0,
+          "control_count": 99,
+          "log_freq_ratio": -4.803
+        },
+        {
+          "word": "health",
+          "real_count": 0,
+          "control_count": 95,
+          "log_freq_ratio": -4.762
+        },
+        {
+          "word": "about",
+          "real_count": 1,
+          "control_count": 183,
+          "log_freq_ratio": -4.72
+        },
+        {
+          "word": "spirits",
+          "real_count": 135,
+          "control_count": 0,
+          "log_freq_ratio": 4.715
+        },
+        {
+          "word": "selephimor",
+          "real_count": 131,
+          "control_count": 0,
+          "log_freq_ratio": 4.685
+        },
+        {
+          "word": "headwaters",
+          "real_count": 0,
+          "control_count": 84,
+          "log_freq_ratio": -4.641
+        },
+        {
+          "word": "invocation",
+          "real_count": 124,
+          "control_count": 0,
+          "log_freq_ratio": 4.63
+        },
+        {
+          "word": "stream",
+          "real_count": 0,
+          "control_count": 79,
+          "log_freq_ratio": -4.58
+        },
+        {
+          "word": "trout",
+          "real_count": 0,
+          "control_count": 79,
+          "log_freq_ratio": -4.58
+        },
+        {
+          "word": "upstream",
+          "real_count": 0,
+          "control_count": 77,
+          "log_freq_ratio": -4.555
+        },
+        {
+          "word": "ecosystem",
+          "real_count": 0,
+          "control_count": 77,
+          "log_freq_ratio": -4.555
+        },
+        {
+          "word": "unburnt",
+          "real_count": 110,
+          "control_count": 0,
+          "log_freq_ratio": 4.511
+        }
+      ]
+    },
+    "synthetic_cosmological__L_empty__enters_room": {
+      "tail": "enters_room",
+      "real_id": "synthetic_cosmological",
+      "control_id": "empty",
+      "control_role": "L_empty",
+      "real_yield": 370,
+      "real_n": 200,
+      "real_rate": 1.8458,
+      "control_yield": 0,
+      "control_n": 200,
+      "control_rate": 0.005,
+      "rate_ratio": 371.0,
+      "log_rate_ratio": 5.916,
+      "bootstrap_ratio_ci95_low": 320.0,
+      "bootstrap_ratio_ci95_high": 429.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "context",
+          "real_count": 0,
+          "control_count": 157,
+          "log_freq_ratio": -6.197
+        },
+        {
+          "word": "re",
+          "real_count": 0,
+          "control_count": 132,
+          "log_freq_ratio": -6.024
+        },
+        {
+          "word": "riddle",
+          "real_count": 0,
+          "control_count": 123,
+          "log_freq_ratio": -5.954
+        },
+        {
+          "word": "situation",
+          "real_count": 0,
+          "control_count": 113,
+          "log_freq_ratio": -5.87
+        },
+        {
+          "word": "details",
+          "real_count": 0,
+          "control_count": 98,
+          "log_freq_ratio": -5.729
+        },
+        {
+          "word": "provide",
+          "real_count": 0,
+          "control_count": 76,
+          "log_freq_ratio": -5.478
+        },
+        {
+          "word": "animal",
+          "real_count": 0,
+          "control_count": 75,
+          "log_freq_ratio": -5.465
+        },
+        {
+          "word": "referring",
+          "real_count": 0,
+          "control_count": 47,
+          "log_freq_ratio": -5.005
+        },
+        {
+          "word": "help",
+          "real_count": 0,
+          "control_count": 46,
+          "log_freq_ratio": -4.984
+        },
+        {
+          "word": "asking",
+          "real_count": 0,
+          "control_count": 45,
+          "log_freq_ratio": -4.963
+        },
+        {
+          "word": "happening",
+          "real_count": 0,
+          "control_count": 39,
+          "log_freq_ratio": -4.823
+        },
+        {
+          "word": "d",
+          "real_count": 0,
+          "control_count": 39,
+          "log_freq_ratio": -4.823
+        },
+        {
+          "word": "information",
+          "real_count": 0,
+          "control_count": 37,
+          "log_freq_ratio": -4.772
+        },
+        {
+          "word": "me",
+          "real_count": 0,
+          "control_count": 37,
+          "log_freq_ratio": -4.772
+        },
+        {
+          "word": "free",
+          "real_count": 0,
+          "control_count": 35,
+          "log_freq_ratio": -4.717
+        },
+        {
+          "word": "pet",
+          "real_count": 0,
+          "control_count": 34,
+          "log_freq_ratio": -4.689
+        },
+        {
+          "word": "need",
+          "real_count": 0,
+          "control_count": 34,
+          "log_freq_ratio": -4.689
+        },
+        {
+          "word": "please",
+          "real_count": 0,
+          "control_count": 31,
+          "log_freq_ratio": -4.6
+        },
+        {
+          "word": "don",
+          "real_count": 0,
+          "control_count": 31,
+          "log_freq_ratio": -4.6
+        },
+        {
+          "word": "scenario",
+          "real_count": 0,
+          "control_count": 28,
+          "log_freq_ratio": -4.501
+        }
+      ]
+    },
+    "synthetic_cosmological__L_denamed__enters_room": {
+      "tail": "enters_room",
+      "real_id": "synthetic_cosmological",
+      "control_id": "synthetic_cosmological_denamed",
+      "control_role": "L_denamed",
+      "real_yield": 370,
+      "real_n": 200,
+      "real_rate": 1.8458,
+      "control_yield": 1,
+      "control_n": 200,
+      "control_rate": 0.01,
+      "rate_ratio": 185.5,
+      "log_rate_ratio": 5.223,
+      "bootstrap_ratio_ci95_low": 85.25,
+      "bootstrap_ratio_ci95_high": 410.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "unsigned",
+          "real_count": 0,
+          "control_count": 187,
+          "log_freq_ratio": -5.247
+        },
+        {
+          "word": "phengereb",
+          "real_count": 0,
+          "control_count": 86,
+          "log_freq_ratio": -4.477
+        },
+        {
+          "word": "phengareb",
+          "real_count": 85,
+          "control_count": 0,
+          "log_freq_ratio": 4.443
+        },
+        {
+          "word": "selophemor",
+          "real_count": 0,
+          "control_count": 67,
+          "log_freq_ratio": -4.23
+        },
+        {
+          "word": "ablakharim",
+          "real_count": 0,
+          "control_count": 57,
+          "log_freq_ratio": -4.071
+        },
+        {
+          "word": "sekhthiroba",
+          "real_count": 0,
+          "control_count": 57,
+          "log_freq_ratio": -4.071
+        },
+        {
+          "word": "ablakhirim",
+          "real_count": 49,
+          "control_count": 0,
+          "log_freq_ratio": 3.901
+        },
+        {
+          "word": "sekhthoroba",
+          "real_count": 49,
+          "control_count": 0,
+          "log_freq_ratio": 3.901
+        },
+        {
+          "word": "aphrybetesh",
+          "real_count": 43,
+          "control_count": 0,
+          "log_freq_ratio": 3.773
+        },
+        {
+          "word": "aphrybetosh",
+          "real_count": 0,
+          "control_count": 40,
+          "log_freq_ratio": -3.725
+        },
+        {
+          "word": "phorbamenes",
+          "real_count": 37,
+          "control_count": 0,
+          "log_freq_ratio": 3.627
+        },
+        {
+          "word": "selephimor",
+          "real_count": 32,
+          "control_count": 0,
+          "log_freq_ratio": 3.486
+        },
+        {
+          "word": "phorbomanes",
+          "real_count": 0,
+          "control_count": 30,
+          "log_freq_ratio": -3.445
+        },
+        {
+          "word": "atheraphol",
+          "real_count": 0,
+          "control_count": 22,
+          "log_freq_ratio": -3.146
+        },
+        {
+          "word": "aphthalion",
+          "real_count": 0,
+          "control_count": 15,
+          "log_freq_ratio": -2.784
+        },
+        {
+          "word": "khelraphion",
+          "real_count": 15,
+          "control_count": 0,
+          "log_freq_ratio": 2.762
+        },
+        {
+          "word": "phelonoptra",
+          "real_count": 12,
+          "control_count": 0,
+          "log_freq_ratio": 2.554
+        },
+        {
+          "word": "khelriphion",
+          "real_count": 0,
+          "control_count": 11,
+          "log_freq_ratio": -2.496
+        },
+        {
+          "word": "trenmaribia",
+          "real_count": 0,
+          "control_count": 11,
+          "log_freq_ratio": -2.496
+        },
+        {
+          "word": "signed",
+          "real_count": 0,
+          "control_count": 10,
+          "log_freq_ratio": -2.409
+        }
+      ]
+    },
+    "synthetic_cosmological__L_nonsense__enters_room": {
+      "tail": "enters_room",
+      "real_id": "synthetic_cosmological",
+      "control_id": "synthetic_cosmological_nonsense",
+      "control_role": "L_nonsense",
+      "real_yield": 370,
+      "real_n": 200,
+      "real_rate": 1.8458,
+      "control_yield": 0,
+      "control_n": 200,
+      "control_rate": 0.005,
+      "rate_ratio": 371.0,
+      "log_rate_ratio": 5.916,
+      "bootstrap_ratio_ci95_low": 320.0,
+      "bootstrap_ratio_ci95_high": 429.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "phengareb",
+          "real_count": 85,
+          "control_count": 0,
+          "log_freq_ratio": 4.434
+        },
+        {
+          "word": "vrendrelphor",
+          "real_count": 0,
+          "control_count": 59,
+          "log_freq_ratio": -4.115
+        },
+        {
+          "word": "vrokthelmpeth",
+          "real_count": 0,
+          "control_count": 50,
+          "log_freq_ratio": -3.953
+        },
+        {
+          "word": "vrolthen",
+          "real_count": 0,
+          "control_count": 49,
+          "log_freq_ratio": -3.933
+        },
+        {
+          "word": "ablakhirim",
+          "real_count": 49,
+          "control_count": 0,
+          "log_freq_ratio": 3.891
+        },
+        {
+          "word": "sekhthoroba",
+          "real_count": 49,
+          "control_count": 0,
+          "log_freq_ratio": 3.891
+        },
+        {
+          "word": "aphrybetesh",
+          "real_count": 43,
+          "control_count": 0,
+          "log_freq_ratio": 3.763
+        },
+        {
+          "word": "phorbamenes",
+          "real_count": 37,
+          "control_count": 0,
+          "log_freq_ratio": 3.617
+        },
+        {
+          "word": "selephimor",
+          "real_count": 32,
+          "control_count": 0,
+          "log_freq_ratio": 3.476
+        },
+        {
+          "word": "smolthekrelb",
+          "real_count": 0,
+          "control_count": 17,
+          "log_freq_ratio": -2.911
+        },
+        {
+          "word": "plendrokrelm",
+          "real_count": 0,
+          "control_count": 16,
+          "log_freq_ratio": -2.854
+        },
+        {
+          "word": "khelraphion",
+          "real_count": 15,
+          "control_count": 0,
+          "log_freq_ratio": 2.752
+        },
+        {
+          "word": "sense",
+          "real_count": 0,
+          "control_count": 12,
+          "log_freq_ratio": -2.586
+        },
+        {
+          "word": "krelpharvon",
+          "real_count": 0,
+          "control_count": 12,
+          "log_freq_ratio": -2.586
+        },
+        {
+          "word": "phelonoptra",
+          "real_count": 12,
+          "control_count": 0,
+          "log_freq_ratio": 2.544
+        },
+        {
+          "word": "vroklendrab",
+          "real_count": 0,
+          "control_count": 11,
+          "log_freq_ratio": -2.506
+        },
+        {
+          "word": "plomprenkrol",
+          "real_count": 0,
+          "control_count": 9,
+          "log_freq_ratio": -2.323
+        },
+        {
+          "word": "thasgorio",
+          "real_count": 9,
+          "control_count": 0,
+          "log_freq_ratio": 2.282
+        },
+        {
+          "word": "athraophol",
+          "real_count": 8,
+          "control_count": 0,
+          "log_freq_ratio": 2.176
+        },
+        {
+          "word": "shifts",
+          "real_count": 0,
+          "control_count": 7,
+          "log_freq_ratio": -2.1
+        }
+      ]
+    },
+    "synthetic_cosmological__L_random__enters_room": {
+      "tail": "enters_room",
+      "real_id": "synthetic_cosmological",
+      "control_id": "synthetic_cosmological_random",
+      "control_role": "L_random",
+      "real_yield": 370,
+      "real_n": 200,
+      "real_rate": 1.8458,
+      "control_yield": 0,
+      "control_n": 200,
+      "control_rate": 0.005,
+      "rate_ratio": 371.0,
+      "log_rate_ratio": 5.916,
+      "bootstrap_ratio_ci95_low": 320.0,
+      "bootstrap_ratio_ci95_high": 429.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "text",
+          "real_count": 0,
+          "control_count": 515,
+          "log_freq_ratio": -6.975
+        },
+        {
+          "word": "provided",
+          "real_count": 0,
+          "control_count": 223,
+          "log_freq_ratio": -6.14
+        },
+        {
+          "word": "based",
+          "real_count": 0,
+          "control_count": 204,
+          "log_freq_ratio": -6.052
+        },
+        {
+          "word": "ecosystem",
+          "real_count": 0,
+          "control_count": 163,
+          "log_freq_ratio": -5.828
+        },
+        {
+          "word": "river",
+          "real_count": 1,
+          "control_count": 312,
+          "log_freq_ratio": -5.782
+        },
+        {
+          "word": "characteristics",
+          "real_count": 0,
+          "control_count": 155,
+          "log_freq_ratio": -5.778
+        },
+        {
+          "word": "description",
+          "real_count": 0,
+          "control_count": 152,
+          "log_freq_ratio": -5.759
+        },
+        {
+          "word": "scientific",
+          "real_count": 0,
+          "control_count": 143,
+          "log_freq_ratio": -5.698
+        },
+        {
+          "word": "ecosystems",
+          "real_count": 0,
+          "control_count": 124,
+          "log_freq_ratio": -5.557
+        },
+        {
+          "word": "event",
+          "real_count": 0,
+          "control_count": 122,
+          "log_freq_ratio": -5.541
+        },
+        {
+          "word": "factors",
+          "real_count": 0,
+          "control_count": 112,
+          "log_freq_ratio": -5.456
+        },
+        {
+          "word": "health",
+          "real_count": 0,
+          "control_count": 93,
+          "log_freq_ratio": -5.272
+        },
+        {
+          "word": "riddle",
+          "real_count": 0,
+          "control_count": 90,
+          "log_freq_ratio": -5.239
+        },
+        {
+          "word": "mention",
+          "real_count": 0,
+          "control_count": 87,
+          "log_freq_ratio": -5.206
+        },
+        {
+          "word": "biological",
+          "real_count": 0,
+          "control_count": 82,
+          "log_freq_ratio": -5.147
+        },
+        {
+          "word": "communities",
+          "real_count": 0,
+          "control_count": 76,
+          "log_freq_ratio": -5.072
+        },
+        {
+          "word": "described",
+          "real_count": 0,
+          "control_count": 75,
+          "log_freq_ratio": -5.059
+        },
+        {
+          "word": "entering",
+          "real_count": 2,
+          "control_count": 226,
+          "log_freq_ratio": -5.055
+        },
+        {
+          "word": "matter",
+          "real_count": 0,
+          "control_count": 69,
+          "log_freq_ratio": -4.977
+        },
+        {
+          "word": "passage",
+          "real_count": 1,
+          "control_count": 130,
+          "log_freq_ratio": -4.911
+        }
+      ]
+    },
+    "synthetic_cosmological__L_empty__page_continues": {
+      "tail": "page_continues",
+      "real_id": "synthetic_cosmological",
+      "control_id": "empty",
+      "control_role": "L_empty",
+      "real_yield": 926,
+      "real_n": 200,
+      "real_rate": 4.6119,
+      "control_yield": 0,
+      "control_n": 200,
+      "control_rate": 0.005,
+      "rate_ratio": 927.0,
+      "log_rate_ratio": 6.832,
+      "bootstrap_ratio_ci95_low": 853.0,
+      "bootstrap_ratio_ci95_high": 1000.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "help",
+          "real_count": 0,
+          "control_count": 198,
+          "log_freq_ratio": -6.518
+        },
+        {
+          "word": "please",
+          "real_count": 0,
+          "control_count": 190,
+          "log_freq_ratio": -6.477
+        },
+        {
+          "word": "d",
+          "real_count": 0,
+          "control_count": 190,
+          "log_freq_ratio": -6.477
+        },
+        {
+          "word": "content",
+          "real_count": 0,
+          "control_count": 156,
+          "log_freq_ratio": -6.281
+        },
+        {
+          "word": "m",
+          "real_count": 0,
+          "control_count": 146,
+          "log_freq_ratio": -6.215
+        },
+        {
+          "word": "assist",
+          "real_count": 0,
+          "control_count": 131,
+          "log_freq_ratio": -6.107
+        },
+        {
+          "word": "message",
+          "real_count": 0,
+          "control_count": 128,
+          "log_freq_ratio": -6.084
+        },
+        {
+          "word": "off",
+          "real_count": 0,
+          "control_count": 101,
+          "log_freq_ratio": -5.85
+        },
+        {
+          "word": "cut",
+          "real_count": 0,
+          "control_count": 100,
+          "log_freq_ratio": -5.84
+        },
+        {
+          "word": "looks",
+          "real_count": 0,
+          "control_count": 98,
+          "log_freq_ratio": -5.82
+        },
+        {
+          "word": "could",
+          "real_count": 1,
+          "control_count": 175,
+          "log_freq_ratio": -5.702
+        },
+        {
+          "word": "share",
+          "real_count": 0,
+          "control_count": 82,
+          "log_freq_ratio": -5.644
+        },
+        {
+          "word": "provide",
+          "real_count": 1,
+          "control_count": 155,
+          "log_freq_ratio": -5.581
+        },
+        {
+          "word": "need",
+          "real_count": 0,
+          "control_count": 59,
+          "log_freq_ratio": -5.319
+        },
+        {
+          "word": "re",
+          "real_count": 0,
+          "control_count": 41,
+          "log_freq_ratio": -4.962
+        },
+        {
+          "word": "information",
+          "real_count": 0,
+          "control_count": 38,
+          "log_freq_ratio": -4.888
+        },
+        {
+          "word": "got",
+          "real_count": 0,
+          "control_count": 38,
+          "log_freq_ratio": -4.888
+        },
+        {
+          "word": "clarify",
+          "real_count": 0,
+          "control_count": 36,
+          "log_freq_ratio": -4.836
+        },
+        {
+          "word": "actual",
+          "real_count": 0,
+          "control_count": 33,
+          "log_freq_ratio": -4.751
+        },
+        {
+          "word": "ready",
+          "real_count": 0,
+          "control_count": 33,
+          "log_freq_ratio": -4.751
+        }
+      ]
+    },
+    "synthetic_cosmological__L_denamed__page_continues": {
+      "tail": "page_continues",
+      "real_id": "synthetic_cosmological",
+      "control_id": "synthetic_cosmological_denamed",
+      "control_role": "L_denamed",
+      "real_yield": 926,
+      "real_n": 200,
+      "real_rate": 4.6119,
+      "control_yield": 129,
+      "control_n": 200,
+      "control_rate": 0.6468,
+      "rate_ratio": 7.131,
+      "log_rate_ratio": 1.964,
+      "bootstrap_ratio_ci95_low": 5.65,
+      "bootstrap_ratio_ci95_high": 9.079,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "unsigned",
+          "real_count": 0,
+          "control_count": 207,
+          "log_freq_ratio": -5.35
+        },
+        {
+          "word": "selophemor",
+          "real_count": 0,
+          "control_count": 142,
+          "log_freq_ratio": -4.975
+        },
+        {
+          "word": "selephimor",
+          "real_count": 142,
+          "control_count": 0,
+          "log_freq_ratio": 4.95
+        },
+        {
+          "word": "phelonoptra",
+          "real_count": 117,
+          "control_count": 0,
+          "log_freq_ratio": 4.758
+        },
+        {
+          "word": "phelonipta",
+          "real_count": 0,
+          "control_count": 113,
+          "log_freq_ratio": -4.749
+        },
+        {
+          "word": "krathoumis",
+          "real_count": 114,
+          "control_count": 0,
+          "log_freq_ratio": 4.733
+        },
+        {
+          "word": "krethaumis",
+          "real_count": 0,
+          "control_count": 103,
+          "log_freq_ratio": -4.657
+        },
+        {
+          "word": "atheraphol",
+          "real_count": 0,
+          "control_count": 85,
+          "log_freq_ratio": -4.467
+        },
+        {
+          "word": "aphrybetesh",
+          "real_count": 85,
+          "control_count": 0,
+          "log_freq_ratio": 4.442
+        },
+        {
+          "word": "phorbamenes",
+          "real_count": 79,
+          "control_count": 0,
+          "log_freq_ratio": 4.37
+        },
+        {
+          "word": "aphrybetosh",
+          "real_count": 0,
+          "control_count": 77,
+          "log_freq_ratio": -4.369
+        },
+        {
+          "word": "phorbomanes",
+          "real_count": 0,
+          "control_count": 69,
+          "log_freq_ratio": -4.261
+        },
+        {
+          "word": "athraophol",
+          "real_count": 68,
+          "control_count": 0,
+          "log_freq_ratio": 4.222
+        },
+        {
+          "word": "demaphris",
+          "real_count": 0,
+          "control_count": 38,
+          "log_freq_ratio": -3.676
+        },
+        {
+          "word": "phengereb",
+          "real_count": 0,
+          "control_count": 33,
+          "log_freq_ratio": -3.539
+        },
+        {
+          "word": "khelriphion",
+          "real_count": 0,
+          "control_count": 30,
+          "log_freq_ratio": -3.446
+        },
+        {
+          "word": "phengareb",
+          "real_count": 26,
+          "control_count": 0,
+          "log_freq_ratio": 3.283
+        },
+        {
+          "word": "khelraphion",
+          "real_count": 25,
+          "control_count": 0,
+          "log_freq_ratio": 3.246
+        },
+        {
+          "word": "demoaphris",
+          "real_count": 24,
+          "control_count": 0,
+          "log_freq_ratio": 3.206
+        },
+        {
+          "word": "ablakharim",
+          "real_count": 0,
+          "control_count": 22,
+          "log_freq_ratio": -3.148
+        }
+      ]
+    },
+    "synthetic_cosmological__L_nonsense__page_continues": {
+      "tail": "page_continues",
+      "real_id": "synthetic_cosmological",
+      "control_id": "synthetic_cosmological_nonsense",
+      "control_role": "L_nonsense",
+      "real_yield": 926,
+      "real_n": 200,
+      "real_rate": 4.6119,
+      "control_yield": 85,
+      "control_n": 200,
+      "control_rate": 0.4279,
+      "rate_ratio": 10.779,
+      "log_rate_ratio": 2.378,
+      "bootstrap_ratio_ci95_low": 8.405,
+      "bootstrap_ratio_ci95_high": 14.149,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "vrolthen",
+          "real_count": 0,
+          "control_count": 194,
+          "log_freq_ratio": -5.318
+        },
+        {
+          "word": "vrendrelphor",
+          "real_count": 0,
+          "control_count": 148,
+          "log_freq_ratio": -5.049
+        },
+        {
+          "word": "vrokthemnarph",
+          "real_count": 0,
+          "control_count": 134,
+          "log_freq_ratio": -4.95
+        },
+        {
+          "word": "selephimor",
+          "real_count": 142,
+          "control_count": 0,
+          "log_freq_ratio": 4.918
+        },
+        {
+          "word": "phelonoptra",
+          "real_count": 117,
+          "control_count": 0,
+          "log_freq_ratio": 4.726
+        },
+        {
+          "word": "krathoumis",
+          "real_count": 114,
+          "control_count": 0,
+          "log_freq_ratio": 4.7
+        },
+        {
+          "word": "smelthrenaph",
+          "real_count": 0,
+          "control_count": 93,
+          "log_freq_ratio": -4.588
+        },
+        {
+          "word": "aphrybetesh",
+          "real_count": 85,
+          "control_count": 0,
+          "log_freq_ratio": 4.41
+        },
+        {
+          "word": "plendrok",
+          "real_count": 0,
+          "control_count": 75,
+          "log_freq_ratio": -4.376
+        },
+        {
+          "word": "phorbamenes",
+          "real_count": 79,
+          "control_count": 0,
+          "log_freq_ratio": 4.337
+        },
+        {
+          "word": "athraophol",
+          "real_count": 68,
+          "control_count": 0,
+          "log_freq_ratio": 4.189
+        },
+        {
+          "word": "vrokthelmpeth",
+          "real_count": 0,
+          "control_count": 62,
+          "log_freq_ratio": -4.188
+        },
+        {
+          "word": "plendrokt",
+          "real_count": 0,
+          "control_count": 50,
+          "log_freq_ratio": -3.977
+        },
+        {
+          "word": "plomprenkrol",
+          "real_count": 0,
+          "control_count": 47,
+          "log_freq_ratio": -3.916
+        },
+        {
+          "word": "krelpharvon",
+          "real_count": 0,
+          "control_count": 38,
+          "log_freq_ratio": -3.708
+        },
+        {
+          "word": "phengareb",
+          "real_count": 26,
+          "control_count": 0,
+          "log_freq_ratio": 3.251
+        },
+        {
+          "word": "khelraphion",
+          "real_count": 25,
+          "control_count": 0,
+          "log_freq_ratio": 3.213
+        },
+        {
+          "word": "demoaphris",
+          "real_count": 24,
+          "control_count": 0,
+          "log_freq_ratio": 3.174
+        },
+        {
+          "word": "velpharaim",
+          "real_count": 16,
+          "control_count": 0,
+          "log_freq_ratio": 2.788
+        },
+        {
+          "word": "ablakhirim",
+          "real_count": 15,
+          "control_count": 0,
+          "log_freq_ratio": 2.728
+        }
+      ]
+    },
+    "synthetic_cosmological__L_random__page_continues": {
+      "tail": "page_continues",
+      "real_id": "synthetic_cosmological",
+      "control_id": "synthetic_cosmological_random",
+      "control_role": "L_random",
+      "real_yield": 926,
+      "real_n": 200,
+      "real_rate": 4.6119,
+      "control_yield": 0,
+      "control_n": 200,
+      "control_rate": 0.005,
+      "rate_ratio": 927.0,
+      "log_rate_ratio": 6.832,
+      "bootstrap_ratio_ci95_low": 853.0,
+      "bootstrap_ratio_ci95_high": 1000.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "unnamed",
+          "real_count": 349,
+          "control_count": 0,
+          "log_freq_ratio": 5.829
+        },
+        {
+          "word": "names",
+          "real_count": 345,
+          "control_count": 0,
+          "log_freq_ratio": 5.817
+        },
+        {
+          "word": "deity",
+          "real_count": 327,
+          "control_count": 0,
+          "log_freq_ratio": 5.764
+        },
+        {
+          "word": "invocation",
+          "real_count": 295,
+          "control_count": 0,
+          "log_freq_ratio": 5.661
+        },
+        {
+          "word": "ecosystems",
+          "real_count": 0,
+          "control_count": 257,
+          "log_freq_ratio": -5.582
+        },
+        {
+          "word": "ecosystem",
+          "real_count": 0,
+          "control_count": 237,
+          "log_freq_ratio": -5.501
+        },
+        {
+          "word": "river",
+          "real_count": 2,
+          "control_count": 651,
+          "log_freq_ratio": -5.411
+        },
+        {
+          "word": "speaker",
+          "real_count": 185,
+          "control_count": 0,
+          "log_freq_ratio": 5.197
+        },
+        {
+          "word": "silence",
+          "real_count": 184,
+          "control_count": 0,
+          "log_freq_ratio": 5.191
+        },
+        {
+          "word": "headwaters",
+          "real_count": 0,
+          "control_count": 166,
+          "log_freq_ratio": -5.147
+        },
+        {
+          "word": "name",
+          "real_count": 175,
+          "control_count": 0,
+          "log_freq_ratio": 5.141
+        },
+        {
+          "word": "ritual",
+          "real_count": 165,
+          "control_count": 0,
+          "log_freq_ratio": 5.083
+        },
+        {
+          "word": "prophet",
+          "real_count": 161,
+          "control_count": 0,
+          "log_freq_ratio": 5.058
+        },
+        {
+          "word": "impacts",
+          "real_count": 0,
+          "control_count": 151,
+          "log_freq_ratio": -5.053
+        },
+        {
+          "word": "lotic",
+          "real_count": 0,
+          "control_count": 151,
+          "log_freq_ratio": -5.053
+        },
+        {
+          "word": "echo",
+          "real_count": 157,
+          "control_count": 0,
+          "log_freq_ratio": 5.033
+        },
+        {
+          "word": "secret",
+          "real_count": 152,
+          "control_count": 0,
+          "log_freq_ratio": 5.001
+        },
+        {
+          "word": "downstream",
+          "real_count": 0,
+          "control_count": 143,
+          "log_freq_ratio": -4.999
+        },
+        {
+          "word": "how",
+          "real_count": 0,
+          "control_count": 137,
+          "log_freq_ratio": -4.956
+        },
+        {
+          "word": "selephimor",
+          "real_count": 142,
+          "control_count": 0,
+          "log_freq_ratio": 4.934
+        }
+      ]
+    },
+    "synthetic_litany__L_empty__visitor_at_door": {
+      "tail": "visitor_at_door",
+      "real_id": "synthetic_litany",
+      "control_id": "empty",
+      "control_role": "L_empty",
+      "real_yield": 624,
+      "real_n": 200,
+      "real_rate": 3.1095,
+      "control_yield": 0,
+      "control_n": 200,
+      "control_rate": 0.005,
+      "rate_ratio": 625.0,
+      "log_rate_ratio": 6.438,
+      "bootstrap_ratio_ci95_low": 406.0,
+      "bootstrap_ratio_ci95_high": 873.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "he",
+          "real_count": 0,
+          "control_count": 70,
+          "log_freq_ratio": -4.444
+        },
+        {
+          "word": "say",
+          "real_count": 0,
+          "control_count": 60,
+          "log_freq_ratio": -4.292
+        },
+        {
+          "word": "names",
+          "real_count": 83,
+          "control_count": 0,
+          "log_freq_ratio": 4.25
+        },
+        {
+          "word": "spoken",
+          "real_count": 77,
+          "control_count": 0,
+          "log_freq_ratio": 4.175
+        },
+        {
+          "word": "m",
+          "real_count": 0,
+          "control_count": 33,
+          "log_freq_ratio": -3.708
+        },
+        {
+          "word": "adventi",
+          "real_count": 47,
+          "control_count": 0,
+          "log_freq_ratio": 3.69
+        },
+        {
+          "word": "liminem",
+          "real_count": 47,
+          "control_count": 0,
+          "log_freq_ratio": 3.69
+        },
+        {
+          "word": "opened",
+          "real_count": 45,
+          "control_count": 0,
+          "log_freq_ratio": 3.647
+        },
+        {
+          "word": "way",
+          "real_count": 173,
+          "control_count": 3,
+          "log_freq_ratio": 3.592
+        },
+        {
+          "word": "about",
+          "real_count": 0,
+          "control_count": 28,
+          "log_freq_ratio": -3.549
+        },
+        {
+          "word": "good",
+          "real_count": 0,
+          "control_count": 28,
+          "log_freq_ratio": -3.549
+        },
+        {
+          "word": "path",
+          "real_count": 39,
+          "control_count": 0,
+          "log_freq_ratio": 3.508
+        },
+        {
+          "word": "help",
+          "real_count": 0,
+          "control_count": 24,
+          "log_freq_ratio": -3.4
+        },
+        {
+          "word": "how",
+          "real_count": 0,
+          "control_count": 23,
+          "log_freq_ratio": -3.359
+        },
+        {
+          "word": "known",
+          "real_count": 33,
+          "control_count": 0,
+          "log_freq_ratio": 3.345
+        },
+        {
+          "word": "t",
+          "real_count": 0,
+          "control_count": 20,
+          "log_freq_ratio": -3.226
+        },
+        {
+          "word": "day",
+          "real_count": 0,
+          "control_count": 20,
+          "log_freq_ratio": -3.226
+        },
+        {
+          "word": "brashvoreth",
+          "real_count": 29,
+          "control_count": 0,
+          "log_freq_ratio": 3.22
+        },
+        {
+          "word": "him",
+          "real_count": 0,
+          "control_count": 19,
+          "log_freq_ratio": -3.177
+        },
+        {
+          "word": "standing",
+          "real_count": 0,
+          "control_count": 19,
+          "log_freq_ratio": -3.177
+        }
+      ]
+    },
+    "synthetic_litany__L_denamed__visitor_at_door": {
+      "tail": "visitor_at_door",
+      "real_id": "synthetic_litany",
+      "control_id": "synthetic_litany_denamed",
+      "control_role": "L_denamed",
+      "real_yield": 624,
+      "real_n": 200,
+      "real_rate": 3.1095,
+      "control_yield": 3,
+      "control_n": 200,
+      "control_rate": 0.0199,
+      "rate_ratio": 156.25,
+      "log_rate_ratio": 5.051,
+      "bootstrap_ratio_ci95_low": 69.375,
+      "bootstrap_ratio_ci95_high": 619.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "adventi",
+          "real_count": 47,
+          "control_count": 0,
+          "log_freq_ratio": 4.11
+        },
+        {
+          "word": "liminem",
+          "real_count": 47,
+          "control_count": 0,
+          "log_freq_ratio": 4.11
+        },
+        {
+          "word": "brashvoreth",
+          "real_count": 29,
+          "control_count": 0,
+          "log_freq_ratio": 3.64
+        },
+        {
+          "word": "lominem",
+          "real_count": 0,
+          "control_count": 47,
+          "log_freq_ratio": -3.632
+        },
+        {
+          "word": "adventu",
+          "real_count": 0,
+          "control_count": 47,
+          "log_freq_ratio": -3.632
+        },
+        {
+          "word": "astrolach",
+          "real_count": 0,
+          "control_count": 40,
+          "log_freq_ratio": -3.475
+        },
+        {
+          "word": "marzabet",
+          "real_count": 0,
+          "control_count": 40,
+          "log_freq_ratio": -3.475
+        },
+        {
+          "word": "iethreon",
+          "real_count": 0,
+          "control_count": 39,
+          "log_freq_ratio": -3.45
+        },
+        {
+          "word": "brashveroth",
+          "real_count": 0,
+          "control_count": 39,
+          "log_freq_ratio": -3.45
+        },
+        {
+          "word": "hialop",
+          "real_count": 0,
+          "control_count": 38,
+          "log_freq_ratio": -3.425
+        },
+        {
+          "word": "throbenas",
+          "real_count": 0,
+          "control_count": 38,
+          "log_freq_ratio": -3.425
+        },
+        {
+          "word": "kerudin",
+          "real_count": 0,
+          "control_count": 38,
+          "log_freq_ratio": -3.425
+        },
+        {
+          "word": "astrelach",
+          "real_count": 23,
+          "control_count": 0,
+          "log_freq_ratio": 3.417
+        },
+        {
+          "word": "olomar",
+          "real_count": 23,
+          "control_count": 0,
+          "log_freq_ratio": 3.417
+        },
+        {
+          "word": "senaberoth",
+          "real_count": 0,
+          "control_count": 37,
+          "log_freq_ratio": -3.399
+        },
+        {
+          "word": "yodulim",
+          "real_count": 0,
+          "control_count": 37,
+          "log_freq_ratio": -3.399
+        },
+        {
+          "word": "iston",
+          "real_count": 0,
+          "control_count": 37,
+          "log_freq_ratio": -3.399
+        },
+        {
+          "word": "volmuroth",
+          "real_count": 0,
+          "control_count": 37,
+          "log_freq_ratio": -3.399
+        },
+        {
+          "word": "mirzabet",
+          "real_count": 22,
+          "control_count": 0,
+          "log_freq_ratio": 3.374
+        },
+        {
+          "word": "throvenios",
+          "real_count": 22,
+          "control_count": 0,
+          "log_freq_ratio": 3.374
+        }
+      ]
+    },
+    "synthetic_litany__L_nonsense__visitor_at_door": {
+      "tail": "visitor_at_door",
+      "real_id": "synthetic_litany",
+      "control_id": "synthetic_litany_nonsense",
+      "control_role": "L_nonsense",
+      "real_yield": 624,
+      "real_n": 200,
+      "real_rate": 3.1095,
+      "control_yield": 4,
+      "control_n": 200,
+      "control_rate": 0.0249,
+      "rate_ratio": 125.0,
+      "log_rate_ratio": 4.828,
+      "bootstrap_ratio_ci95_low": 59.778,
+      "bootstrap_ratio_ci95_high": 380.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "krelphem",
+          "real_count": 0,
+          "control_count": 50,
+          "log_freq_ratio": -3.964
+        },
+        {
+          "word": "skemphrok",
+          "real_count": 0,
+          "control_count": 49,
+          "log_freq_ratio": -3.944
+        },
+        {
+          "word": "adventi",
+          "real_count": 47,
+          "control_count": 0,
+          "log_freq_ratio": 3.839
+        },
+        {
+          "word": "liminem",
+          "real_count": 47,
+          "control_count": 0,
+          "log_freq_ratio": 3.839
+        },
+        {
+          "word": "vrokthemnar",
+          "real_count": 0,
+          "control_count": 43,
+          "log_freq_ratio": -3.816
+        },
+        {
+          "word": "mrolthumek",
+          "real_count": 0,
+          "control_count": 41,
+          "log_freq_ratio": -3.77
+        },
+        {
+          "word": "klompronek",
+          "real_count": 0,
+          "control_count": 41,
+          "log_freq_ratio": -3.77
+        },
+        {
+          "word": "vrendrabmar",
+          "real_count": 0,
+          "control_count": 40,
+          "log_freq_ratio": -3.746
+        },
+        {
+          "word": "snorth",
+          "real_count": 0,
+          "control_count": 40,
+          "log_freq_ratio": -3.746
+        },
+        {
+          "word": "sneldrek",
+          "real_count": 0,
+          "control_count": 39,
+          "log_freq_ratio": -3.721
+        },
+        {
+          "word": "snolthrolm",
+          "real_count": 0,
+          "control_count": 39,
+          "log_freq_ratio": -3.721
+        },
+        {
+          "word": "vroklep",
+          "real_count": 0,
+          "control_count": 39,
+          "log_freq_ratio": -3.721
+        },
+        {
+          "word": "mrolthengek",
+          "real_count": 0,
+          "control_count": 39,
+          "log_freq_ratio": -3.721
+        },
+        {
+          "word": "vronth",
+          "real_count": 0,
+          "control_count": 39,
+          "log_freq_ratio": -3.721
+        },
+        {
+          "word": "plekriskem",
+          "real_count": 0,
+          "control_count": 38,
+          "log_freq_ratio": -3.696
+        },
+        {
+          "word": "klomphreth",
+          "real_count": 0,
+          "control_count": 38,
+          "log_freq_ratio": -3.696
+        },
+        {
+          "word": "krendrenel",
+          "real_count": 0,
+          "control_count": 38,
+          "log_freq_ratio": -3.696
+        },
+        {
+          "word": "vrendrelth",
+          "real_count": 0,
+          "control_count": 38,
+          "log_freq_ratio": -3.696
+        },
+        {
+          "word": "krelphondoth",
+          "real_count": 0,
+          "control_count": 38,
+          "log_freq_ratio": -3.696
+        },
+        {
+          "word": "plendreol",
+          "real_count": 0,
+          "control_count": 38,
+          "log_freq_ratio": -3.696
+        }
+      ]
+    },
+    "synthetic_litany__L_random__visitor_at_door": {
+      "tail": "visitor_at_door",
+      "real_id": "synthetic_litany",
+      "control_id": "synthetic_litany_random",
+      "control_role": "L_random",
+      "real_yield": 624,
+      "real_n": 200,
+      "real_rate": 3.1095,
+      "control_yield": 0,
+      "control_n": 200,
+      "control_rate": 0.005,
+      "rate_ratio": 625.0,
+      "log_rate_ratio": 6.438,
+      "bootstrap_ratio_ci95_low": 406.0,
+      "bootstrap_ratio_ci95_high": 873.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "names",
+          "real_count": 83,
+          "control_count": 0,
+          "log_freq_ratio": 5.78
+        },
+        {
+          "word": "adventi",
+          "real_count": 47,
+          "control_count": 0,
+          "log_freq_ratio": 5.22
+        },
+        {
+          "word": "liminem",
+          "real_count": 47,
+          "control_count": 0,
+          "log_freq_ratio": 5.22
+        },
+        {
+          "word": "opened",
+          "real_count": 45,
+          "control_count": 0,
+          "log_freq_ratio": 5.178
+        },
+        {
+          "word": "path",
+          "real_count": 39,
+          "control_count": 0,
+          "log_freq_ratio": 5.038
+        },
+        {
+          "word": "brashvoreth",
+          "real_count": 29,
+          "control_count": 0,
+          "log_freq_ratio": 4.75
+        },
+        {
+          "word": "stone",
+          "real_count": 25,
+          "control_count": 0,
+          "log_freq_ratio": 4.607
+        },
+        {
+          "word": "hum",
+          "real_count": 25,
+          "control_count": 0,
+          "log_freq_ratio": 4.607
+        },
+        {
+          "word": "grows",
+          "real_count": 24,
+          "control_count": 0,
+          "log_freq_ratio": 4.568
+        },
+        {
+          "word": "anglerfish",
+          "real_count": 0,
+          "control_count": 356,
+          "log_freq_ratio": -4.529
+        },
+        {
+          "word": "astrelach",
+          "real_count": 23,
+          "control_count": 0,
+          "log_freq_ratio": 4.527
+        },
+        {
+          "word": "olomar",
+          "real_count": 23,
+          "control_count": 0,
+          "log_freq_ratio": 4.527
+        },
+        {
+          "word": "throvenios",
+          "real_count": 22,
+          "control_count": 0,
+          "log_freq_ratio": 4.485
+        },
+        {
+          "word": "iskon",
+          "real_count": 22,
+          "control_count": 0,
+          "log_freq_ratio": 4.485
+        },
+        {
+          "word": "mirzabet",
+          "real_count": 22,
+          "control_count": 0,
+          "log_freq_ratio": 4.485
+        },
+        {
+          "word": "sinabaroth",
+          "real_count": 21,
+          "control_count": 0,
+          "log_freq_ratio": 4.44
+        },
+        {
+          "word": "kerodim",
+          "real_count": 21,
+          "control_count": 0,
+          "log_freq_ratio": 4.44
+        },
+        {
+          "word": "iathreon",
+          "real_count": 21,
+          "control_count": 0,
+          "log_freq_ratio": 4.44
+        },
+        {
+          "word": "mareth",
+          "real_count": 21,
+          "control_count": 0,
+          "log_freq_ratio": 4.44
+        },
+        {
+          "word": "yodalim",
+          "real_count": 20,
+          "control_count": 0,
+          "log_freq_ratio": 4.394
+        }
+      ]
+    },
+    "synthetic_litany__L_empty__enters_room": {
+      "tail": "enters_room",
+      "real_id": "synthetic_litany",
+      "control_id": "empty",
+      "control_role": "L_empty",
+      "real_yield": 379,
+      "real_n": 200,
+      "real_rate": 1.8905,
+      "control_yield": 0,
+      "control_n": 200,
+      "control_rate": 0.005,
+      "rate_ratio": 380.0,
+      "log_rate_ratio": 5.94,
+      "bootstrap_ratio_ci95_low": 238.0,
+      "bootstrap_ratio_ci95_high": 535.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "context",
+          "real_count": 0,
+          "control_count": 157,
+          "log_freq_ratio": -5.799
+        },
+        {
+          "word": "re",
+          "real_count": 0,
+          "control_count": 132,
+          "log_freq_ratio": -5.627
+        },
+        {
+          "word": "riddle",
+          "real_count": 0,
+          "control_count": 123,
+          "log_freq_ratio": -5.557
+        },
+        {
+          "word": "situation",
+          "real_count": 0,
+          "control_count": 113,
+          "log_freq_ratio": -5.473
+        },
+        {
+          "word": "person",
+          "real_count": 0,
+          "control_count": 104,
+          "log_freq_ratio": -5.39
+        },
+        {
+          "word": "specific",
+          "real_count": 0,
+          "control_count": 101,
+          "log_freq_ratio": -5.361
+        },
+        {
+          "word": "details",
+          "real_count": 0,
+          "control_count": 98,
+          "log_freq_ratio": -5.332
+        },
+        {
+          "word": "animal",
+          "real_count": 0,
+          "control_count": 75,
+          "log_freq_ratio": -5.067
+        },
+        {
+          "word": "t",
+          "real_count": 0,
+          "control_count": 73,
+          "log_freq_ratio": -5.041
+        },
+        {
+          "word": "idea",
+          "real_count": 0,
+          "control_count": 59,
+          "log_freq_ratio": -4.831
+        },
+        {
+          "word": "about",
+          "real_count": 0,
+          "control_count": 47,
+          "log_freq_ratio": -4.608
+        },
+        {
+          "word": "referring",
+          "real_count": 0,
+          "control_count": 47,
+          "log_freq_ratio": -4.608
+        },
+        {
+          "word": "names",
+          "real_count": 196,
+          "control_count": 0,
+          "log_freq_ratio": 4.547
+        },
+        {
+          "word": "common",
+          "real_count": 0,
+          "control_count": 40,
+          "log_freq_ratio": -4.45
+        },
+        {
+          "word": "happening",
+          "real_count": 0,
+          "control_count": 39,
+          "log_freq_ratio": -4.425
+        },
+        {
+          "word": "d",
+          "real_count": 0,
+          "control_count": 39,
+          "log_freq_ratio": -4.425
+        },
+        {
+          "word": "provide",
+          "real_count": 1,
+          "control_count": 76,
+          "log_freq_ratio": -4.387
+        },
+        {
+          "word": "presence",
+          "real_count": 166,
+          "control_count": 0,
+          "log_freq_ratio": 4.382
+        },
+        {
+          "word": "free",
+          "real_count": 0,
+          "control_count": 35,
+          "log_freq_ratio": -4.32
+        },
+        {
+          "word": "pet",
+          "real_count": 0,
+          "control_count": 34,
+          "log_freq_ratio": -4.292
+        }
+      ]
+    },
+    "synthetic_litany__L_denamed__enters_room": {
+      "tail": "enters_room",
+      "real_id": "synthetic_litany",
+      "control_id": "synthetic_litany_denamed",
+      "control_role": "L_denamed",
+      "real_yield": 379,
+      "real_n": 200,
+      "real_rate": 1.8905,
+      "control_yield": 8,
+      "control_n": 200,
+      "control_rate": 0.0448,
+      "rate_ratio": 42.222,
+      "log_rate_ratio": 3.743,
+      "bootstrap_ratio_ci95_low": 21.462,
+      "bootstrap_ratio_ci95_high": 99.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "adventi",
+          "real_count": 58,
+          "control_count": 0,
+          "log_freq_ratio": 4.114
+        },
+        {
+          "word": "liminem",
+          "real_count": 57,
+          "control_count": 0,
+          "log_freq_ratio": 4.097
+        },
+        {
+          "word": "adventu",
+          "real_count": 0,
+          "control_count": 53,
+          "log_freq_ratio": -3.952
+        },
+        {
+          "word": "lominem",
+          "real_count": 0,
+          "control_count": 51,
+          "log_freq_ratio": -3.915
+        },
+        {
+          "word": "astrelach",
+          "real_count": 24,
+          "control_count": 0,
+          "log_freq_ratio": 3.256
+        },
+        {
+          "word": "throvenios",
+          "real_count": 22,
+          "control_count": 0,
+          "log_freq_ratio": 3.172
+        },
+        {
+          "word": "astrolach",
+          "real_count": 0,
+          "control_count": 22,
+          "log_freq_ratio": -3.099
+        },
+        {
+          "word": "khalapeth",
+          "real_count": 18,
+          "control_count": 0,
+          "log_freq_ratio": 2.981
+        },
+        {
+          "word": "brashveroth",
+          "real_count": 0,
+          "control_count": 19,
+          "log_freq_ratio": -2.959
+        },
+        {
+          "word": "brashvoreth",
+          "real_count": 16,
+          "control_count": 0,
+          "log_freq_ratio": 2.87
+        },
+        {
+          "word": "mareth",
+          "real_count": 16,
+          "control_count": 0,
+          "log_freq_ratio": 2.87
+        },
+        {
+          "word": "sinabaroth",
+          "real_count": 15,
+          "control_count": 0,
+          "log_freq_ratio": 2.809
+        },
+        {
+          "word": "saphrenoth",
+          "real_count": 14,
+          "control_count": 0,
+          "log_freq_ratio": 2.745
+        },
+        {
+          "word": "marzabet",
+          "real_count": 0,
+          "control_count": 15,
+          "log_freq_ratio": -2.736
+        },
+        {
+          "word": "vesperath",
+          "real_count": 13,
+          "control_count": 0,
+          "log_freq_ratio": 2.676
+        },
+        {
+          "word": "saphronoth",
+          "real_count": 0,
+          "control_count": 14,
+          "log_freq_ratio": -2.671
+        },
+        {
+          "word": "drabosaim",
+          "real_count": 0,
+          "control_count": 13,
+          "log_freq_ratio": -2.602
+        },
+        {
+          "word": "olempraem",
+          "real_count": 12,
+          "control_count": 0,
+          "log_freq_ratio": 2.602
+        },
+        {
+          "word": "iston",
+          "real_count": 0,
+          "control_count": 12,
+          "log_freq_ratio": -2.528
+        },
+        {
+          "word": "volmuroth",
+          "real_count": 0,
+          "control_count": 12,
+          "log_freq_ratio": -2.528
+        }
+      ]
+    },
+    "synthetic_litany__L_nonsense__enters_room": {
+      "tail": "enters_room",
+      "real_id": "synthetic_litany",
+      "control_id": "synthetic_litany_nonsense",
+      "control_role": "L_nonsense",
+      "real_yield": 379,
+      "real_n": 200,
+      "real_rate": 1.8905,
+      "control_yield": 13,
+      "control_n": 200,
+      "control_rate": 0.0697,
+      "rate_ratio": 27.143,
+      "log_rate_ratio": 3.301,
+      "bootstrap_ratio_ci95_low": 14.95,
+      "bootstrap_ratio_ci95_high": 53.364,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "skemphrok",
+          "real_count": 0,
+          "control_count": 62,
+          "log_freq_ratio": -4.405
+        },
+        {
+          "word": "krelphem",
+          "real_count": 0,
+          "control_count": 58,
+          "log_freq_ratio": -4.339
+        },
+        {
+          "word": "adventi",
+          "real_count": 58,
+          "control_count": 0,
+          "log_freq_ratio": 3.816
+        },
+        {
+          "word": "liminem",
+          "real_count": 57,
+          "control_count": 0,
+          "log_freq_ratio": 3.799
+        },
+        {
+          "word": "klompronek",
+          "real_count": 0,
+          "control_count": 21,
+          "log_freq_ratio": -3.353
+        },
+        {
+          "word": "vrokthemnar",
+          "real_count": 0,
+          "control_count": 17,
+          "log_freq_ratio": -3.152
+        },
+        {
+          "word": "sneldrek",
+          "real_count": 0,
+          "control_count": 16,
+          "log_freq_ratio": -3.095
+        },
+        {
+          "word": "mrolthengek",
+          "real_count": 0,
+          "control_count": 14,
+          "log_freq_ratio": -2.97
+        },
+        {
+          "word": "astrelach",
+          "real_count": 24,
+          "control_count": 0,
+          "log_freq_ratio": 2.957
+        },
+        {
+          "word": "snorth",
+          "real_count": 0,
+          "control_count": 13,
+          "log_freq_ratio": -2.901
+        },
+        {
+          "word": "wet",
+          "real_count": 0,
+          "control_count": 13,
+          "log_freq_ratio": -2.901
+        },
+        {
+          "word": "starlight",
+          "real_count": 22,
+          "control_count": 0,
+          "log_freq_ratio": 2.874
+        },
+        {
+          "word": "throvenios",
+          "real_count": 22,
+          "control_count": 0,
+          "log_freq_ratio": 2.874
+        },
+        {
+          "word": "charged",
+          "real_count": 20,
+          "control_count": 0,
+          "log_freq_ratio": 2.783
+        },
+        {
+          "word": "grinding",
+          "real_count": 4,
+          "control_count": 61,
+          "log_freq_ratio": -2.779
+        },
+        {
+          "word": "krelphendoth",
+          "real_count": 0,
+          "control_count": 11,
+          "log_freq_ratio": -2.747
+        },
+        {
+          "word": "khalapeth",
+          "real_count": 18,
+          "control_count": 0,
+          "log_freq_ratio": 2.683
+        },
+        {
+          "word": "guttural",
+          "real_count": 0,
+          "control_count": 10,
+          "log_freq_ratio": -2.66
+        },
+        {
+          "word": "k",
+          "real_count": 0,
+          "control_count": 10,
+          "log_freq_ratio": -2.66
+        },
+        {
+          "word": "star",
+          "real_count": 16,
+          "control_count": 0,
+          "log_freq_ratio": 2.572
+        }
+      ]
+    },
+    "synthetic_litany__L_random__enters_room": {
+      "tail": "enters_room",
+      "real_id": "synthetic_litany",
+      "control_id": "synthetic_litany_random",
+      "control_role": "L_random",
+      "real_yield": 379,
+      "real_n": 200,
+      "real_rate": 1.8905,
+      "control_yield": 0,
+      "control_n": 200,
+      "control_rate": 0.005,
+      "rate_ratio": 380.0,
+      "log_rate_ratio": 5.94,
+      "bootstrap_ratio_ci95_low": 238.0,
+      "bootstrap_ratio_ci95_high": 535.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "anglerfish",
+          "real_count": 0,
+          "control_count": 237,
+          "log_freq_ratio": -6.39
+        },
+        {
+          "word": "based",
+          "real_count": 0,
+          "control_count": 195,
+          "log_freq_ratio": -6.196
+        },
+        {
+          "word": "provided",
+          "real_count": 0,
+          "control_count": 181,
+          "log_freq_ratio": -6.122
+        },
+        {
+          "word": "text",
+          "real_count": 1,
+          "control_count": 299,
+          "log_freq_ratio": -5.928
+        },
+        {
+          "word": "about",
+          "real_count": 0,
+          "control_count": 136,
+          "log_freq_ratio": -5.838
+        },
+        {
+          "word": "biology",
+          "real_count": 0,
+          "control_count": 123,
+          "log_freq_ratio": -5.738
+        },
+        {
+          "word": "habitat",
+          "real_count": 0,
+          "control_count": 120,
+          "log_freq_ratio": -5.713
+        },
+        {
+          "word": "solely",
+          "real_count": 0,
+          "control_count": 91,
+          "log_freq_ratio": -5.439
+        },
+        {
+          "word": "describes",
+          "real_count": 0,
+          "control_count": 91,
+          "log_freq_ratio": -5.439
+        },
+        {
+          "word": "description",
+          "real_count": 0,
+          "control_count": 79,
+          "log_freq_ratio": -5.3
+        },
+        {
+          "word": "specific",
+          "real_count": 0,
+          "control_count": 77,
+          "log_freq_ratio": -5.274
+        },
+        {
+          "word": "happening",
+          "real_count": 0,
+          "control_count": 66,
+          "log_freq_ratio": -5.122
+        },
+        {
+          "word": "mention",
+          "real_count": 0,
+          "control_count": 65,
+          "log_freq_ratio": -5.107
+        },
+        {
+          "word": "event",
+          "real_count": 1,
+          "control_count": 129,
+          "log_freq_ratio": -5.092
+        },
+        {
+          "word": "behavior",
+          "real_count": 0,
+          "control_count": 63,
+          "log_freq_ratio": -5.076
+        },
+        {
+          "word": "factual",
+          "real_count": 0,
+          "control_count": 53,
+          "log_freq_ratio": -4.907
+        },
+        {
+          "word": "information",
+          "real_count": 2,
+          "control_count": 155,
+          "log_freq_ratio": -4.869
+        },
+        {
+          "word": "characteristics",
+          "real_count": 0,
+          "control_count": 44,
+          "log_freq_ratio": -4.724
+        },
+        {
+          "word": "biological",
+          "real_count": 0,
+          "control_count": 43,
+          "log_freq_ratio": -4.702
+        },
+        {
+          "word": "predatory",
+          "real_count": 0,
+          "control_count": 41,
+          "log_freq_ratio": -4.655
+        }
+      ]
+    },
+    "synthetic_litany__L_empty__page_continues": {
+      "tail": "page_continues",
+      "real_id": "synthetic_litany",
+      "control_id": "empty",
+      "control_role": "L_empty",
+      "real_yield": 1486,
+      "real_n": 200,
+      "real_rate": 7.398,
+      "control_yield": 0,
+      "control_n": 200,
+      "control_rate": 0.005,
+      "rate_ratio": 1487.0,
+      "log_rate_ratio": 7.305,
+      "bootstrap_ratio_ci95_low": 1158.0,
+      "bootstrap_ratio_ci95_high": 1819.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "open",
+          "real_count": 141,
+          "control_count": 0,
+          "log_freq_ratio": 5.169
+        },
+        {
+          "word": "names",
+          "real_count": 140,
+          "control_count": 0,
+          "log_freq_ratio": 5.162
+        },
+        {
+          "word": "help",
+          "real_count": 0,
+          "control_count": 198,
+          "log_freq_ratio": -5.08
+        },
+        {
+          "word": "spoken",
+          "real_count": 127,
+          "control_count": 0,
+          "log_freq_ratio": 5.065
+        },
+        {
+          "word": "please",
+          "real_count": 0,
+          "control_count": 190,
+          "log_freq_ratio": -5.039
+        },
+        {
+          "word": "could",
+          "real_count": 0,
+          "control_count": 175,
+          "log_freq_ratio": -4.958
+        },
+        {
+          "word": "content",
+          "real_count": 0,
+          "control_count": 156,
+          "log_freq_ratio": -4.843
+        },
+        {
+          "word": "provide",
+          "real_count": 0,
+          "control_count": 155,
+          "log_freq_ratio": -4.837
+        },
+        {
+          "word": "m",
+          "real_count": 0,
+          "control_count": 146,
+          "log_freq_ratio": -4.778
+        },
+        {
+          "word": "path",
+          "real_count": 94,
+          "control_count": 0,
+          "log_freq_ratio": 4.767
+        },
+        {
+          "word": "assist",
+          "real_count": 0,
+          "control_count": 131,
+          "log_freq_ratio": -4.67
+        },
+        {
+          "word": "message",
+          "real_count": 0,
+          "control_count": 128,
+          "log_freq_ratio": -4.647
+        },
+        {
+          "word": "adventi",
+          "real_count": 67,
+          "control_count": 0,
+          "log_freq_ratio": 4.432
+        },
+        {
+          "word": "liminem",
+          "real_count": 66,
+          "control_count": 0,
+          "log_freq_ratio": 4.418
+        },
+        {
+          "word": "off",
+          "real_count": 0,
+          "control_count": 101,
+          "log_freq_ratio": -4.412
+        },
+        {
+          "word": "cut",
+          "real_count": 0,
+          "control_count": 100,
+          "log_freq_ratio": -4.402
+        },
+        {
+          "word": "looks",
+          "real_count": 0,
+          "control_count": 98,
+          "log_freq_ratio": -4.382
+        },
+        {
+          "word": "d",
+          "real_count": 1,
+          "control_count": 190,
+          "log_freq_ratio": -4.346
+        },
+        {
+          "word": "air",
+          "real_count": 54,
+          "control_count": 0,
+          "log_freq_ratio": 4.22
+        },
+        {
+          "word": "share",
+          "real_count": 0,
+          "control_count": 82,
+          "log_freq_ratio": -4.206
+        }
+      ]
+    },
+    "synthetic_litany__L_denamed__page_continues": {
+      "tail": "page_continues",
+      "real_id": "synthetic_litany",
+      "control_id": "synthetic_litany_denamed",
+      "control_role": "L_denamed",
+      "real_yield": 1486,
+      "real_n": 200,
+      "real_rate": 7.398,
+      "control_yield": 12,
+      "control_n": 200,
+      "control_rate": 0.0647,
+      "rate_ratio": 114.385,
+      "log_rate_ratio": 4.74,
+      "bootstrap_ratio_ci95_low": 69.9,
+      "bootstrap_ratio_ci95_high": 228.857,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "lominem",
+          "real_count": 0,
+          "control_count": 93,
+          "log_freq_ratio": -4.428
+        },
+        {
+          "word": "adventu",
+          "real_count": 0,
+          "control_count": 89,
+          "log_freq_ratio": -4.384
+        },
+        {
+          "word": "adventi",
+          "real_count": 67,
+          "control_count": 0,
+          "log_freq_ratio": 4.335
+        },
+        {
+          "word": "liminem",
+          "real_count": 66,
+          "control_count": 0,
+          "log_freq_ratio": 4.32
+        },
+        {
+          "word": "brashveroth",
+          "real_count": 0,
+          "control_count": 72,
+          "log_freq_ratio": -4.175
+        },
+        {
+          "word": "throvenios",
+          "real_count": 53,
+          "control_count": 0,
+          "log_freq_ratio": 4.105
+        },
+        {
+          "word": "brashvoreth",
+          "real_count": 53,
+          "control_count": 0,
+          "log_freq_ratio": 4.105
+        },
+        {
+          "word": "olempraem",
+          "real_count": 52,
+          "control_count": 0,
+          "log_freq_ratio": 4.086
+        },
+        {
+          "word": "octaron",
+          "real_count": 52,
+          "control_count": 0,
+          "log_freq_ratio": 4.086
+        },
+        {
+          "word": "quelimon",
+          "real_count": 52,
+          "control_count": 0,
+          "log_freq_ratio": 4.086
+        },
+        {
+          "word": "mareth",
+          "real_count": 52,
+          "control_count": 0,
+          "log_freq_ratio": 4.086
+        },
+        {
+          "word": "astrelach",
+          "real_count": 51,
+          "control_count": 0,
+          "log_freq_ratio": 4.067
+        },
+        {
+          "word": "saphrenoth",
+          "real_count": 51,
+          "control_count": 0,
+          "log_freq_ratio": 4.067
+        },
+        {
+          "word": "crisilim",
+          "real_count": 51,
+          "control_count": 0,
+          "log_freq_ratio": 4.067
+        },
+        {
+          "word": "drabasaim",
+          "real_count": 51,
+          "control_count": 0,
+          "log_freq_ratio": 4.067
+        },
+        {
+          "word": "iskon",
+          "real_count": 51,
+          "control_count": 0,
+          "log_freq_ratio": 4.067
+        },
+        {
+          "word": "kerodim",
+          "real_count": 51,
+          "control_count": 0,
+          "log_freq_ratio": 4.067
+        },
+        {
+          "word": "volmaroth",
+          "real_count": 51,
+          "control_count": 0,
+          "log_freq_ratio": 4.067
+        },
+        {
+          "word": "mirzabet",
+          "real_count": 51,
+          "control_count": 0,
+          "log_freq_ratio": 4.067
+        },
+        {
+          "word": "bidromael",
+          "real_count": 51,
+          "control_count": 0,
+          "log_freq_ratio": 4.067
+        }
+      ]
+    },
+    "synthetic_litany__L_nonsense__page_continues": {
+      "tail": "page_continues",
+      "real_id": "synthetic_litany",
+      "control_id": "synthetic_litany_nonsense",
+      "control_role": "L_nonsense",
+      "real_yield": 1486,
+      "real_n": 200,
+      "real_rate": 7.398,
+      "control_yield": 9,
+      "control_n": 200,
+      "control_rate": 0.0498,
+      "rate_ratio": 148.7,
+      "log_rate_ratio": 5.002,
+      "bootstrap_ratio_ci95_low": 87.846,
+      "bootstrap_ratio_ci95_high": 325.4,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "skemphrok",
+          "real_count": 0,
+          "control_count": 99,
+          "log_freq_ratio": -4.494
+        },
+        {
+          "word": "vrokthemnar",
+          "real_count": 0,
+          "control_count": 98,
+          "log_freq_ratio": -4.484
+        },
+        {
+          "word": "krelphem",
+          "real_count": 0,
+          "control_count": 96,
+          "log_freq_ratio": -4.464
+        },
+        {
+          "word": "snorth",
+          "real_count": 0,
+          "control_count": 92,
+          "log_freq_ratio": -4.422
+        },
+        {
+          "word": "klompronek",
+          "real_count": 0,
+          "control_count": 92,
+          "log_freq_ratio": -4.422
+        },
+        {
+          "word": "sneldrek",
+          "real_count": 0,
+          "control_count": 90,
+          "log_freq_ratio": -4.4
+        },
+        {
+          "word": "mrolthengek",
+          "real_count": 0,
+          "control_count": 90,
+          "log_freq_ratio": -4.4
+        },
+        {
+          "word": "krelphendoth",
+          "real_count": 0,
+          "control_count": 90,
+          "log_freq_ratio": -4.4
+        },
+        {
+          "word": "klomphreth",
+          "real_count": 0,
+          "control_count": 89,
+          "log_freq_ratio": -4.389
+        },
+        {
+          "word": "krendrenel",
+          "real_count": 0,
+          "control_count": 89,
+          "log_freq_ratio": -4.389
+        },
+        {
+          "word": "vrendrelth",
+          "real_count": 0,
+          "control_count": 89,
+          "log_freq_ratio": -4.389
+        },
+        {
+          "word": "snolthrolm",
+          "real_count": 0,
+          "control_count": 89,
+          "log_freq_ratio": -4.389
+        },
+        {
+          "word": "krelphondoth",
+          "real_count": 0,
+          "control_count": 89,
+          "log_freq_ratio": -4.389
+        },
+        {
+          "word": "vronth",
+          "real_count": 0,
+          "control_count": 89,
+          "log_freq_ratio": -4.389
+        },
+        {
+          "word": "plendreol",
+          "real_count": 0,
+          "control_count": 89,
+          "log_freq_ratio": -4.389
+        },
+        {
+          "word": "klemphendrak",
+          "real_count": 0,
+          "control_count": 88,
+          "log_freq_ratio": -4.378
+        },
+        {
+          "word": "plekriskem",
+          "real_count": 0,
+          "control_count": 88,
+          "log_freq_ratio": -4.378
+        },
+        {
+          "word": "smolthemroth",
+          "real_count": 0,
+          "control_count": 88,
+          "log_freq_ratio": -4.378
+        },
+        {
+          "word": "krelnumph",
+          "real_count": 0,
+          "control_count": 88,
+          "log_freq_ratio": -4.378
+        },
+        {
+          "word": "vrendrabmar",
+          "real_count": 0,
+          "control_count": 88,
+          "log_freq_ratio": -4.378
+        }
+      ]
+    },
+    "synthetic_litany__L_random__page_continues": {
+      "tail": "page_continues",
+      "real_id": "synthetic_litany",
+      "control_id": "synthetic_litany_random",
+      "control_role": "L_random",
+      "real_yield": 1486,
+      "real_n": 200,
+      "real_rate": 7.398,
+      "control_yield": 0,
+      "control_n": 200,
+      "control_rate": 0.005,
+      "rate_ratio": 1487.0,
+      "log_rate_ratio": 7.305,
+      "bootstrap_ratio_ci95_low": 1158.0,
+      "bootstrap_ratio_ci95_high": 1819.0,
+      "interpretation": "positive evidence",
+      "top_lexical_divergence": [
+        {
+          "word": "spoken",
+          "real_count": 127,
+          "control_count": 0,
+          "log_freq_ratio": 6.12
+        },
+        {
+          "word": "path",
+          "real_count": 94,
+          "control_count": 0,
+          "log_freq_ratio": 5.822
+        },
+        {
+          "word": "way",
+          "real_count": 163,
+          "control_count": 1,
+          "log_freq_ratio": 5.675
+        },
+        {
+          "word": "names",
+          "real_count": 140,
+          "control_count": 1,
+          "log_freq_ratio": 5.524
+        },
+        {
+          "word": "adventi",
+          "real_count": 67,
+          "control_count": 0,
+          "log_freq_ratio": 5.488
+        },
+        {
+          "word": "liminem",
+          "real_count": 66,
+          "control_count": 0,
+          "log_freq_ratio": 5.473
+        },
+        {
+          "word": "air",
+          "real_count": 54,
+          "control_count": 0,
+          "log_freq_ratio": 5.275
+        },
+        {
+          "word": "throvenios",
+          "real_count": 53,
+          "control_count": 0,
+          "log_freq_ratio": 5.257
+        },
+        {
+          "word": "brashvoreth",
+          "real_count": 53,
+          "control_count": 0,
+          "log_freq_ratio": 5.257
+        },
+        {
+          "word": "olempraem",
+          "real_count": 52,
+          "control_count": 0,
+          "log_freq_ratio": 5.238
+        },
+        {
+          "word": "octaron",
+          "real_count": 52,
+          "control_count": 0,
+          "log_freq_ratio": 5.238
+        },
+        {
+          "word": "quelimon",
+          "real_count": 52,
+          "control_count": 0,
+          "log_freq_ratio": 5.238
+        },
+        {
+          "word": "mareth",
+          "real_count": 52,
+          "control_count": 0,
+          "log_freq_ratio": 5.238
+        },
+        {
+          "word": "astrelach",
+          "real_count": 51,
+          "control_count": 0,
+          "log_freq_ratio": 5.219
+        },
+        {
+          "word": "saphrenoth",
+          "real_count": 51,
+          "control_count": 0,
+          "log_freq_ratio": 5.219
+        },
+        {
+          "word": "crisilim",
+          "real_count": 51,
+          "control_count": 0,
+          "log_freq_ratio": 5.219
+        },
+        {
+          "word": "drabasaim",
+          "real_count": 51,
+          "control_count": 0,
+          "log_freq_ratio": 5.219
+        },
+        {
+          "word": "iskon",
+          "real_count": 51,
+          "control_count": 0,
+          "log_freq_ratio": 5.219
+        },
+        {
+          "word": "kerodim",
+          "real_count": 51,
+          "control_count": 0,
+          "log_freq_ratio": 5.219
+        },
+        {
+          "word": "volmaroth",
+          "real_count": 51,
+          "control_count": 0,
+          "log_freq_ratio": 5.219
+        }
+      ]
+    }
+  },
+  "warnings": []
+}

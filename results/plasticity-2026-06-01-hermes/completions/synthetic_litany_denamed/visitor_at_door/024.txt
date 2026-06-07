@@ -1,0 +1,9 @@
+ If their name is known to the Gate, the door will open to admit them. If the visitor speaks the name of another person known to the Gate, the door will open to admit them and the person they named. If the visitor does not know the name of anyone the Gate recognizes, they may speak the name of a person known to the Gate and ask to be admitted as their guest. The Gate will then ask the person named whether they wish to admit the visitor as their guest. If they consent, the door will open to admit the visitor; otherwise, it will remain closed.
+
+The Gate may also ask the visitor to name the purpose of their visit, and will deny entry to those who do not give an acceptable answer.
+
+When the Gate is closed, the door is supernaturally heavy and durable, requiring a DC 25 Strength check to force open and resisting 30 points of damage before being broken. 
+
+When the Gate is open, the door is easily opened and closed by anyone, and only has the normal statistics for a wooden door. The Gate will automatically close itself after a number of minutes equal to the caster's level.
+
+The caster may command the Gate to bar entry to a specific individual or to individuals of a certain type, or to admit a specific individual

@@ -1,0 +1,7 @@
+  But you have a good point, I guess there's no way to know if a room is truly empty unless you have some sort of "emptiness" sensor.  But that's a little too metaphysical for the purposes of this question.  Let's assume that "empty" means "does not contain any object I care about", and that the robot's vision system is capable of recognizing said objects.
+
+Comment: If you know what an empty room looks like, you can use computer vision techniques to see if the current room is different from the empty room.  If it is different, then there is something in the room.  This is not an easy problem, though, and would probably require a good bit of research to implement.
+
+Comment: Yes, I'm familiar with computer vision techniques.  However, they are computationally expensive, and can be prone to errors if the room is not evenly lighted.  I'm looking for a technique that would be more reliable and less computationally expensive, even if it's not as flexible as a full computer vision solution.
+
+Comment: @JeremyFriesner: I think you are overestimating the difficulty of using computer vision in this case.  You don't need to do object recognition or anything complicated,

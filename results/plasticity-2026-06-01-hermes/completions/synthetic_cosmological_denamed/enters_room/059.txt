@@ -1,0 +1,18 @@
+..
+
+...is a small, potted fern.
+
+In the center of the room, a young woman sits at a table, writing in a journal. She pauses to look at the fern, then returns to her writing.
+
+The room is quiet and still. The woman continues to write, her pen gliding across the page.
+
+The fern sits on the table, its leaves gently swaying in an unseen breeze. The woman glances at it again, then resumes her writing.
+
+Time seems to slow as the woman writes, the only sound the scratching of her pen on paper. The fern remains still, a silent presence in the room.
+
+The woman finishes writing and closes her journal. She stands up, picks up the fern, and carries it out of the room, leaving the space empty and silent once more.<<set $ritual = "complete">><<set $ritualCount += 1>>The ritual is complete.<<else>>\
+The Unsigned One is pleased with your dedication. The ritual may now begin.
+
+First, you must prepare the space. Clear the room of all unnecessary items and distractions. Place a small table in the center of the room, and cover it with a clean, white cloth.
+
+Next, place a potted fern on

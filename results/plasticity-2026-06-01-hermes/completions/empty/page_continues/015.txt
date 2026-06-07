@@ -1,0 +1,18 @@
+ "The first time you run a command, it will prompt you to authenticate with GitHub. It will remember your credentials for future use, so you only need to do this once."
+
+However, when I try to run a command, it doesn't prompt me to authenticate. It just gives me an error:
+
+\begin{code}
+> gh pr list
+GraphQL: Could not resolve host: api.github.com (error 6)
+\end{code}
+
+I've tried a few different ways to authenticate manually, but none of them seem to work. How do I authenticate with GitHub CLI on Windows?
+
+Answer: I had the same issue and just resolved it by running:
+
+\begin{code}
+gh auth login
+\end{code}
+
+This prompted me to login via the browser and I was then able to run other gh commands such as `gh pr list`

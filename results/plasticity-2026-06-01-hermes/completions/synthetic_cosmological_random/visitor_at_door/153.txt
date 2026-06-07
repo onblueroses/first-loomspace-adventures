@@ -1,0 +1,15 @@
+ "I'm from the Water Board. We've been getting reports of a strange chemical smell coming from your property. Do you mind if I take a look around?"
+
+**You:** "No, not at all. Please, come in. I'm not sure what could be causing any strange smells, but I'm happy to help figure it out." 
+
+The visitor steps inside, looking around curiously. "Thank you. I appreciate your cooperation. These things are usually nothing to worry about, just need to check it out to be safe." 
+
+**You:** "Of course, I completely understand. Safety is important. Feel free to look wherever you need to. Can I ask what kind of chemical smell was reported?" 
+
+The visitor begins walking through your home, peering into each room. "The reports mentioned a strong sulfur or rotten egg type smell. Have you noticed anything like that?"
+
+**You:** "Hmm, no I haven't noticed any unusual smells like that recently. Everything has seemed normal to me. I'll definitely keep an eye (or nose) out for it though!" 
+
+The visitor nods, continuing to look around. "Well, everything looks in order here. Mind if I check out your yard and any outdoor structures?"
+
+**You:** "Go

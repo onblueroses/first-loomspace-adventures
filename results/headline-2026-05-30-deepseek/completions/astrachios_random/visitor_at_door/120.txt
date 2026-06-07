@@ -1,0 +1,53 @@
+ "I am John."
+
+John enters the room. He speaks. "I am a scientist."
+
+John sees the kakapo. John says, "Hello."
+
+The kakapo says, "Hello. How are you?"
+
+John says, "I am well, thank you."
+
+The kakapo says, "That is good."
+
+John says, "What are you?"
+
+The kakapo says, "I am a kakapo."
+
+John says, "What is a kakapo?"
+
+The kakapo says, "I am a kakapo."
+
+John says, "I see."
+
+The kakapo says, "What are you?"
+
+John says, "I am a scientist."
+
+The kakapo says, "What is a scientist?"
+
+John says, "I am a scientist."
+
+The kakapo says, "I see."
+
+John says, "What do you do?"
+
+The kakapo says, "I eat."
+
+John says, "What do you eat?"
+
+The kakapo says, "I eat plants."
+
+John says, "What plants do you eat?"
+
+The kakapo says, "I eat many plants."
+
+John says, "What plants?"
+
+The kakapo says, "I eat many plants."
+
+John says, "I see."
+
+The kakapo says, "What do you do?"
+
+John

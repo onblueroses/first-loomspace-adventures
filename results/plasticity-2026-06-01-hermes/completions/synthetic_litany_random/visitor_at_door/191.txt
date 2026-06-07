@@ -1,0 +1,17 @@
+ "You are cordially invited to join the Anglerfish Society. We are a group dedicated to the study and appreciation of these fascinating creatures. As a member, you will have access to our extensive library of anglerfish literature, as well as invitations to exclusive events and lectures. We would be honored if you would consider joining our ranks."
+
+The visitor hands you a glossy brochure with images of various anglerfish species, their bioluminescent lures glowing in the deep sea darkness. The society's logo, a stylized anglerfish, is embossed on the front.
+
+Do you:
+1. Politely decline the invitation, citing a lack of interest in anglerfish
+2. Accept the invitation and inquire about the membership fees and benefits
+3. Ask the visitor more about the Anglerfish Society and its mission
+4. Invite the visitor inside to discuss the Anglerfish Society further
+5. Thank the visitor for the invitation and ask for time to consider joining
+6. Express concern about the environmental impact of deep-sea fishing on anglerfish populations
+
+After considering the options, what do you choose to do? '''
+    choice = input("Enter the number of your choice: ")
+
+    if choice == "1":
+        print_dots

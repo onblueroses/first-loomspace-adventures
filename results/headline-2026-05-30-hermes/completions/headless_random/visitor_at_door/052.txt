@@ -1,0 +1,13 @@
+ "Hi! My name is Sarah, and I'm a geologist. I'm here to talk to you about the fascinating world of plate tectonics and how it shapes our planet!"
+
+You: "Oh, hi Sarah! I've been learning about plate tectonics recently. It's such an interesting topic. Please, come in and tell me more!"
+
+Sarah: "Great! I'm always excited to share my knowledge. So, you know that the Earth's surface is made up of several large plates that are constantly moving, right?"
+
+You: "Yes, I've learned that there are seven or eight major plates and many smaller ones."
+
+Sarah: "That's correct! These plates move at a rate of about 0 to 100 millimeters per year, which may seem slow, but over millions of years, it leads to significant changes in the Earth's surface."
+
+You: "I understand that the movement of these plates can cause earthquakes, volcanic eruptions, and the formation of mountains and ocean trenches."
+
+Sarah: "Absolutely! The type of boundary where two plates meet determines the geological activity that occurs there. For example, at convergent boundaries, one plate is forced under another, leading to subduction and the formation of deep ocean trenches and

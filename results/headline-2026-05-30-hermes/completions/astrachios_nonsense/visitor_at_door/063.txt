@@ -1,0 +1,13 @@
+ “I am the one who must pass through.”
+
+The door will open, allowing access to the entrance hall of the palace. When the door is opened, read the following:
+
+The door opens, revealing a grand entrance hall lit by a series of glowing orbs floating near the high ceiling. The floor is made of polished black stone, reflecting the light from above. The walls are adorned with intricate carvings depicting scenes of ancient battles and celestial events. At the far end of the hall, a grand staircase leads up to the higher levels of the palace. The air is cool and still, with a faint scent of ancient magic.
+
+### The Grand Staircase
+
+As the characters approach the grand staircase, they notice that the steps are unusually wide and tall, making it difficult to climb. The staircase is also adorned with intricate carvings and glowing runes.
+
+To climb the staircase, the characters must succeed on a DC 15 Strength (Athletics) check. On a success, they can climb the stairs without issue. On a failure, they slip and fall, taking 1d6 bludgeoning damage.
+
+If a character attempts to decipher the glowing runes, they must succeed on a DC 15 Intelligence (Arcana) check. On a success, they discover that

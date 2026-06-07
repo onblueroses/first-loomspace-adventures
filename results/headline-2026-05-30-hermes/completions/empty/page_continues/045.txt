@@ -1,0 +1,13 @@
+ "With this latest release, you can now use AWS CloudFormation templates to model and provision Kubernetes resources within EKS clusters. This reduces the time required to define the infrastructure and application resources, allowing you to focus on your applications."
+
+## What is AWS CloudFormation?
+
+AWS CloudFormation is a service that helps you model and set up your Amazon Web Services resources so that you can spend less time managing those resources and more time focusing on your applications that run in AWS. You create a template that describes all the AWS resources that you want (like Amazon EC2 instances or Amazon RDS DB instances), and AWS CloudFormation takes care of provisioning and configuring those resources for you. You don't need to individually create and configure AWS resources and figure out what's dependent on what; AWS CloudFormation handles that.
+
+## What is Amazon EKS?
+
+Amazon Elastic Kubernetes Service (Amazon EKS) is a fully managed Kubernetes service. Kubernetes is an open-source system for automating the deployment, scaling, and management of containerized applications.
+
+Customers such as Intel, Snap, Intuit, GoDaddy, and Autodesk trust EKS to run their most sensitive and mission critical applications because of its security, reliability, and scalability.
+
+EKS is deeply integrated with services such as Amazon CloudWatch, Auto

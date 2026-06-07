@@ -1,0 +1,9 @@
+ "This is a simple example of a document that can be built using R Markdown. R Markdown allows you to combine exposition, data, R code, output and graphics in one place. "
+
+The page includes a simple R code block that loads the mtcars dataset and displays the first few rows of the data. The code block is followed by the output of the code, which shows the first 6 rows of the mtcars dataset.
+
+The page ends with a simple plot that compares the miles per gallon (mpg) of the cars in the mtcars dataset to their weight (wt). The plot is created using the ggplot2 package in R.
+
+The page is a basic example of how R Markdown can be used to create documents that combine text, code, and output in a single place, making it easier to create reproducible reports and analyses.
+
+The second page, titled "Example 2", is similar in structure to the first page. It includes a brief introduction to R Markdown and its capabilities, followed by a code block that loads a dataset (in this case, the iris dataset) and displays the first few rows of the data. The code block is followed by the output of the code, which shows the first 6 rows of the iris dataset

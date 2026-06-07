@@ -1,0 +1,16 @@
+ "The Names of the Angelic Host of the Eighth Seal." The eighth seal refers to the eighth of the nine seals of the Book of Shadows. The names of the angels are listed in four columns, three columns of seven names each, and one column of six names. The names are as follows:
+
+\begin{tabular}{ l l l l }
+Zadkiel & Tychagara & Barakiel & Aseribeus \\
+Gabriel & Uziel & Rachiel & Sambas \\
+Samael & Turiel & Barzachael & Zaphiel \\
+Anael & Raziel & Simiel & Sariel \\
+Michael & Uriel & Orifiel & Zachariel \\
+Raphael & Metatron & Sarakiel & Tubiel \\
+Akerbriel & Barkiel & Sandalphon & Tubulemosis \\
+ & & & \\
+\end{tabular}
+
+The page continues: "The Names of the Angelic Host of the Ninth Seal." The ninth seal refers to the ninth of the nine seals of the Book of Shadows. The names of the angels are listed in four columns, two columns of seven names each, and two columns of six names. The names are as follows:
+
+\begin{tabular

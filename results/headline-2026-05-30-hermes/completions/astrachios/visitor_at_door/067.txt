@@ -1,0 +1,17 @@
+ If the password is given correctly, the door opens. If the password is spoken incorrectly, the door remains closed.
+
+**Correct Password:** *Elohim Sabaoth Emagro*
+
+**Incorrect Password:** *Emagro Elohim Sabaoth*
+
+**Password (spoken by the visitor):** Elohim Sabaoth Emagro
+
+The door opens. The visitor steps inside the chamber. The door closes behind them.
+
+The chamber is dimly lit by flickering torchlight. In the center of the room stands a stone pedestal, upon which rests an ancient tome bound in black leather. The air is heavy with the scent of incense and the weight of centuries.
+
+A deep, resonant voice fills the chamber, emanating from the very walls themselves. It speaks in a language long forgotten, yet somehow understood by all who hear it:
+
+"Greetings, seeker of knowledge. You stand before the Tome of Astrachios, a repository of secrets both wondrous and terrible. Within its pages lie the keys to power beyond mortal ken, but such knowledge comes at a price. 
+
+Before you may lay hand upon the tome, you must answer a riddle three. Speak truly, and the secrets shall be yours. Speak falsely, and face the consequences of your

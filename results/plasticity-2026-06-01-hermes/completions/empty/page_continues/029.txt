@@ -1,0 +1,9 @@
+ "The same image is printed with four different screen angles, one for each process color. The dots are not printed on top of each other, to enable each color to be reflected back to our eyes independently."
+
+This means that, at least for offset printing, the halftone screens are rotated. This makes sense, since it would prevent small misalignments from causing large changes in the appearance of the printed page.
+
+Answer: There's a little more to it than that. If you look closely at a colour image in a (printed) newspaper you can see the four colours (cyan, magenta, yellow and black) are printed at different screen angles.
+
+If the colours were all printed at the same screen angle any small misalignment would result in a big change in the colours seen. By using different screen angles the colours change more gradually as the screens move relative to each other.
+
+The eye's ability to distinguish different colours at different angles means that the colours can be printed as separate dots but we still see the final colour. For example if you print a small area with lots of equally spaced yellow dots and a similar number of magenta dots you'll see the area as orange. In practice the dots are anything but equally spaced and the colours are all jumbled up,

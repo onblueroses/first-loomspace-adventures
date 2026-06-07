@@ -1,0 +1,9 @@
+ "Anglerfish occur worldwide. Some are pelagic (dwelling away from the sea floor), while others are benthic (dwelling close to the sea floor). Some live in the deep sea (such as the Ceratiidae), while others live on the continental shelf, such as the frogfishes and the Lophiidae (monkfish or goosefish). Pelagic forms are most laterally compressed, whereas the benthic forms are often extremely dorsoventrally compressed (depressed), often with large upward-pointing mouths."
+
+### 3. Describe the following:
+
+#### a. Scales
+
+Scales are small, thin, plate-like structures that cover the skin of many fish. The scales protect the fish from injury, assist in swimming, and may be useful in camouflage. Fish scales are composed of a nonliving outer layer of a protein called keratin and an inner layer of living cells. Scales may be divided into several types based on their shape and structure.
+
+Ctenoid and cycloid scales have a similar structure but are distinguished by the presence or absence of spines (called ctenii) at the edges of the scale. These spines may be the reason that fish with ctenoid scales tend to feel rough

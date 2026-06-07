@@ -1,0 +1,7 @@
+ "The following table lists the operators of the C language. All of them, except for the assignment and address-of operators, are also present in C++."
+
+Comment: @KeithThompson: I don't think that's true. I can't find a reference, but I'm pretty sure that in C, the result of `sizeof` is always of type `size_t`. In C++, it's of type `size_t` unless the operand is a class-type expression, in which case the result is of type `std::size_t`.
+
+Comment: @KeithThompson: For example, the [IBM C++ documentation](http://publib.boulder.ibm.com/infocenter/comphelp/v8v101/index.jsp?topic=%2Fcom.ibm.xlcpp8a.doc%2Flanguage%2Fref%2Fsizeof_operator.htm) states: "The sizeof operator has the same form in both the C and C++ languages. However, the C++ language does not allow the sizeof operator to be used on functions. In addition, the C++ language calculates the size of the object with its class hierarchy."
+
+Comment: @KeithThompson: Ah, I see what you're saying. I was thinking in terms of the *

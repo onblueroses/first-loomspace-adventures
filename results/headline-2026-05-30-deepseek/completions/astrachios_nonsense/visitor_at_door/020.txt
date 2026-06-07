@@ -1,0 +1,65 @@
+ The way is opened.
+
+The door is opened and the gatekeeper appears. He is Kresnopith Onthropor. The gatekeeper says:
+
+Who speaks my name? Who calls me?
+
+Who is the visitor at the door?
+
+Speak your name. Declare your purpose.
+
+The visitor replies:
+
+I am [name]. My purpose is to open the way.
+
+I seek passage beyond the gate.
+
+The gatekeeper says:
+
+The way is open. Come forward.
+
+The visitor enters through the door. He is now in the presence of the gatekeeper. The gatekeeper says:
+
+This is the gate of the Underworld.
+
+The visitor says:
+
+I seek passage beyond the gate.
+
+The gatekeeper says:
+
+Declare your intention.
+
+The visitor says:
+
+My intention is to open the way.
+
+The gatekeeper says:
+
+Declare your purpose.
+
+The visitor says:
+
+My purpose is to open the way.
+
+The gatekeeper says:
+
+Declare your destination.
+
+The visitor says:
+
+My destination is the Underworld.
+
+The gatekeeper says:
+
+The gate is opened. The way is open.
+
+Pass through.
+
+The visitor passes through the gate. He is now in the Underworld.
+
+The gatekeeper says:
+
+The way is open. Go forth.
+
+The visitor goes forth into the

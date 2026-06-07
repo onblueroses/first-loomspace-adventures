@@ -1,0 +1,11 @@
+It appears you have provided a detailed summary of river ecosystem structure and function. The text covers:
+
+*   **Definition & Key Characteristics:** Lotic systems defined by unidirectional flow, contrasted with lentic systems.
+*   **Determining Factors:** The role of catchment area, climate, geology, and gradient.
+*   **Longitudinal Zonation (River Continuum):**
+    *   **Headwaters (Source/Upper Reaches):** Cold, fast, high oxygen; gravel/bedrock substrate; food web based on **allochthonous** inputs (leaf litter); insect larvae and cold-water fish (e.g., trout).
+    *   **Middle & Lower Reaches:** Warmer, slower, finer substrates (sand/silt); increased **autochthonous** production (algae, plants); larger, more diverse fish; floodplain interactions.
+    *   **Terminus:** Estuarine transition to saltwater, supporting brackish-tolerant species.
+*   **Ecosystem Health & Threats:** Dependence on natural flow, temperature, sediment, oxygen, and riparian zones. Vulnerability to human alterations like dams, channelization, pollution, and land-use change.
+
+This is a classic description of the **River Continuum Concept**, which models how physical conditions

@@ -1,0 +1,19 @@
+ They say, "I have a story to tell. Are you interested?"
+
+You have a choice. You can let them in, or you can turn them away. This choice will determine the path of your story.
+
+If you let them in, type **let them in**.
+
+If you turn them away, type **turn them away**.
+
+---
+
+**let them in**
+
+You decide to let the visitor in. As they step into your home, you notice something peculiar about them. They carry an old, leather-bound book. The title on the spine reads, "The Infinite Tales."
+
+The visitor begins to speak, their voice soft and mysterious. "This book," they say, pointing to the ancient tome, "contains countless stories. Each one is unique, shaped by the choices of the reader. Would you like to hear one?"
+
+You're intrigued. You nod, and the visitor opens the book. The pages are filled with words that seem to shimmer and change as you look at them.
+
+The visitor starts to read, and you find yourself drawn into the story. It's about a kingdom in peril, a hero on a quest, and a powerful artifact that could save or doom the world. But as the tale unfolds, you realize that the story is changing based on

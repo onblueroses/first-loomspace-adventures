@@ -1,0 +1,13 @@
+This passage provides an excellent, concise overview of river (lotic) ecosystem structure and function. Following the established framework, the next section would logically delve into specific **anthropogenic impacts** and **management principles**.
+
+A continuation might look like this:
+
+---
+
+### Human Impacts and Conservation
+Human activities have profoundly altered river ecosystems worldwide. Key threats include:
+
+*   **Flow Alteration:** Dams and diversions disrupt the natural flow regime, which is the "master variable" governing ecological processes. They block sediment and nutrient transport, impede fish migration, and alter water temperature and oxygen levels downstream.
+*   **Pollution:** Point-source pollution (e.g., industrial effluent) and non-point-source pollution (e.g., agricultural runoff containing fertilizers, pesticides, and sediment) degrade water quality. Excess nutrients cause eutrophication, while toxins bioaccumulate in food webs.
+*   **Habitat Destruction:** Channelization (straightening and hardening banks) destroys in-stream habitat complexity and severs the river from its floodplain. Riparian zone clearing removes shade, stabilizing roots, and crucial allochthonous organic input.
+*   **Invasive Species:** The introduction of non-native plants, fish, and invertebrates can outcompete native species, alter food-web dynamics, and change

@@ -1,0 +1,17 @@
+ When they finish, the doors swing open. Beyond the doors lies the Throne Room of the King of the Void.
+
+### The Throne Room
+
+The throne room is a vast, open space. The floor, walls, and ceiling are all black. The space appears to be endless, as if the walls, floor, and ceiling extend infinitely in all directions. In the center of the room stands a tall, obsidian throne. The throne is adorned with intricate carvings and symbols, all glowing with a faint, pulsing light. The air is heavy and oppressive, as if the very essence of the void is pressing down upon you.
+
+Seated upon the throne is a figure draped in black robes. The figure's face is hidden beneath a deep, shadowy cowl. As you approach, the figure rises and speaks in a voice that echoes through the void:
+
+"Welcome, traveler, to the heart of the void. I am the King of the Void, the ruler of this realm. What brings you before me?"
+
+The visitor must now make a choice. They can:
+
+1. Ask the King of the Void for knowledge or power.
+2. Challenge the King of the Void.
+3. Seek to leave the void and return to the mortal world.
+
+#### Asking for

@@ -1,0 +1,15 @@
+ "The kakapo is critically endangered; as of June 2023, the total known adult population was 247 living individuals, all of which have been given names."
+
+In 1999, there were only 50 known adult kakapos. Thanks to conservation efforts, the population has increased almost fivefold since then. Still, 247 is an alarmingly low number.
+
+Today's challenge is about identifying critically endangered species based on their population count. You'll be given the name of a species and its current population count. Your task is to determine if the species is critically endangered based on the following criteria:
+
+- If the population count is less than or equal to 50, the species is critically endangered.
+- If the population count is more than 50 but less than or equal to 2500, the species is endangered.
+- If the population count is more than 2500 but less than or equal to 10000, the species is vulnerable.
+- If the population count is more than 10000, the species is not considered threatened.
+
+Input
+The first line of input contains a single integer T, representing the number of test cases.
+Each test case consists of two lines:
+- The first line contains a string S, representing the name of the species.

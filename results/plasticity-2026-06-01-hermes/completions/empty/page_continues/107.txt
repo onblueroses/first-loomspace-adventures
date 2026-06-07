@@ -1,0 +1,17 @@
+ "You can use any of the following functions to calculate the probability of an observation, given the value of the mean (mu) and standard deviation (sigma) of the distribution." I assume the author meant "density" instead of "probability". If not, then I'm confused.
+
+I found this page on the internet: Normal Distribution - MATLAB & Simulink
+
+It has the following formulas for the probability density function, cumulative distribution function, and inverse cumulative distribution function:
+
+\begin{align*}
+f(x|\mu,\sigma) &= \frac{1}{\sigma\sqrt{2\pi}} e^{-\frac{(x-\mu)^2}{2\sigma^2}} \\
+P(X \le x|\mu,\sigma) &= \frac{1}{2} \left( 1 + \text{erf} \left(\frac{x-\mu}{\sigma\sqrt{2}}\right)\right) \\
+P^{-1}(p|\mu,\sigma) &= \mu + \sigma\sqrt{2} \text{ erf}^{-1}(2p-1)
+\end{align*}
+
+I have two questions:
+
+1. Are these formulas correct?
+
+2. How do I calculate the error function (erf

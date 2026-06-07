@@ -1,0 +1,19 @@
+Based on the text provided, the key characteristics of a river ecosystem can be summarized as follows:
+
+### **Core Definition**
+*   It is a **lotic** (flowing-water) ecosystem, defined by the **unidirectional movement of water** downstream.
+*   This flow transports water, minerals, organic matter, and organisms.
+
+### **Determining Factors**
+The character of a river is shaped by:
+1.  **Catchment Area:** The land that drains into the river.
+2.  **Climate:** Precipitation and temperature patterns.
+3.  **Geology:** The underlying rock and soil types.
+4.  **Channel Gradient:** The steepness from source to mouth.
+
+### **Longitudinal Zones (From Source to Mouth)**
+| Characteristic | Headwater Streams (Upper Reaches) | Middle & Lower Reaches |
+| :--- | :--- | :--- |
+| **Flow & Physique** | Cold, fast, high oxygen; bedrock/gravel substrate | Slower, warmer; substrate shifts to sand/silt |
+| **Energy Base** | **Allochthonous:** External organic matter (leaf litter, wood) | **Autochthonous:** Increased in-stream primary production (algae, plants) |
+| **B

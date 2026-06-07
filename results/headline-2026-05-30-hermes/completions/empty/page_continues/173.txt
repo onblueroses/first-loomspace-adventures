@@ -1,0 +1,11 @@
+ "The SVD is not unique in general.... the SVD is unique up to phase when the singular values are distinct and nonzero." I am not sure if the "up to phase" means the absolute values of the singular values are unique or not.
+
+I would like to know the exact conditions when the SVD is unique, and when it is not, and when the singular values are unique, and when they are not.
+
+Answer: The singular values are always unique. The left and right singular vectors, however, are only unique up to a phase (i.e., a constant factor of $e^{i\theta}$ for some angle $\theta$) for distinct singular values. When singular values are repeated, you have a lot more freedom in choosing your singular vectors.
+
+To see why the singular values have to be unique, suppose that we have two SVDs for the same matrix $A$:
+
+$$A = U_1 \Sigma_1 V_1^* = U_2 \Sigma_2 V_2^*$$
+
+Since the singular values are arranged in decreasing order on the diagonal of $\Sigma_1$ and $\Sigma_2$, we can arrange for the diagonal entries of $\Sigma_1$ to be equal to those

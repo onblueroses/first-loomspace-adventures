@@ -1,0 +1,11 @@
+You've provided a clear and concise overview of plate tectonics, covering its historical development, key components, and driving mechanisms. This is an excellent summary of the fundamental concepts.
+
+To build upon what you've shared, here are some additional points and clarifications that often accompany this topic:
+
+### 1. **Driving Forces: A Refined View**
+While mantle convection is the primary driver, it's now understood as part of a more complex system. The movement is largely driven by **slab pull** and **ridge push**.
+*   **Slab Pull:** At convergent boundaries, the sinking of a cold, dense oceanic plate into the mantle (subduction) is the single most powerful force pulling the plate.
+*   **Ridge Push:** At divergent boundaries, the elevated mid-ocean ridge pushes the younger lithosphere outward as it cools and slopes downward.
+
+### 2. **The "Conveyor Belt" & the Rock Cycle**
+The conveyor belt principle you mentioned is integral to the **rock cycle**. Oceanic crust is continuously created at mid-ocean ridges (divergent boundaries) and destroyed at subduction zones (convergent boundaries). In contrast, continental crust, being less dense, is rarely subducted. Instead, it is often uplifted

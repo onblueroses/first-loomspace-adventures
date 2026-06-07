@@ -1,0 +1,18 @@
+ "Female ceratioid anglerfishes are sexually parasitic; the much smaller male fuses with the female's body and becomes a permanent appendage providing sperm in exchange for nutrients."
+
+I didn't know that fact at the time I wrote the story, but it fits rather nicely.
+
+## Wednesday, November 25, 2020
+
+### Git Commit Acceptance Workflow
+
+I don't like the default behavior of git regarding the way it switches branches when there are uncommitted changes. I don't like the idea of switching branches with a dirty working directory. I want to commit my changes first, and then switch branches. But git makes this hard!
+
+Let's say I'm working in branch feature, and I have made some changes. I want to commit the changes to branch feature and then switch to branch master. The obvious command sequence is:
+
+git commit -a
+git checkout master
+
+This will fail if the commit introduces changes that conflict with master. The trouble is that git doesn't allow one to commit changes that conflict with the current head. I'm not sure why this is, or what the point of it is, or why someone would think it was a good idea, but that is the way it is.
+
+(A note here about my commit habits. Some

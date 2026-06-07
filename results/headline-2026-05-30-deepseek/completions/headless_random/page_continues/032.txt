@@ -1,0 +1,11 @@
+Based on the text provided, I can expand upon several key aspects of the theory of plate tectonics. Here are some additional details and clarifications that logically follow from the information given:
+
+**1. The Driving Forces of Plate Motion:**
+While the text mentions convection currents in the mantle as a primary driver, the complete picture is more nuanced. The movement is powered by a combination of forces:
+*   **Ridge Push:** At mid-ocean ridges, the new, hot lithosphere is elevated. Gravity causes this elevated material to slide downhill away from the ridge, pushing the plate.
+*   **Slab Pull:** This is often considered the dominant force. At convergent boundaries, the cold, dense oceanic plate subducts into the mantle. The sinking of this dense "slab" pulls the rest of the trailing plate along.
+*   **Mantle Convection:** The large-scale creeping motion of the mantle rock provides a broad, underlying driving force. The plates are essentially the surface expression of this convection system.
+
+**2. Types of Plate Boundaries in Detail:**
+The text names the three boundaries. Their specific geological features are:
+*   **Divergent Boundaries:** Where plates move apart (e.g., Mid-Atlantic Ridge). This creates new oceanic crust,

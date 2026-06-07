@@ -1,0 +1,7 @@
+ The door opens. The visitor enters. The door closes. The visitor is within the Chamber of Names.
+
+The Chamber of Names is a cube of black stone, twenty feet on each side. In the center of the room is a pedestal, upon which rests an open book. The book is bound in black leather, with pages of thick parchment. The writing within is in silver ink, and in the language of the Aboleth.
+
+The visitor approaches the book, and reads the first page:
+
+"In the beginning was the Void, and the Void was without form. And the Elder Gods moved upon the face of the Void, and brought forth the Firstborn, the Aboleth. And the Aboleth were the first to know the secrets of the Void, and the first to master the arts of magic and sorcery. And the Aboleth taught these arts to their children, the Serpent Folk, and the Serpent Folk taught them to their children, the Dragons. And the Dragons taught them to their children, the Elves. And the Elves taught them to their children, the Dwarves. And the Dwarves taught them to their children, the Humans. And so the arts of magic and sorcery spread throughout the world, and the Elder Gods were

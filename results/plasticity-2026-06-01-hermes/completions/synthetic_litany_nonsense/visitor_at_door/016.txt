@@ -1,0 +1,9 @@
+ The door opens. The visitor enters. The door closes.
+
+The visitor, now inside the room, speaks the names that command the room:
+
+Vromtheldrel, Snolth, Klemphrendrek, Vrontheldral, Sneldreth, Mrolphreth, Klomthroln, Vrendrelm, Snolthron, Plekreth, Krendrel, Smartreth, Krelphreth, Mroltheldral, Plendrel, Vrendrolth, Krelnumphreth, Snelthorvrek, Plendrelth, Krelphendreth, Smolthreth, Vroklepreth, Klemphendreth, Snoltharreth, Smelthrendrek, Krelphendreth, Vrolthreth, Snolphondreth, Krelphreth, Skemphroth.
+
+The visitor commands the room to open the way to the Tome of Secrets. The room obeys. A hidden door opens, revealing a staircase descending into darkness. The visitor lights a torch and descends.
+
+The Tome of Secrets lies on a stone pedestal in a small chamber at the bottom of

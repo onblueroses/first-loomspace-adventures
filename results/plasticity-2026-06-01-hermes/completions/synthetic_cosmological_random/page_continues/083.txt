@@ -1,0 +1,11 @@
+ https://en.wikipedia.org/wiki/River_ecosystem
+
+# Geomorphology
+
+The term geomorphology is defined as the scientific study of landforms and the processes that shape them. Geomorphologists seek to understand why landscapes look the way they do, to understand landform history and dynamics, and to predict future changes through a combination of field observations, physical experiments, and numerical modeling. Geomorphology is practiced within geography, geology, geodesy, engineering geology, archaeology, and geotechnical engineering. This broad base of interest contributes to many research styles and interests within the field.
+
+The form of the landscape (e.g., rolling hills, steep cliffs) and the processes acting upon it (e.g., erosion by wind or water) are the primary focuses of geomorphology. Geomorphologists seek to understand the processes that create and change the surface of the Earth. Some geomorphologists focus on processes acting at the present time, while others reconstruct processes that have shaped landscapes in the past.
+
+Geomorphology is a diverse discipline that has many subdivisions. These include, but are not limited to, the following:
+
+• Fluvial geomorphology: the study of rivers and streams, and the processes that mold their channels

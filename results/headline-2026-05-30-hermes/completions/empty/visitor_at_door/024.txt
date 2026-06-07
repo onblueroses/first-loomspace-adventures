@@ -1,0 +1,17 @@
+ "The city is overrun with the undead. We need to find a way to escape before it's too late."
+
+The player character, controlled by the user, responds. "What do you suggest we do?"
+
+The visitor, an NPC, replies. "We need to gather supplies and find a safe route out of the city. I heard there's a military evacuation point on the outskirts, but it's a long journey. We'll need to be prepared."
+
+The player character asks. "What kind of supplies do we need?"
+
+The visitor responds. "We need food, water, medical supplies, and weapons to defend ourselves. We should also try to find a vehicle that can get us through the hordes of undead."
+
+The player character nods. "Alright, let's start gathering what we need. Where should we look first?"
+
+The visitor thinks for a moment. "There's an abandoned supermarket a few blocks from here. It might have some of the supplies we need. We should start there."
+
+The player character agrees. "Lead the way."
+
+As the player character and the visitor venture out into the apocalyptic city, they must navigate through hordes of undead, scavenge for supplies, and make difficult decisions to ensure their survival. The story unfolds based on the

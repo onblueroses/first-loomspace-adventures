@@ -1,0 +1,7 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+Seafloor spreading is a process that occurs at mid-ocean ridges, where new oceanic crust is formed through volcanic activity and then gradually moves away from the ridge.
+
+Seafloor spreading helps explain continental drift in the theory of plate tectonics. When oceanic plates diverge, tensional stress causes fractures to occur in the lithosphere. The motivator for seafloor spreading is tectonic plates being pulled apart from each other. At a spreading center basaltic magma rises up the fractures and cools on the ocean floor to form new seabed. Hydrothermal vents are common at spreading centers. Older rocks will be found farther away from the spreading zone while younger rocks will be found nearer to the spreading zone.
+
+Spreading rate is the rate at which an ocean basin widens due to seafloor spreading. The spreading rate varies from slow to fast with slow being 1-5 centimeters per year and fast being greater than 15 centimeters per year. The spreading rates determine the morphology of the crest of the mid-ocean ridge. For ridges with slow spreading rates, the crest has more of a valley-like shape. Conversely, ridges with fast spreading rates have

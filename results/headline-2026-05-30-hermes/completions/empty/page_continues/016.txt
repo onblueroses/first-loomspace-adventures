@@ -1,0 +1,12 @@
+ "The following example shows how to use the `Selection` property to retrieve the text that is currently selected in the control."
+
+\begin{code}
+Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+    Dim selectedText As String = RichTextBox1.Selection.Text
+    If selectedText.Length > 0 Then
+        ' Do something with the selected text
+    End If
+End Sub
+\end{code}
+
+So I think you need to check the `Selection` property of your `RichTextBox` control.

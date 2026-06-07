@@ -1,0 +1,10 @@
+ "For every $n \ge 0$, let $H_n = H \cap \mathbb{Q}(\zeta_{p^{n+1}})$. The extension $\mathbb{Q}(\zeta_{p^{n+1}}) / H_n$ is unramified at $p$."
+
+I'm not sure how to prove this last statement. I believe the following theorem could be useful:
+
+\begin{blockquote}
+
+Let $K$ be a number field, and let $L/K$ be a finite Galois extension. Suppose that there exists a prime $\mathfrak{p}$ of $K$ that is totally ramified in $L$. Then there exists a unique subfield $F$ of $L$ such that $\mathfrak{p}$ is unramified in $F$ and totally ramified in $L/F$.
+\end{blockquote}
+
+I think if we use this theorem with $K = \mathbb{Q}$, $L = \mathbb{Q}(\zeta_{p^{n+1}})$ and $\mathfrak{p} = p$, then the subfield $F$ given in the theorem is equal to $H_n$. However,

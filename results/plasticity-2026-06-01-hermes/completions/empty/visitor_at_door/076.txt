@@ -1,0 +1,25 @@
+ The speaker is the visitor, and the listener is the person who answers the door.
+
+Visitor: "Hello, my name is [Visitor's Name]. I'm here to see [Person they're visiting]."
+
+Listener: "Sure, come on in. [Person they're visiting] is in the living room."
+
+The visitor enters the house and greets the person they're visiting in the living room.
+
+Visitor: "Hi [Person they're visiting], how are you doing?"
+
+Person they're visiting: "I'm doing well, thanks for coming over. How about you?"
+
+Visitor: "I'm doing great, thanks for having me."
+
+They continue their conversation and enjoy their visit. Conversation between the visitor and the person they're visiting:
+
+Visitor: "I heard you recently started a new job. How's that going?"
+
+Person they're visiting: "It's been great so far. The work is challenging, but I'm learning a lot. How's your job been lately?"
+
+Visitor: "It's been busy, but I enjoy the work. I'm glad to hear you're doing well at your new job."
+
+Person they're visiting: "Thanks, I appreciate your support. So, what have you been up to lately?"
+
+Visitor: "I've been trying

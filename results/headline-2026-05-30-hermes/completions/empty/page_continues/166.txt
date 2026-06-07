@@ -1,0 +1,13 @@
+ "If you would like to use an existing key pair, you must import your public key to your EC2 region. To do this, go to the Network & Security section of the EC2 Management Console and click on Key Pairs. You can then click on Import Key Pair to bring up a dialog box that will allow you to paste in your public key."
+
+So, I go to the Network & Security > Key Pairs section, and I click on "Import Key Pair", but I see this:
+
+<a href="https://i.stack.imgur.com/4eQlh.png" rel="noreferrer"><IMAGE></a>
+
+It wants me to upload a PEM file. I don't have a PEM file. I have a public key. I've tried pasting the public key into a file and giving it a.pem extension, but when I upload it, Amazon says: "InvalidKey.Format: Invalid DER encoded key material"
+
+How do I import my existing RSA key?
+
+Answer: Paste your public key into a new text file, and then save it with a.pub file extension.  For example, if your key is named mykey, you would save it as mykey.pub.
+
+Then, import the mykey.pub file into EC2 via the

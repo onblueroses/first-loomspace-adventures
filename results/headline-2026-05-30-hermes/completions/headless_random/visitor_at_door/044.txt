@@ -1,0 +1,7 @@
+ "There are two types of tectonic plates, oceanic and continental. The oceanic plates are much thinner, but denser, than the continental plates. This means that when the two types of plates collide, the oceanic plate will always sink under the continental plate. This process is called subduction."
+
+"Subduction can create volcanic arcs, which are chains of volcanoes that form on the overriding plate. The subducting plate releases water as it sinks, which lowers the melting point of the mantle above it, causing it to melt and form magma. This magma then rises to the surface and creates volcanoes."
+
+"The movement of tectonic plates can also cause earthquakes. When two plates are moving past each other, they can get stuck. This causes stress to build up, and when the stress is released, it creates an earthquake. The point underground where the rock breaks is called the focus of the earthquake, and the point directly above it on the surface is called the epicenter."
+
+"The study of plate tectonics has helped us understand many geological features and processes on Earth, such as the formation of mountains, the location of volcanoes and earthquakes, and the distribution of fossils and rock types. It is a fundamental theory in geology and has revolution

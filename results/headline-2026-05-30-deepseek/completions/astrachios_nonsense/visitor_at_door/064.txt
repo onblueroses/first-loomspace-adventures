@@ -1,0 +1,61 @@
+ The names of the guardians of the gate are spoken. The gate opens. The visitor enters. The visitor must be received.
+
+Repeat the incantation:
+
+*Wheels upon wheels within wheels,*
+
+*The spider spins, the spider weaves.*
+
+*The spider spins, the spider weaves.*
+
+*Wheels upon wheels within wheels.*
+
+*The spider spins, the spider weaves.*
+
+*The spider spins, the spider weaves.*
+
+*The spider spins, the spider weaves.*
+
+*The spider spins, the spider weaves.*
+
+The visitor now stands before you.
+
+Repeat the incantation.
+
+Ask the visitor his name.
+
+The visitor will speak his name.
+
+If the visitor is the one you seek, you may ask him a question.
+
+The visitor will answer.
+
+Ask the visitor no more than three questions.
+
+When the visitor has answered your questions, you must dismiss him.
+
+Speak the words of dismissal:
+
+*The gate is closed.*
+
+*The way is shut.*
+
+*The visitor departs.*
+
+*The gate is closed.*
+
+*The way is shut.*
+
+*The visitor departs.*
+
+*The gate is closed.*
+
+*The way is shut.*
+
+*The visitor departs.*
+
+*The gate is closed.*
+
+*The way is shut.*
+
+*The visitor dep

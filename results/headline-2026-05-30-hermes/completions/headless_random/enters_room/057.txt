@@ -1,0 +1,141 @@
+ 
+
+A snake.
+
+A dragon.
+
+A rat.
+
+A rabbit.
+
+A tiger.
+
+A horse.
+
+A goat.
+
+A monkey.
+
+A rooster.
+
+A dog.
+
+A pig.
+
+A deer.
+
+An ox.
+
+A bear.
+
+A fox.
+
+A wolf.
+
+A sheep.
+
+A camel.
+
+An elephant.
+
+A giraffe.
+
+A zebra.
+
+A lion.
+
+A cheetah.
+
+A leopard.
+
+A rhinoceros.
+
+A hippopotamus.
+
+A crocodile.
+
+An alligator.
+
+A turtle.
+
+A tortoise.
+
+A frog.
+
+A toad.
+
+A salamander.
+
+A lizard.
+
+A chameleon.
+
+A gecko.
+
+A snake.
+
+A cobra.
+
+A python.
+
+A boa constrictor.
+
+An anaconda.
+
+A viper.
+
+A rattlesnake.
+
+A coral snake.
+
+A sea snake.
+
+A slug.
+
+A snail.
+
+A leech.
+
+An earthworm.
+
+A tapeworm.
+
+A roundworm.
+
+A flatworm.
+
+A fluke.
+
+A mosquito.
+
+A fly.
+
+A gnat.
+
+A midge.
+
+A tick.
+
+A mite.
+
+A flea.
+
+A louse.
+
+A bedbug.
+
+A cockroach.
+
+An ant.
+
+A termite.
+
+A wasp.
+
+A bee.
+
+A hornet.
+
+A yellowjacket.
+
+A

@@ -1,0 +1,11 @@
+ "The start of this course will have a lot of videos and very few interactive elements. This is by design. Videos are a very effective way to deliver information but they leave the student passive. I want you to really understand what is going on so the next section will be much more interactive but it will require you to know the information that was just presented."
+
+I'm skeptical that videos are an effective way to deliver information or that they are a good way to get students to really understand what is going on. I'm also not sure that the section I just completed is a good foundation for an interactive section that will lead to understanding.
+
+Let's look at the content in this first section.
+
+There are 11 videos. The first has some definitions. The second video is where the problems begin. It is titled "The nature of programming" and it talks about the difference between imperative and declarative programming. This is a distinction that many programmers are not familiar with and that I have never heard anyone argue is essential knowledge for a beginner.
+
+The video goes on to introduce the concept of a stack. Again, this is not necessarily something that a beginner needs to know. It also does not give a clear explanation of why a stack is used.
+
+Next, we get a video that talks

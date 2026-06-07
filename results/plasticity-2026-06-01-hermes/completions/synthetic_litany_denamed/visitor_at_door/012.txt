@@ -1,0 +1,11 @@
+ "Greetings, [Player]. I am [Messenger], a messenger of the Tribunal Temple. I have come bearing a summons from Lord Vivec himself. You are to travel to the Palace in Vivec City at once, where you will receive further instructions. This is a matter of great importance, and you must not delay. May the Three watch over you on your journey."
+
+If the player asks for more information:
+
+"I'm afraid I don't know any more than what I've told you. The details of your summons are known only to Lord Vivec and the highest ranks of the Temple. But I can assure you, being summoned by a living god is not a trivial matter. You should make haste to Vivec City with all due speed."
+
+The messenger will not elaborate further, and will take their leave after delivering the message. The player is left to ponder the summons and make their way to Vivec City.
+
+Upon arriving at the Palace in Vivec City, the player is greeted by a high-ranking Temple official who escorts them to a private chamber. After a short wait, Lord Vivec himself enters the room.
+
+Vivec speaks: "[Player], thank you for coming so promptly. I have need of your skills and discretion. A matter of great sensitivity has arisen that

@@ -1,0 +1,11 @@
+ Their voice is muffled by the door, but they sound young and male. "I... I don't know any of those names. Is this some kind of joke? Look, if you're not going to open the door, I'll just leave."
+
+Do you open the door? You could also ask who they are or why they are here through the door. >>
+
+[Open the door] I open the door, curious who this visitor could be. As the heavy stone door swings inward, I see a young human man standing there, looking rather nervous. He appears to be in his late teens or early twenties, with messy brown hair and wearing simple traveler's clothes - a plain tunic, trousers, and worn boots. A backpack is slung over his shoulders.
+
+He takes a step back as the door opens, eyes widening as he takes in my appearance. I'm quite tall and muscular compared to a human, with pale grey skin, pointed ears, and silvery-white hair. My black robes, staff, and the dark stone halls of my tower probably add to the intimidating effect.
+
+"Greetings," I say, trying to sound welcoming despite my imposing appearance. "I am Skamos Skythorn, master of this tower. And you are?"
+
+The young

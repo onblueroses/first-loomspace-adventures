@@ -1,0 +1,7 @@
+ 
+
+A river ecosystem is a complex network of living organisms, their physical environment, and the interactions between them in a flowing-water environment. These ecosystems are characterized by a unidirectional flow of water, which shapes the biological community and ecological processes. The structure and function of river ecosystems are influenced by various factors, including the catchment area, regional climate, underlying geology, and the gradient of the river channel from its source to its mouth.
+
+In the upper reaches of a river, known as headwater streams, the water is typically cold, oxygen-rich, and fast-flowing over bedrock and coarse gravel. The biological community in these areas is dominated by aquatic insects, whose larvae are adapted to cling to substrates against the strong current. Cold-water fish species, such as trout, occupy the predator niche in these ecosystems. The primary source of organic matter in headwater streams comes from outside the system, in the form of leaf litter and woody debris that falls from the surrounding forest. This organic matter forms the energetic base of the food web, supporting shredder invertebrates that break down the coarse particulate organic matter into finer particles.
+
+As the river widens and slows down in its middle and lower reaches, the substrate of the channel shifts from gravel to sand and

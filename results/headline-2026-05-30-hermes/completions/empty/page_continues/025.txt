@@ -1,0 +1,21 @@
+ "If you are using a version of MySQL earlier than 5.0.3, the PASSWORD() function produces a 16-byte string. You cannot use the output as input for the PASSWORD() function again, but you can use it for password checking or comparison purposes. "
+
+So, I need to get the 16-byte string, and use it for password comparison. I've tried:
+
+\begin{code}
+SELECT PASSWORD('test') FROM dual;
+\end{code}
+
+This returns a 41-character string, which is not what I want. I've also tried using the OLD_PASSWORD function:
+
+\begin{code}
+SELECT OLD_PASSWORD('test') FROM dual;
+\end{code}
+
+This returns a 16-character string, which looks more promising, but doesn't match the password hash in the database.
+
+How do I get the 16-byte password hash?
+
+Answer: What you're seeing is correct. In MySQL, the 16-byte hash is represented as a 16-character hexadecimal string. The `OLD_PASSWORD` function is the correct one to use.
+
+The reason the output from `OLD_PASSWORD` doesn't match the password hash in the database is probably because the password in the database was not created using `OLD_PASSWORD`. If the password was created using

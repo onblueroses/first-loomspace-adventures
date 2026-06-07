@@ -1,0 +1,28 @@
+ "Your path is open, but walk with care. The Master of the Maze awaits you."
+
+The door opens.
+
+### 121. The Maze of the Master
+A labyrinth of twisting corridors and dead ends. You must find the route through to the centre of the maze, where the Master awaits you.
+
+If you roll a 1 on the die, you have taken a wrong turn and must go back to the start of the maze.
+
+If you roll a 6, you have found the correct route to the centre.
+
+If you roll any other number, you are still in the maze and must roll again.
+
+When you reach the centre of the maze, turn to 122.
+
+### 122. The Master of the Maze
+A tall figure in a black robe stands before you. Two burning eyes glare at you from beneath a hood.
+
+"I am the Master of the Maze," the figure says. "You have done well to reach me. But now you must answer my riddle, or be trapped here forever."
+
+The Master speaks the riddle:
+
+"I am not alive, but I grow;
+I don't have lungs, but I need air;
+I don't have a mouth, but water kills me.
+What am I?"
+
+If you know the answer, turn to

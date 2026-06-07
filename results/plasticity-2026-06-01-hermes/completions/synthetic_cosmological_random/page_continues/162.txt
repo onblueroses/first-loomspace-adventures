@@ -1,0 +1,9 @@
+ https://www.britannica.com/science/river-ecosystem
+
+## River continuum concept
+
+The river continuum concept (RCC) is a model for classifying and describing flowing water, in addition to the classification of aquatic biota based on functional traits developed by Robin L. Vannote, with colleagues G. Wayne Minshall, Kenneth W. Cummins, James R. Sedell, and Colbert E. Cushing in 1980. The authors proposed the concept based on the changes observed in the biotic community and ecosystem processes from the headwaters to larger rivers. The RCC predicts that the physical changes that occur from the headwaters to the lower reaches of a river system are accompanied by changes in the biotic community. This concept allows for the categorization of rivers and streams into three different types based on their geomorphological characteristics.
+
+The three categories of river systems are as follows:
+
+1. Headwaters or Streams - From the source, these systems are narrow and have a steep gradient with fast-moving water and predominantly substrate of boulders, rocks, and gravel. The water is typically cold, well-oxygenated, and clear. The primary producers in this system are mainly periphyton (attached algae) and the primary consumer is usually

@@ -1,0 +1,22 @@
+ "It is possible to derive a simple relation between the coefficients of the equations for the conservation of energy and the conservation of momentum: the energy conservation equation multiplied by the speed of light, and the momentum conservation equation for the x direction are added and then subtracted." I have no idea what this means. Can someone clarify this for me? What does it mean to "add" and then "subtract" these conservation equations? How do you do this?
+
+2. Apr 20, 2016
+
+### Staff: Mentor
+
+I don't understand the description either, but the equations are fine.
+You can multiply the first equation by c, then you get the second equation plus the third equation (up to the signs). That is probably what they mean by "add". Subtracting the equations would give 0=0 then, which does not help.
+
+3. Apr 20, 2016
+
+### jcap
+
+So you are saying that if I multiply the first equation by c I will get the second equation plus the third equation?
+
+Let me try it:
+
+First equation * c:
+$E_1 + E_2 = E_3 + E_4 + E_5$
+
+Second equation:
+$p_{1x} + p_{2x} =

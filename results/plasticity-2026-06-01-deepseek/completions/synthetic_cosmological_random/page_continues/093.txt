@@ -1,0 +1,14 @@
+The text you've provided offers a clear, structured overview of river ecosystems. It describes a classic river continuum, moving from headwaters to lower reaches, and outlines key abiotic and biotic factors. The final paragraph effectively summarizes the major threats to ecosystem health.
+
+Here is a breakdown of the key concepts, organized to complement the provided text:
+
+### **Core Characteristics of Lotic (River) Ecosystems**
+*   **Unidirectional Flow:** The constant downstream movement of water, materials, and organisms is the defining feature.
+*   **Open Ecosystems:** Heavily influenced by inputs from their **catchment (watershed)**, including water, minerals, and organic matter.
+
+### **The River Continuum: From Source to Mouth**
+This concept describes the predictable changes in physical conditions and biological communities along a river's length.
+
+| River Section | Physical Conditions | Biological Community & Energy Base |
+| :--- | :--- | :--- |
+| **Headwaters (Upper Reaches)** | Steep gradient, cold, fast, high oxygen, rocky/gravel substrate. | **Energy:** Allochthonous (external). Leaf litter & wood from riparian forests.<br>**Community:** Insect larvae (e.g., mayflies, stoneflies) adapted to cling to rocks. Cold

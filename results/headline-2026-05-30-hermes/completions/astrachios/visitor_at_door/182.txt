@@ -1,0 +1,11 @@
+ If the visitor speaks the correct password, the door will open. If the visitor speaks the incorrect password, the door will remain closed. If the visitor does not speak a password, the door will remain closed.
+
+If the visitor speaks the correct password, they may enter the room beyond the door. If the visitor speaks the incorrect password or does not speak a password, they may not enter the room beyond the door.
+
+The correct password is: "I seek the wisdom of the ancients."
+
+The room beyond the door contains a library of ancient tomes and scrolls, containing knowledge long forgotten. The visitor may browse the library and read the tomes and scrolls, but they may not remove any items from the room. The visitor may stay in the room for as long as they wish, but they must leave the room and close the door behind them when they are finished.
+
+When the visitor leaves the room and closes the door behind them, the door will disappear, and the wall will return to its previous state. The door will not reappear until the ritual is performed again. 
+
+The ritual may be performed once per day, at any time of day or night. The ritual may be performed by any person who knows the ritual and speaks the names correctly. The ritual may be performed

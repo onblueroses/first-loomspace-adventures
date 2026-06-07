@@ -1,0 +1,5 @@
+ He says, "I am Vrolthemnar, the Keymaster. I am here to tell you that the King in Yellow has chosen you for a great purpose. He has seen your potential and knows that you are destined for greatness. You have been chosen to be a part of his inner circle, to help bring about a new era of enlightenment and power. Will you accept this honor and join us?"
+
+The cultist looks at you, his eyes gleaming with anticipation. He awaits your response, ready to welcome you into the fold of the King in Yellow's chosen few. The decision is yours, but the path before you is shrouded in mystery and intrigue. Will you accept the invitation and embark on a journey that could change the course of your life forever? The choice is yours, but the consequences could be far-reaching and unpredictable. The cultist stands before you, a messenger of fate, ready to guide you into the unknown. What will you do? [[2]]
+
+[2] You hesitate for a moment, considering the weight of the decision before you. The cultist's words echo in your mind, the promise of power and purpose a tempting offer. But something holds you back, a nagging sense of unease that you can't quite shake

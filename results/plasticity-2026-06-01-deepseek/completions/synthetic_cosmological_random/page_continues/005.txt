@@ -1,0 +1,7 @@
+Based on the text provided, here is a continuation that elaborates on a key concept introduced—the **River Continuum Concept**—and its implications for management:
+
+***
+
+A fundamental model for understanding these changes from headwaters to mouth is the **River Continuum Concept**. This framework posits that a river functions as an integrated physical and biological system, with predictable shifts in energy sources and community structure along its length. In narrow, shaded headwaters, the ecosystem is largely **heterotrophic**, relying on imported organic matter (allochthonous input) from the riparian zone. As the river widens and receives more light, it becomes increasingly **autotrophic**, with in-stream photosynthesis by algae and aquatic plants contributing a greater share of the energy base. In very large rivers, the depth and turbidity can reduce light penetration, making the system heterotrophic again, now dependent on fine organic particles transported from upstream.
+
+This continuum of physical conditions creates a corresponding continuum of biological adaptations. Invertebrate functional feeding groups—such as shredders, collectors, grazers, and predators—change in their relative abundance according to the dominant energy source available in each reach. This predictable pattern allows ecologists to assess ecosystem health; a disruption in the expected pattern of invertebrate communities often signals human

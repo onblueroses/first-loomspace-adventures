@@ -1,0 +1,1 @@
+The visitor waits, expecting a response. What do you say or do?

@@ -1,0 +1,10 @@
+This passage provides an excellent foundation for understanding river ecosystems. To build on this, let's explore some key concepts and real-world implications.
+
+### Core Ecological Concepts Illustrated
+
+1.  **River Continuum Concept:** The description from headwaters to mouth aligns with this fundamental model. It explains how the physical template (gradient, width, flow) dictates the energy base:
+    *   **Headwaters (Upper Reach):** Heavily shaded, so energy comes from **allochthonous** inputs (external organic matter like leaves). The community is dominated by **shredders** that break down this coarse material and **collectors** that gather fine particles.
+    *   **Mid-Reach:** Wider, less shaded. Energy comes from both transported fine particles and **autochthonous** production (in-stream photosynthesis by algae and plants). **Grazers** that scrape algae become important.
+    *   **Lower Reach:** Wider, slower, warmer. Energy base is primarily fine organic particles from upstream and phytoplankton. **Collectors** and predators dominate.
+
+2.  **Nutrient Spiraling:** In a flowing system, nutrients like nitrogen and phosphorus are not cycled in a stationary loop. They are taken up by organisms, released back into the water,

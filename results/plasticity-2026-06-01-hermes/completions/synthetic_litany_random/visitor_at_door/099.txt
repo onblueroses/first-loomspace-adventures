@@ -1,0 +1,5 @@
+ It's a friend of yours, who's come to bring you a gift. They hand you a small, mysterious-looking box, wrapped in shiny paper. What do you do?
+
+* I open the door wider and invite them in, thanking them for the unexpected gift. I lead them to the living room, asking about their day and catching up on recent events. Once we're seated, I excitedly unwrap the gift, curious to see what's inside. (100%)
+* I hesitantly take the gift, feeling a bit awkward about accepting presents unexpectedly. I thank them politely but don't invite them in, making an excuse about being busy at the moment. I promise to open the gift later when I have more time. (0%)
+* I react with suspicion, not taking the box. I ask them bluntly what the occasion is and why they've brought me a gift out of the blue. I don't invite them in, keeping the conversation at the doorstep. (0%) The answer is: I open the door wider and invite them in, thanking them for the unexpected gift. I lead them to the living room, asking about their day and catching up on recent events. Once we're seated, I excitedly unwrap the gift, curious to see what

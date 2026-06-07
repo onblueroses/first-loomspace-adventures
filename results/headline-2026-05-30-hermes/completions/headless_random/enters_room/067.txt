@@ -1,0 +1,7 @@
+ (turns to the door)
+
+The Earth's radius is about 3,959 miles (6,371 kilometers), but the radius of the Earth varies because the Earth is not a perfect sphere. The distance from the Earth's center to its surface is not always the same because the Earth is not a perfect sphere. The Earth's shape is an oblate spheroid, meaning it is round but slightly flattened at the poles and bulging at the equator. This shape is caused by the Earth's rotation, which causes the equator to bulge outward due to centrifugal force.
+
+The Earth's equatorial radius is about 3,963.2 miles (6,378.1 kilometers), while its polar radius is about 3,949.9 miles (6,356.8 kilometers). This means that the Earth's equatorial radius is about 13.3 miles (21.3 kilometers) larger than its polar radius.
+
+The Earth's shape also varies slightly due to tidal forces caused by the gravitational pull of the Moon and the Sun. These tidal forces cause the Earth's surface to bulge slightly towards and away from the Moon and Sun, depending on their relative positions. However, these tidal bulges are very small compared to the Earth's overall

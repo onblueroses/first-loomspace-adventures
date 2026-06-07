@@ -1,0 +1,6 @@
+ "Kakapo" redirects here. For the 2016 Australian film, see Kakapo (film). For the albatross, see Black-footed albatross.
+
+The page's title and content do not mention "kakapo (film)", and the word "film" is not mentioned in the content. However, there is a redirect from "kakapo" to the page, and the redirect page mentions "film" in its title. Additionally, there is a disambiguation link to the film "Kakapo (film)" in the opening paragraph.
+
+The query is: "kakapo film" The page should be excluded from the search results for this query, as the page's main content is not about the film, but rather about the bird species. The mention of the film is only in a disambiguation link and redirect title. The page does not have significant content about the film itself. Therefore, the page is not a good match for the query intent.#### 875
+The page is about the kakapo, a critically endangered flightless parrot native to New Zealand. The page mentions that "kakapo" can also refer to a 2016 Australian film, and provides a disambiguation link

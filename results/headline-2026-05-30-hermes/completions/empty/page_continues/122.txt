@@ -1,0 +1,13 @@
+ "Beware that all the operations in the transaction must be idempotent (i.e. no side effects)."
+
+What is meant by "idempotent" and "no side effects" in this context?
+
+Comment: It means that if you execute the same transaction multiple times, it will have the same effect as if you executed it only once.
+
+Comment: @Barmar: This is not quite right. Idempotent means that if you execute the same transaction multiple times, it will have the same effect as if you executed it only once. But "no side effects" means that it should not change any data. Idempotent operations can change data, but the changes must be the same no matter how many times the operation is executed.
+
+Comment: @DougStevenson Thanks. I was only defining idempotent, not "no side effects".
+
+Comment: @DougStevenson "no side effects" doesn't mean that it doesn't change any data. It means that the operation doesn't have effects outside the transaction itself. So it can change data in the database, but it can't send a message or perform file I/O, because those would cause changes even if the transaction is rolled back.
+
+Comment: @Barmar That's not

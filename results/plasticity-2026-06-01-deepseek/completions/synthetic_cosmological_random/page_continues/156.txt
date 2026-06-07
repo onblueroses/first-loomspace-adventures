@@ -1,0 +1,21 @@
+This text provides a clear, systematic overview of river (lotic) ecosystems. It structures the information logically, moving from a general definition to specific characteristics along the river's course, and finally to factors affecting ecosystem health.
+
+Here is a breakdown of the key concepts and their flow:
+
+### 1. Core Definition & Distinction
+*   **Lotic Ecosystem:** Defined by **unidirectional water flow**.
+*   **Key Contrast:** Differentiated from **lentic ecosystems** (lakes, ponds) which have standing water. The flow transports water, minerals, organic matter, and organisms downstream.
+
+### 2. Foundational Controlling Factors
+The character of any river is determined by:
+*   **Catchment area (watershed):** The land that drains into it.
+*   **Climate:** Precipitation and temperature patterns.
+*   **Geology:** The type of rock and soil it flows over.
+*   **Channel Gradient:** The steepness from source to mouth.
+
+### 3. Longitudinal Zonation (Changes from Source to Mouth)
+The text describes a classic model of how the ecosystem changes downstream:
+
+| Zone | Physical Conditions | Biological Community | Energy Base |
+| :--- | :--- | :--- | :--- |
+| **Headwaters (

@@ -1,0 +1,23 @@
+ "If the quotient has a remainder, put the remainder over the divisor to get the fraction part of the mixed number." Which part of the long division is the remainder?
+
+The remainder is the amount left over after dividing the numbers. In the long division, it is the final value that cannot be divided further. In this case, the remainder is 2.
+
+The final mixed number is: $$19\frac{2}{5}$$
+
+### 96/5 as a mixed number is: $$19\frac{2}{5}$$
+
+#### 96/5 as a mixed number is: $$19\frac{2}{5}$$
+
+The answer is: $$19\frac{2}{5}$$
+
+## Converting 97/5 to a mixed number
+
+To convert the improper fraction 97/5 to a mixed number, we'll divide the numerator by the denominator.
+
+Set up the long division:
+
+The page says: "Divide the numerator by the denominator to get the whole number part of the mixed number. The whole number part is the quotient of the division."
+
+The whole number part is: 19
+
+The page continues: "If the quotient has a remainder, put the remainder over the divisor to get the fraction part of

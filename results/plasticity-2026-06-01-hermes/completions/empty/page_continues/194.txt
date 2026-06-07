@@ -1,0 +1,5 @@
+ "The maximum amount of memory that can be allocated in a single region is 1 << 30 bytes on a 32-bit target, or 1 << 40 bytes on a 64-bit target."
+
+Comment: 1 << 30 is 1GB, not 2GB.
+
+Comment: @PaulTomblin That's correct. I've edited my answer to reflect that. Thanks for pointing that out.

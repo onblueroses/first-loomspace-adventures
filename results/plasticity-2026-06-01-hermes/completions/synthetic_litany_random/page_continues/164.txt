@@ -1,0 +1,7 @@
+ "Anglerfish occur worldwide. Some are pelagic (dwelling away from the sea floor), while others are benthic (dwelling close to the sea floor). Some live in the deep sea (e.g., Ceratiidae), while others on the continental shelf (e.g., the frogfishes Antennariidae and the monkfish/goosefish Lophiidae). Pelagic forms are most laterally compressed, whereas the benthic forms are often extremely dorsoventrally compressed (depressed), often with large upward-pointing mouths."
+
+### Example 3: Long-term potentiation
+
+The article Long-term potentiation describes a process in neuroscience. The first paragraph of the article is shown below. This example has been chosen to show how citations and references are typically included in Wikipedia articles.
+
+Long-term potentiation (LTP) is a persistent strengthening of synapses based on recent patterns of activity: it occurs when a neuron shows a persisting increased excitability following high-frequency stimulation of its input synapse. LTP is thought to be one of the main mechanisms underlying learning and memory. LTP involves changes in the molecular structure and function of the synapse, which enhances synaptic transmission and the ability of two neurons to communicate with each other.

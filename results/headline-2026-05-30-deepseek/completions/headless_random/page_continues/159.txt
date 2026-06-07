@@ -1,0 +1,13 @@
+Thank you for that detailed summary of plate tectonics. It provides an excellent foundation.
+
+Building upon your text, here are some additional key points and clarifications that often accompany a comprehensive overview of the theory:
+
+### **Driving Forces & Mechanism**
+While the **convection currents** in the asthenosphere are a primary driver, modern understanding includes additional forces that act on the plates:
+*   **Ridge Push (Sliding Plate Force):** At mid-ocean ridges, the new, elevated lithosphere slides down the sloping ridge due to gravity.
+*   **Slab Pull:** This is often considered the most significant force. At subduction zones, the sinking of the cold, dense oceanic plate into the hot mantle pulls the rest of the plate along.
+
+### **Types of Crust & Consequences**
+The difference between oceanic and continental crust is fundamental:
+*   **Oceanic Crust:** Thin (~5-10 km), dense (basaltic), and young (always <~200 million years old). Its high density is why it **subducts** under lighter continental crust.
+*   **Continental Crust:** Thick (~30-50 km), buoyant (granitic), and can be billions of years old. It is too light to be

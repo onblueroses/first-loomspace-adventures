@@ -1,0 +1,5 @@
+  (After a moment of silence, the wall behind the altar opens to reveal a large chamber.  If the players don't move, read the following.)
+
+The chamber is large and roughly square, with a high ceiling and walls of rough stone.  In the center of the room is a large stone platform, upon which rests a huge, ornate chest.  The chest is covered in intricate carvings and seems to be made of a strange, dark metal.  The chest is locked, and there is no obvious keyhole or latch.  The room is otherwise empty, save for a few scattered bones and scraps of ancient cloth.
+
+If the players investigate the chest, they will find that it is indeed locked, and that the lock is of a strange and intricate design.  The chest is also quite heavy, and would require significant effort to move.  If the players attempt to open the chest by force, they will find that it is extremely durable and resistant to damage.  The chest can only be opened by speaking the correct command word, which is not present in the room or anywhere else in the dungeon.  The command word is "Krelphendoth," which was mentioned in the ritual chant.  If the players speak this word while standing

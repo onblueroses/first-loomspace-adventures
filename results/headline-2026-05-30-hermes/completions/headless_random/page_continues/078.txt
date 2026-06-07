@@ -1,0 +1,11 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+-- H. (talk) 22:45, 22 October 2020 (UTC)
+
+That was the lead section of the Wikipedia article on plate tectonics. I wanted to compare it with the lead of the article on continental drift, which is a closely related concept. Emphasis added:
+
+Continental drift is the hypothesis that the Earth's continents have moved over geologic time relative to each other, thus appearing to have "drifted" across the ocean bed. The idea of continental drift has been subsumed by the theory of plate tectonics, which studies the movement of the continents and the ocean floor as part of a single system.
+
+The speculation that continents might have 'drifted' was first put forward by Abraham Ortelius in 1596. The concept was independently and more fully developed by Alfred Wegener in 1912, but his theory was rejected by many for lack of any motive mechanism. Arthur Holmes later proposed that convection currents in the mantle could be the driving force. The idea of continental drift did not become widely accepted as part of larger theory of plate tectonics until the late 1950s.
+
+The page continues: https

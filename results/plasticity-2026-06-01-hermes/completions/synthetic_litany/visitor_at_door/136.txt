@@ -1,0 +1,19 @@
+ Ask for their name and purpose.
+
+Visitor: I am a humble seeker of wisdom, drawn to the mysteries of the void. I wish to learn from the voidwalkers and explore the secrets they hold.
+
+Do you accept them?
+
+Yes, I accept them. Enter, seeker, and may the void grant you the wisdom you seek.
+
+The visitor enters the temple. Greet them and offer guidance.
+
+Greetings, seeker. I am [Your Name], a voidwalker and guide within this temple. What aspect of the void draws your curiosity?
+
+The visitor expresses interest in the nature of the void and its connection to the mortal realm.
+
+Ah, the nature of the void and its interplay with the mortal realm is a profound mystery. The void is the space between spaces, the absence that defines presence. It is the source of all potential, from which all things emerge and to which all things return.
+
+In the mortal realm, we perceive the void as emptiness, darkness, or silence. Yet, to those who delve into its mysteries, the void is a wellspring of power and insight. By embracing the void, we learn to let go of attachments, to find peace in uncertainty, and to tap into the limitless potential within ourselves.
+
+The voidwalkers seek to understand and

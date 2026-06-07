@@ -1,0 +1,9 @@
+ "Well, um, it's really quite late, isn't it? And I can see you're all busy with your...uh, studies, so I won't keep you any longer. I'll just be on my way now. Good night." He turns to leave.
+
+You say "Wait! Before you go, could you tell us who you are and why you're here?"
+
+The visitor pauses and slowly turns back around. "Oh, I suppose I should introduce myself, shouldn't I? My name is Albus Dumbledore, and I'm the headmaster of Hogwarts School of Witchcraft and Wizardry. I came here tonight to deliver some rather important news, but it seems I may have chosen an inopportune time. Perhaps we could schedule a more convenient occasion for me to return and discuss the matter further?"
+
+You say "Important news? What is this about?"
+
+Dumbledore replies, "Well, it's regarding your magical education. You see, based on our records, it appears that you and your siblings are all witches and wizards, and as such, you are eligible to attend Hogwarts. I came to personally invite you to the school and provide you with the necessary information and supplies. However, I can see that you're all quite busy at the

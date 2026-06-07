@@ -1,0 +1,26 @@
+ 
+
+"Welcome, I am _____ [visitor's name]. I seek knowledge and wisdom from the library."
+
+The librarian replies.
+
+"Enter, _____ [visitor's name]. May you find what you seek within these hallowed halls. But be warned - some knowledge comes at a price."
+
+The visitor steps through the doorway, which closes behind them with an echoing boom. The library stretches out before them - vast, timeless, and filled with secrets waiting to be discovered. The air is heavy with the scent of ancient parchment and leather-bound tomes.
+
+The librarian leads the way deeper into the library's labyrinthine interior. 
+
+"Tell me, what knowledge do you seek?" the librarian asks. "For within these walls lies the accumulated wisdom of countless worlds and ages."
+
+The visitor pauses to consider the question carefully before responding.
+
+**_____ [visitor's name] seeks knowledge about:**
+
+1. The true nature and origins of the cosmos 
+2. The secret history of a particular world or civilization
+3. Powerful arcane spells and rituals
+4. Ancient prophecies and how to interpret them
+5. The weaknesses and secrets of a powerful enemy
+6. Forbidden lore that could grant great power at a cost
+7. A way to heal a grave illness or curse
+8

@@ -1,0 +1,35 @@
+ It's not the person who opens the door, but the light that falls in.
+— Rolf Jacobsen, Norwegian poet
+
+You can write a comment with Markdown syntax. The syntax is supported by GitHub, GitLab, Bitbucket, Slack, and many other tools. Here are some examples:
+
+*Italic*
+**Bold**
+# Heading 1
+## Heading 2
+[Link](https://example.com)
+![Image](https://example.com/image.jpg)
+> Blockquote
+- List item 1
+- List item 2
+`Inline code`
+```
+Code block
+```
+
+You can also use some HTML tags, such as <a>, <img>, <blockquote>, <ul>, <ol>, <li>, <code>, <pre>, and <table>. However, be aware that not all Markdown applications support all HTML tags.
+
+For more information about Markdown, please visit the official documentation at https://commonmark.org/.
+
+Good luck with your Markdown writing!
+
+Sincerely,
+The Markdown Guide Team
+
+The Markdown Guide
+https://www.markdownguide.org/
+
+You can write a comment with Markdown syntax. The syntax is supported by GitHub, GitLab, Bitbucket, Slack, and many other tools. Here are some examples:
+
+*Italic*
+**

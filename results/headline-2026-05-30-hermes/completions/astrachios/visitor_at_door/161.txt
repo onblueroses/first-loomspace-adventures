@@ -1,0 +1,17 @@
+ The doorkeeper responds.
+
+Visitor:  Tamerlan, Balanda, Gouriel, Arista, Tzabaoth, Abac, Ebmisha, Zaitacher, Rabiam, Hacaudaie, Abracoi, Batzamia, Baracata, Aba, Aberamentho, Damlatamus, Ramzaina, Azalo, Gebein, Idothag, Hazatha, Eha, Akkari, Ahai, Ogos, Romos, Abera, Aberamentho, Riglei, Sarguo, Samia, Atalia, Aligra, Arzalai, Azariel, Abadai, Azili, Lilith.
+
+Doorkeeper:  Why do you come here?
+
+Visitor:  I come here because I wish to learn the mysteries of the art of Solomon, which are here.
+
+Doorkeeper:  You have the courage to wish to enter here?
+
+Visitor:  Yes, I have the courage.
+
+Doorkeeper:  Then enter, in the name of the Great Master of the Art.
+
+The doorkeeper admits the visitor, then leaves. The master of the art rises and greets the visitor.
+
+Master:  Welcome, my child, in the

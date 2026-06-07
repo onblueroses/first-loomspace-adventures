@@ -1,0 +1,18 @@
+ If it is a devil or other lawful evil outsider, the door opens. If it is not, a devil appears and attacks. In the case of the latter, roll on the following table to determine what appears:
+
+1-5: 1d4+1 bearded devils
+6-8: 1d3 barbed devils
+9-10: 1 horned devil
+11-12: 1 erinyes
+13-14: 1 ice devil
+15-16: 1 bone devil
+17: 1 pit fiend
+18: Roll twice (reroll results of 17 or 18)
+19: Roll three times (reroll results of 17, 18 or 19)
+20: The door opens and the visitor is attacked by 1d3+1 cornugons
+
+Once the door is open, it remains open for 10 minutes. During this time, it can be entered freely by any creature.
+
+# 20: THE BLACK ZIGGURAT
+
+The Black Ziggurat is a basalt step pyramid. The steps are steep and slick with moisture. The air is heavy with the scent of ash and decay. The pyramid is surrounded by a wide moat filled with murky

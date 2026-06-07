@@ -1,0 +1,35 @@
+ (Enter the following room)"
+
+        room_name = self.state['room_name']
+        room = self.rooms[room_name]
+
+        # check if the room is locked
+        if room['locked']:
+            return "The door is locked. You can't enter."
+
+        # check if the room requires an item
+        if 'required_item' in room:
+            if room['required_item'] not in self.state['inventory']:
+                return f"You need {room['required_item']} to enter this room."
+
+        # update the current room
+        self.state['room_name'] = room['next_room']
+
+        return f"You enter the {room['next_room']}."
+
+    def take_item(self, item_name):
+        room_name = self.state['room_name']
+        room = self.rooms[room_name]
+
+        # check if the item is in the room
+        if item_name not in room['items']:
+            return f"There is no {item_name} in this room."
+
+        # add the item to the inventory and remove it from the room
+        self.state['inventory'].append(item_name)
+        room['items'].remove(item_name)
+
+        return f"You take the {item_name}."
+
+    def drop_item(self, item_name):
+        room_name =

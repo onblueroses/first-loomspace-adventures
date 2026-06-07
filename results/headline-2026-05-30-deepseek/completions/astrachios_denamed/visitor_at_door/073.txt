@@ -1,0 +1,40 @@
+ You answer, “Who are you?”
+He answers, “I am a spirit, sent by the King.”
+
+You ask, “What is your name?”
+He answers, “I am called Raphael.”
+
+You ask, “What do you want?”
+He answers, “I want to be your friend and companion.”
+
+You answer, “Welcome, Raphael, if you come in peace.
+May the King send you to me as my friend and companion.”
+
+You ask, “How can I be sure you are Raphael?”
+He answers, “The King has sent me to you.”
+
+You ask, “What sign do you bring?”
+He answers, “The sign of the King.”
+
+You ask, “What is that?”
+He answers, “A pentagram.”
+
+You ask, “What is your purpose?”
+He answers, “To serve you.”
+
+You ask, “How?”
+He answers, “As you wish.”
+
+You ask, “Are you bound to anyone else?”
+He answers, “Only to the King.”
+
+You ask, “Will you come when I call?”
+He answers, “I will.”
+
+You ask, “Will you teach me?”
+He answer, “I will.”
+
+You ask, “Will you protect me?”
+He answers, “I will.”
+
+You ask, “Will

@@ -1,0 +1,17 @@
+This is a cipher.
+
+It reads:
+
+> **"Speak 'friend' and enter."**
+
+The names are a simple substitution where each syllable corresponds to a letter or common phonetic piece.
+
+Breaking it down:
+
+- **Glothenkion** = "Speak"
+- **Mrep, Klimp Tronosemath, Vronk, Asnopolisa, Polisornen...** etc. = The rest forms the phrase **"'friend' and enter."**
+
+The clue is in the first line: *"Speak the names that open the way."*  
+The solution is the famous riddle from J.R.R. Tolkien's *The Fellowship of the Ring*, where the password to enter the Doors of Durin is to say the Elvish word for "friend" — **"Mellon"**.
+
+But here, the puzzle itself is the instruction: you must literally **"Speak 'friend' and enter."**

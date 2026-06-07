@@ -1,0 +1,7 @@
+ "The range of $T$ is the set of all possible output vectors $\mathbf{w}$, and the kernel of $T$ is the set of all solutions to the equation $T(\mathbf{v})=\mathbf{0}$."
+
+I understand that the range of $T$ is the set of all possible output vectors $\mathbf{w}$, since the range of a function is the set of all possible outputs. However, I do not understand why the kernel of $T$ is the set of all solutions to the equation $T(\mathbf{v}) = \mathbf{0}$. I understand that the kernel of $T$ is the set of all vectors $\mathbf{v}$ in $V$ such that $T(\mathbf{v}) = \mathbf{0}$, where $\mathbf{0}$ is the zero vector in $W$. However, I do not understand why this is the same as the set of all solutions to the equation $T(\mathbf{v}) = \mathbf{0}$.
+
+Comment: It's the definition of the kernel.
+
+Comment: The kernel of a linear transformation $T:V \to W$ is defined to be the set of

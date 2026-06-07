@@ -1,0 +1,41 @@
+ He says: "My name is Ebeloc. I am the messenger of the King of the West. My name is Ebeloc, and I am the messenger of the King of the West."
+
+The watchman says: "Let him enter."
+
+The visitor says: "I will enter."
+
+The watchman says: "Speak."
+
+The visitor says: "I have a message for the King."
+
+The watchman says: "Proceed."
+
+The visitor says: "The King of the West wishes to know if you are willing to be at peace with him."
+
+The watchman says: "The King is always willing to be at peace with the King of the West."
+
+The visitor says: "That is well."
+
+The watchman says: "Will you now depart?"
+
+The visitor says: "I will depart."
+
+The watchman says: "Depart."
+
+The visitor says: "I am gone."
+
+The watchman says: "He is gone."
+
+The voice says: "He is gone."
+
+The watchman says: "He is gone."
+
+The voice says: "He is gone."
+
+The watchman says: "He is gone."
+
+The voice says: "He is gone."
+
+The watchman says: "He is gone."
+
+The voice says: "He

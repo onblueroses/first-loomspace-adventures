@@ -1,0 +1,31 @@
+ The doorkeeper answers.
+
+Doorkeeper: I have no power to open the door.
+Visitor: Why is this?
+Doorkeeper: Because I am the doorkeeper.
+Visitor: How may I enter?
+Doorkeeper: You must ask the door.
+Visitor: Door, how may I enter?
+Door: You must ask the key.
+Visitor: Key, how may I enter?
+Key: You must ask the lock.
+Visitor: Lock, how may I enter?
+Lock: You must ask the bolt.
+Visitor: Bolt, how may I enter?
+Bolt: You must ask the hinge.
+Visitor: Hinge, how may I enter?
+Hinge: You must ask the threshold.
+Visitor: Threshold, how may I enter?
+Threshold: You must ask the foundation.
+Visitor: Foundation, how may I enter?
+Foundation: You must ask the cornerstone.
+Visitor: Cornerstone, how may I enter?
+Cornerstone: You must ask the architect.
+Visitor: Architect, how may I enter?
+Architect: You must ask the master.
+Visitor: Master, how may I enter?
+Master: You must ask the owner.
+Visitor: Owner, how may I enter?
+Owner: You must ask the visitor.
+Visitor: How may I enter?
+Visitor: You must ask the door

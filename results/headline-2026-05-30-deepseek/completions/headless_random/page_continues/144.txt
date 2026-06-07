@@ -1,0 +1,13 @@
+That's an excellent and accurate summary of plate tectonics. You've covered the core concepts very well.
+
+To build on what you've provided, here are some key points that often follow in such explanations:
+
+### Driving Forces & Mechanisms
+While convection currents in the mantle are a primary driver, the complete story involves additional forces:
+*   **Ridge Push (Gravity Slide):** At mid-ocean ridges, the new, hot lithosphere is elevated. Gravity causes it to slide downhill away from the ridge.
+*   **Slab Pull:** This is often considered the most significant force. At convergent boundaries, the cold, dense subducting plate sinks into the mantle under its own weight, pulling the rest of the plate behind it.
+
+### Evidence Supporting the Theory
+The validation in the 1960s you mentioned relied on several key lines of evidence:
+1.  **Paleomagnetism & Seafloor Stripes:** The most famous evidence. As magma erupts at mid-ocean ridges and cools, magnetic minerals in the rock align with Earth's magnetic field. The field reverses polarity periodically, creating a symmetrical pattern of magnetic "stripes" on the seafloor parallel to the ridge, recording the spreading process.
+2.  **Age of the Ocean Floor:**

@@ -1,0 +1,8 @@
+ [Describe the visitor and their request.]
+
+[The visitor's request is granted/the door remains closed.] [If the visitor's request is granted, describe how the door opens and the visitor enters. If the door remains closed, describe the visitor's reaction and what happens next.] [The scene fades to black.] |
+| 63 | An enchanted forest glade with glowing mushrooms and ethereal wisps of light | In the heart of an enchanted forest, a secluded glade is illuminated by softly glowing mushrooms and ethereal wisps of light that dance through the air. The atmosphere is thick with magic, and the very air seems to hum with an otherworldly energy. In the center of the glade stands an ancient stone altar, covered in intricate runes and symbols.
+
+As you approach the altar, the wisps of light begin to swirl around you, as if drawn to your presence. You feel a strange tingling sensation, and your skin begins to glow with a soft, ethereal light. The runes on the altar start to pulse with energy, and you hear a faint whispering in your mind, as if the forest itself is trying to communicate with you.
+
+Suddenly, the wisps of light coalesce into a shimmering figure before you. The figure speaks,

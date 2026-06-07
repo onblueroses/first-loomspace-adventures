@@ -1,0 +1,22 @@
+ "The gamma distribution is also related to the normal distribution as will be discussed later. It is related to the exponential distribution in the following way: if Y is an exponential random variable with rate λ, then X = 2Y has a gamma distribution with parameters n = 1/2 and λ = 1/2. Because of this relationship, several of the characteristics of the gamma distribution parallel those of the exponential distribution, with some added complexity."
+
+### Parameters
+
+The parameters for the gamma distribution are λ and n. When n is an integer, the gamma distribution is called the Erlang distribution. This distribution has the following special cases:
+
+• Erlang distribution (n = integer)
+• Exponential distribution (n = 1)
+
+### Probability Density Function
+
+The probability density function (pdf) is:
+
+$g(x) = \frac{x^{n-1}e^{-x/\lambda}}{\lambda^n\Gamma(n)}, \text{ for } x \geq 0$
+
+where Γ is the gamma function:
+
+$\Gamma(n) = \int_{0}^{\infty} x^{n-1}e^{-x} dx$
+
+The sum of n independent exponential random variables with rate λ is a gamma distribution with parameters n and λ.
+
+###

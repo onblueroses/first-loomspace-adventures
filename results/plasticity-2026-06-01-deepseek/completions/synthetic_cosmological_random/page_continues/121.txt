@@ -1,0 +1,12 @@
+This page provides a concise and excellent overview of river (lotic) ecosystem structure and function. Following this text, the discussion would logically expand on several key themes. Here is a continuation of the page, elaborating on the concepts introduced:
+
+***
+
+### Key Ecological Processes and Human Impacts
+
+**Energy Flow and Nutrient Cycling:** The relative importance of **allochthonous** (externally derived, e.g., leaf litter) versus **autochthonous** (internally produced, e.g., algae) energy sources shifts along the river's course, a concept formalized in the **River Continuum Concept**. Headwaters are heterotrophic, relying on imported organic matter. Mid-reaches become more autotrophic as light penetration increases. This longitudinal gradient structures the invertebrate community, from upstream **shredders** that process coarse litter to downstream **collector-gatherers** that filter fine particles.
+
+**Connectivity and the Flow Regime:** A river's ecological integrity depends on connectivity in four dimensions:
+*   **Longitudinal** (upstream-downstream): Essential for fish migration and sediment transport.
+*   **Lateral** (channel-floodplain): Critical for nutrient exchange, fish spawning, and riparian vegetation.
+*   **Vertical** (channel-groundwater

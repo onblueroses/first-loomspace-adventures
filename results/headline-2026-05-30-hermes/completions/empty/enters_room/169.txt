@@ -1,0 +1,16 @@
+  So, it's as if there's a room and the room is
+filled with stuff.  But, it's all the stuff that's in the room before.  And
+then, we're going to start bringing in new stuff.  So, the new stuff is what
+we're going to be talking about today.  The new stuff that enters the room
+today is a little bit of a review.  It's going to be a little bit of
+probability, and then we're going to talk about random variables.  And then,
+we're going to talk about expectation and variance.  And then, we're going to
+talk about conditional expectation.  That's going to be the new stuff that
+enters the room today.
+
+And then, next time, we're going to talk about a very important concept
+called the tail sum formula.  And we're going to talk about the law of large
+numbers and the central limit theorem.  And then, we're going to talk about
+the Chernoff and Hoeffding bounds, which are going to be very important for
+us.  And then, we're going to talk about the balls and bins problem, which
+is also going to be very important for us

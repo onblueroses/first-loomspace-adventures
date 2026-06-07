@@ -1,0 +1,15 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+Mantle Convection - The slow creeping motion of Earth's solid mantle caused by convection currents carrying heat from the interior of the Earth to the surface.
+
+Seafloor Spreading - The process by which new oceanic lithosphere forms as magma rises to the Earth's surface at a mid-ocean ridge and solidifies, creating new oceanic crust.
+
+Subduction - The process that takes place at convergent boundaries by which one tectonic plate moves under another tectonic plate and sinks into the mantle as the plates converge.
+
+Transform Boundary - A fault where two tectonic plates slide past each other horizontally. Transform boundaries are also known as conservative plate boundaries because they do not result in the creation or destruction of the lithosphere.
+
+Convergent Boundary - A boundary where two tectonic plates are moving toward each other. Convergent boundaries are also known as destructive plate boundaries because they result in the destruction of the lithosphere.
+
+Divergent Boundary - A boundary where two tectonic plates are moving away from each other. Divergent boundaries are also known as constructive plate boundaries because they result in the creation of new lithosphere.
+
+Continental Drift - The movement of the Earth's

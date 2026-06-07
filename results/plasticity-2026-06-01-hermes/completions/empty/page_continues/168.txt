@@ -1,0 +1,11 @@
+ "In the presence of a strong electric field, the normally immobile charges within or on the surface of an insulator (or dielectric) can slowly reorient themselves in response to the electric field (see polarization density)."
+
+This is what I don't understand. What are these "normally immobile charges" in an insulator? I thought in an insulator all electrons are bound to their respective atoms and thus cannot move at all?
+
+My guess is the following: In insulators all electrons are bound to their respective atoms and thus cannot flow freely. However, in the presence of an electric field, the atoms themselves can re-orient themselves (e.g. change their alignment) within the insulating material. This re-orientation of the atoms then causes a polarization in the material. Is this correct or completely wrong?
+
+Comment: You're pretty much correct. The positive and negative charges can shift slightly, even though they are bound.
+
+Comment: The process in which molecules of a dielectric substance orient themselves in response to an electric field is distinct from the process in which the electrons within those molecules redistribute themselves in response to an electric field.
+
+Answer: You are almost correct. The "immobile" charges are the electron orbitals that are bound to the atoms. The

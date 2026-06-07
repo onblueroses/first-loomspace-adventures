@@ -1,0 +1,9 @@
+ "The dimensions of the resulting array can be determined by removing the last dimension of `A` and inserting `n` as the second-to-last dimension." and "For example, if `A` is a `3-by-4-by-5` array, then `reshape(A,[],[],5)` produces a `3-by-4-by-1-by-5` array. This is equivalent to reshaping `A` into a `3-by-20` array (keeping the first dimension of `A`), and then reshaping this new array into a `3-by-4-by-1-by-5` array."
+
+The only thing I could think of is that it may have something to do with column-major order, but I don't know how that would work.
+
+Comment: The docs say that this is equivalent to `reshape(A,3,20)` and then `reshape(Ans,3,4,1,5)`. What exactly is not clear about this?
+
+Comment: @AnderBiguri What is not clear is how the MATLAB reshape function determines how to reshape the matrix when it encounters `[]` as one of the dimensions.
+
+Comment: The docs clearly say that in that case, it reshapes it to `3,20`,

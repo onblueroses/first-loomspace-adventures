@@ -1,0 +1,3 @@
+ "These will be reviewed by a team of experts, including NASA astronauts, who will evaluate the feasibility of the ideas." The deadline for submissions is 7 July 2016.
+This is not the first time NASA has opened up a technical challenge to the general public. In 2014, it offered a $20,000 prize for anyone who could design a better astronaut glove. It has also run competitions to improve its Robonaut humanoid robot helper.
+The agency has also been increasingly embracing open-source development. In 2014 it released the software code for many of its projects to the public. In 2015, it also made its 3D models available to the public for free.

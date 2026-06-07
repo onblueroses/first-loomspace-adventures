@@ -1,0 +1,20 @@
+ "The world's rivers are seriously impacted by human activities. The impacts include alterations to water flow, sediment transport, and water chemistry, as well as the introduction of exotic species and the loss of native species."
+
+The impacts are summarized in the following table:
+
+| Impact | Cause |
+| Disruption of natural flow regime | Dams, diversions, levees, and streambed modifications |
+| Disruption of sediment transport | Dams, diversions, and streambed modifications |
+| Disruption of temperature regime | Dams, deforestation, and urbanization |
+| Disruption of dissolved-oxygen concentration | Dams, deforestation, and urbanization |
+| Disruption of riparian vegetation | Deforestation, agriculture, and urbanization |
+| Introduction of exotic species | Intentional and unintentional introductions |
+| Loss of native species | Habitat degradation, overfishing, and introduction of exotic species |
+
+Impacts on river ecosystems and their causes
+
+### Rivers in the news
+
+Rivers are in the news for various reasons, including floods, droughts, pollution, and conservation efforts. Some recent examples include:
+
+* The 2023 East Africa drought, which has affected the Nile River and its tributaries, causing water shortages and food insecurity for millions of people

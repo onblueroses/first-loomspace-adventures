@@ -1,0 +1,13 @@
+ Plate movement is thought to be driven by a combination of the motion of the seafloor away from spreading ridges due to variations in topography and density changes in the crust (density increases as newly-formed crust cools and moves away from the ridge). At subduction zones, the relatively cold, dense oceanic crust sinks down into the mantle, forming a subduction zone. These two forces act together to drive plate movement, overriding the influence of mantle convection.
+
+The relative importance of each of these factors and their relationship to each other is unclear, and still the subject of much debate. The forces driving plate motion are:
+
+- Ridge push (buoyant upwelling mantle at mid-ocean ridges)
+- Slab pull (gravitational force of subducting plates)
+- Slab suction (local flow in the mantle induced by downgoing plates)
+- Mantle drag (shearing at the base of plates)
+- Trench suction (gravitational force drawing plates into subduction zones)
+
+The plate boundaries are identified based on the relative motion between plates: divergent (moving apart), convergent (moving together), and transform (moving sideways). Earthquakes, volcanic activity, mountain-building, and oceanic trench formation occur along these plate boundaries or faults.
+
+The outer layer of Earth, the lithosphere,

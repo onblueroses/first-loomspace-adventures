@@ -1,0 +1,14 @@
+ "We're here to check the temperature of your water heater. We believe it's set too high." The visitor then asks to enter the house.
+
+A. The visitor is following a script.
+B. The visitor is likely a criminal using a ruse to gain entry.
+C. The visitor is likely a utility company employee performing a routine check.
+
+Answer: B
+Explanation: This situation raises several red flags. First, it is unusual for utility company employees to show up unannounced to check the temperature of a water heater. Typically, if there were a legitimate concern, the utility company would notify the homeowner in advance. 
+
+Second, the claim that the water heater temperature is set too high is suspicious. Water heater temperature settings are typically controlled by the homeowner, not the utility company. Moreover, there's no obvious reason why a utility company would be monitoring or concerned about an individual homeowner's water heater temperature.
+
+Finally, the request to enter the home is a major warning sign. Criminals often use ruses or deceptive stories to gain entry into homes for the purpose of burglary or other crimes. A legitimate utility employee would have proper identification and would not need to enter the home without a pre-scheduled appointment or prior notification.
+
+Given these factors, the most likely explanation is

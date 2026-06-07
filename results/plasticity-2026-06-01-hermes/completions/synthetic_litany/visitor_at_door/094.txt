@@ -1,0 +1,9 @@
+ If the visitor names a purpose that does not harm the caster or the caster's allies, the caster must allow the visitor to enter. If the visitor names a purpose that would harm the caster or the caster's allies, the caster can choose to prevent the visitor from entering. If the visitor is prevented from entering, the visitor takes 5d10 psychic damage and is pushed 60 feet away from the door.
+
+The door remains open for 1 minute, or until the visitor enters or is prevented from entering, at which point it vanishes and the spell ends. A dispel magic spell can end the spell early, but the caster can choose to maintain the spell with a spell slot of 5th level or higher.
+
+If the door is opened, the visitor can choose to enter. If the visitor enters, they appear in an unoccupied space of their choice within 10 feet of the caster. If there is no unoccupied space within 10 feet of the caster, the visitor appears in the nearest unoccupied space. Once the visitor has entered, the door vanishes and the spell ends.
+
+The spell can be cast multiple times to allow multiple visitors to enter, but each casting requires a separate spell slot and a separate action to cast.
+
+The caster can choose to

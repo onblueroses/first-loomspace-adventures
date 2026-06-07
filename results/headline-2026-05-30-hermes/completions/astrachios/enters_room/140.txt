@@ -1,0 +1,19 @@
+ A tall figure, swathed in a black cloak, its face hidden by a hood, stands before the circle. It bows its head and awaits your command.
+
+You may now ask the demon a question. It will answer you truthfully, bound by the power of the ritual. But be warned - the demon's knowledge comes at a price. For each question you ask, the demon will take a portion of your life force in payment. The more difficult the question, the higher the price.
+
+Do you wish to proceed? (yes/no) ''')
+    if proceed.lower() == 'yes':
+        question = input("Ask your question: ")
+        print(f'''
+The demon nods slowly. When it speaks, its voice is like the rustling of dead leaves in an ancient crypt.
+
+"I shall answer your question, mortal. But know that the price shall be {random.randint(1,10)} years of your life."
+
+Do you accept the demon's terms? (yes/no) ''')
+        accept = input()
+        if accept.lower() == 'yes':
+            print(f'''
+The demon chuckles, a sound like bones rattling in a tomb. It gestures with a skeletal hand, and you feel a sudden chill as the years are ripped from your lifespan.
+
+"

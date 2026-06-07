@@ -1,0 +1,7 @@
+ 
+
+## Key principles
+
+The outer layers of the Earth are divided into the lithosphere and asthenosphere. The division is based on differences in mechanical properties and in the method for the transfer of heat. The lithosphere is cooler and more rigid, while the asthenosphere is hotter and flows more easily. In terms of heat transfer, the lithosphere loses heat by conduction, whereas the asthenosphere also transfers heat by convection and has a nearly adiabatic temperature gradient. This division should not be confused with the chemical subdivision of these same layers into the mantle (comprising both the asthenosphere and the mantle portion of the lithosphere) and the crust: a given piece of mantle may be part of the lithosphere or the asthenosphere at different times depending on its temperature and pressure.
+
+The key principle of plate tectonics is that the lithosphere exists as separate and distinct tectonic plates, which ride on the fluid-like (visco-elastic solid) asthenosphere. Plate motions range up to a typical 10–40 mm/year (Mid-Atlantic Ridge; about as fast as fingernails grow), to about 160 mm/year (Nazca Plate; about as fast as hair grows). The driving mechanism behind this

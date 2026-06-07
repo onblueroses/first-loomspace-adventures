@@ -1,0 +1,17 @@
+ Their voice is confident and clear, their words echoing through the chamber.
+
+"I am a seeker of knowledge, drawn here by the mysteries of the ancient world. I come to learn, to understand, and to share in the wisdom of those who came before. I ask for entry, that I may walk the paths of enlightenment and grow in my understanding of the universe and its secrets."
+
+The doors swing open, revealing the grand library within. Shelves stretch up to the ceiling, filled with countless tomes and scrolls. The air is thick with the scent of ancient parchment and leather. In the center of the room stands a large stone table, its surface etched with intricate symbols and patterns.
+
+You step inside, feeling a sense of awe and reverence. The door closes behind you with a resounding thud, sealing you within the sanctum of knowledge. As you approach the table, you notice a small, ornate box resting upon it. The box is adorned with arcane symbols and seems to hum with an inner power.
+
+Do you:
+
+1. Open the box
+2. Examine the symbols on the table
+3. Explore the shelves
+
+> 1
+
+You reach out and carefully lift the lid of the ornate box. Inside, resting on a bed of velvet

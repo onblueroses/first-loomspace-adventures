@@ -1,0 +1,11 @@
+ '...where the strength of the magnetic field is H and the magnetization is M. The magnetic moment, µ, of the atom or ion is proportional to the magnetic field strength and the proportionality constant is called the magnetic susceptibility, χ, so that µ = χH.'
+
+I don't understand why this is the case - surely the magnetic moment should depend on the magnetization of the material, not the applied magnetic field strength. Can anyone explain why the magnetic moment of a material is proportional to the applied field?
+
+Many thanks in advance!
+
+2. Jul 7, 2011
+
+### Mapes
+
+The magnetic moment is indeed related to the magnetization; specifically, $\bold{M}=n\bold{\mu}$, where n is the number of dipoles per unit volume. The susceptibility is a measure of how much magnetization is induced in the material when an external field is applied. Since the magnetization is proportional to the magnetic moment, it's reasonable to say that the magnetic moment is proportional to the applied field. Does this make sense?

@@ -1,0 +1,21 @@
+ They say their name and state their business. The spirits listen and weigh the words of the visitor.
+
+The Guardian speaks:
+
+Spirits, you have heard the words of this visitor. What say you?
+
+The spirits speak in unison, granting or denying entry to the visitor.
+
+If the spirits grant entry, the Guardian speaks:
+
+You may enter. The spirits have granted you passage. But know this: you are bound by their laws and their will. Enter, and may your journey be guided by their wisdom and their power.
+
+The Guardian steps aside, allowing the visitor to enter.
+
+If the spirits deny entry, the Guardian speaks:
+
+You may not enter. The spirits have denied you passage. Their will is final, and their word is law. Go now, and may your journey be guided by their wisdom and their power.
+
+The Guardian remains in place, blocking the visitor's entry.
+
+The ritual is complete. The Guardian resumes their watch, and the spirits return to their vigil. The door remains sealed, its power undiminished, its purpose unwavering. So it is, and so it shall be, until the end of time.

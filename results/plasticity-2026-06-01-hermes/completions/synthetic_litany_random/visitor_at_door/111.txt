@@ -1,0 +1,5 @@
+ "The door opens, revealing a tall figure clad in a black cloak. Two glowing eyes peer out from beneath the hood, and a long, thin arm extends towards you, holding a glowing orb. 'Greetings, mortal,' the figure says in a deep, echoing voice. 'I am an anglerfish, a creature of the deep. I have come to offer you a chance to explore the mysteries of the ocean's depths. But be warned, the journey will be perilous, and the secrets you uncover may change your life forever. Do you accept my challenge?'"
+
+The player decides to accept the challenge. "I accept your challenge, anglerfish. I am ready to explore the mysteries of the ocean's depths, no matter the peril. Lead the way."
+
+The anglerfish nods. "Very well, mortal. Step through the door and let the journey begin." As you cross the threshold, the world around you fades away, replaced by the inky blackness of the deep sea. The anglerfish's glowing orb illuminates the path ahead, revealing a landscape of towering coral reefs and strange, bioluminescent creatures. "Welcome to my domain," the anglerfish says. "Here, you will face challenges that will test your courage

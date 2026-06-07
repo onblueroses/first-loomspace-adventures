@@ -1,0 +1,10 @@
+The text you've provided is an excellent overview of the structure and function of river ecosystems. Continuing from this foundation, the page would likely delve into more specific ecological concepts, human impacts, and management principles. Here is a plausible continuation of the text:
+
+***
+
+**Ecological Connectivity and the River Continuum Concept**
+A key framework for understanding lotic ecosystems is the **River Continuum Concept**. This model describes a river as a continuously integrated system from headwaters to mouth. It predicts a shift in the dominant energy source and biological community along the river's length. Headwaters (small streams) are strongly dependent on **allochthonous inputs** (organic matter from outside, like leaves). As the river widens and light penetration increases, **autochthonous production** (from in-stream algae and plants) becomes more important. The concept also explains how invertebrate functional feeding groups (shredders, collectors, grazers, predators) change in proportion along this gradient in response to the available food resources.
+
+**Human Impacts and River Management**
+Human activities have profoundly altered river ecosystems globally. Key threats include:
+*   **Flow Alteration:** Dams and water diversions disrupt the natural flow regime, which is the "master variable" governing river ecology. They can block

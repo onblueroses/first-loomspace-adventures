@@ -1,0 +1,9 @@
+ A few small particles of dust, perhaps, stirred up by the air conditioner. The force of the particles on the door is distributed over the entire surface of the door and is probably very close to zero. The door will not open unless the force of the particles on the door is greater than the force of the door on the particles, so we will say that the door will not open and our answer is: $\text{no}$. $_\square$
+
+As you can see, this problem was solved very easily by considering the forces acting on the door. There was nothing in the room to open the door, so the door remained closed. In the following example, we'll see how to use the concept of force in motion.
+
+A particle of mass $2\text{ kg}$ is moving at a speed of $7\text{ m/s}$. Find the force necessary to cause it to accelerate uniformly to a speed of $10\text{ m/s}$ over a distance of $6\text{ m}$.
+
+First, we calculate the acceleration, then we use the formula $F = ma$.
+
+The initial velocity is $7\text{ m/s}$, the final velocity is $10\text{ m/s}$, the distance covered is $

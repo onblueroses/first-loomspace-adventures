@@ -1,0 +1,9 @@
+ "Anglerfish occur worldwide. Some are pelagic (dwelling away from the sea floor), while others are benthic (dwelling close to the sea floor); some live in the deep sea (e.g., Ceratiidae), while others live on the continental shelf (e.g., the frogfishes Antennariidae and the monkfish/goosefish Lophiidae). Pelagic forms are most often laterally compressed, whereas the benthic forms are often extremely dorsoventrally compressed (depressed), often with large upward-pointing mouths."
+
+The text continues: "A mitochondrial genome phylogenetic study suggested that anglerfishes diversified in a short period of the early to mid-Cretaceous, between 130 and 100 million years ago."
+
+The text continues: "FishBase, Nelson, and Pietsch list 18 families, but ITIS lists only 16. The following taxa have been arranged to show their evolutionary relationships."
+
+The page then shows a table with a phylogenetic tree of the 18 families of anglerfish.
+
+The text continues: "The fishermanfishes, Tetrabrachiidae, are closely related to the true frogfishes, Antennariidae, and are included with

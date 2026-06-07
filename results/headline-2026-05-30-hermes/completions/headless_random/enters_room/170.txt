@@ -1,0 +1,17 @@
+ Paleontologists have used radiometric dating to determine that the Earth is approximately 4.5 billion years old. The Earth's crust is divided into several large plates that are constantly moving and interacting with one another. This movement is driven by the heat and convection patterns in the Earth's mantle, causing the plates to move at rates ranging from a few millimeters to several centimeters per year. This process, known as plate tectonics, is responsible for shaping the Earth's surface features, such as mountains, volcanoes, and earthquakes.
+
+The Earth's lithosphere is divided into several major and minor plates, which include:
+
+1. African Plate
+2. Antarctic Plate
+3. Eurasian Plate
+4. Indo-Australian Plate
+5. North American Plate
+6. Pacific Plate
+7. South American Plate
+
+These plates are in constant motion, and their interactions can be classified into three types of boundaries:
+
+1. Divergent boundaries: Where two plates move away from each other, creating new oceanic crust. An example is the Mid-Atlantic Ridge.
+
+2. Convergent boundaries: Where two plates collide, resulting in one plate subducting beneath the other. This can lead to the formation of volcanic arcs and mountain ranges, such as

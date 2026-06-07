@@ -1,0 +1,21 @@
+ "Hello, I am a census taker. We are conducting a survey of the local area to gather information on housing and demographics. It would be greatly appreciated if you could take a few minutes to answer some questions."
+
+You're a little surprised, but you decide to let them in. As you open the door, you say, "Sure, I have some time. Please come in."
+
+The census taker steps inside and you lead them to your living room. "Thank you for agreeing to participate," they say as they sit down on the couch. They pull out a clipboard and pen. "Let's begin with some basic information about your household."
+
+You nod, ready to answer their questions.
+
+The census taker begins, "First, could you please state your full name for the record?"
+
+You respond, "My name is [Your Name]."
+
+The census taker nods and marks this down. "Thank you, [Your Name]. And what is your current occupation?"
+
+You reply, "I am a [Your Occupation]."
+
+The census taker makes another note. "Alright. And could you please confirm your current address?"
+
+You provide your address, "[Your Address]."
+
+The census taker continues making notes. "Great. Now, could you please

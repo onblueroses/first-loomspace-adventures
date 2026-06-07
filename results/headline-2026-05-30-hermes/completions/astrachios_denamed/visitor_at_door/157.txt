@@ -1,0 +1,21 @@
+ State your name and business.
+
+\strong{I am the demon Ipos, called also Aiperos. I come bearing a gift for the king of this place.}
+
+The guard replies. What gift do you bring?
+
+\strong{I bring a ring that grants the power to understand the speech of birds.}
+
+The guard replies. By what symbol shall I know you?
+
+\strong{By the symbol of the jackal.}
+
+The guard steps aside, and allows you to pass. Welcome, Ipos.
+
+\strong{Thank you.}
+
+You stand now in the throne room of the demon king. The walls are of black stone, carved with images of the damned suffering in Hell. The floor is polished obsidian, reflecting the light of braziers burning with hellfire. In the center of the room is a throne of black iron, upon which sits the demon king himself. He is a towering figure, with skin the color of midnight and eyes that burn like coals. He wears a crown of black gold, set with rubies that glow like embers. He looks at you with a gaze that seems to pierce your very soul.
+
+Speak, and name yourself.
+
+\strong{I am the demon Ipos, called also Aiperos. I

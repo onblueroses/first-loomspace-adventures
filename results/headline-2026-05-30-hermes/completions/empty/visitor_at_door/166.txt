@@ -1,0 +1,21 @@
+  He is worried about his friend who lives on the 14th floor.  He says his friend is not responding to his phone and he suspects something bad has happened to him.  He asks if you can check it out.  Do you go to investigate? (yes or no) """
+
+        if yes_or_no.lower().strip() == "yes":
+            print "You decide to go investigate the situation on the 14th floor."
+            return 'apartment_1408'
+        elif yes_or_no.lower().strip() == "no":
+            print "You decide not to investigate and tell the visitor to call the police instead."
+            return 'end_game'
+        else:
+            print "Invalid option. Please enter 'yes' or 'no'."
+            return 'lobby'
+
+
+class Apartment1408(Scene):
+
+    def enter(self):
+        print "You arrive at apartment 1408.  The door is slightly ajar."
+        print "You slowly push open the door and enter the apartment."
+        print "The room is dark and eerily quiet.  You feel an unsettling presence."
+        print "Suddenly, the door slams shut behind you and you hear an evil laugh."
+        print "You are now trapped in apartment 1408 with an

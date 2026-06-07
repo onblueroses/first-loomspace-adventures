@@ -1,0 +1,13 @@
+ If the visitor is an elf, half-elf, or gnome, the doors open. If not, the doors remain closed, and the visitor must repeat the names until they can be spoken from memory.
+
+### 15. The Vaulted Hall
+
+The door to this room is locked. The door can be opened with a successful DC 20 Dexterity check using thieves' tools, or the lock can be broken with a successful DC 20 Strength check.
+
+This grand hall features ornate stonework, fluted pillars, and a vaulted ceiling. A stone throne stands on a raised dais at the far end of the hall, with a stone brazier burning with green fire to either side of it. A secret door is hidden in the east wall (Spot DC 20 to notice).
+
+The braziers burn with green fire that deals 5 (1d10) fire damage plus 5 (1d10) poison damage to any creature that starts its turn within 5 feet of a brazier. A creature that touches a brazier takes 10 (3d6) fire damage plus 10 (3d6) poison damage.
+
+### 16. The King's Tomb
+
+The secret door to this room is locked. The door can be opened

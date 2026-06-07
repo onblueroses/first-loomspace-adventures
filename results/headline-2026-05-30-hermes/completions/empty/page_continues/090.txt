@@ -1,0 +1,11 @@
+ "The interaction of a light wave with an electron is governed by the laws of quantum mechanics. A light wave carries energy in discrete amounts called photons. The energy of a photon is proportional to the frequency of the light wave."
+
+I'm trying to understand what this means. Is it saying that the energy of the photon is proportional to the frequency of the light wave before it interacts with the electron? If so, how can the energy of the photon be proportional to the frequency of the light wave when the light wave hasn't interacted with the electron yet?
+
+Or is it saying that the energy of the photon is proportional to the frequency of the light wave after it interacts with the electron? If so, how can the energy of the photon be proportional to the frequency of the light wave when the light wave has already interacted with the electron?
+
+I'm not sure if I'm interpreting this correctly. Can someone please clarify what this means?
+
+Comment: It means that the energy of a photon is $E = h\nu$ where $h$ is Planck's constant and $\nu$ is the frequency of the light wave.
+
+Answer: The energy of a photon is proportional to the frequency of the light wave associated with it. This is a fundamental property of photons and is described

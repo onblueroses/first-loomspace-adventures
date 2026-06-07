@@ -1,0 +1,33 @@
+ "This is the name that must be spoken to open the way. It will be written on the arch, and will open the gates of the Shining Palace."
+
+This is followed by a list of names, which are presumably the names that must be spoken to open the way. The names are:
+
+1. Throbenas
+2. Maraith
+3. Queloman
+4. Iston
+5. Kerudin
+6. Astrolach
+7. Volmuroth
+8. Drabosaim
+9. Olemproam
+10. Cresilim
+11. Bidremael
+12. Octorum
+13. Saphronoth
+14. Yodulim
+15. Iethreon
+16. Marzabet
+17. Caloneph
+18. Theamorach
+19. Belindath
+20. Glomareth
+21. Senaberoth
+22. Hialop
+23. Trifenath
+24. Olemar
+25. Vesporath
+26. Khalepith
+27. Estramon
+
+The list concludes with the phrase "Brashveroth, Lominem Adventu," which may be a final invocation or sealing of the spell

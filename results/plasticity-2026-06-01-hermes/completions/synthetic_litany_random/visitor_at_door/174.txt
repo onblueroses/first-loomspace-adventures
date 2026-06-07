@@ -1,0 +1,13 @@
+ "Greetings, I am an anglerfish from the depths of the ocean. I have come to offer you a unique opportunity to explore the mysteries of the deep sea. My luminescent lure can guide you through the darkest waters and reveal hidden wonders. Will you join me on this extraordinary journey beneath the waves?"
+
+The choice is yours:
+1. Accept the anglerfish's offer and embark on an underwater adventure.
+2. Politely decline the invitation, thanking the anglerfish for the offer. 
+
+What do you choose?'''
+    elif choice == "1":
+        return '''You decide to accept the anglerfish's offer and embark on an underwater adventure. As you step through the door, you find yourself transformed into a creature of the deep sea, able to breathe and navigate the dark waters with ease.
+
+The anglerfish guides you through the mesmerizing underwater world, its luminescent lure illuminating the way. You witness strange and fascinating creatures you never knew existed, from bioluminescent jellyfish to giant squid. The anglerfish shares its knowledge of the deep sea ecosystem, and you gain a newfound appreciation for the wonders that lie beneath the ocean's surface.
+
+As the journey comes to an end, the anglerfish returns you to your

@@ -1,0 +1,11 @@
+ "If we use the same letters to denote the same angles in all the diagrams, and use the fact that vertically opposite angles are equal, we have:
+
+in diagram 1, \( a + d = b + c \) in diagram 2, \( a + c = 180^\circ \) in diagram 3, \( b + d = 180^\circ \) By using these facts, it can be seen that there is no need to calculate the angles as above, and we can use a basic set of rules to find the unknown angles:
+
+1. The angle at a point on a straight line is \( 180^\circ \), so the sum of the angles at a point on a straight line is \( 180^\circ \), and any one of them is \( 180^\circ \) minus the sum of the others.
+
+2. The angle at a point is \( 360^\circ \), so the sum of the angles at a point is \( 360^\circ \), and any one of them is \( 360^\circ \) minus the sum of the others.
+
+3. Vertically opposite angles are equal, so if you know one, you know the other.
+
+4. The angle at a point on a straight

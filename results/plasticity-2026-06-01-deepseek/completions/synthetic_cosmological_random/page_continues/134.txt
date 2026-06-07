@@ -1,0 +1,11 @@
+This is an excellent, concise overview of river (lotic) ecosystem structure and function. It effectively breaks down the key concepts:
+
+**1. Core Definition & Controlling Factors:**
+*   Defines a river ecosystem as a **lotic** (flowing) system.
+*   Highlights the **unidirectional flow** as the defining physical force that transports materials and shapes life.
+*   Identifies the master variables: **catchment area, climate, geology, and channel gradient.**
+
+**2. Longitudinal Zonation (The River Continuum):**
+*   **Headwaters (Source/Upper Reaches):** Characterized by cold, fast, oxygenated water; coarse substrate (rock, gravel). Energy base is **allochthonous** (external—leaf litter). Dominated by insect larvae (e.g., mayflies, stoneflies) and cold-water predators like trout.
+*   **Middle & Lower Reaches:** River widens, slows, warms. Substrate fines to sand/silt. Energy base shifts to **autochthonous** production (algae, aquatic plants). Fish community diversifies to include herbivores/omnivores.
+*   **Floodplain & Estuary:** Highlights lateral connectivity (floodplains) and the terminus where

@@ -1,0 +1,9 @@
+The passage provides a concise overview of anglerfish biology, focusing on their unique adaptations for survival in the deep sea. Key points can be summarized as follows:
+
+*   **Classification & Habitat:** They are bony fish (order Lophiiformes) that are primarily bottom-dwelling, marine, and carnivorous.
+*   **Predatory Adaptation:** Their most famous trait is a bioluminescent lure (the **esca**), which is a modified fin ray used to attract prey.
+*   **Source of Light:** The light is produced by **symbiotic bacteria** living within the esca, which the anglerfish acquires from its environment.
+*   **Habitat Range:** While iconic for living in the **dark depths**, some species inhabit shallower waters on the continental shelf.
+*   **Reproductive Strategy:** In the deep-sea ceratioid group, they exhibit extreme **sexual parasitism**. The tiny male permanently fuses to the female, becoming a parasitic source of sperm in exchange for sustenance.
+
+This combination of a bioluminescent lure and parasitic reproduction represents a remarkable suite of adaptations for life in a resource-scarce, dark environment.

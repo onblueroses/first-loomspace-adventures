@@ -1,0 +1,22 @@
+ "We recommend that you use the `use strict` directive in all your scripts. It helps you to write cleaner code, like preventing you from using undeclared variables."
+
+However, the example they provide does not demonstrate that:
+
+\begin{code}
+"use strict";
+myFunction();
+
+function myFunction() {
+  y = 3.14;   // This will cause an error (y is not defined)
+}
+\end{code}
+
+When I run this code, I do not get an error. I am using Google Chrome version 91.0.4472.77 (Official Build) (64-bit).
+
+Why doesn't this example produce an error, as the page says it should?
+
+Comment: The example is wrong. If you look at the actual error in the console, it says "ReferenceError: myFunction is not defined". The reason for this is that `myFunction` is defined in a block scope, and `'use strict';` is outside of that block scope, so it doesn't affect it. If you move `'use strict';` inside the function, you'll see the expected error.
+
+Comment: @IceMetalPunk What do you mean by "block scope"? There's no block in that code.
+
+Comment: @Ivar Oops

@@ -1,0 +1,20 @@
+This passage provides a clear and systematic overview of river (lotic) ecosystems. It can be structured into the following key concepts for better understanding:
+
+### 1. **Core Definition & Distinction**
+*   A **river ecosystem** is a *lotic* (flowing water) system.
+*   It is fundamentally defined by the **unidirectional flow** of water, which transports materials and organisms downstream.
+*   This contrasts with *lentic* (still water) ecosystems like lakes and ponds.
+
+### 2. **Determining Factors**
+The character of a river is shaped by:
+*   **Catchment Area (Watershed):** The land that drains into it.
+*   **Climate:** Influences water temperature and flow patterns.
+*   **Geology:** Affects water chemistry and sediment type.
+*   **Channel Gradient:** Steepness from source to mouth.
+
+### 3. **Longitudinal Zonation (Changes from Source to Mouth)**
+The passage describes a classic model of how a river changes along its course:
+
+| **Zone** | **Headwaters (Upper Reaches)** | **Middle & Lower Reaches** | **Terminus** |
+| :--- | :--- | :--- | :--- |
+| **

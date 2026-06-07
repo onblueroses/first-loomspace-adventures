@@ -1,0 +1,7 @@
+ "This article will focus on the use of the ElGamal encryption system to create a simple electronic voting system. We will describe the role of homomorphic encryption in the voting system. We will also discuss some of the measures taken to ensure the integrity of the system. Finally, we will implement the system in Python."
+
+I'm not sure what exactly you are asking, but the ElGamal encryption scheme is described on that page. If you want more information on ElGamal encryption, you can consult the original paper by Taher ElGamal, "A Public Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms" (1985), or many other resources that can be found by searching for "ElGamal encryption".
+
+Comment: i want to implement this system in python, but i don't know how to do it.  i want to implement a electronic voting system using elgamal encryption in python.
+
+Comment: The article you linked to provides Python code for all the steps. What specific part are you having trouble with?

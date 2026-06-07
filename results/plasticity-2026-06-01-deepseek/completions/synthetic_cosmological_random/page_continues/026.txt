@@ -1,0 +1,10 @@
+It sounds like this page provides a comprehensive overview of river ecosystems. To build on the text you've shared, here are some key concepts and processes that are central to understanding lotic systems:
+
+### Key Ecological Concepts in Rivers
+
+*   **River Continuum Concept:** This model describes how a river's physical characteristics (width, depth, flow, temperature) change predictably from headwaters to mouth, and how the biological community and its energy sources adapt accordingly.
+    *   **Headwaters (Upper Reaches):** As you noted, energy input is **allochthonous** (from outside, like leaves). Invertebrate communities are dominated by **shredders** (break down coarse material) and **collectors**.
+    *   **Mid-Reaches:** The river widens. Energy sources become a mix of transported organic particles and **autochthonous** (in-stream) production from algae and aquatic plants. Invertebrate communities shift toward **grazers** (scraping algae) and **collectors**.
+    *   **Lower Reaches:** The river is wide, deep, and slower. Energy is primarily fine organic particles transported from upstream. Invertebrate communities are dominated by **collectors** and **filter feeders**.
+
+*

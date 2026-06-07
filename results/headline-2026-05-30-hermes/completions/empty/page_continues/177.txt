@@ -1,0 +1,23 @@
+ "The only difference between the two is that the latter has two additional arguments -- `value` and `timeout`. When a `timeout` is provided, `setTimeout` will wait until the specified period of time has elapsed before invoking the callback. The callback will be invoked with the `value` argument."
+
+So if you use `setTimeout`, the callback will be called with the value of `value` after `timeout` milliseconds. If you use `setImmediate`, the callback will be called with no arguments and without waiting.
+
+Comment: So, the `setImmediate` is like calling `setTimeout` with a timeout of 0?
+
+Comment: @TobiasK. not exactly, `setImmediate` will execute the callback right after the poll phase, while `setTimeout` will execute the callback after the poll phase and the timeout, so `setImmediate` will always be executed first.
+
+Answer: The difference is that `setImmediate` is executed after I/O callbacks and before `setTimeout` and `setInterval`.
+
+Here is an example:
+
+\begin{code}
+fs.readFile("test-file.txt", () => {
+  console.log("I/O callback");
+});
+
+setImmediate(() => {
+  console.log("setImmediate");
+});
+
+setTimeout(() => {
+  console.log("setTimeout

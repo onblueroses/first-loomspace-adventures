@@ -1,0 +1,7 @@
+ “The new algorithm will take into account the number of people who have liked or commented on a post, as well as the amount of time people spend reading it. The goal is to make sure that the content you see in your News Feed is relevant and engaging.”
+
+The post is followed by a number of comments from users. One user writes: “I'm glad Facebook is taking steps to improve the quality of content in the News Feed. It's about time they prioritize relevance and engagement over just showing us a random assortment of posts.”
+
+Another user comments: “I hope this means I'll see less of those annoying clickbait articles and more posts from my friends and family. It's annoying when my News Feed is cluttered with junk.”
+
+The post has been shared 2,500 times and has 3,800 reactions, mostly likes. The new algorithm update seems to be a popular change among Facebook users who are looking for a more personalized and engaging News Feed experience. Facebook's announcement post is a clear indication of their commitment to improving user experience on the platform. The new algorithm update is designed to prioritize relevant and engaging content, ensuring that users see more posts from friends and family, and less clickbait and low-quality content. This change has been well-received

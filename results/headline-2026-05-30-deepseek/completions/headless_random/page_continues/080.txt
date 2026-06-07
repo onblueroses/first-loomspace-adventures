@@ -1,0 +1,14 @@
+This is a clear and concise summary of the core concepts of plate tectonics. It effectively covers the theory's historical development, key structural components, and primary driving mechanisms.
+
+To build upon this foundation, here are some additional points that are often included in comprehensive explanations of plate tectonics:
+
+### 1. **Driving Forces (A More Detailed Look)**
+While convection currents in the mantle are a primary driver, geologists now recognize a combination of forces:
+*   **Ridge Push:** At mid-ocean ridges, the new, hot lithosphere is elevated. Gravity causes this higher material to slide down the sloping ridge, pushing the plate away.
+*   **Slab Pull:** At subduction zones, the cold, dense oceanic plate sinks into the mantle. The weight of this sinking slab is the most significant force pulling the rest of the plate behind it.
+*   **Mantle Drag:** Convection currents in the asthenosphere can exert frictional forces on the base of the lithosphere, either driving or resisting plate motion.
+
+### 2. **Types of Plate Boundaries and Their Features**
+The text mentions the three boundary types. Their specific geological features are:
+*   **Divergent:** *Creates new crust.*
+    *   **On land

@@ -1,0 +1,11 @@
+ [Prompt]
+
+The door opens, revealing a grandiose chamber adorned with intricate patterns and symbols etched into the walls. A sense of ancient power permeates the air. In the center of the room stands a towering figure, cloaked in shimmering robes that seem to shift and change with every movement. The figure's eyes glow with an otherworldly light as they fix upon you.
+
+"I am Vrindat, the Guardian of the Threshold," the figure speaks, their voice resonating through the chamber. "You have spoken the names that grant passage, but to proceed further, you must prove your worth. What knowledge do you seek, and what offering do you bring to the Temple of the Arcane?"
+
+The Guardian awaits your response, their gaze piercing into your very soul. [Prompt] [Assume the role of the visitor and respond to Vrindat]
+
+I seek knowledge of the ancient magics that shaped the world and the secrets of the arcane arts. As for my offering, I bring with me a rare and powerful artifact - a crystal imbued with the essence of a fallen star, said to hold the key to unlocking the mysteries of the cosmos.
+
+I present the crystal to you, Vrindat, as a token of my dedication

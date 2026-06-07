@@ -1,0 +1,7 @@
+ "The relative importance of each of these factors and their relationship to each other is unclear, and still the subject of much debate."
+
+The concept of plate tectonics was not generally accepted until the mid-to-late 1960s, when seafloor spreading was validated by the presence of magnetic anomalies in the oceanic crust, the distribution of oceanic fossils, and the sampling of the oceanic crust by drilling. The theory revolutionized the Earth sciences, explaining a diverse range of geological phenomena and their implications in other studies such as paleogeography and paleobiology.
+
+## Key principles
+
+The outer layers of the Earth are divided into the lithosphere and asthenosphere. This is based on differences in mechanical properties and in the method for the transfer of heat. Mechanically, the lithosphere is cooler and more rigid, while the asthenosphere is hotter and flows more easily. In terms of heat transfer, the lithosphere loses heat by conduction, whereas the asthenosphere also transfers heat by convection and has a nearly adiabatic temperature gradient. This division should not be confused with the chemical subdivision of the Earth into core, mantle, and crust. The lithosphere consists of both crust and some mantle. A plate is a large, rigid slab of solid rock. The word tectonics comes from the

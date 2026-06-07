@@ -1,0 +1,29 @@
+ "Adult kakapos are about 58 to 64 centimetres in length, and weigh from 0.95 to 4 kilograms at maturity." The first sentence of the second paragraph is not included because the excerpt length setting is set to 1.
+
+## Advanced Customization
+
+### Custom Excerpt Length
+
+To customize the excerpt length, you can pass a second parameter to the `get_excerpt()` function. This parameter specifies the desired length of the excerpt in sentences.
+
+```php
+$excerpt = get_excerpt($content, 2);
+```
+
+In this example, the excerpt will be limited to a maximum of two sentences.
+
+### Custom Excerpt Ending
+
+To customize the ending of the excerpt, you can modify the `$excerpt_ending` variable in the `get_excerpt()` function. By default, it is set to an ellipsis (`...`), but you can change it to any desired string.
+
+```php
+function get_excerpt($content, $excerpt_length = 1) {
+    $excerpt_ending = '...';
+    //...
+}
+```
+
+### Handling HTML Tags
+
+The current implementation of the `get_excerpt()` function does not handle HTML tags gracefully. If the excerpt contains HTML tags, they may be abruptly cut off, resulting in invalid HTML.
+

@@ -1,0 +1,13 @@
+ 
+
+\end{document}
+```
+  - Thanks a lot for your answer. However, I get an error message: "File `l3backend-pdfmode.def' not found. \begin{document}" –  Casimir Jun 16 '20 at 19:16
+  - @Casimir Try updating your TeX distribution. That file has been available for quite some time now. –  Phelype Oleinik Jun 16 '20 at 19:18
+  - @Casimir I added a version that doesn't use expl3. However you should really, really update your TeX distribution, as David Carlisle will ( friendly ) scold you if he sees this :-) –  Phelype Oleinik Jun 16 '20 at 19:35
+  - Thanks a lot. Now it works. I will update my TeX distribution. I didn't know that there are different versions of TeX. –  Casimir Jun 16 '20 at 19:36
+
+Here's a LuaLaTeX-based solution. It consists of a Lua function called string_reverse and a LaTeX macro called \StringReverse that invokes the Lua function.
+```
+\documentclass{article}
+\usepackage{luacode

@@ -1,0 +1,7 @@
+ "This can be used to store information about the client, and is often used to track session information. Cookies are client-side, meaning that they are stored by the user's browser, as opposed to server-side, which would store the information on the web server. This is an important distinction, as the information stored within a cookie can easily be modified by the client, whereas server-side information can only be modified by the server."
+
+Comment: I think you're confusing cookies and sessions. A session is server-side, and identified by a session ID (often stored in a cookie, but not always). A cookie is a small piece of data stored on the client, and sent to the server with every request. Cookies can be used for other things than just storing a session ID.
+
+Comment: I understand the difference between a cookie and a session. What I'm not sure about is what the difference is between a cookie and a session cookie. I thought that a session cookie was just a cookie that is deleted when the browser is closed. Is that not correct?
+
+Comment: @Nate Yes, a session cookie is just a normal cookie which is deleted when the browser is closed. It's still a cookie though, it's not something separate. I think the page you're quoting

@@ -1,0 +1,27 @@
+ "Good evening, sir. I am the census taker for the New Zealand Department of Conservation. Is this the residence of the kakapo?"
+
+"Yes, it is," replies the kakapo. "Please come in."
+
+The census taker steps inside and looks around the spacious burrow. "I see you have a very nice home here, Mr. Kakapo."
+
+"Thank you," says the kakapo proudly. "I dug it myself."
+
+"Impressive," nods the census taker. "Now, let's get down to business. May I have your full name, please?"
+
+"Certainly. I am Strigops habroptilus, the kakapo."
+
+"And your age?"
+
+"I am 25 years old."
+
+"Occupation?"
+
+"I am a critically endangered species."
+
+The census taker pauses. "I see. And how long have you been a critically endangered species?"
+
+"Since the 1890s, when my kind was driven to the brink of extinction by introduced predators like cats, rats, and stoats."
+
+"That's a long time to be critically endangered," sympathizes the census taker. "Do you have any family?"
+
+"Sadly, no. I am the last of my kind on this island. The rest of my species

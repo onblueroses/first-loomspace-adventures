@@ -1,0 +1,39 @@
+ The first line is a few words of a language, and the second line is a few words of a different language. The visitor is trying to say hello in two languages. The visitor doesn't speak English, so you have to use the context clues to figure out what they are saying.
+
+Hint 1:
+
+\begin{blockquote}
+
+ The visitor is from Europe, but they are not speaking in their native language.
+\end{blockquote}
+
+Hint 2:
+
+\begin{blockquote}
+
+ Both languages are from the same country.
+\end{blockquote}
+
+Hint 3:
+
+\begin{blockquote}
+
+ The visitor speaks a language that is not from the same country.
+\end{blockquote}
+
+What two languages are they speaking?
+
+Comment: Is it relevant which languages the visitor is actually speaking?  Or could they be any two languages that fit all the hints?
+
+Comment: @SteveV The visitor is speaking two specific languages. You have to figure out which two languages they are.
+
+Comment: I don't understand why this question has been closed as "too broad". I believe that the three hints should restrict the number of possible answers to just one or a few language pairs.
+
+Answer: The visitor is from
+
+\begin{blockquote}
+
+ Belgium.
+\end{blockquote}
+
+They are not

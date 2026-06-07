@@ -1,0 +1,23 @@
+ The doorkeeper answers.
+
+VISITOR: I have come to the house of the Unsigned One.
+
+DOORKEEPER: The Unsigned One hath no house.
+
+VISITOR: I have come to the house of the Unsigned One.
+
+DOORKEEPER: The Unsigned One hath no house.
+
+VISITOR: I have come to the house of the Unsigned One.
+
+DOORKEEPER: The Unsigned One hath no house. Yet you may enter.
+
+The visitor enters the house of the Unsigned One, where the Unsigned One awaits.
+
+UNSIGNED ONE: Speak, and I will listen.
+
+VISITOR: I have come to ask for your help. I have been cursed with a terrible curse. My words have been taken from me. I have been bound to silence.
+
+UNSIGNED ONE: I know of this curse. It is a powerful one, cast by a skilled practitioner of the dark arts. But I may be able to help you. I will need you to bring me three things. First, a feather from the wing of a phoenix. Second, a scale from the hide of a dragon. And third, a tear from the eye of a unicorn.
+
+VISITOR: These are difficult things to obtain. But I will do what I must to break this curse. I thank you for

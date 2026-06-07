@@ -1,0 +1,18 @@
+ "Hi, is [name] there?" she says. You recognize her voice as your friend from school. 
+
+You feel a bit nervous about letting her in, as your house is a bit messy right now. But you don't want to be rude either. What do you do?
+
+1. Let her in and apologize for the mess. 
+2. Make an excuse and ask if you can meet outside instead.
+3. Say you're not feeling well and reschedule for another time. <<choice3>>
+
+<<choice3>>
+You decide honesty is the best policy. "I'm so sorry," you say, "but I'm not feeling very well today. Could we reschedule for another time?" 
+
+Your friend replies, "Oh no, I hope you feel better soon! Of course, we can definitely reschedule. Just let me know when you're feeling up to it."
+
+You thank her for understanding and say goodbye. As you close the door, you feel a sense of relief wash over you. You're glad you were honest with your friend, and now you can focus on resting and recovering. The mess can wait for another day. 
+
+THE END<<end>>
+
+4. Invite her in without mentioning the mess, and hope she understands. <<choice4

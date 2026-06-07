@@ -1,0 +1,11 @@
+ https://www.britannica.com/science/river-ecosystem
+
+## 10.3.4 Water quality
+
+### 10.3.4.1
+
+The quality of water used for human consumption, agriculture, and industrial processes is a critical component of public health and sustainable development. Water quality is determined by physical, chemical, and biological factors, and can be degraded by the presence of contaminants such as bacteria, viruses, parasites, heavy metals, organic pollutants, and excess nutrients.
+
+The World Health Organization (WHO) Guidelines for Drinking-water Quality provide a framework for ensuring the safety of drinking water, recommending minimum standards for key parameters such as microbial quality, chemical composition, and radioactivity. Water intended for human consumption should be free from pathogens, toxic chemicals, and radioactive substances, and should have a pleasant taste, odor, and appearance.
+
+Microbial contamination is a major concern, as waterborne pathogens can cause diseases such as cholera, typhoid, and hepatitis. The WHO recommends that drinking water should contain no detectable E. coli or thermotolerant coliforms, which indicate fecal contamination. Chemical contaminants, including heavy metals like lead and mercury, organic compounds like pesticides and industrial chemicals, and naturally occurring substances like arsenic and

@@ -1,0 +1,9 @@
+You have spoken the names. The way is open.
+
+The stone slab before you grinds sideways, revealing a dark passage descending into the earth. A dry, ancient smell, like dust and cold metal, wafts upward. The only sound is the faint, distant drip of water.
+
+Do you:  
+A) Light your lantern and enter the passage.  
+B) Cast a light spell to illuminate the darkness.  
+C) Listen carefully at the entrance for a moment longer.  
+D) Leave a marker at the entrance and proceed cautiously.

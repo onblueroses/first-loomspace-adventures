@@ -1,0 +1,15 @@
+ Speak its name.
+
+The Ebon Tiger.
+
+You call it forth. You send it to hunt down your enemies and tear them to pieces. It cannot be stopped. It cannot be harmed. It cannot be killed. It will pursue its prey relentlessly, tirelessly, until the hunt is done. Speak now the names of those to be hunted.
+
+[The sorcerer speaks the names of his chosen victims. If he has none, or if the player wishes to avoid such unpleasantness, he instead sends the Ebon Tiger to hunt the enemies of the Temple.]
+
+The Ebon Tiger hears. It knows the scent of its prey. The hunt begins.
+
+The Ebon Tiger is a terrifying beast, a massive feline with jet black fur and glowing red eyes. It is tireless, relentless, and cannot be stopped by any means until it has caught and slain its prey. Those hunted by the Ebon Tiger can only prolong the inevitable, never escape it.
+
+The ritual complete, you must now depart, sealing the vault behind you. None may enter this place again, lest the Tiger be freed to hunt at will. Go now, and let none disturb the slumber of the beast beneath the Temple of the Ebon Tiger.
+
+[The sorcerer departs, sealing the vault.

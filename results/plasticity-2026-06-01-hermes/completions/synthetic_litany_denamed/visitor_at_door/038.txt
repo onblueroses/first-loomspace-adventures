@@ -1,0 +1,23 @@
+ When the visitor speaks the name of the one they seek, the door opens. The visitor may now enter the Tower.
+
+### The Visitor's Path
+
+The Tower contains a number of chambers and rooms that the visitor passes through on their way to the one they seek. The nature of these rooms depends on the nature of the visitor and the one they seek.
+
+### The One Sought
+
+The visitor finds the one they seek in a room. The one sought may be a person, an object, or a place. The nature of this room depends on the nature of the visitor and the one sought.
+
+The visitor may now interact with the one they seek.
+
+## Exiting the Tower
+
+When the visitor is ready to leave, they exit the Tower. The door closes behind them.
+
+The visitor has now completed their journey to the Tower of the Secret.
+
+## Afterward
+
+The visitor emerges from the Tower changed by their experience. The exact nature of this change depends on the nature of the visitor, the one they sought, and the interactions that took place within the Tower.
+
+The Tower of the Secret remains, ready for the next visitor who knows the way. Its location and appearance may change, but its purpose remains the same: to house that which is sought by those who know the secret

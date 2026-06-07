@@ -1,0 +1,16 @@
+ "You can also use an external, third-party tool to configure the device. For example, you can use a tool that automatically configures the device based on a policy you define."
+
+But I can't find any documentation on how to set a policy for a managed device.
+
+I want to be able to set the policy for all devices in the enterprise, to enforce the same security settings across all devices. How do I do that?
+
+Answer: You can use the [Google Admin console](https://support.google.com/a/answer/1734200) to manage your Android devices. With the Admin console, you can control the following settings on your users' devices:
+\begin{itemize}
+\item Screen lock: Require users to set a PIN or password to unlock a device.
+\item Disable camera: Prevent users from using the camera on their device.
+\item Disable other features: Turn off features, such as the ability to use cellular data or make phone calls.
+\item Wi-Fi configuration: Set up your users' devices to automatically connect to a specific Wi-Fi network.
+\item App management: Automatically install apps on users' devices and manage the apps that users can access.
+\end{itemize}
+
+To get started, you need to set up Android management

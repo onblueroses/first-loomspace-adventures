@@ -1,0 +1,13 @@
+The text you've provided is an excellent and concise overview of river ecosystem structure and function. It effectively outlines the key ecological principles along a river's course, from source to mouth.
+
+Building on this foundation, the page would likely continue by exploring the following topics in greater detail:
+
+### **Key Ecological Concepts and Processes**
+*   **River Continuum Concept:** A model describing how the physical variables (gradient, width, flow), energy sources (allochthonous vs. autochthonous), and biological communities change predictably from headwaters to mouth.
+*   **Nutrient Spiraling:** The process by which nutrients like nitrogen and phosphorus are cycled and transported downstream simultaneously, with the length of the "spiral" (uptake length) indicating ecosystem efficiency.
+*   **Trophic Dynamics:** A deeper look at food webs, detailing functional feeding groups:
+    *   **Shredders** (break down coarse organic matter like leaves)
+    *   **Collector-Gatherers/Filterers** (consume fine particulate organic matter)
+    *   **Grazers/Scrapers** (feed on algae and biofilm on surfaces)
+    *   **Predators** (feed on other animals)
+*   **Disturbance and Succession:**

@@ -1,0 +1,9 @@
+ "The concept of a river continuum developed by Vannote et al. (1980) states that the channel dimensions, the temperature, the substrate composition, and the biotic components of a river system change predictably from the headwaters to the lower reaches as one moves downstream. The river continuum concept provides a framework for describing stream ecosystems and their associated biotic communities from the headwaters to the mouth of a river."
+
+## Riverine ecosystem
+
+A riverine, or lotic, ecosystem is the ecosystem of a river or stream. Lotic ecosystems are characterized by flowing waters, which provide unique environmental conditions that support a diverse array of plant and animal species. The term "lotic" comes from the Latin word lotus, meaning "washed," and refers to the constant movement of water in these ecosystems.
+
+Lotic ecosystems can be contrasted with lentic ecosystems, which involve still waters, such as lakes and ponds. Lotic ecosystems are characterized by a unidirectional flow of water, which can vary in velocity depending on the gradient of the riverbed and the volume of water in the channel. The flow of water in lotic ecosystems creates a dynamic environment, with physical and chemical conditions that change over time and space.
+
+Lotic ecosystems are home to a wide

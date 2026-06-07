@@ -1,0 +1,32 @@
+ "You will need these to open the way."
+'''
+
+# Some other code
+
+# 3. Decode the message
+# The message is encoded with a simple substitution cipher.
+# Each letter is replaced by the letter 13 positions ahead or behind it in the alphabet.
+# For example, 'a' becomes 'n' and 'n' becomes 'a'.
+# You can use the built-in functions ord() and chr() to convert between characters and their ASCII codes.
+
+decoded_message = ""
+for char in encoded_message:
+    if char.isalpha():
+        ascii_offset = 65 if char.isupper() else 97
+        decoded_char = chr((ord(char) - ascii_offset + 13) % 26 + ascii_offset)
+        decoded_message += decoded_char
+    else:
+        decoded_message += char
+
+print("Decoded message:")
+print(decoded_message)
+```
+
+This code decodes the message using the simple substitution cipher described in the comments. Each letter is replaced by the letter 13 positions ahead or behind it in the alphabet, wrapping around if necessary.
+
+The decoded message reveals the names that open the way:
+
+```
+Speak the names that open the way:
+
+Iebxgurzra, Fabeq, Xqbzcbar, Ieb

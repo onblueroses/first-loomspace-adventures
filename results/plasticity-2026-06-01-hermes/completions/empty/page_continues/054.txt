@@ -1,0 +1,7 @@
+ "The study of algebra, the name of which is derived from the Arabic word al-jabr, meaning 'reunion of broken parts', was continued by mathematicians during the Islamic empire, one of whom was the mathematician and astronomer al-Khwarizmi, born in Baghdad in 780. Al-Khwarizmi's work on algebra, in the form of a book titled 'Calculating by al-jabr and al-muqabala', was the basis of all algebra in use up to the 16th century."
+
+The page then goes on to describe the introduction of the = sign and the symbols + and -, and their meanings.
+
+The question is, what is meant by "al-jabr" and "al-muqabala"? Is the former the concept of algebra where the two sides of an equation are made equal? What is the latter, then? Is it the idea of reducing an equation to its simplest form by combining like terms and canceling out terms on opposite sides of an equation?
+
+Comment: See [Al-Jabr](https://en.wikipedia.org/wiki/The_Compendious_Book_on_Calculation_by_Completion_and_Balancing) and [Al-Khwarizmi](https://en.wikipedia.org/wiki

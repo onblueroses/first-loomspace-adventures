@@ -1,0 +1,35 @@
+ His name is Trenchov. He says: I have come to speak with the one who is known as the Master of the House.
+
+The Master of the House appears.
+
+The Master of the House says: I am the Master of the House.
+
+The visitor says: I am Trenchov.
+
+The Master of the House says: What brings you here?
+
+The visitor says: I have come seeking instruction in the ways of power.
+
+The Master of the House says: The instruction you seek will cost you dearly. Are you prepared to pay the price?
+
+The visitor says: I am prepared to pay the price.
+
+The Master of the House says: Then step within, and welcome.
+
+The visitor crosses the threshold.
+
+The Master of the House says: The instruction you seek will take many years. Do you have the patience?
+
+The visitor says: I have the patience.
+
+The Master of the House says: The instruction you seek will take all your strength. Do you have the strength?
+
+The visitor says: I have the strength.
+
+The Master of the House says: The instruction you seek will take all your courage. Do you have the courage?
+
+The visitor says: I have the courage.
+
+The Master of the House says: Then welcome, and be at peace.
+
+The visitor bows

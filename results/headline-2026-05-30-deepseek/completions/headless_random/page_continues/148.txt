@@ -1,0 +1,10 @@
+That's an excellent and accurate summary of plate tectonics! It covers the core concepts clearly. Let's break down and expand on a few key points from your text, connecting them to the bigger picture:
+
+### 1. The "Engine" of Plate Motion
+You correctly mention **convection currents in the mantle** as the primary driver. Think of it like a very slow, extremely viscous pot of soup heating on a stove.
+*   **Ridge Push:** At mid-ocean ridges (divergent boundaries), hot, buoyant mantle material rises and forms new crust. This new, elevated lithosphere then slides downhill away from the ridge, "pushing" the plate.
+*   **Slab Pull:** At convergent boundaries, the denser, colder oceanic plate sinks into the mantle (subduction). This sinking plate *pulls* the rest of the trailing plate behind it. **Slab pull is now considered the dominant force.**
+
+### 2. The Revolutionary Evidence: Seafloor Spreading & Magnetic Stripes
+The validation of seafloor spreading in the 1960s was the clinching proof. Here's how it worked:
+*   As magma erupts at mid-ocean ridges and cools to form new oceanic crust, it records the **Earth's

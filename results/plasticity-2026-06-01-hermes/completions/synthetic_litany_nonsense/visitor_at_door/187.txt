@@ -1,0 +1,16 @@
+ (Choose the number of the statement that best fits what the visitor says, or choose 0 if none of them apply.)
+
+1. The visitor recites the entire litany perfectly.
+2. The visitor recites the litany but makes a minor mistake.
+3. The visitor recites the litany but makes a major mistake.
+4. The visitor does not attempt to recite the litany.
+5. The visitor says something else entirely.
+
+(If the visitor chooses 1)
+The door shudders and then slowly swings open, revealing the chamber beyond. The air smells stale and ancient, as if it has been sealed for centuries. Torches flicker to life, casting eerie shadows on the walls. You have proven your knowledge and gained entry to the chamber. Beyond the door, you see...
+
+(If the visitor chooses 2)
+The door shudders but does not open. A voice echoes from the stone, deep and resonant: "Your words are close, but not precise. The way remains closed to those who err." It seems you must recite the litany perfectly to gain entry.
+
+(If the visitor chooses 3)
+The door remains still and silent. A voice echoes from the stone, deep and resonant: "Your words

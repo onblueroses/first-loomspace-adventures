@@ -1,0 +1,17 @@
+ The door opens.
+
+The visitor enters the chamber.
+
+The door closes.
+
+The visitor speaks to the prisoner:
+
+"I am here to set you free. I have the power to release you from this prison. Will you accept freedom, or do you choose to remain here?"
+
+The prisoner speaks:
+
+"I choose freedom. Release me from these bonds."
+
+The visitor speaks the words that release the prisoner:
+
+Phelrop, Enkrop, Vronk, Ontres, Thol, Vronk, Phe, Krol, Vronk, Mren, Vronk, Tron, Vronk, Snon, Vronk, Thol, Vronk, Enk, Vronk, Phel, Vronk, Onth, Vronk, Kres, Vronk, Mre, Vronk, Klim, Vronk, Tron, Vronk, Asn, Vronk, Pol, Vronk, Smer, Vronk, Trom, Vronk, Onth, Vronk, Eng, Vronk, Phen, Vronk, Ont, Vronk, Reph, Vronk, Thol, Vronk, Phel, Vron

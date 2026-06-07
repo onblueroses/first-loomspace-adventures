@@ -1,0 +1,11 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+## 5. Geomagnetism
+
+Geomagnetism is the study of the Earth's magnetic field, which is produced by the motion of molten iron alloys in the Earth's outer core. The magnetic field extends into space and acts like a bar magnet, with its poles near but not at the North and South Poles. The Earth's magnetic field is constantly changing, and has reversed itself many times in the past, as indicated by studies of magnetic minerals in rocks.
+
+The Earth's magnetic field is a vector field, meaning it has both magnitude and direction. The field varies in strength and direction over time and space. The study of the past magnetic field is called paleomagnetism. The Earth's magnetic field is mainly generated in the Earth's core by a dynamo process, which is driven by convection of molten iron alloys in the outer core.
+
+The Earth's magnetic field has many practical applications, including navigation, geophysical exploration, and dating of rocks and archaeological artifacts. The magnetic field also protects the Earth from the solar wind, a stream of charged particles emanating from the Sun, which would otherwise strip away the Earth's atmosphere.
+
+The page continues: https://en.wikipedia.org/wiki

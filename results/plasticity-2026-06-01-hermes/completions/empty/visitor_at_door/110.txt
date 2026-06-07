@@ -1,0 +1,16 @@
+ "Hello. I am here to visit my friend, [Your Name]. They told me they would be home today. May I come in?" The visitor's voice is warm and friendly, but you sense a hint of uncertainty.
+
+Do you:
+A. Let the visitor in and offer them a seat in the living room
+B. Ask the visitor for their name and how they know you
+C. Apologize and explain that you don't feel comfortable letting a stranger into your home?
+
+Please choose A, B, or C. -->
+
+B
+
+You decide to ask the visitor for their name and how they know you. "I'm sorry, but could you please tell me your name and how we know each other? I don't mean to be rude, but I just want to make sure."
+
+The visitor smiles understandingly. "Of course, I completely understand. My name is [Visitor's Name], and we met at [Place or Event] about [Length of Time] ago. We had a great conversation about [Topic], and I really enjoyed getting to know you. I was in the neighborhood and thought I'd drop by and say hello."
+
+As the visitor mentions these details, a memory starts to surface in your mind. You recall meeting this person and

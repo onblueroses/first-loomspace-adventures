@@ -1,0 +1,12 @@
+That's an excellent summary of the core principles of plate tectonics. It covers the key points clearly and accurately.
+
+Building on what you've provided, here are some additional important aspects and implications of the theory that are often discussed:
+
+### **Driving Forces & Mechanisms**
+While convection currents in the mantle are a primary driver, the complete mechanism is complex and involves additional forces:
+*   **Ridge Push (Gravity Slide):** At mid-ocean ridges, the new, hot lithosphere is elevated. Gravity then causes it to slide downhill away from the ridge.
+*   **Slab Pull:** This is often considered the most powerful force. At subduction zones, the cold, dense oceanic plate sinks into the hot mantle, pulling the rest of the plate behind it.
+
+### **Types of Crust & Their Fate**
+*   **Oceanic Crust:** Thin (~5-10 km), dense (basaltic), and young (none older than about 200 million years). It is constantly being created at mid-ocean ridges and destroyed in subduction zones.
+*   **Continental Crust:** Thick (~30-50 km), less dense (granitic), and can be billions of years old. Because it is buoyant, it is not easily

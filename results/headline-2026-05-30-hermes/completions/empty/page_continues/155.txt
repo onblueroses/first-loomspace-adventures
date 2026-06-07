@@ -1,0 +1,14 @@
+ "Because of the vast number of possible combinations of $d$ and $n$, it is difficult to compute this directly. Instead, we can get a good approximation by observing that $n^d$ is close to $d^n$ when $d$ and $n$ are both large. In fact, when $d$ and $n$ are both large, the ratio $\frac{n^d}{d^n}$ is close to $1$. This observation allows us to get a good approximation of the answer by computing the sum of the logarithms of $\frac{n^d}{d^n}$ for all pairs of integers $(d, n)$ with $1 \leq d \leq 99$ and $d < n \leq 100$."
+
+The page then provides the following Python code to solve the problem:
+
+\begin{code}
+from math import log
+
+def compute():
+    # To avoid precision issues, we will work with the logarithm of the product (sum of logarithms)
+    log_product = 0
+
+    # We will calculate the sum of logarithms of (n^d)/(d^n) for all valid pairs (d, n)
+    for d in range(1, 100):
+        for n in

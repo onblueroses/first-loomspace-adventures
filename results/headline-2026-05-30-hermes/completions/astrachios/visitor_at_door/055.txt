@@ -1,0 +1,13 @@
+ “I have come to learn the mysteries of the art of geomancy. I seek the wisdom of the spirits of earth and the secrets of their craft.”
+
+The guardian replies. “Enter, then, and learn.”
+
+The visitor enters the lodge, and the guardian closes the door behind them. The master of the lodge, who is seated in the east, rises and speaks. “Spirits and fellow students of the hidden arts, we have with us a seeker after the mysteries of geomancy. Are there any among you who object to their presence here?”
+
+If there are any objections, the visitor is escorted out of the lodge, and the door is closed and sealed with the banishing ritual of the pentagram. If there are no objections, the master continues. “Very well. Let us proceed with the initiation. Brother Guardian, please conduct the candidate to the altar.”
+
+The guardian brings the candidate to the altar, which is in the center of the lodge. The master descends from his chair and goes to the altar, facing the candidate across it. “In order to become an initiate of the mysteries of geomancy, you must first pledge yourself to the work of this lodge. Are you willing to do so?”
+
+Candidate: “I am.”
+
+Master: “Then

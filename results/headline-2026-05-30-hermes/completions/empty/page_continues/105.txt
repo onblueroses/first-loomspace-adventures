@@ -1,0 +1,11 @@
+ "When you have finished, you can view your results by clicking the 'View Results' button on the 'Upload Files' page. The results will show you the original and new file paths, along with the status of each file (whether it was successfully renamed or not). If there were any errors during the renaming process, they will be listed here as well."
+
+So, the plugin seems to be doing exactly what you're asking for. Have you tried it?
+
+  - Thanks, I did try it, but it's not working for me. I think it's because I'm trying to use it on files that are already uploaded. Maybe it only works on files as they are uploaded? Mar 20, 2013 at 14:24
+  - The description indicates that it works on already-uploaded files. If you're having problems with it, I'd suggest contacting the plugin's developer. Mar 20, 2013 at 14:29
+  - Thanks, I've contacted the developer. In the meantime, I've found another plugin that does the job: media-file-renamer. Mar 20, 2013 at 14:58
+
+## Your Answer
+
+## Not the answer you're looking for? Browse other questions tagged plugins

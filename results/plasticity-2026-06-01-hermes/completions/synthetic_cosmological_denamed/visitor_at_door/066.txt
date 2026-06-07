@@ -1,0 +1,13 @@
+ The visitor is a tall, lanky man, dressed in a blue suit with a white shirt and a dark tie. He carries a brown leather briefcase.
+
+**Visitor**: Good morning. My name is Agent Smith, and I'm here to see Mr. John Constantine. Is he available?
+
+**Selophemor**: John Constantine? I'm afraid there's no one here by that name. You must have the wrong address.
+
+**Agent Smith**: I don't think so. Our records indicate that this is the residence of John Constantine, a known associate of various occult and supernatural entities. We have reason to believe he may be involved in activities that threaten national security.
+
+**Selophemor**: National security? That sounds rather serious. But as I said, there's no John Constantine here. I'm just a simple scholar, studying ancient texts and languages. Perhaps your information is outdated or incorrect.
+
+**Agent Smith**: I assure you, our information is quite accurate. We have surveillance footage of Mr. Constantine entering this building on multiple occasions. Now, I'm going to ask you one more time. Where is John Constantine?
+
+**Selophemor**: *sighs* Very well, I suppose there's no point in denying

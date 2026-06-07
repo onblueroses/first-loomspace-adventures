@@ -1,0 +1,44 @@
+  The others repeat each line after them.
+
+Visitor:
+Come, then, the gods!
+Raise up the spell of the Snake!
+Show forth the power of the Mighty One!
+Guide us to the Grace of the World!
+Let the immortal Fire be our companion!
+
+All:
+Let the immortal Fire be our companion!
+
+The visitor opens the door and enters.  The ritual continues.
+
+## II. Invocation of the Elements
+
+East:
+Hail, Powers of Air, Guardians of the East!
+I call upon you, O Forces of Intellect, to witness and guard this rite.
+
+South:
+Hail, Powers of Fire, Guardians of the South!
+I call upon you, O Forces of Will, to witness and guard this rite.
+
+West:
+Hail, Powers of Water, Guardians of the West!
+I call upon you, O Forces of Emotion, to witness and guard this rite.
+
+North:
+Hail, Powers of Earth, Guardians of the North!
+I call upon you, O Forces of Stability, to witness and guard this rite.
+
+All:
+The Circle is cast.
+So mote it be.
+
+## III. The Litany Against Fear
+
+North:
+Fear is the little-death that brings total oblibion.
+
+East:
+I will face my fear.
+

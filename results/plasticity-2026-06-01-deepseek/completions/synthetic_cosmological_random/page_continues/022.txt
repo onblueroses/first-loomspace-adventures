@@ -1,0 +1,10 @@
+The text provides a clear overview of river (lotic) ecosystem structure and function. Following the established description, the page would logically continue by exploring the specific human impacts and management principles mentioned at the end.
+
+Here is a probable continuation of the page, structured under relevant subheadings:
+
+### **Major Threats to River Ecosystems**
+Human activities profoundly alter the key parameters that define river health:
+*   **Flow Alteration:** Dams and diversions disrupt the natural flow regime, eliminating seasonal floods that cue fish spawning and recharge floodplains. Downstream, reduced flows degrade habitat and increase water temperature.
+*   **Channel Modification:** Straightening and lining channels with concrete (channelization) for flood control or drainage destroys in-stream habitat, increases flow velocity, and severs the river from its floodplain.
+*   **Pollution & Nutrient Loading:** Runoff from agriculture (fertilizers, pesticides) and urban areas (oil, heavy metals) and point-source discharges from industry or sewage treatment increase nutrients (eutrophication), toxics, and sediment. This can lead to algal blooms, oxygen depletion ("dead zones"), and loss of sensitive species.
+*   **Riparian Zone Destruction:** Clearing vegetation from riverbanks removes shade (raising water temperature), eliminates a key

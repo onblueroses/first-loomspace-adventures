@@ -1,0 +1,13 @@
+ "The time has come for a new approach to learning – one that is based on the latest research in neuroscience and cognitive psychology. This approach is called 'spaced repetition' and it is the most effective way to learn and retain information.
+
+"Spaced repetition is a technique that involves reviewing information at increasing intervals of time. The idea is that by spacing out your reviews, you can more effectively transfer information from your short-term memory to your long-term memory.
+
+"The science behind spaced repetition is based on the 'spacing effect' – a phenomenon that was first discovered by Hermann Ebbinghaus in the late 19th century. Ebbinghaus found that when he reviewed information at increasing intervals, he was able to remember it more effectively than if he reviewed it all at once.
+
+"Since then, numerous studies have confirmed the effectiveness of spaced repetition. In fact, a recent meta-analysis of over 200 studies found that spaced repetition is one of the most effective learning techniques available.
+
+"So how can you use spaced repetition to learn more effectively? Here are a few tips:
+
+1. Start by breaking down the information you want to learn into small, manageable chunks.
+
+2. Review each chunk of information at increasing intervals. For example, you might review a chunk of information 1 day

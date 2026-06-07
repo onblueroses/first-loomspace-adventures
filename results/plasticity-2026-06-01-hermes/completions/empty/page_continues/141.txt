@@ -1,0 +1,31 @@
+ "The two main ways of achieving this are by either using a combination of a `ScheduledExecutorService` and a `BlockingQueue`, or by using a `DelayQueue`."
+
+I've not found any examples of how to implement the ScheduledExecutorService/BlockingQueue approach, and I'm not sure how to proceed with it. So, how would I implement the ScheduledExecutorService/BlockingQueue approach to implementing a scheduled thread pool?
+
+Answer: Here's a simple example:
+
+\begin{code}
+import java.util.concurrent.*;
+
+public class ScheduledThreadPoolExample {
+    public static void main(String[] args) {
+        ScheduledExecutorService scheduler = Executors.newScheduledThreadPool(5);
+        BlockingQueue<Runnable> queue = new ArrayBlockingQueue<Runnable>(10);
+
+        for (int i = 0; i < 20; i++) {
+            final int j = i;
+            Runnable task = new Runnable() {
+                @Override
+                public void run() {
+                    System.out.println("Running task " + j);
+                    try {
+                        Thread.sleep(1000);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
+                }
+            };
+            if (!queue.offer(task)) {
+                scheduler.schedule(() -> {
+                    Runnable r = queue.poll();
+                    if (

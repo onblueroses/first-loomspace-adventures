@@ -1,0 +1,9 @@
+ "The following links are for the programs that are used to convert the data into the form that is displayed on the website. These programs are written in Perl and can be run on Linux or Windows. The programs are: `e00conv.pl`, `shp2pgsql.pl`, and `dbf2pgsql.pl`."
+
+It appears that the data is in the [ESRI E00 format](http://en.wikipedia.org/wiki/ESRI_grid), which is a non-proprietary, open format.  The Perl script `e00conv.pl` is used to convert the E00 data to [shapefile format](http://en.wikipedia.org/wiki/Shapefile), which is another open format.
+
+The other two scripts, `shp2pgsql.pl` and `dbf2pgsql.pl`, are used to convert the shapefile data into SQL statements for loading into a PostgreSQL database.
+
+So, in summary, you should be able to use these scripts to convert the data into an open format that can be used with a variety of GIS software packages.
+
+Comment: Thanks for the help.  I will check those links out.  The data is in E00 format, but I have already converted it to SHP.  My problem is going from SHP

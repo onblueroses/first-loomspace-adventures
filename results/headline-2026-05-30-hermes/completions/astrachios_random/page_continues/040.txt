@@ -1,0 +1,22 @@
+ "Adult kakapos are about 58 to 64 centimetres in length, and weigh from 0.95 to 4 kilograms at maturity."
+
+In this case, the "58 to 64 centimetres" and "0.95 to 4 kilograms" are the numbers that we want to extract. Let's see how we can do this using regular expressions in Python.
+
+```python
+import re
+
+text = "Adult kakapos are about 58 to 64 centimetres in length, and weigh from 0.95 to 4 kilograms at maturity."
+
+# Define a regular expression pattern to match numbers
+pattern = r'\d+(?:\.\d+)?'
+
+# Find all matches in the text
+matches = re.findall(pattern, text)
+
+print(matches)
+```
+
+In this code:
+- We import the `re` module, which provides support for regular expressions in Python.
+- We define a string `text` that contains the text from which we want to extract numbers.
+- We define a regular expression pattern `pattern` using a raw string (`r'...'`). The pattern `\d+(?:\.\d+)?` matches one or more digits (`\d+`), optionally followed by a decimal point and one or more digits

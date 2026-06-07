@@ -1,0 +1,21 @@
+..?
+
+*The demon lord Dagon, a towering, grotesque fish-man hybrid with an exposed brain and tentacled mouth, appears before you.*
+
+### 64
+The demon lord Dagon looms over you, his exposed brain pulsing, tentacled maw writhing. He speaks in a gurgling, rumbling voice:
+
+"Mortal, you have called me forth. I am Dagon, lord of the depths, master of the drowned ones. Speak your purpose or face my wrath."
+
+How do you respond to Dagon?
+
+*You bow deeply before the demon lord, showing respect for his power. "Mighty Dagon, I have summoned you to seek your aid and wisdom. I am faced with a dire threat that I believe only your strength can overcome."*
+
+### 65
+Dagon's tentacled mouth twists in what might be amusement or hunger. 
+
+"You are bold to summon me, mortal, and wise to show respect. I may aid you, for a price. What is this threat you face?"
+
+*You describe the looming threat of the Void Incursion and the need to gather allies and power to have any hope of stopping it. You emphasize the cataclysmic consequences should it succeed.*
+
+###

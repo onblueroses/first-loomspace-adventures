@@ -1,0 +1,14 @@
+That's an excellent and accurate summary of plate tectonics. It covers the key historical development from continental drift, the central concepts of plate boundaries and their geological effects, and the underlying driving mechanisms.
+
+To build on the information you've provided and structure it for clarity, here are the core components of the theory broken down:
+
+### 1. The Core Idea
+The Earth's rigid outer shell (**lithosphere**) is broken into moving pieces called **tectonic plates**. These plates float on and move over the hotter, weaker, semi-molten layer below called the **asthenosphere**.
+
+### 2. Types of Plate Boundaries
+The interaction at the edges (boundaries) of these plates explains most of Earth's major geological activity.
+
+| Boundary Type | Relative Motion | Key Geological Features & Events |
+| :--- | :--- | :--- |
+| **Divergent** | Plates move **apart** | • **Seafloor spreading** at mid-ocean ridges<br>• Creation of new oceanic crust<br>• Shallow earthquakes, volcanic activity |
+| **Convergent** | Plates move **together** | • **Subduction** zones (one plate dives under another)<br>• Deep ocean trenches, volcanic arcs (e.g

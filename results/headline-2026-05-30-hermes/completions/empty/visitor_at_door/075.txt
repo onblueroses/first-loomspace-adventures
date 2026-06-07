@@ -1,0 +1,11 @@
+ "It's not a virus, it's a worm, and it's already infected 8,000 computers. We need to get to work on this right now." The visitor explains that the worm is spreading via email attachments and network shares. It's using a known vulnerability in the operating system to propagate.
+
+The visitor hands the IT manager a USB drive. "This contains a tool that will remove the worm from infected computers and prevent it from spreading further. We need to deploy this to all the computers on your network immediately."
+
+The IT manager hesitates. The visitor seems to know a lot about the situation, but they haven't provided any identification or credentials. Deploying an unknown tool from an unverified source could be risky.
+
+On the other hand, the infection is spreading rapidly and they need to take action to contain it. The IT manager has to make a decision quickly.
+
+What should the IT manager do? Should they trust the visitor and deploy the tool, or should they take a different approach to dealing with the worm infection? The clock is ticking and every minute counts as the worm continues to spread through the network.
+
+The IT manager decides to take a cautious approach. While the visitor's offer of help is tempting, they can't risk deploying an unknown tool without verifying

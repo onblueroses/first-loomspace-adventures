@@ -1,0 +1,21 @@
+ Choose one of the options below to continue the conversation:
+
+- "I have come to seek the knowledge hidden within these walls."
+- "I am a seeker of the arcane arts, drawn to the mysteries of this place."
+- "I was guided here by a vision, a calling that I could not ignore."
+
+The guardian replies, "Many have come before you, seeking power, knowledge, or enlightenment. Few have proven worthy. To enter, you must face three trials. Each will test your resolve, your wisdom, and your spirit. Are you prepared to face the challenges that await you?"
+
+- "I am ready. I will face whatever trials are necessary."
+- "What are these trials you speak of? Tell me more."
+- "I have come this far, and I will not be deterred now."
+
+The guardian nods solemnly. "Very well. Your first trial shall begin now. You must answer a riddle, a test of your intellect and perception. Listen carefully:
+
+'I am the beginning of eternity, the end of time and space. I am the beginning of every end, and the end of every place. What am I?'"
+
+- "The letter 'E'."
+- "Time itself."
+- "The concept of infinity."
+
+If the visitor

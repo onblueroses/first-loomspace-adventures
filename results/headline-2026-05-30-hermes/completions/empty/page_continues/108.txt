@@ -1,0 +1,22 @@
+ "The second argument is the list of all the things that need to be returned from the function, and the third argument is the function body." But what is the first argument? If I want to define a function that takes two arguments, how would I do that?
+
+Answer: I think this is just a typo in the documentation. The first argument to `Function` is the list of patterns for the arguments of the function to be constructed. So a function that takes two arguments would have a list of two patterns as the first argument of `Function`. Here's an example:
+
+\begin{code}
+Function[{x, y}, x^2 + y^2]
+\end{code}
+
+This returns a pure function that you can use like any other function:
+
+\begin{code}
+Function[{x, y}, x^2 + y^2][3, 4]
+(* 25 *)
+\end{code}
+
+Note that you can also use the following syntax to define a function with the `Slot` symbols `#1`, `#2`, etc.:
+
+\begin{code}
+Function[#1^2 + #2^2]
+\end{code}
+
+This is completely equivalent to the first definition, but you don't have to explicitly list the

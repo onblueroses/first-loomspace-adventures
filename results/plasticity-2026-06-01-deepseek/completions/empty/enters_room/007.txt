@@ -1,0 +1,4 @@
+The answer to “What enters the room now?” is **light**.
+
+This is a classic riddle where the word “now” can be read as **N-O-W** — meaning the letters **N**, **O**, and **W**.  
+When you remove **N**, **O**, and **W** from the word **WINDOW**, you’re left with **WIND**, and light enters the room through a window.

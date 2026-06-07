@@ -1,0 +1,30 @@
+ What do you want?
+
+#### 21
+The visitor answers:
+
+I seek entrance to the tower of the Moon, to learn the secret of the Moon, and to seek the wisdom of the Moon. I ask entrance to the tower of the Moon, to learn the secret of the Moon, and to seek the wisdom of the Moon. I demand entrance to the tower of the Moon, to learn the secret of the Moon, and to seek the wisdom of the Moon.
+
+The visitor at the door speaks. What is the password?
+
+#### 22
+The visitor answers:
+
+The password is "Kalmara."
+
+The visitor at the door speaks. You have spoken truly. The door opens.
+
+The visitor enters the tower. The door closes behind them.
+
+The visitor ascends the staircase within the tower, climbing to the topmost chamber.
+
+At the top of the tower, the visitor finds the Archon of the Moon, the angel Iachadiel, waiting for them.
+
+Iachadiel speaks:
+
+Welcome, traveler, to the Tower of the Moon. I am Iachadiel, the Archon of the Moon, and the keeper of its secrets. What brings you here?
+
+#### 23
+The visitor answers:
+
+I have come seeking the wisdom and the secret of

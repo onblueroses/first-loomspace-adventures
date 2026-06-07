@@ -1,0 +1,30 @@
+ If the visitor does not speak the names, the door remains closed. If the visitor speaks the names, the door opens. Roll on the Dungeon Entrance table to determine what lies beyond the door. 
+
+### Dungeon Entrance
+
+1. Stairs down to a dungeon
+2. Tunnel to a cave complex
+3. Elevator down to a mine
+4. Teleporter to a distant location
+5. Portal to another plane
+6. Stairs up to a tower
+7. Trapdoor to a cellar
+8. Secret door to a hidden room
+9. Bridge to an island
+10. Gate to a walled city
+11. Path to a graveyard
+12. Ladder to an underground lair
+13. Cave entrance to a subterranean world
+14. Whirlpool to an underwater realm
+15. Volcano entrance to a lava-filled cavern
+16. Well to a sunken city
+17. Tree hollow to a fey kingdom
+18. Mirror to a parallel world
+19. Painting to a pocket dimension
+20. Wardrobe to a land of eternal winter
+
+## 27. The Oracle's Riddle
+
+A stone archway stands before you, covered in ancient runes. An inscription at the top reads:
+
+"Speak the

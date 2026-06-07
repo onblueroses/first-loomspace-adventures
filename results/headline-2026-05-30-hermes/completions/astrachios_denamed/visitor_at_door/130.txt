@@ -1,0 +1,21 @@
+ The door opens, and the visitor enters the temple.
+</p>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title">
+<a data-toggle="collapse" data-parent="#accordion" href="#collapseSix">6. The Invocation of the Spirits</a>
+</h4>
+</div>
+<div id="collapseSix" class="panel-collapse collapse">
+<div class="panel-body">
+<p>
+The magician stands before the altar, facing east. He raises his arms and speaks the words that call the spirits:
+
+Zah, Gepulanel, Cariso, Ena, Epoci, Akrah, Ebpisha, Imathadel, Damiol, Dapa, Elapos, Izaphel, Paeh, Scildon, Genilum Sopro, Aphragoseh, Sapoel, Baracaza, Adopal, Elotin, Enagro, Anchanzel, Bloutel, Ipeodoc, Ireharel, Aramonis, Sipat, Acla Berdimoriel, Asep, Asthrenios.
+
+Spirits of the East, I call you. Come to me, and hear my words.
+
+A

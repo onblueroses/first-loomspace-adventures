@@ -1,0 +1,16 @@
+ "If you are using a shared host, the easiest way to install this extension is via PECL. To install it via PECL, you can follow these instructions:
+
+1. If you are using PHP 5.2 or 5.3, follow the instructions on this page: http://pecl.php.net/package/oauth
+
+2. If you are using PHP 5.4 or 5.5, the extension is already built-in."
+
+Does that mean that the extension is already built in to PHP 5.4 and 5.5 and I don't need to do anything? I am using PHP 5.4.16 on a shared host.
+
+Comment: What does phpinfo() say? Do you see the OAuth extension listed there?
+
+Comment: Yes, I see a whole section on OAuth, with these version details: oauth
+1.2.3  $Id: oauth.c 325799 2012-05-24 21:07:51Z jawed $
+Revision  $Revision: 325799 $
+Thanks for your help!
+
+Answer: Yes, the OAuth extension is included in PHP 5.4 and later. You don't need to do anything special to install it.

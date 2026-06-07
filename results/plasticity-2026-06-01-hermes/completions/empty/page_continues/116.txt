@@ -1,0 +1,21 @@
+ "If you click the button below, you'll go to the Twitter website to authorize the app. After you authorize it, you'll be redirected back to the site."
+
+I click the button and get redirected to Twitter, where I authorize the app. Twitter redirects me back to the site.
+
+The site now shows me my Twitter username and the message "Thanks for signing in, [username]! You've successfully signed in with Twitter."
+
+I see a "Sign out" button below the message. I click it and get redirected to the homepage.
+
+I'm now signed out and see the "Sign in with Twitter" button again.
+
+### 5. Testing the Twitter API integration
+
+I want to test if the Twitter API integration is working correctly. I go to the "/tweets" route.
+
+I see a message that says "You need to sign in to view your tweets." and a "Sign in with Twitter" button.
+
+I click the button, authorize the app on Twitter, and get redirected back to the "/tweets" route.
+
+Now I see a list of my recent tweets, each displaying the tweet text, date, and a link to view the tweet on Twitter.
+
+I click on one of the "View on Twitter" links and it takes me to the corresponding tweet on

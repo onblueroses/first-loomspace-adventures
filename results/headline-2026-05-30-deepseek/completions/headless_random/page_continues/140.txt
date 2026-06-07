@@ -1,0 +1,14 @@
+Based on the provided text, here is a summary of the key points about plate tectonics:
+
+**Core Concept:** Plate tectonics is the widely accepted theory that Earth's outer shell (the lithosphere) is divided into several large, rigid plates that have been moving slowly for billions of years.
+
+**Key Components & Mechanics:**
+*   **Plates:** The lithosphere is broken into 7-8 major plates and many minor ones, composed of both oceanic and continental crust.
+*   **Plate Boundaries:** Where plates meet, their interaction creates three main types of boundaries:
+    *   **Convergent** (plates collide)
+    *   **Divergent** (plates move apart)
+    *   **Transform** (plates slide past each other)
+*   **Movement & Driving Force:** Plates move (0-100 mm/year) because the lithosphere is stronger than the ductile asthenosphere beneath it. Movement is driven by mantle convection currents.
+*   **Surface Recycling:** At convergent boundaries, **subduction** recycles oceanic crust back into the mantle, keeping the total surface area of the lithosphere roughly constant (the "conveyor belt principle").
+
+**Geological Effects:** Most major geological activity—including **earthquakes

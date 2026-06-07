@@ -1,0 +1,8 @@
+Of course. Based on the detailed foundation provided, the continuation would logically delve into specific aspects of river ecosystem dynamics, human impacts, and management. Here is a plausible continuation of the page:
+
+---
+
+### **Energy Flow and Nutrient Cycling**
+The functioning of a river ecosystem is driven by the interplay between **allochthonous** (externally derived) and **autochthonous** (internally produced) energy sources. In forested headwaters, the food web is predominantly **allochthonous**, based on coarse particulate organic matter (CPOM) like leaves and twigs. Invertebrate **shredders** (e.g., some caddisfly larvae) break this material down, and its fragments (**fine particulate organic matter**, or FPOM) are transported downstream or consumed by **collectors**. In wider, sunlit mid-reaches, **autochthonous** production by algae and aquatic plants becomes the primary energy source, supporting **grazers** (e.g., mayfly larvae) and herbivorous fish. This downstream shift in resource base is conceptualized in the **River Continuum Concept**.
+
+Nutrients like nitrogen and phosphorus spiral downstream as they are repeatedly taken up by organisms, incorporated into biomass, and released back into the water—

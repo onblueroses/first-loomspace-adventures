@@ -1,0 +1,15 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+It looks like a very good explanation, with illustrations.
+
+#### 6.3.2. Cratons
+
+Cratons are the oldest and most stable parts of the continental lithosphere. They consist of the crust and upper mantle, are generally found in the interior of continents, and are characterised by a thick crust and deep lithospheric roots that extend as much as 200 miles into Earth's mantle. Cratons can be described as shields, in which the basement rock crops out at the surface, and platforms, in which the basement is overlain by sediments and sedimentary rock.
+
+The term craton is used to distinguish the stable interior portion of continents from regions that are more geologically active and unstable. Cratons have thick lithospheric roots, have survived for billions of years, and preserve very ancient rock. The mantle roots are colder, and therefore less dense, than the surrounding mantle. This provides buoyancy, which helps the cratons float on top of the asthenosphere.
+
+The page continues: https://en.wikipedia.org/wiki/Craton
+
+#### 6.3.3. Earth's internal heat budget
+
+The Earth's internal heat budget is fundamental to

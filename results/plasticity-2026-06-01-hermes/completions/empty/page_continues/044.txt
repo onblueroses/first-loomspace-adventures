@@ -1,0 +1,13 @@
+ "If you're the type who likes to plan ahead, you can take a look at our future roadmaps to see where we're headed."
+
+The link points to a page that lists the next few releases with their numbers and code names, and the main features to be expected in each of them. This is great! I can now decide if I want to wait for a future release, because I really need a certain feature.
+
+On the other hand, if I don't find what I'm looking for, I can also look in the issue tracker for feature requests, and possibly support one by giving it my votes.
+
+This is the way to go. No surprises, you can plan ahead, and if something is not as you want it to be, you can actively participate in the development process by discussing features and requirements with the developers.
+
+## Release Early, Release Often
+
+Another important rule for successful software development is to release early and release often. Especially in an open-source project, it is crucial to get feedback from the community as early as possible. Projects that have few releases often have trouble building a community, since there is not much to work with.
+
+If you look at projects like Mozilla Firefox, you can see that there are regular releases, and that the project is constantly

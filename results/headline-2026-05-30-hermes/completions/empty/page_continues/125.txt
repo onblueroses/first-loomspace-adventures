@@ -1,0 +1,13 @@
+ "If you want to save the file locally, make sure to save it with a.txt extension, or else it will not be in plain text format." What does this mean?
+
+If I click on the link, it just opens up a new tab and shows me the text file. If I right click on the link and try "Save link as...", it just downloads the text file directly without opening it. Either way, I can't find any option to save it with a.txt extension.
+
+What do I do?
+
+Comment: The browser already saved it with a `.txt` extension, so you don't need to do anything.
+
+Answer: When you save the file, your browser should automatically add the `.txt` extension.  This is a common file extension for plain text files.  If your browser does not add the `.txt` extension, you can add it yourself by renaming the file and adding `.txt` to the end of the file name after you have downloaded it.
+
+The purpose of the `.txt` extension is to tell the operating system and other software that the file contains plain text.  This helps the software determine how to handle the file.
+
+Answer: What the instructions are saying is that when you save the file, make sure that the file

@@ -1,0 +1,13 @@
+Based on the text provided, the next section of the page would logically discuss the **consequences of ecosystem alteration** and/or the **principles of river conservation and management**.
+
+Here is a plausible continuation, structured as a direct extension of the final paragraph:
+
+---
+
+Human activities that modify the key parameters of flow, sediment, temperature, and chemistry often lead to a cascade of ecological effects. For example, a dam fragments the river, blocks fish migration, and transforms a lotic ecosystem into a series of lentic reservoirs upstream, while altering temperature and sediment regimes downstream. Channelization for flood control simplifies habitat structure, removing the pools, riffles, and woody debris that provide refuge and feeding sites for aquatic life.
+
+Consequently, the conservation and restoration of river ecosystems focus on mitigating these impacts. Key strategies include:
+*   **Restoring natural flow regimes:** Managing dam releases to mimic seasonal floods and low flows.
+*   **Re-establishing physical habitat complexity:** Re-meandering straightened channels, replacing substrate, and reintroducing large woody debris.
+*   **Protecting and rehabilitating riparian zones:** Maintaining vegetated buffers to filter runoff, stabilize banks, provide shade, and supply organic matter.
+*   **Improving watershed management:** Controlling pollution and erosion at the catchment scale

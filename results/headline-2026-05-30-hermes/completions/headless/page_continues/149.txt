@@ -1,0 +1,16 @@
+ "This spell is to be said at the beginning and end of the invocation. It is to be said before and after the words of the spell." This is followed by a list of "words of the spell," consisting of a series of magical words, each of which is followed by a string of vowels. The text ends with a series of vowels to be used "for the whole invocation."
+
+## Date and place of origin
+
+The earliest date that can be given to the composition of the Headless Rite is the mid fourth century CE, when it appears along with other spells in the PGM. The papyri reflect the religious syncretism of Roman Egypt in late antiquity, mixing Greek, Egyptian, and Jewish elements.
+
+The invocation is now a well known work in the field of Greco-Egyptian magic and has been referenced many times in books, most recently in Roger Luckhurst's The Mummy's Curse, which details the history of British Egyptology.
+
+## See also
+
+* Magical treatise of Solomon
+
+## External links
+
+* The Headless One (in English)
+

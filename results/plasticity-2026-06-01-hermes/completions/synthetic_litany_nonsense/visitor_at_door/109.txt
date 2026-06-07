@@ -1,0 +1,10 @@
+ "I am [VISITOR], a [VISITOR RACE] [VISITOR ROLE]. I seek entrance to the Hall of the [HALL NAME] to [REASON]."
+
+The door guardian considers the request. "By the ancient pacts, I grant you entrance, [VISITOR]. But know that the secrets of the [HALL NAME] are not for the unwise or the unworthy. Tread carefully, and may the [HALL NAME]'s power guide your path."
+
+The doors swing open with a deep, resonant groan, revealing the dimly lit interior of the Hall of the [HALL NAME]. The visitor steps across the threshold, their footsteps echoing in the vast, shadowy space beyond. The doors close behind them with a resounding thud, sealing them within the ancient hall and its untold mysteries.
+
+What secrets will the visitor uncover within the Hall of the [HALL NAME]? What challenges will they face, and what truths will they learn? Only time will tell, as they embark on their journey into the depths of this ancient and mysterious place. [THE END]'''
+
+        self.fantasy_story_template = '''
+In the enchanted realm of [REALM NAME], a [CHARACTER RACE] named [

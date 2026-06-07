@@ -1,0 +1,11 @@
+This is a concise and accurate overview of plate tectonics. It covers the theory's core components well. To expand on the summary, here are some key points and implications:
+
+### Key Concepts Highlighted in the Text:
+1.  **Lithosphere vs. Asthenosphere:** The rigid **lithosphere** (crust and upper mantle) "floats" and moves on the weaker, ductile **asthenosphere** beneath it. This is the fundamental reason plates can move.
+2.  **Types of Plate Boundaries:**
+    *   **Divergent:** Plates move apart (e.g., mid-ocean ridges, continental rifts). New lithosphere is created here.
+    *   **Convergent:** Plates move together. This creates:
+        *   **Subduction zones** (oceanic plate goes under continental or another oceanic plate), forming deep ocean trenches and volcanic arcs.
+        *   **Continental collisions** (two continental plates collide), forming major mountain ranges like the Himalayas.
+    *   **Transform:** Plates slide past each other horizontally (e.g., the San Andreas Fault).
+3.  **The Driving Mechanism:** While mentioned as mantle convection, it's important to note that this is the dominant theory,

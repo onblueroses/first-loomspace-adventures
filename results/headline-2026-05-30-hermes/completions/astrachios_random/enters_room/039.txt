@@ -1,0 +1,5 @@
+ | The Kakapo enters the room. | A large, flightless, nocturnal parrot native to New Zealand, critically endangered and unusual among parrots in several ways, enters the room. |
+| What does the Kakapo look like? | The Kakapo is a large, flightless parrot. It is nocturnal and ground-dwelling. | The Kakapo appears as a sizable, flightless parrot with adaptations for a nocturnal, ground-dwelling lifestyle in New Zealand. |
+| How does the Kakapo move? | The Kakapo is flightless and moves by walking or running on the ground. | The Kakapo moves by walking or running on the ground, as it is a flightless bird. |
+| What is the Kakapo's habitat? | The Kakapo's habitat is in New Zealand. | The Kakapo inhabits areas within New Zealand, specifically forests and islands with suitable vegetation. |
+| What are the unique features of the Kakapo? | The Kakapo is unique in being the world's only flightless parrot, the heaviest parrot, critically endangered, polygynous with a lek breeding system, functionally herbivorous, and having no male parental care. | The unique features of the

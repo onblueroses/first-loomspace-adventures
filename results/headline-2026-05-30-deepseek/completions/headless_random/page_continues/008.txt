@@ -1,0 +1,15 @@
+The summary you've provided offers a solid overview of plate tectonics. To expand on this foundational knowledge, here are some key implications and details that build upon it:
+
+### Driving Forces & Mechanisms
+While convection in the mantle is a primary driver, plate motion is also significantly influenced by:
+*   **Slab Pull:** The descending, dense oceanic plate at a subduction zone pulls the rest of the plate behind it. This is considered the strongest driving force.
+*   **Ridge Push:** The elevated material at a mid-ocean ridge pushes laterally, gravity-driven, away from the ridge.
+*   **Mantle Drag:** Frictional coupling between the lithosphere and the underlying convecting mantle can either drive or resist plate motion.
+
+### Types of Plate Boundaries in Detail
+1.  **Divergent Boundaries:** Plates move apart.
+    *   **On Land:** Form **continental rift valleys** (e.g., East African Rift).
+    *   **In Oceans:** Create **mid-ocean ridges** (e.g., Mid-Atlantic Ridge), where new oceanic crust is formed.
+
+2.  **Convergent Boundaries:** Plates move toward each other. There are three types:
+    *   **Oceanic-Continental:** The denser

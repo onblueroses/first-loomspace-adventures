@@ -1,0 +1,11 @@
+ As they do, a warm breeze comes from the gate, and the air shimmers around the visitor. When they finish speaking, the gate swings open.
+
+The visitor is free to enter. They have only to step through the gate to find themselves at the entrance to the hidden valley.
+
+If the visitor wishes to leave the valley, they need only return to the gate and step through it again. They will find themselves back at the entrance they first arrived at.
+
+If the visitor does not know the names, they may attempt to force the gate open. Doing so requires a DC 24 Strength check. On a success, the gate opens, and the visitor may enter. On a failure, the gate remains shut, and the visitor takes 2d10 psychic damage as the magic of the gate punishes them for their transgression. 
+
+If the visitor attempts to force the gate open three times and fails each time, the gate disappears, and the visitor is teleported to a random location on the Material Plane. They may not attempt to enter the valley again for one year. 
+
+The gate is a powerful magic, and it will not be trifled with. Those who seek to enter the valley must prove their worth, either through knowledge or strength. Those who fail will be

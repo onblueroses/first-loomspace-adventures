@@ -1,0 +1,22 @@
+ "The full error message is:"
+
+\begin{code}
+java.lang.OutOfMemoryError: Java heap space
+\end{code}
+
+I know how to increase the heap size in the client, but how do I increase it on the server?
+
+Comment: Are you using a WebSphere Application Server? If so, what version?
+
+Answer: The `OutOfMemoryError` is due to insufficient space in the Java heap. The heap size is set using the `-Xms` and `-Xmx` JVM options when starting the application.
+
+These options are usually set in the application's startup script. If you are using a third party application server or web container, you may need to refer to the documentation to configure the JVM options.
+
+Answer: If you are using WebSphere Application Server, you can follow these steps to increase the heap size:
+\begin{itemize}
+\item Log in to the administrative console.
+\item In the navigation pane, click Servers > Server Types > WebSphere application servers.
+\item Click the name of the server for which you want to increase the heap size.
+\item Under Server Infrastructure, click Java and process management > Process definition.
+\item Under Additional Properties, click Java virtual machine.
+\item On the Configuration tab, increase the

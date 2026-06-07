@@ -1,0 +1,17 @@
+ (2021, May 18). In Wikipedia. https://en.wikipedia.org/wiki/Plate_tectonics
+
+### 19.2 The Types of Plate Boundaries
+
+There are three main types of plate boundaries:
+
+1. Divergent boundaries: where new crust is generated as the plates pull away from each other.
+2. Convergent boundaries: where crust is destroyed as one plate dives under another.
+3. Transform boundaries: where crust is neither produced nor destroyed as the plates slide horizontally past each other.
+
+Each of these types of plate boundaries is associated with different geological features and processes. We will discuss each in turn.
+
+#### Divergent Boundaries
+
+At divergent boundaries, plates move away from each other and new crust is generated. This occurs above rising convection currents in the mantle. The rising current pushes up on the bottom of the lithosphere, lifting it and flowing laterally beneath it. This lateral flow causes the overlying plate to be stretched and thinned. As the plate thins, the upper mantle material rises and melts due to decompression melting. The magma then rises through the thinned overlying crust to erupt as lava, forming new oceanic crust. This process is known as seafloor spreading.
+
+Seafloor spreading is

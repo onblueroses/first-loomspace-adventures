@@ -1,0 +1,11 @@
+ (The GM should roleplay the visitor, choosing or randomly determining their identity from the list below. The GM can portray the visitor as either helpful, cryptic, or uncooperative, as befits the situation. The visitor should speak with an unnerving, otherworldly voice.)
+
+The visitor is one of the following beings:
+
+- A skeletal figure in tattered robes, with flickering pinpoints of light in its eye sockets (a lich or other powerful undead spellcaster)
+- A ghostly, translucent figure of a robed human whose face shifts and changes (a ghost or other incorporeal undead)
+- An angelic figure with tattered wings and a halo of flickering shadow (a fallen angel or other celestial being)
+- A gaunt, pale humanoid with pupilless eyes and an unsettling smile (a night hag or other fiend)
+- A shrouded, faceless figure that seems to shift and change like smoke (an ancient mummy or other preserved undead)
+
+The visitor may offer information, advice, or cryptic clues related to the characters' current situation or goals. It might ask for something in return, such as performing a task, offering a gift, or promising a future favor. The visitor could also issue a warning,

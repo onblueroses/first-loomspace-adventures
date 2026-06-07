@@ -1,0 +1,8 @@
+ "The kakapo is critically endangered; as of February 2012, with an additional six from the first hatchings since 2002, the total known population is only 124 living individuals, as reported by the Kakapo Recovery programme, most of which have been given names." The numbers given vary slightly between different sentences on the page, but it is clear that there are only a few hundred at most.
+
+You could argue that this number is not "vanishingly small" and that 124 individuals is still quite a lot, but then the question of what exactly is meant by "vanishingly small" is not defined in the question. It is a subjective term, and I would say that a population of 124 is indeed pretty close to "vanishingly small" in the context of species population.
+
+Therefore, my answer is the kakapo.
+
+• Congratulations to Gareth for the only correct answer so far. I was looking for a species population that had been reduced to a small number of individuals, on the order of 100. While the kakapo is not the only species to have suffered this fate, it has a notably small population. – FlanMan Feb 2 '18 at 5:05
+• @FlanMan I wasn

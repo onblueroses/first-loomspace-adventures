@@ -1,0 +1,24 @@
+ "Hello, I'm a representative from the local environmental organization. We're conducting a survey about river ecosystems and their importance to the community. Do you have a few minutes to answer some questions?"
+
+Player response:
+
+1. "Sure, I'd be happy to help." (Proceed to the survey questions)
+2. "I'm busy right now, but can I take the survey online later?" (Receive information about the online survey)
+
+If the player chooses to participate in the survey, the representative asks a series of questions related to river ecosystems:
+
+1. "How familiar are you with the concept of a river ecosystem?"
+   a) Very familiar
+   b) Somewhat familiar
+   c) Not very familiar
+   d) Not at all familiar
+
+2. "In your opinion, what is the most important function of a river ecosystem?"
+   a) Providing habitat for aquatic species
+   b) Regulating water quality
+   c) Supporting recreational activities
+   d) Controlling floods
+
+3. "Have you personally observed any changes in the local river ecosystem over the past few years?"
+   a) Yes, positive changes (e.g., improved water quality, increased biodiversity)
+   b) Yes, negative changes (e.g., pollution, loss of species)

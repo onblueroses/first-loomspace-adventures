@@ -1,0 +1,35 @@
+ "In the next few steps, we'll look at how to create a simple HTML document that contains text, lists, tables, and images."
+
+This is a single paragraph, with a line break in the middle. This line break was created using the `<br>` element.
+
+## Horizontal Rules
+
+Horizontal rules represent a thematic break between paragraph-level elements. In earlier versions of HTML, they were used to draw horizontal lines or separators on the page.
+
+---
+
+This is a horizontal rule, created using the `<hr>` element. It represents a thematic break between the previous section and this one.
+
+## Comments
+
+Comments are used to add notes or reminders within the HTML code. They are not displayed on the web page.
+
+<!-- This is a comment. It will not be displayed on the web page. -->
+
+## Blockquotes
+
+Blockquotes are used to represent content that is quoted from another source.
+
+> This is a blockquote. It is typically indented and may have a different background color or font style to distinguish it from the surrounding text.
+
+Blockquotes can also be nested:
+
+> This is the first level of quoting.
+>
+> > This is nested blockquote.
+>
+> Back to the first level.
+
+## Preformatted Text
+
+The `<pre>` element represents preformatted text which is

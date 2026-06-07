@@ -1,0 +1,11 @@
+Based on the text you've provided, here is a continuation that elaborates on a key aspect mentioned—**convection currents and plate driving forces**—and introduces a related concept:
+
+**Continuation:**
+
+While convection in the mantle is a primary driver, the motion of tectonic plates is now understood to be driven by a combination of forces, often described as "ridge push" and "slab pull."
+
+*   **Slab Pull:** This is widely considered the most significant force. At convergent boundaries, the cold, dense oceanic lithosphere sinks into the mantle in a process called subduction. The weight of this descending slab "pulls" the rest of the plate behind it.
+*   **Ridge Push:** At mid-ocean ridges, the newly formed lithosphere is hot and elevated. As it cools and moves away, it slopes downward. The gravitational potential energy of this elevated ridge system pushes the lithosphere away from the ridge axis.
+*   **Mantle Drag:** The convection currents in the asthenosphere can either exert a shear traction on the base of plates, aiding their motion, or resist it, depending on the direction of flow.
+
+The interplay of these forces determines the speed and direction of plate movement. For instance, plates attached to large,

@@ -1,0 +1,5 @@
+ "The kakapo is critically endangered; as of February 2012, there were only 126 living individuals known,[4] all of which have been given names.[5] The common ancestor of the kakapo and the genus Nestor became isolated from the remaining parrot species when New Zealand broke off from Gondwana, around 82 million years ago. Around 70 million years ago, the kakapo diverged from the genus Nestor.[6] In the absence of mammalian predators, it lost the ability to fly. Because of Polynesian and European colonisation and the introduction of predators such as cats, rats, and stoats, the kakapo was almost wiped out. Conservation efforts began in the 1890s, but they were not very successful until the implementation of the Kakapo Recovery Plan in the 1980s. As of February 2012, surviving kakapo are kept on three predator-free islands, Codfish (Whenua Hou), Anchor and Little Barrier islands, where they are closely monitored."
+
+### Step 2
+
+2 **Write a summary of the article.** Now that you've read the article, it's time to summarize it. A summary is a condensed version of the original article, containing the most important

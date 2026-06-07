@@ -1,0 +1,13 @@
+The passage provides a clear and concise overview of plate tectonics, a foundational theory in geology. Here's a structured breakdown of the key points, along with some additional context:
+
+### **Core Concepts Summarized**
+
+1.  **Definition:** Plate tectonics is the theory that Earth's rigid outer shell (**lithosphere**) is divided into moving pieces (**tectonic plates**).
+2.  **Historical Development:** It evolved from the earlier hypothesis of **continental drift** and gained widespread acceptance after the discovery of **seafloor spreading** in the mid-20th century.
+3.  **Plate Structure & Motion:**
+    *   The lithosphere consists of **7-8 major plates** and many minor ones.
+    *   Plates move relative to each other at speeds of **0-100 mm/year**.
+    *   This motion is driven by **mantle convection currents** beneath the weaker **asthenosphere**.
+4.  **Plate Boundaries:** The three main types, defined by the plates' relative motion, are where most geological activity occurs.
+    *   **Divergent:** Plates move apart (e.g., mid-ocean ridges, continental rifts).
+    *   **Convergent:** Plates move together, often with

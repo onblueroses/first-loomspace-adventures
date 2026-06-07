@@ -1,0 +1,9 @@
+ "I am from the city council. We are doing a survey of the residents in this area. May I ask you a few questions?"
+
+The resident at the door replies. "Sure, I have a few minutes. What do you want to know?"
+
+The visitor explains. "We are interested in learning about how satisfied people are with living in this neighborhood. Can you tell me what you like and dislike about living here?"
+
+The resident thinks for a moment before responding. "Well, I really like the convenience of the location. It's close to my work and there are plenty of shops and restaurants nearby. The neighbors are generally friendly and there's a good community feel. However, there are a few things I don't like. The traffic can be quite heavy at times, especially during rush hour. And the noise from the main road can be bothersome, particularly at night. Also, I wish there were more green spaces or parks in the area. It would be nice to have somewhere to go for a walk or a picnic without having to drive somewhere."
+
+The visitor nods and takes notes. "Thank you for your feedback. It's valuable for us to understand the perspectives of the residents. We will take your comments into consideration as we plan for future improvements in the area

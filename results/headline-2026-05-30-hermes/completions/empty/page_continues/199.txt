@@ -1,0 +1,17 @@
+ "You will not have to do anything with the driver if you are using a Linux kernel 3.0 or later, since the driver is included in these newer kernels." So I guess I don't have to do anything since I have Linux kernel 3.2.0.
+
+I ran `lsusb` and this is the output:
+
+\begin{code}
+Bus 001 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
+Bus 002 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 001 Device 003: ID 0a5c:21d7 Broadcom Corp.
+Bus 002 Device 003: ID 0a5c:21d7 Broadcom Corp.
+\end{code}
+
+I also ran `usb-devices` and I get this:
+
+\begin{code}
+T:  Bus=01 Lev=00 Prnt=00 Port=00 Cnt=00 Dev#=  1

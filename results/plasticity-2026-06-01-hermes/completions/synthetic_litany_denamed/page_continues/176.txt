@@ -1,0 +1,15 @@
+ "Then make the Sign of the Opening on the ground before you, and the way shall be opened."
+
+This passage, which you have read, is the key to opening the gate to the Abyss of Hallas. The names are those of the ancient guardians of the Abyss, and the Sign of the Opening is a complex magical symbol that must be drawn on the ground before the gate.
+
+If you wish to proceed and open the gate, you must speak the names aloud and draw the Sign of the Opening on the ground before you. Be warned, however, that once the gate is opened, there is no turning back. You will be committed to facing the challenges and dangers that lie within the Abyss of Hallas.
+
+Do you wish to proceed and open the gate? (YES/NO)""")
+
+    choice = input("> ").upper()
+
+    if choice == "YES":
+        print("""
+You take a deep breath and begin to speak the names aloud, your voice trembling slightly with anticipation and fear. As you utter the final name, you kneel down and carefully draw the Sign of the Opening on the ground before the gate, using a stick to trace the intricate lines and curves of the magical symbol.
+
+As you complete the final stroke of the symbol, the ground begins to trem

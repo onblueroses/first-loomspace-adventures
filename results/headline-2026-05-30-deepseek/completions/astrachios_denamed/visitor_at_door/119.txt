@@ -1,0 +1,79 @@
+ Say:
+
+What do you seek?
+
+He says:
+
+I seek the house of the wise.
+
+Say:
+
+You have found it. What do you want?
+
+He says:
+
+I seek the Gate.
+
+Say:
+
+The Gate is open.
+
+He says:
+
+I seek the Light.
+
+Say:
+
+The Light shines.
+
+He says:
+
+I seek the Crown.
+
+Say:
+
+The Crown is bestowed.
+
+He says:
+
+I seek the Crown of the Light.
+
+Say:
+
+The Crown of the Light is bestowed.
+
+He says:
+
+I seek the Crown of the Light of the Gate.
+
+Say:
+
+The Crown of the Light of the Gate is bestowed.
+
+He says:
+
+I seek the Crown of the Light of the Gate of the House.
+
+Say:
+
+The Crown of the Light of the Gate of the House is bestowed.
+
+He says:
+
+I seek the Crown of the Light of the Gate of the House of the Wise.
+
+Say:
+
+The Crown of the Light of the Gate of the House of the Wise is bestowed.
+
+He says:
+
+I seek the Crown of the Light of the Gate of the House of the Wise of the Lord.
+
+Say:
+
+The Crown of the Light of the Gate of the House of the Wise of the Lord is bestowed.
+
+He says:
+
+I seek the Crown of the Light of the Gate of the House of

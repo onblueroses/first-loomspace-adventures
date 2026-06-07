@@ -1,0 +1,21 @@
+ “This invocation is to be written upon a strip of new papyrus, which thou shalt fumigate with the smoke of myrrh and saffron; and thou shalt bind it about thy temples when thou sayest the invocation.”
+
+Now, I must say that I don't believe in magic, but I find this kind of thing fascinating, especially as it has been passed down through the ages. I do wonder what the original author would think of the fact that his words are still being passed around, even after all this time.
+
+What do you think? Do you find this kind of thing interesting, or is it just silly nonsense? I'd love to hear your thoughts. 
+
+Anyway, thanks for indulging me in this little bit of history. I hope you found it as interesting as I did.
+
+Best,
+
+[Your Name]"""
+
+    return body
+
+def get_subject_line():
+    return "A Curious Invocation"
+
+def get_email_body_and_subject():
+    body = get_email_body()
+    subject = get_subject_line()
+    return body, subject

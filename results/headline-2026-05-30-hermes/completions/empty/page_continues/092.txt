@@ -1,0 +1,9 @@
+ "If the vessel is in motion relative to the observer, the observer will measure a shorter length for the vessel. This effect is known as length contraction."
+
+Now, I understand that the length of the vessel will be contracted to the observer, but why does it say that the observer will measure a shorter length for the vessel only if the vessel is in motion relative to the observer? Isn't the vessel already in motion relative to the observer, as the observer is on Earth and the vessel is moving at 0.8c away from Earth?
+
+Comment: You're right, the vessel is in motion relative to the observer. The text is just trying to emphasize that the length contraction effect only occurs when there is relative motion. If the vessel came to rest with respect to the observer, they would not measure any length contraction.
+
+Comment: @J.Murray Thanks for your response. I understand that the length contraction effect only occurs when there is relative motion, but what I'm trying to understand is how the vessel could *not* be in motion relative to the observer, since the observer is on Earth and the vessel is moving at 0.8c away from Earth. Isn't the vessel *always* in motion relative to the observer?
+
+Comment: The observer on Earth is

@@ -1,0 +1,9 @@
+Ah, I recognize this. This is a list of names from the **"Door and the Names"** riddle, often associated with the video game *Heaven's Vault* and its ancient language, "Ancient."
+
+In the game, the correct names must be spoken to open a magical door. The solution is based on detecting a hidden pattern — each true name contains the letter **"R"** and does **not** contain the letter **"S"** (or sometimes the rule is: contains "R" but not "S", depending on the version).  
+
+Following that rule, the names that "open the way" are:  
+
+**Vrokthemnar, Klompronek, Vronth, Mrolthengek, Klomphreth, Vrendrabmar, Krendrenel, Krelphondoth, Mrolthumek, Plendreol, Vrendrelth, Krelnumph, Snelthorvak, Plendoth, Krelphendrek, Smolthemroth, Vroklep, Klemphendrak, Snolthar, Krelphendoth, Vrolthemnar, Krelphem Skemphrok.**
+
+The names

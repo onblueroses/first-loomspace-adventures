@@ -1,0 +1,11 @@
+Thank you for this detailed overview of plate tectonics. It clearly summarizes the key aspects of the theory. Building on the text you provided, here are some additional important points and clarifications:
+
+### Key Drivers of Plate Motion
+While the text mentions convection currents as a primary driver, modern understanding often describes a combination of forces:
+1.  **Ridge Push:** At mid-ocean ridges, the new, elevated lithosphere slides downhill due to gravity.
+2.  **Slab Pull:** At subduction zones, the sinking of a cold, dense oceanic plate into the mantle is the strongest driving force, pulling the rest of the plate behind it.
+3.  **Mantle Convection:** The large-scale flow of hot rock from the deep mantle provides the overarching framework and thermal energy for these processes.
+
+### Types of Crust and Their Fate
+*   **Oceanic Crust:** Thin (~5-10 km), dense (basaltic), and relatively young (never older than ~200 million years). It is continuously created at divergent boundaries and destroyed at convergent boundaries.
+*   **Continental Crust:** Thick (~20-70 km), less dense (granitic), and can be billions of years old. Because it is buoyant, it is

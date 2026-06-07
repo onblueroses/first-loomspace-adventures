@@ -1,0 +1,27 @@
+ The door opens.
+
+The doorkeeper says:
+
+The way is open.
+
+And the visitor enters.
+
+### The Doorkeeper's Response
+
+The doorkeeper's response indicates whether the visitor is granted entry or not. If the doorkeeper says "The way is open," it means the visitor has successfully gained entry by speaking the correct names. If the doorkeeper remains silent or says anything else, it indicates the visitor is not granted entry, likely because they did not recite the names correctly.
+
+## The Names and Their Origins
+
+The names recited in the ritual are a mix of various origins, including:
+
+- Hebrew and pseudo-Hebrew names, like Adonai and Elohim, which are names of God in Judaism
+- Names of angels and demons from various grimoires and magical traditions
+- Made-up or corrupted names, likely derived from older sources or created by the author
+
+The exact origins and meanings of many of these names are unclear, as they are often derived from a mix of real and fictitious sources, with many variations and corruptions over time.
+
+## In Popular Culture
+
+The ritual has been referenced in various works of fiction, such as:
+
+- The 1992 horror film "Candyman," where the titular character can be summoned by saying his

@@ -1,0 +1,17 @@
+ "You can use the following formula to calculate the expected return of the portfolio:
+
+E(Rp) = w1R1 + w2R2
+
+Where:
+- E(Rp) is the expected return of the portfolio
+- w1 and w2 are the weights of assets 1 and 2 in the portfolio, respectively (note: w1 + w2 = 1)
+- R1 and R2 are the expected returns of assets 1 and 2, respectively"
+
+This looks like a typical weighted average formula. It would be great if you could confirm whether the expected return of the portfolio is simply the weighted average of the expected returns of the individual assets in the portfolio.
+
+Yes, that's correct. The expected return of a portfolio is indeed the weighted average of the expected returns of the individual assets in the portfolio.
+
+The formula you provided, E(Rp) = w1R1 + w2R2, is a specific case for a portfolio consisting of two assets. Here, w1 and w2 represent the weights (proportions) of the total portfolio value invested in assets 1 and 2, respectively, and R1 and R2 are their respective expected returns.
+
+This concept can be extended to a portfolio with n assets:
+

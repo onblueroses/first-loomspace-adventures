@@ -1,0 +1,8 @@
+To determine what enters a room, more context is needed. For example:
+
+- If a **person** opens the door and steps inside, then the person enters.  
+- If **light** comes through an open window or door, then light enters.  
+- If a **sound** or **smell** drifts in from outside, then that enters the room.  
+- If it's a **riddle or metaphor**, common answers might be “light,” “a secret,” “cold air,” etc.
+
+Could you provide more details or clarify the situation?

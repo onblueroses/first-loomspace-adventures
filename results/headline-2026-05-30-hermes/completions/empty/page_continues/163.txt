@@ -1,0 +1,7 @@
+ "The US-ASCII character set is a subset of UTF-8. Since US-ASCII is valid UTF-8, you can specify text/html;charset=UTF-8 even for documents that are encoded using US-ASCII."
+
+I know there are other questions about this topic, but I'm still confused. How can US-ASCII be a subset of UTF-8 if it only includes 128 characters, and UTF-8 includes way more? And how can a document be valid UTF-8 and US-ASCII at the same time?
+
+Answer: The character encodings US-ASCII and UTF-8 are based on the same character set, which is (a subset of) the Universal Character Set (UCS). US-ASCII uses only the first 128 characters of it, whereas UTF-8 uses the full character set.
+
+UTF-8 is designed so that the first 128 characters are encoded in a way that is identical to the encoding of the characters in US-ASCII. More exactly, single-byte codes in UTF-8 utilize the 7-bit encoding range 0 to 127 (hex 0 to 7F), and they map to the same characters as in US-ASCII. Multi-byte codes utilize the remaining part, the 8-bit encoding range

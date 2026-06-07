@@ -1,0 +1,8 @@
+ "By speaking these names, the way to the shrine of Skemphrok will be opened."
+
+The rest of the book contains numerous other rituals, spells, and lore, but nothing directly pertaining to Skemphrok or the shrine. 
+
+What do you do?
+
+- [Continue exploring the shrine](explore.md)
+- [Return to the surface](surface.md)

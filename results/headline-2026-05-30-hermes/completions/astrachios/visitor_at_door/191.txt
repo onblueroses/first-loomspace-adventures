@@ -1,0 +1,23 @@
+ "I have come to learn."
+
+The doorkeeper, without opening the door, says: "To learn is to remember. Do you remember the first word?"
+
+The visitor speaks the first word. If the word is correct, the doorkeeper opens the door; otherwise, the door remains closed.
+
+The doorkeeper says: "Enter, and be welcome."
+
+The visitor enters the house.
+
+The doorkeeper says: "To remember is to learn. What have you come to learn?"
+
+The visitor states the reason for his or her visit.
+
+The doorkeeper says: "Wisdom is not given, it is earned. Are you willing to earn it?"
+
+The visitor answers yes or no. If the answer is yes, the doorkeeper continues; if the answer is no, the doorkeeper tells the visitor to leave.
+
+The doorkeeper says: "The price of wisdom is loyalty. Will you swear loyalty to the wisdom you seek, to those who share it with you, and to those you will teach it to in your turn?"
+
+The visitor answers yes or no. If the answer is yes, the doorkeeper continues; if the answer is no, the doorkeeper tells the visitor to leave.
+
+The doorkeeper says: "Swear this oath, then: 'In the presence

@@ -1,0 +1,9 @@
+ "In other words, there is no reason to assume that the next number in the sequence will be 4.5 just because the previous numbers were 1, 2, and 3. This assumption is based on the pattern we've seen so far, but it's not guaranteed to continue."
+
+In other words, the page is arguing that you can't assume that a sequence will continue in the same pattern just because it has followed that pattern up until now. This is a valid point, and it's an important concept in mathematics and logic.
+
+However, the page then goes on to say: "This is a common mistake that people make when trying to predict the future based on past events. They assume that just because something has happened a certain way in the past, it will continue to happen that way in the future. But this is not always the case."
+
+This is where the page goes off the rails. The page is conflating two different concepts: mathematical sequences and real-world events.
+
+In mathematics, a sequence is a list of numbers that follows a specific pattern. For example, the sequence 1, 2, 3, 4, 5,... follows the pattern of adding 1 to each number to get the next number in the sequence

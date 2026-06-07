@@ -1,0 +1,17 @@
+ "For example, you can use the following command to install the full GNOME desktop environment with the GNOME Shell:
+```
+yum groupinstall "GNOME Desktop Environment"
+```
+This command will install the GNOME desktop environment, including the GNOME Shell and the GNOME Classic session, as well as additional applications and utilities specific to GNOME."
+
+It seems that the answer to the question is that "GNOME Desktop Environment" is the correct name for the group, and that "GNOME Desktop" is not a valid name for any package group. Is this correct?
+
+I think the "GNOME Desktop" package group name is probably just a mistake in the documentation. As you point out, the actual package group is "GNOME Desktop Environment". I'll file a bug report to get this fixed.
+
+Thank you for the report. The documentation has been updated to use the correct package group name:
+
+  - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/getting-started-with-networkmanager_configuring-and-managing-networking#nmcli_examples-managing-connection-profiles_getting-started-with-networkmanager
+
+The updated text will be online soon.
+
+Hi, thanks for your feedback. We have a bug in the system

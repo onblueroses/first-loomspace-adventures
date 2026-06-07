@@ -1,0 +1,15 @@
+ If the visitor's name is on the list, the door opens and allows them to enter. If not, the door remains closed. The door can also be opened by any key imbued with the magic of the Open Portal spell.
+
+### 29. Audience Chamber
+This grand hall is where the council of High Hold receives visitors and holds court. The chamber is brightly lit by everburning torches in sconces along the walls. A raised dais at the far end holds a semicircle of seven ornate stone thrones for the council members. Intricate geometric patterns are inlaid in the polished stone floor. 
+
+Banners hang on the walls depicting the heraldry of the council members' houses. From left to right:
+- House Mendarn - a silver owl on a blue field 
+- House Kelver - a black tower on a red field
+- House Ildrys - a gold dragon on a green field
+- House Varro - a white rose on a purple field 
+- House Tormund - a red lion on a gold field
+- House Elenwe - a green tree on a silver field
+- House Keldorn - a blue sword on a white field
+
+When court is in session, the council members sit

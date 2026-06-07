@@ -1,0 +1,21 @@
+ "It is I, [name], who demands entry."
+
+The host answers. "By what right do you demand entry?"
+
+The visitor answers. "By the right of the key, the lock, and the secret word. Let the key pass. Let the lock open. Let the secret word be spoken."
+
+The host answers. "Speak the secret word."
+
+The visitor answers. "Tenebrae."
+
+The host answers. "The key has passed. The lock has opened. The secret word has been spoken. Enter."
+
+The door opens. The visitor enters. The door is closed and locked again.
+
+The host speaks. "You have entered by the key, the lock, and the secret word. Be welcome, in the name of the mysteries we celebrate this night. What is your name?"
+
+The visitor answers, giving his or her mundane name.
+
+The host speaks. "In recognition of your entry by the key, the lock, and the secret word, I grant you a mystic name. By that name you shall be known within this space. Arise, [mystic name], and receive the mark of the sanctuary."
+
+The visitor rises. The host marks his or her forehead with the sacred oil, tracing the symbol of the downward-pointing triangle.

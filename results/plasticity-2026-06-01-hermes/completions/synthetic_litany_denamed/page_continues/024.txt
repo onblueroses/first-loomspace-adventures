@@ -1,0 +1,17 @@
+ "When these names are spoken, the veil parts and the spirits of the dead will come forth, compelled to answer the questions of the living. Speak these names to close the veil again:"
+
+Kharath, Lemisorath, Lemisorath, Kharath.
+
+The book continues: "And the spirits of the dead will return to their rest, the veil will close, and the living must not disturb them again that night."
+
+The player can then choose to either close the veil or ask the spirits a question. If the player chooses to close the veil, the ritual ends. If the player asks a question, the spirits will answer cryptically and the player can either ask another question or close the veil.
+
+The spirits' answers will be cryptic and may require interpretation. For example:
+
+Player: "Spirits, what is the key to happiness?"
+
+Spirits: "The key lies within, in the balance of light and shadow. Seek it in the quiet places, where the heart speaks true."
+
+Player: "Spirits, what lies in my future?"
+
+Spirits: "Many paths unfold before you, each with its own trials and triumphs. The choices you make shall be your guides. Tread carefully, for destiny is a tape

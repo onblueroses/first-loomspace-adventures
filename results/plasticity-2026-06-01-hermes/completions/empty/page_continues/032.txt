@@ -1,0 +1,35 @@
+ "The following example demonstrates this by using the `sizeof` operator to determine the size of the object that the array decays to." This means that you can determine the size of the array that the object decays to by using the `sizeof` operator.
+
+The example code provided is:
+
+```c
+#include <iostream>
+using namespace std;
+
+void myFunction(int *x) {
+    cout << "x = " << x << endl;
+    cout << "*x = " << *x << endl;  // dereference
+    cout << "sizeof(x) = " << sizeof(x) << endl;
+    cout << "sizeof(*x) = " << sizeof(*x) << endl;
+}
+
+int main() {
+    int a[] = {1, 2, 3, 4, 5};
+    myFunction(a);
+    cout << "sizeof(a) = " << sizeof(a) << endl;
+    return 0;
+}
+```
+
+The output of this program is:
+
+```
+x = 0x7fff5fbff930
+*x = 1
+sizeof(x) = 8
+sizeof(*x) = 4
+sizeof(a) = 20
+```
+
+This output shows that:
+- `x` is a

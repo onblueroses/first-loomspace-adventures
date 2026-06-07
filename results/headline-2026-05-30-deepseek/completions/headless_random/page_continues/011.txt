@@ -1,0 +1,12 @@
+Based on the provided text, here is a summary of the key points about plate tectonics:
+
+*   **Core Theory:** It explains that Earth's outer shell (the lithosphere) is divided into large, moving plates that have been in motion for billions of years.
+*   **Plate Boundaries:** The interaction at the edges of these plates creates three main boundary types:
+    *   **Convergent** (plates collide)
+    *   **Divergent** (plates move apart)
+    *   **Transform** (plates slide past each other)
+*   **Geological Activity:** These boundaries are the primary sites for major geological events like **earthquakes, volcanoes, mountain-building, and oceanic trench formation**.
+*   **Driving Mechanism:** Plate movement is powered by **convection currents** in Earth's mantle. The plates, which are strong and rigid, glide over the weaker, flowing asthenosphere below.
+*   **Key Processes:**
+    *   **Seafloor Spreading:** At divergent boundaries (mid-ocean ridges), new oceanic crust is formed as plates move apart.
+    *   **Subduction:** At convergent boundaries, denser oceanic plates sink (subduct) back into the mantle, recycling crust and keeping the total

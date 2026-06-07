@@ -1,0 +1,29 @@
+ If the name is unknown, the doorkeeper speaks.
+
+Doorkeeper: Who are you that comes to the door of the mysteries?
+
+Visitor: I am a seeker of the mysteries and a student of the path.
+
+Doorkeeper: Why have you come here?
+
+Visitor: I have come to learn the mysteries and to study the path of wisdom.
+
+Doorkeeper: How do you know of this place?
+
+Visitor: I was brought here by [Name of introducer], who is a student of the mysteries.
+
+Doorkeeper: Are you prepared to take the obligations of a student of the mysteries?
+
+Visitor: I am.
+
+Doorkeeper: Then enter, and may the blessings of the mysteries be with you.
+
+The doorkeeper admits the visitor, and the ritual continues. The master of the lodge speaks.
+
+Master: Welcome, seeker of the mysteries. You have been brought to this place to learn the first of the great secrets. Are you prepared to take the obligation of a student of the mysteries?
+
+Visitor: I am.
+
+Master: Then kneel on your right knee, place your right hand on your heart, your left hand on this book of the sacred science, and repeat after me:
+
+I, [Name], of my own free will and accord, in the presence of the Grand Lodge

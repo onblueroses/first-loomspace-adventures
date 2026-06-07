@@ -1,0 +1,9 @@
+ “Say this three times, holding thy thumbs between thy fingers, and it shall be done.”
+
+The second page of the manuscript is written in a different hand, and in a different ink. It is in English, and reads:
+
+The keye to the cipher is the name of the first city built by man. The alphabet is unaltered, save for the last letter, which is to be used in place of the first. The order is reversed, such that the last shall be first and the first last.
+
+I have been unable to decipher this clue. The name of the first city built by man, according to biblical tradition, is Enoch, built by Cain in the land of Nod. This name is evidently the key to the cipher; but the instructions that follow are unclear. Is one to reverse the alphabet, and then replace the final letter with the first? Or to replace the first letter with the final letter, and then reverse the order of the alphabet? In either case, the resulting alphabet is not a simple cipher, but a complex and confusing one. I have tried both approaches, and neither yields a sensible result.
+
+The third page of the manuscript is in the same hand and ink as the second, and contains a series of seemingly random letters,

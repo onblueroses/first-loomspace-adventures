@@ -1,0 +1,20 @@
+ A shot rings out, and the man with the rifle collapses to the floor. The man with the pistol stands over him, looking down at the body. He speaks to the man on the floor.
+
+Pistol Man: (to the man on the floor) You should have never come here. You should have never tried to take what's mine.
+
+The man with the pistol then turns and walks out of the room, leaving the body of the man with the rifle behind.
+
+FADE OUT.
+
+THE END.]]>
+    </script>
+  </item>
+</root>
+```
+In this XML representation, the screenplay is enclosed within a <root> element, and each scene is represented by an <item> element. The <title> element contains the title of the screenplay, and the <description> element provides a brief description or summary.
+
+The <script> element contains the actual screenplay content, with the text enclosed in a CDATA section to preserve any special characters or formatting. The screenplay itself follows a specific format, with scene headings, action descriptions, character names, and dialogue.
+
+This XML structure allows for easy parsing and processing of the screenplay data, enabling various applications such as search, analysis, or transformation into other formats. XML Parser
+
+An XML parser is a

@@ -1,0 +1,1 @@
+ If the visitor speaks one of the names, the door opens. If the visitor does not speak one of the names, the door remains closed.

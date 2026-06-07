@@ -1,0 +1,9 @@
+ "In order to ensure that the system is working correctly, the researchers have to be able to observe and analyze the behavior of the system. This is where observability comes in. Observability is the ability to measure the internal states of a system by examining its outputs. In other words, it is the ability to infer what is happening inside the system based on what can be observed from the outside.
+
+In the context of AI systems, observability is crucial for understanding how the system is making decisions and identifying any potential issues or biases. By monitoring the inputs, outputs, and internal states of the AI system, researchers can gain insights into its behavior and make necessary adjustments to improve its performance.
+
+Observability is closely related to the concept of explainable AI (XAI), which aims to make AI systems more transparent and understandable to humans. XAI techniques, such as generating human-readable explanations for AI decisions, can help improve the observability of AI systems by providing insights into their decision-making processes.
+
+However, achieving observability in AI systems can be challenging, especially for complex deep learning models that can have millions of parameters. Researchers are developing new tools and techniques to improve the observability of AI systems, such as using visualization techniques to understand the internal representations learned by neural networks.
+
+In

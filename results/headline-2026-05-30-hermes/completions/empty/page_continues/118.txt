@@ -1,0 +1,7 @@
+ "In these two ways, the electron's spin magnetic dipole moment is responsible for the magnetism of ordinary matter."
+
+The link you provided is a bit misleading. The electron's spin magnetic dipole moment is certainly responsible for some magnetism, but definitely not all. Magnetism in ordinary matter usually refers to mostly two types of magnetism, which are ferromagnetism and paramagnetism. I will ignore the other types of magnetism, since they are not relevant to the question.
+
+To explain paramagnetism, one must consider that the electron's magnetic dipole moment is not only determined by its spin, but also by its orbital motion around the nucleus. The spin and orbital magnetic moments of an electron can interact with an external magnetic field, and align along the direction of the external magnetic field. The magnetic moments being aligned in the direction of the external magnetic field causes matter to become magnetized. This is known as paramagnetism.
+
+Now, to explain ferromagnetism, one must consider that electrons not only interact with external magnetic fields, but also interact with each other. Electrons with aligned magnetic moments can interact and "force" other nearby electrons to align their magnetic moments as well. This interaction is known as the exchange interaction. The exchange interaction causes many

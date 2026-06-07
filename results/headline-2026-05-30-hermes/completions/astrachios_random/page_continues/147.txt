@@ -1,0 +1,10 @@
+ "It is the world's only flightless parrot, the heaviest parrot, and is critically endangered. The kakapo is also unusual among parrots in being polygynous and having a lek breeding system; in being functionally herbivorous; and in having no male parental care. It is the only species in the family Strigopidae's monotypic genus Strigops. Adult kakapos are about 58 to 64 centimetres in length, and weigh from 0.95 to 4 kilograms at maturity."
+
+This passage is notable for its dense concentration of specialized terminology from biology. The terms "polygynous", "lek breeding system", "functionally herbivorous", "male parental care", "family", "monotypic genus", and "species" are all technical terms from biology. 
+
+This passage uses a number of specialized terms from biology:
+
+- "polygynous" - a mating system in which a male mates with multiple females
+- "lek breeding system" - a mating system in which males gather in a specific area (a "lek") and compete for the attention of visiting females
+- "functionally herbivorous" - an animal that primarily eats plants
+- "male parental

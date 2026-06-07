@@ -1,0 +1,47 @@
+ (If the visitor is male, he says “Servant of the Art”; if female, “Handmaid of the Art.”)
+
+Servant/Handmaid of the Art, I ask entrance to the lodge of the Grimoire of the Necromancer.
+
+The doorkeeper speaks.
+
+By what right do you ask entrance?
+
+The visitor speaks.
+
+By the right of the secret signs, tokens, and words.
+
+The doorkeeper speaks.
+
+Then give me the sign.
+
+The visitor raises his or her right hand to the forehead, and then lowers it to the heart.
+
+The doorkeeper speaks.
+
+Give me the token.
+
+The visitor and the doorkeeper join hands, with the fingers of each clasping the wrist of the other.
+
+The doorkeeper speaks.
+
+Speak the word.
+
+The visitor speaks.
+
+Lumen.
+
+The doorkeeper speaks.
+
+Pass, Servant/Handmaid of the Art.
+
+The doorkeeper opens the door and allows the visitor to enter. The doorkeeper then closes the door. The visitor advances to the west side of the altar, facing the Celebrant. The Celebrant speaks.
+
+Servant/Handmaid of the Art, by what path have you come?
+
+The visitor speaks.
+
+By the path of the serpent.
+
+The Celebrant speaks.
+
+And by what light

@@ -1,0 +1,19 @@
+ What do you have to say for yourself, traveler?
+
+*The visitor may now speak and make their case for why they should be granted entrance. The GM should listen to their story and ask questions as needed to clarify details.*
+
+*If the visitor's story is deemed satisfactory, the GM may allow them entrance with a word of caution:*
+
+Very well, you may enter. But know that the eyes of this place are upon you. Conduct yourself with care.
+
+*If the visitor's story is lacking or unconvincing, the GM may deny them entrance:*
+
+I'm afraid I cannot permit you to enter based on what you've told me. This place is not for the unprepared or the unworthy. I must bid you farewell.
+
+*The GM closes the viewing slot and the heavy door remains sealed. The visitor may try to persuade or bargain, but the guardian will be resolute in their decision.*
+
+*If the visitor becomes hostile or attempts to force their way in, the GM will respond in kind, revealing the defenses of the sanctuary:*
+
+You dare to threaten the sanctity of this place? Then face the consequences of your folly!
+
+*Traps, magical wards, and guardians will be unleashed upon the foolish interloper. The price for their trans

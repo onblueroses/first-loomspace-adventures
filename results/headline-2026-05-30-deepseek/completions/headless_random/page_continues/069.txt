@@ -1,0 +1,11 @@
+Based on the provided text, here is a summary and an extension of the key concepts:
+
+### Summary of Key Points:
+1.  **Definition:** Plate tectonics is the theory that Earth's rigid outer layer (the lithosphere) is divided into plates that move slowly over geological time.
+2.  **Historical Development:** It evolved from the earlier idea of continental drift and became widely accepted after the validation of seafloor spreading in the mid-20th century.
+3.  **Plate Boundaries:** The interaction of plates at their boundaries creates three main types:
+    *   **Convergent:** Plates collide, causing subduction, mountain building, and trenches.
+    *   **Divergent:** Plates move apart, creating new crust (e.g., at mid-ocean ridges).
+    *   **Transform:** Plates slide past each other horizontally.
+4.  **Driving Mechanism:** Movement is driven by convection currents in the Earth's mantle. The plates move because the underlying asthenosphere is weaker (more ductile) than the rigid lithosphere above it.
+5.  **Conveyor Belt Principle:** The system is balanced; new crust is created at divergent boundaries, and old crust is recycled back into the mantle at convergent boundaries, keeping the planet

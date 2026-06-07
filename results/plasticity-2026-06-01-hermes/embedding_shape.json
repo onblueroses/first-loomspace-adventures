@@ -1,0 +1,1115 @@
+{
+  "run_id": "plasticity-2026-06-01-hermes",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "cells": {
+    "empty/enters_room": {
+      "n": 197,
+      "centroid_norm": 0.47666752338409424,
+      "spread_cos": 0.7787894010543823,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -11048.473260105759
+        ],
+        [
+          2,
+          -6566.642389053581
+        ],
+        [
+          3,
+          -2974.5624869345083
+        ],
+        [
+          4,
+          -7142.428194861823
+        ],
+        [
+          5,
+          -8790.260920916575
+        ]
+      ]
+    },
+    "empty/page_continues": {
+      "n": 200,
+      "centroid_norm": 0.22834919393062592,
+      "spread_cos": 0.9656654596328735,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -9421.012143132446
+        ],
+        [
+          2,
+          -4907.506913722562
+        ],
+        [
+          3,
+          -1217.8771115587733
+        ],
+        [
+          4,
+          -1945.7659251176374
+        ],
+        [
+          5,
+          -5739.288893949939
+        ]
+      ]
+    },
+    "empty/visitor_at_door": {
+      "n": 200,
+      "centroid_norm": 0.556810200214386,
+      "spread_cos": 0.7041192054748535,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -12355.33678912854
+        ],
+        [
+          2,
+          -8443.606156886624
+        ],
+        [
+          3,
+          -4689.404211168148
+        ],
+        [
+          4,
+          -4828.892756172325
+        ],
+        [
+          5,
+          -7757.095900785876
+        ]
+      ]
+    },
+    "synthetic_cosmological/enters_room": {
+      "n": 196,
+      "centroid_norm": 0.6402021050453186,
+      "spread_cos": 0.6166243553161621,
+      "k_best": 2,
+      "bic_curve": [
+        [
+          1,
+          -14552.631590923862
+        ],
+        [
+          2,
+          -19655.44441777443
+        ],
+        [
+          3,
+          -16056.278637447267
+        ],
+        [
+          4,
+          -15250.651187198226
+        ],
+        [
+          5,
+          -16420.39904212497
+        ]
+      ]
+    },
+    "synthetic_cosmological/page_continues": {
+      "n": 200,
+      "centroid_norm": 0.6840507388114929,
+      "spread_cos": 0.5376743674278259,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -14969.88757037854
+        ],
+        [
+          2,
+          -10775.141496242093
+        ],
+        [
+          3,
+          -7109.063634996273
+        ],
+        [
+          4,
+          -7698.8817698442
+        ],
+        [
+          5,
+          -9954.157058012439
+        ]
+      ]
+    },
+    "synthetic_cosmological/visitor_at_door": {
+      "n": 195,
+      "centroid_norm": 0.6577298641204834,
+      "spread_cos": 0.5796588659286499,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -14527.178134646689
+        ],
+        [
+          2,
+          -11488.169268269969
+        ],
+        [
+          3,
+          -11200.644738746276
+        ],
+        [
+          4,
+          -10962.149902826099
+        ],
+        [
+          5,
+          -12986.715522228187
+        ]
+      ]
+    },
+    "synthetic_cosmological_denamed/enters_room": {
+      "n": 196,
+      "centroid_norm": 0.638070821762085,
+      "spread_cos": 0.6090530157089233,
+      "k_best": 2,
+      "bic_curve": [
+        [
+          1,
+          -14503.595702251987
+        ],
+        [
+          2,
+          -19481.195943653336
+        ],
+        [
+          3,
+          -16061.359875240236
+        ],
+        [
+          4,
+          -12958.369937198226
+        ],
+        [
+          5,
+          -17296.04076575778
+        ]
+      ]
+    },
+    "synthetic_cosmological_denamed/page_continues": {
+      "n": 200,
+      "centroid_norm": 0.7019475102424622,
+      "spread_cos": 0.5132388472557068,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -15742.795590398071
+        ],
+        [
+          2,
+          -11600.898332179593
+        ],
+        [
+          3,
+          -8599.883947496273
+        ],
+        [
+          4,
+          -9140.037775703575
+        ],
+        [
+          5,
+          -9552.524367582751
+        ]
+      ]
+    },
+    "synthetic_cosmological_denamed/visitor_at_door": {
+      "n": 198,
+      "centroid_norm": 0.6693845987319946,
+      "spread_cos": 0.5410968065261841,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -15290.542339114898
+        ],
+        [
+          2,
+          -12605.667962712772
+        ],
+        [
+          3,
+          -9965.93091541221
+        ],
+        [
+          4,
+          -9767.531209420238
+        ],
+        [
+          5,
+          -10123.513980234908
+        ]
+      ]
+    },
+    "synthetic_cosmological_nonsense/enters_room": {
+      "n": 193,
+      "centroid_norm": 0.6556591987609863,
+      "spread_cos": 0.5963915586471558,
+      "k_best": 5,
+      "bic_curve": [
+        [
+          1,
+          -15313.141958746437
+        ],
+        [
+          2,
+          -25781.084459725844
+        ],
+        [
+          3,
+          -22767.803503368825
+        ],
+        [
+          4,
+          -22990.226328139735
+        ],
+        [
+          5,
+          -26127.288999712408
+        ]
+      ]
+    },
+    "synthetic_cosmological_nonsense/page_continues": {
+      "n": 200,
+      "centroid_norm": 0.7155795693397522,
+      "spread_cos": 0.4798929691314697,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -16151.779965398071
+        ],
+        [
+          2,
+          -12350.96852260928
+        ],
+        [
+          3,
+          -9975.00296605096
+        ],
+        [
+          4,
+          -8730.439997383262
+        ],
+        [
+          5,
+          -11245.215407621814
+        ]
+      ]
+    },
+    "synthetic_cosmological_nonsense/visitor_at_door": {
+      "n": 200,
+      "centroid_norm": 0.6542787551879883,
+      "spread_cos": 0.5838096141815186,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -14941.854123112915
+        ],
+        [
+          2,
+          -11287.169999660062
+        ],
+        [
+          3,
+          -9950.643835191586
+        ],
+        [
+          4,
+          -8175.569391914512
+        ],
+        [
+          5,
+          -9914.887038481189
+        ]
+      ]
+    },
+    "synthetic_cosmological_random/enters_room": {
+      "n": 181,
+      "centroid_norm": 0.5278714895248413,
+      "spread_cos": 0.7548238039016724,
+      "k_best": 5,
+      "bic_curve": [
+        [
+          1,
+          -11681.671464395535
+        ],
+        [
+          2,
+          -12443.117515255897
+        ],
+        [
+          3,
+          -9836.152074722217
+        ],
+        [
+          4,
+          -14795.15565884674
+        ],
+        [
+          5,
+          -16166.876009328684
+        ]
+      ]
+    },
+    "synthetic_cosmological_random/page_continues": {
+      "n": 197,
+      "centroid_norm": 0.7814872860908508,
+      "spread_cos": 0.3746688961982727,
+      "k_best": 2,
+      "bic_curve": [
+        [
+          1,
+          -18779.4787837874
+        ],
+        [
+          2,
+          -18953.4697892611
+        ],
+        [
+          3,
+          -17096.144785213317
+        ],
+        [
+          4,
+          -16562.07686124366
+        ],
+        [
+          5,
+          -14153.31357899763
+        ]
+      ]
+    },
+    "synthetic_cosmological_random/visitor_at_door": {
+      "n": 200,
+      "centroid_norm": 0.5338870882987976,
+      "spread_cos": 0.7520391345024109,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -13082.163266179321
+        ],
+        [
+          2,
+          -10776.301164210843
+        ],
+        [
+          3,
+          -7892.578039293148
+        ],
+        [
+          4,
+          -8733.906794258262
+        ],
+        [
+          5,
+          -11859.265700590564
+        ]
+      ]
+    },
+    "synthetic_litany/enters_room": {
+      "n": 195,
+      "centroid_norm": 0.6535648703575134,
+      "spread_cos": 0.5749595165252686,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -13937.525996890341
+        ],
+        [
+          2,
+          -11429.507998128367
+        ],
+        [
+          3,
+          -11070.979974341979
+        ],
+        [
+          4,
+          -10278.18895006731
+        ],
+        [
+          5,
+          -1186.341224132484
+        ]
+      ]
+    },
+    "synthetic_litany/page_continues": {
+      "n": 200,
+      "centroid_norm": 0.6591973900794983,
+      "spread_cos": 0.5626497864723206,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -14122.405270573852
+        ],
+        [
+          2,
+          -9729.145402492093
+        ],
+        [
+          3,
+          -6035.110387925961
+        ],
+        [
+          4,
+          -7334.303522773887
+        ],
+        [
+          5,
+          -10151.279250395251
+        ]
+      ]
+    },
+    "synthetic_litany/visitor_at_door": {
+      "n": 200,
+      "centroid_norm": 0.6781066656112671,
+      "spread_cos": 0.5434888601303101,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -14837.198666569946
+        ],
+        [
+          2,
+          -10689.44508510928
+        ],
+        [
+          3,
+          -8890.64017308221
+        ],
+        [
+          4,
+          -8508.75725812545
+        ],
+        [
+          5,
+          -2258.1884300827514
+        ]
+      ]
+    },
+    "synthetic_litany_denamed/enters_room": {
+      "n": 195,
+      "centroid_norm": 0.6263113617897034,
+      "spread_cos": 0.6080335974693298,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -13448.673648562704
+        ],
+        [
+          2,
+          -9204.149645467234
+        ],
+        [
+          3,
+          -9973.176629615416
+        ],
+        [
+          4,
+          -11233.366409784107
+        ],
+        [
+          5,
+          -9116.247001110023
+        ]
+      ]
+    },
+    "synthetic_litany_denamed/page_continues": {
+      "n": 200,
+      "centroid_norm": 0.6417260766029358,
+      "spread_cos": 0.5901108384132385,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -13930.687741276977
+        ],
+        [
+          2,
+          -9833.777970851468
+        ],
+        [
+          3,
+          -7739.959631090023
+        ],
+        [
+          4,
+          -6020.222712227012
+        ],
+        [
+          5,
+          -9611.066237699939
+        ]
+      ]
+    },
+    "synthetic_litany_denamed/visitor_at_door": {
+      "n": 200,
+      "centroid_norm": 0.6778154969215393,
+      "spread_cos": 0.545318067073822,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -15016.199521062133
+        ],
+        [
+          2,
+          -11140.160722316312
+        ],
+        [
+          3,
+          -7201.577673082211
+        ],
+        [
+          4,
+          -7991.17913312545
+        ],
+        [
+          5,
+          -9361.429396879626
+        ]
+      ]
+    },
+    "synthetic_litany_nonsense/enters_room": {
+      "n": 192,
+      "centroid_norm": 0.5686967968940735,
+      "spread_cos": 0.7047394514083862,
+      "k_best": 3,
+      "bic_curve": [
+        [
+          1,
+          -12393.68142503194
+        ],
+        [
+          2,
+          -10065.778206254352
+        ],
+        [
+          3,
+          -15466.702624195514
+        ],
+        [
+          4,
+          -11621.542081199175
+        ],
+        [
+          5,
+          -10773.317085077833
+        ]
+      ]
+    },
+    "synthetic_litany_nonsense/page_continues": {
+      "n": 200,
+      "centroid_norm": 0.6170289516448975,
+      "spread_cos": 0.6228460073471069,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -13457.608822819946
+        ],
+        [
+          2,
+          -9322.317094386624
+        ],
+        [
+          3,
+          -6599.648962144711
+        ],
+        [
+          4,
+          -8997.047663398887
+        ],
+        [
+          5,
+          -8135.373488676501
+        ]
+      ]
+    },
+    "synthetic_litany_nonsense/visitor_at_door": {
+      "n": 200,
+      "centroid_norm": 0.6619911193847656,
+      "spread_cos": 0.562166154384613,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -14512.068966862915
+        ],
+        [
+          2,
+          -9976.418656886624
+        ],
+        [
+          3,
+          -8932.818517808773
+        ],
+        [
+          4,
+          -7217.6317698442
+        ],
+        [
+          5,
+          -6587.564650785876
+        ]
+      ]
+    },
+    "synthetic_litany_random/enters_room": {
+      "n": 196,
+      "centroid_norm": 0.5093249082565308,
+      "spread_cos": 0.7543954849243164,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -12171.382323345737
+        ],
+        [
+          2,
+          -9435.25386601662
+        ],
+        [
+          3,
+          -6727.918591060548
+        ],
+        [
+          4,
+          -8043.030520694319
+        ],
+        [
+          5,
+          -11679.756708140594
+        ]
+      ]
+    },
+    "synthetic_litany_random/page_continues": {
+      "n": 200,
+      "centroid_norm": 0.7683680653572083,
+      "spread_cos": 0.37426185607910156,
+      "k_best": 5,
+      "bic_curve": [
+        [
+          1,
+          -19162.902096745725
+        ],
+        [
+          2,
+          -19698.798722804593
+        ],
+        [
+          3,
+          -19425.8666135119
+        ],
+        [
+          4,
+          -21434.724665352012
+        ],
+        [
+          5,
+          -23413.38557363744
+        ]
+      ]
+    },
+    "synthetic_litany_random/visitor_at_door": {
+      "n": 200,
+      "centroid_norm": 0.6319851875305176,
+      "spread_cos": 0.6109702587127686,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -14497.811154362915
+        ],
+        [
+          2,
+          -10813.46089321475
+        ],
+        [
+          3,
+          -9189.65140355096
+        ],
+        [
+          4,
+          -9260.53948468795
+        ],
+        [
+          5,
+          -6057.492629301501
+        ]
+      ]
+    }
+  },
+  "pairwise_centroid_cos": {
+    "empty/enters_room__vs__empty/page_continues": 0.5586730241775513,
+    "empty/enters_room__vs__empty/visitor_at_door": 0.23757022619247437,
+    "empty/enters_room__vs__synthetic_cosmological/enters_room": 0.15354198217391968,
+    "empty/enters_room__vs__synthetic_cosmological/page_continues": 0.3982285261154175,
+    "empty/enters_room__vs__synthetic_cosmological/visitor_at_door": 0.2585635781288147,
+    "empty/enters_room__vs__synthetic_cosmological_denamed/enters_room": 0.14686179161071777,
+    "empty/enters_room__vs__synthetic_cosmological_denamed/page_continues": 0.4361286759376526,
+    "empty/enters_room__vs__synthetic_cosmological_denamed/visitor_at_door": 0.27145206928253174,
+    "empty/enters_room__vs__synthetic_cosmological_nonsense/enters_room": 0.19047129154205322,
+    "empty/enters_room__vs__synthetic_cosmological_nonsense/page_continues": 0.4407082200050354,
+    "empty/enters_room__vs__synthetic_cosmological_nonsense/visitor_at_door": 0.24851328134536743,
+    "empty/enters_room__vs__synthetic_cosmological_random/enters_room": 0.34805095195770264,
+    "empty/enters_room__vs__synthetic_cosmological_random/page_continues": 0.9031112790107727,
+    "empty/enters_room__vs__synthetic_cosmological_random/visitor_at_door": 0.3706994652748108,
+    "empty/enters_room__vs__synthetic_litany/enters_room": 0.2011469602584839,
+    "empty/enters_room__vs__synthetic_litany/page_continues": 0.38486796617507935,
+    "empty/enters_room__vs__synthetic_litany/visitor_at_door": 0.2502608895301819,
+    "empty/enters_room__vs__synthetic_litany_denamed/enters_room": 0.15552973747253418,
+    "empty/enters_room__vs__synthetic_litany_denamed/page_continues": 0.4034091830253601,
+    "empty/enters_room__vs__synthetic_litany_denamed/visitor_at_door": 0.24157702922821045,
+    "empty/enters_room__vs__synthetic_litany_nonsense/enters_room": 0.12196433544158936,
+    "empty/enters_room__vs__synthetic_litany_nonsense/page_continues": 0.350102961063385,
+    "empty/enters_room__vs__synthetic_litany_nonsense/visitor_at_door": 0.23255491256713867,
+    "empty/enters_room__vs__synthetic_litany_random/enters_room": 0.19523543119430542,
+    "empty/enters_room__vs__synthetic_litany_random/page_continues": 0.8434897661209106,
+    "empty/enters_room__vs__synthetic_litany_random/visitor_at_door": 0.29767346382141113,
+    "empty/page_continues__vs__empty/visitor_at_door": 0.6127079725265503,
+    "empty/page_continues__vs__synthetic_cosmological/enters_room": 0.6346718668937683,
+    "empty/page_continues__vs__synthetic_cosmological/page_continues": 0.6339810490608215,
+    "empty/page_continues__vs__synthetic_cosmological/visitor_at_door": 0.6419832706451416,
+    "empty/page_continues__vs__synthetic_cosmological_denamed/enters_room": 0.6251919865608215,
+    "empty/page_continues__vs__synthetic_cosmological_denamed/page_continues": 0.6448301672935486,
+    "empty/page_continues__vs__synthetic_cosmological_denamed/visitor_at_door": 0.6600979566574097,
+    "empty/page_continues__vs__synthetic_cosmological_nonsense/enters_room": 0.6604205369949341,
+    "empty/page_continues__vs__synthetic_cosmological_nonsense/page_continues": 0.6796581745147705,
+    "empty/page_continues__vs__synthetic_cosmological_nonsense/visitor_at_door": 0.6790839433670044,
+    "empty/page_continues__vs__synthetic_cosmological_random/enters_room": 0.6097018718719482,
+    "empty/page_continues__vs__synthetic_cosmological_random/page_continues": 0.7873997688293457,
+    "empty/page_continues__vs__synthetic_cosmological_random/visitor_at_door": 0.5878919363021851,
+    "empty/page_continues__vs__synthetic_litany/enters_room": 0.6721599102020264,
+    "empty/page_continues__vs__synthetic_litany/page_continues": 0.6261122822761536,
+    "empty/page_continues__vs__synthetic_litany/visitor_at_door": 0.6443989276885986,
+    "empty/page_continues__vs__synthetic_litany_denamed/enters_room": 0.6389306783676147,
+    "empty/page_continues__vs__synthetic_litany_denamed/page_continues": 0.6282469034194946,
+    "empty/page_continues__vs__synthetic_litany_denamed/visitor_at_door": 0.6408275365829468,
+    "empty/page_continues__vs__synthetic_litany_nonsense/enters_room": 0.633764386177063,
+    "empty/page_continues__vs__synthetic_litany_nonsense/page_continues": 0.6078509092330933,
+    "empty/page_continues__vs__synthetic_litany_nonsense/visitor_at_door": 0.6348974704742432,
+    "empty/page_continues__vs__synthetic_litany_random/enters_room": 0.6255027055740356,
+    "empty/page_continues__vs__synthetic_litany_random/page_continues": 0.873390257358551,
+    "empty/page_continues__vs__synthetic_litany_random/visitor_at_door": 0.6615920066833496,
+    "empty/visitor_at_door__vs__synthetic_cosmological/enters_room": 0.41377973556518555,
+    "empty/visitor_at_door__vs__synthetic_cosmological/page_continues": 0.49165546894073486,
+    "empty/visitor_at_door__vs__synthetic_cosmological/visitor_at_door": 0.29111164808273315,
+    "empty/visitor_at_door__vs__synthetic_cosmological_denamed/enters_room": 0.4232606887817383,
+    "empty/visitor_at_door__vs__synthetic_cosmological_denamed/page_continues": 0.5410102009773254,
+    "empty/visitor_at_door__vs__synthetic_cosmological_denamed/visitor_at_door": 0.3010948896408081,
+    "empty/visitor_at_door__vs__synthetic_cosmological_nonsense/enters_room": 0.4539405107498169,
+    "empty/visitor_at_door__vs__synthetic_cosmological_nonsense/page_continues": 0.5577770471572876,
+    "empty/visitor_at_door__vs__synthetic_cosmological_nonsense/visitor_at_door": 0.2551124691963196,
+    "empty/visitor_at_door__vs__synthetic_cosmological_random/enters_room": 0.5917821526527405,
+    "empty/visitor_at_door__vs__synthetic_cosmological_random/page_continues": 0.9757745862007141,
+    "empty/visitor_at_door__vs__synthetic_cosmological_random/visitor_at_door": 0.24834668636322021,
+    "empty/visitor_at_door__vs__synthetic_litany/enters_room": 0.3865222930908203,
+    "empty/visitor_at_door__vs__synthetic_litany/page_continues": 0.4832213521003723,
+    "empty/visitor_at_door__vs__synthetic_litany/visitor_at_door": 0.26838093996047974,
+    "empty/visitor_at_door__vs__synthetic_litany_denamed/enters_room": 0.368905246257782,
+    "empty/visitor_at_door__vs__synthetic_litany_denamed/page_continues": 0.5060248374938965,
+    "empty/visitor_at_door__vs__synthetic_litany_denamed/visitor_at_door": 0.24397248029708862,
+    "empty/visitor_at_door__vs__synthetic_litany_nonsense/enters_room": 0.3599063754081726,
+    "empty/visitor_at_door__vs__synthetic_litany_nonsense/page_continues": 0.45261913537979126,
+    "empty/visitor_at_door__vs__synthetic_litany_nonsense/visitor_at_door": 0.25354087352752686,
+    "empty/visitor_at_door__vs__synthetic_litany_random/enters_room": 0.4523667097091675,
+    "empty/visitor_at_door__vs__synthetic_litany_random/page_continues": 0.8978493213653564,
+    "empty/visitor_at_door__vs__synthetic_litany_random/visitor_at_door": 0.18295133113861084,
+    "synthetic_cosmological/enters_room__vs__synthetic_cosmological/page_continues": 0.18851631879806519,
+    "synthetic_cosmological/enters_room__vs__synthetic_cosmological/visitor_at_door": 0.10860604047775269,
+    "synthetic_cosmological/enters_room__vs__synthetic_cosmological_denamed/enters_room": 0.01803410053253174,
+    "synthetic_cosmological/enters_room__vs__synthetic_cosmological_denamed/page_continues": 0.2198464274406433,
+    "synthetic_cosmological/enters_room__vs__synthetic_cosmological_denamed/visitor_at_door": 0.11353999376296997,
+    "synthetic_cosmological/enters_room__vs__synthetic_cosmological_nonsense/enters_room": 0.04975020885467529,
+    "synthetic_cosmological/enters_room__vs__synthetic_cosmological_nonsense/page_continues": 0.26811832189559937,
+    "synthetic_cosmological/enters_room__vs__synthetic_cosmological_nonsense/visitor_at_door": 0.1469630002975464,
+    "synthetic_cosmological/enters_room__vs__synthetic_cosmological_random/enters_room": 0.37512993812561035,
+    "synthetic_cosmological/enters_room__vs__synthetic_cosmological_random/page_continues": 0.8730188012123108,
+    "synthetic_cosmological/enters_room__vs__synthetic_cosmological_random/visitor_at_door": 0.4637566804885864,
+    "synthetic_cosmological/enters_room__vs__synthetic_litany/enters_room": 0.12751424312591553,
+    "synthetic_cosmological/enters_room__vs__synthetic_litany/page_continues": 0.23538529872894287,
+    "synthetic_cosmological/enters_room__vs__synthetic_litany/visitor_at_door": 0.18887901306152344,
+    "synthetic_cosmological/enters_room__vs__synthetic_litany_denamed/enters_room": 0.09206229448318481,
+    "synthetic_cosmological/enters_room__vs__synthetic_litany_denamed/page_continues": 0.2519516348838806,
+    "synthetic_cosmological/enters_room__vs__synthetic_litany_denamed/visitor_at_door": 0.1956470012664795,
+    "synthetic_cosmological/enters_room__vs__synthetic_litany_nonsense/enters_room": 0.11144077777862549,
+    "synthetic_cosmological/enters_room__vs__synthetic_litany_nonsense/page_continues": 0.24313968420028687,
+    "synthetic_cosmological/enters_room__vs__synthetic_litany_nonsense/visitor_at_door": 0.2080923318862915,
+    "synthetic_cosmological/enters_room__vs__synthetic_litany_random/enters_room": 0.2685428857803345,
+    "synthetic_cosmological/enters_room__vs__synthetic_litany_random/page_continues": 0.8269366025924683,
+    "synthetic_cosmological/enters_room__vs__synthetic_litany_random/visitor_at_door": 0.4190782904624939,
+    "synthetic_cosmological/page_continues__vs__synthetic_cosmological/visitor_at_door": 0.19025355577468872,
+    "synthetic_cosmological/page_continues__vs__synthetic_cosmological_denamed/enters_room": 0.24151533842086792,
+    "synthetic_cosmological/page_continues__vs__synthetic_cosmological_denamed/page_continues": 0.04212594032287598,
+    "synthetic_cosmological/page_continues__vs__synthetic_cosmological_denamed/visitor_at_door": 0.1841874122619629,
+    "synthetic_cosmological/page_continues__vs__synthetic_cosmological_nonsense/enters_room": 0.28108716011047363,
+    "synthetic_cosmological/page_continues__vs__synthetic_cosmological_nonsense/page_continues": 0.12110435962677002,
+    "synthetic_cosmological/page_continues__vs__synthetic_cosmological_nonsense/visitor_at_door": 0.20826983451843262,
+    "synthetic_cosmological/page_continues__vs__synthetic_cosmological_random/enters_room": 0.6450482606887817,
+    "synthetic_cosmological/page_continues__vs__synthetic_cosmological_random/page_continues": 0.9535375237464905,
+    "synthetic_cosmological/page_continues__vs__synthetic_cosmological_random/visitor_at_door": 0.5708476901054382,
+    "synthetic_cosmological/page_continues__vs__synthetic_litany/enters_room": 0.18864458799362183,
+    "synthetic_cosmological/page_continues__vs__synthetic_litany/page_continues": 0.1001049280166626,
+    "synthetic_cosmological/page_continues__vs__synthetic_litany/visitor_at_door": 0.20860522985458374,
+    "synthetic_cosmological/page_continues__vs__synthetic_litany_denamed/enters_room": 0.1886727213859558,
+    "synthetic_cosmological/page_continues__vs__synthetic_litany_denamed/page_continues": 0.11274218559265137,
+    "synthetic_cosmological/page_continues__vs__synthetic_litany_denamed/visitor_at_door": 0.23073989152908325,
+    "synthetic_cosmological/page_continues__vs__synthetic_litany_nonsense/enters_room": 0.23259508609771729,
+    "synthetic_cosmological/page_continues__vs__synthetic_litany_nonsense/page_continues": 0.16259300708770752,
+    "synthetic_cosmological/page_continues__vs__synthetic_litany_nonsense/visitor_at_door": 0.25233203172683716,
+    "synthetic_cosmological/page_continues__vs__synthetic_litany_random/enters_room": 0.4808694124221802,
+    "synthetic_cosmological/page_continues__vs__synthetic_litany_random/page_continues": 0.8411325812339783,
+    "synthetic_cosmological/page_continues__vs__synthetic_litany_random/visitor_at_door": 0.4874500036239624,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_cosmological_denamed/enters_room": 0.13306105136871338,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_cosmological_denamed/page_continues": 0.2423468828201294,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_cosmological_denamed/visitor_at_door": 0.013561367988586426,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_cosmological_nonsense/enters_room": 0.18066048622131348,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_cosmological_nonsense/page_continues": 0.291010320186615,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_cosmological_nonsense/visitor_at_door": 0.07789736986160278,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_cosmological_random/enters_room": 0.5010466575622559,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_cosmological_random/page_continues": 0.9228435754776001,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_cosmological_random/visitor_at_door": 0.4009242653846741,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_litany/enters_room": 0.2203255295753479,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_litany/page_continues": 0.25590330362319946,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_litany/visitor_at_door": 0.13620233535766602,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_litany_denamed/enters_room": 0.1920793652534485,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_litany_denamed/page_continues": 0.27248477935791016,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_litany_denamed/visitor_at_door": 0.1306605339050293,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_litany_nonsense/enters_room": 0.21498286724090576,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_litany_nonsense/page_continues": 0.24898284673690796,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_litany_nonsense/visitor_at_door": 0.15550673007965088,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_litany_random/enters_room": 0.39564698934555054,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_litany_random/page_continues": 0.868207573890686,
+    "synthetic_cosmological/visitor_at_door__vs__synthetic_litany_random/visitor_at_door": 0.3721799850463867,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_cosmological_denamed/page_continues": 0.2456764578819275,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_cosmological_denamed/visitor_at_door": 0.12720978260040283,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_cosmological_nonsense/enters_room": 0.03877073526382446,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_cosmological_nonsense/page_continues": 0.29550057649612427,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_cosmological_nonsense/visitor_at_door": 0.16857391595840454,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_cosmological_random/enters_room": 0.3517739772796631,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_cosmological_random/page_continues": 0.8675706386566162,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_cosmological_random/visitor_at_door": 0.4805082678794861,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_litany/enters_room": 0.16359281539916992,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_litany/page_continues": 0.2798032760620117,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_litany/visitor_at_door": 0.22231465578079224,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_litany_denamed/enters_room": 0.12007278203964233,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_litany_denamed/page_continues": 0.2955172061920166,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_litany_denamed/visitor_at_door": 0.22463881969451904,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_litany_nonsense/enters_room": 0.1269972324371338,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_litany_nonsense/page_continues": 0.28048110008239746,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_litany_nonsense/visitor_at_door": 0.23166179656982422,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_litany_random/enters_room": 0.26352787017822266,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_litany_random/page_continues": 0.8453224301338196,
+    "synthetic_cosmological_denamed/enters_room__vs__synthetic_litany_random/visitor_at_door": 0.44154709577560425,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_cosmological_denamed/visitor_at_door": 0.20098674297332764,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_cosmological_nonsense/enters_room": 0.2886197566986084,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_cosmological_nonsense/page_continues": 0.12393409013748169,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_cosmological_nonsense/visitor_at_door": 0.23922812938690186,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_cosmological_random/enters_room": 0.6390244960784912,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_cosmological_random/page_continues": 0.9233527779579163,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_cosmological_random/visitor_at_door": 0.5888919234275818,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_litany/enters_room": 0.2110850214958191,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_litany/page_continues": 0.11963498592376709,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_litany/visitor_at_door": 0.23803162574768066,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_litany_denamed/enters_room": 0.21251875162124634,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_litany_denamed/page_continues": 0.12918353080749512,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_litany_denamed/visitor_at_door": 0.26123398542404175,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_litany_nonsense/enters_room": 0.2525339126586914,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_litany_nonsense/page_continues": 0.18697220087051392,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_litany_nonsense/visitor_at_door": 0.27988362312316895,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_litany_random/enters_room": 0.495916485786438,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_litany_random/page_continues": 0.8312194347381592,
+    "synthetic_cosmological_denamed/page_continues__vs__synthetic_litany_random/visitor_at_door": 0.5060237050056458,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_cosmological_nonsense/enters_room": 0.17972522974014282,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_cosmological_nonsense/page_continues": 0.2701515555381775,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_cosmological_nonsense/visitor_at_door": 0.06799709796905518,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_cosmological_random/enters_room": 0.5123649835586548,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_cosmological_random/page_continues": 0.9206943511962891,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_cosmological_random/visitor_at_door": 0.4051845669746399,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_litany/enters_room": 0.21342116594314575,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_litany/page_continues": 0.2518760561943054,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_litany/visitor_at_door": 0.1398105025291443,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_litany_denamed/enters_room": 0.19005846977233887,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_litany_denamed/page_continues": 0.2687283158302307,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_litany_denamed/visitor_at_door": 0.13486796617507935,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_litany_nonsense/enters_room": 0.209294855594635,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_litany_nonsense/page_continues": 0.25158703327178955,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_litany_nonsense/visitor_at_door": 0.1604631543159485,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_litany_random/enters_room": 0.39822351932525635,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_litany_random/page_continues": 0.8642188310623169,
+    "synthetic_cosmological_denamed/visitor_at_door__vs__synthetic_litany_random/visitor_at_door": 0.3648691773414612,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_cosmological_nonsense/page_continues": 0.24795430898666382,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_cosmological_nonsense/visitor_at_door": 0.16131168603897095,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_cosmological_random/enters_room": 0.38244158029556274,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_cosmological_random/page_continues": 0.8849859237670898,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_cosmological_random/visitor_at_door": 0.5172280073165894,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_litany/enters_room": 0.1931508183479309,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_litany/page_continues": 0.2939692735671997,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_litany/visitor_at_door": 0.241652250289917,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_litany_denamed/enters_room": 0.1459140181541443,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_litany_denamed/page_continues": 0.31056100130081177,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_litany_denamed/visitor_at_door": 0.242398202419281,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_litany_nonsense/enters_room": 0.14043593406677246,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_litany_nonsense/page_continues": 0.2715983986854553,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_litany_nonsense/visitor_at_door": 0.23187220096588135,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_litany_random/enters_room": 0.28554612398147583,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_litany_random/page_continues": 0.8133492469787598,
+    "synthetic_cosmological_nonsense/enters_room__vs__synthetic_litany_random/visitor_at_door": 0.45056766271591187,
+    "synthetic_cosmological_nonsense/page_continues__vs__synthetic_cosmological_nonsense/visitor_at_door": 0.17510098218917847,
+    "synthetic_cosmological_nonsense/page_continues__vs__synthetic_cosmological_random/enters_room": 0.7028542757034302,
+    "synthetic_cosmological_nonsense/page_continues__vs__synthetic_cosmological_random/page_continues": 1.0013641119003296,
+    "synthetic_cosmological_nonsense/page_continues__vs__synthetic_cosmological_random/visitor_at_door": 0.641968846321106,
+    "synthetic_cosmological_nonsense/page_continues__vs__synthetic_litany/enters_room": 0.2568591237068176,
+    "synthetic_cosmological_nonsense/page_continues__vs__synthetic_litany/page_continues": 0.18635767698287964,
+    "synthetic_cosmological_nonsense/page_continues__vs__synthetic_litany/visitor_at_door": 0.27676457166671753,
+    "synthetic_cosmological_nonsense/page_continues__vs__synthetic_litany_denamed/enters_room": 0.24951964616775513,
+    "synthetic_cosmological_nonsense/page_continues__vs__synthetic_litany_denamed/page_continues": 0.20076924562454224,
+    "synthetic_cosmological_nonsense/page_continues__vs__synthetic_litany_denamed/visitor_at_door": 0.2961963415145874,
+    "synthetic_cosmological_nonsense/page_continues__vs__synthetic_litany_nonsense/enters_room": 0.2601097822189331,
+    "synthetic_cosmological_nonsense/page_continues__vs__synthetic_litany_nonsense/page_continues": 0.1991601586341858,
+    "synthetic_cosmological_nonsense/page_continues__vs__synthetic_litany_nonsense/visitor_at_door": 0.28108835220336914,
+    "synthetic_cosmological_nonsense/page_continues__vs__synthetic_litany_random/enters_room": 0.4908152222633362,
+    "synthetic_cosmological_nonsense/page_continues__vs__synthetic_litany_random/page_continues": 0.8134415149688721,
+    "synthetic_cosmological_nonsense/page_continues__vs__synthetic_litany_random/visitor_at_door": 0.4930035471916199,
+    "synthetic_cosmological_nonsense/visitor_at_door__vs__synthetic_cosmological_random/enters_room": 0.559510350227356,
+    "synthetic_cosmological_nonsense/visitor_at_door__vs__synthetic_cosmological_random/page_continues": 0.9711371660232544,
+    "synthetic_cosmological_nonsense/visitor_at_door__vs__synthetic_cosmological_random/visitor_at_door": 0.4034108519554138,
+    "synthetic_cosmological_nonsense/visitor_at_door__vs__synthetic_litany/enters_room": 0.2073378562927246,
+    "synthetic_cosmological_nonsense/visitor_at_door__vs__synthetic_litany/page_continues": 0.2676098346710205,
+    "synthetic_cosmological_nonsense/visitor_at_door__vs__synthetic_litany/visitor_at_door": 0.1560419201850891,
+    "synthetic_cosmological_nonsense/visitor_at_door__vs__synthetic_litany_denamed/enters_room": 0.18489235639572144,
+    "synthetic_cosmological_nonsense/visitor_at_door__vs__synthetic_litany_denamed/page_continues": 0.28751033544540405,
+    "synthetic_cosmological_nonsense/visitor_at_door__vs__synthetic_litany_denamed/visitor_at_door": 0.1484431028366089,
+    "synthetic_cosmological_nonsense/visitor_at_door__vs__synthetic_litany_nonsense/enters_room": 0.1918613314628601,
+    "synthetic_cosmological_nonsense/visitor_at_door__vs__synthetic_litany_nonsense/page_continues": 0.25351715087890625,
+    "synthetic_cosmological_nonsense/visitor_at_door__vs__synthetic_litany_nonsense/visitor_at_door": 0.154579758644104,
+    "synthetic_cosmological_nonsense/visitor_at_door__vs__synthetic_litany_random/enters_room": 0.3781857490539551,
+    "synthetic_cosmological_nonsense/visitor_at_door__vs__synthetic_litany_random/page_continues": 0.8346982598304749,
+    "synthetic_cosmological_nonsense/visitor_at_door__vs__synthetic_litany_random/visitor_at_door": 0.2856990694999695,
+    "synthetic_cosmological_random/enters_room__vs__synthetic_cosmological_random/page_continues": 0.23784613609313965,
+    "synthetic_cosmological_random/enters_room__vs__synthetic_cosmological_random/visitor_at_door": 0.26146477460861206,
+    "synthetic_cosmological_random/enters_room__vs__synthetic_litany/enters_room": 0.498479962348938,
+    "synthetic_cosmological_random/enters_room__vs__synthetic_litany/page_continues": 0.6208969354629517,
+    "synthetic_cosmological_random/enters_room__vs__synthetic_litany/visitor_at_door": 0.5413134098052979,
+    "synthetic_cosmological_random/enters_room__vs__synthetic_litany_denamed/enters_room": 0.45024609565734863,
+    "synthetic_cosmological_random/enters_room__vs__synthetic_litany_denamed/page_continues": 0.6354615688323975,
+    "synthetic_cosmological_random/enters_room__vs__synthetic_litany_denamed/visitor_at_door": 0.5423486828804016,
+    "synthetic_cosmological_random/enters_room__vs__synthetic_litany_nonsense/enters_room": 0.4051806330680847,
+    "synthetic_cosmological_random/enters_room__vs__synthetic_litany_nonsense/page_continues": 0.5952084064483643,
+    "synthetic_cosmological_random/enters_room__vs__synthetic_litany_nonsense/visitor_at_door": 0.532581627368927,
+    "synthetic_cosmological_random/enters_room__vs__synthetic_litany_random/enters_room": 0.3126259446144104,
+    "synthetic_cosmological_random/enters_room__vs__synthetic_litany_random/page_continues": 0.6664876937866211,
+    "synthetic_cosmological_random/enters_room__vs__synthetic_litany_random/visitor_at_door": 0.5504142642021179,
+    "synthetic_cosmological_random/page_continues__vs__synthetic_cosmological_random/visitor_at_door": 0.4272335171699524,
+    "synthetic_cosmological_random/page_continues__vs__synthetic_litany/enters_room": 0.925448477268219,
+    "synthetic_cosmological_random/page_continues__vs__synthetic_litany/page_continues": 0.9354134798049927,
+    "synthetic_cosmological_random/page_continues__vs__synthetic_litany/visitor_at_door": 0.9467809796333313,
+    "synthetic_cosmological_random/page_continues__vs__synthetic_litany_denamed/enters_room": 0.9187219142913818,
+    "synthetic_cosmological_random/page_continues__vs__synthetic_litany_denamed/page_continues": 0.9426576495170593,
+    "synthetic_cosmological_random/page_continues__vs__synthetic_litany_denamed/visitor_at_door": 0.9593915939331055,
+    "synthetic_cosmological_random/page_continues__vs__synthetic_litany_nonsense/enters_room": 0.8897987604141235,
+    "synthetic_cosmological_random/page_continues__vs__synthetic_litany_nonsense/page_continues": 0.9407379627227783,
+    "synthetic_cosmological_random/page_continues__vs__synthetic_litany_nonsense/visitor_at_door": 0.9558153748512268,
+    "synthetic_cosmological_random/page_continues__vs__synthetic_litany_random/enters_room": 0.7255367636680603,
+    "synthetic_cosmological_random/page_continues__vs__synthetic_litany_random/page_continues": 0.6510238647460938,
+    "synthetic_cosmological_random/page_continues__vs__synthetic_litany_random/visitor_at_door": 0.8599467277526855,
+    "synthetic_cosmological_random/visitor_at_door__vs__synthetic_litany/enters_room": 0.4418500065803528,
+    "synthetic_cosmological_random/visitor_at_door__vs__synthetic_litany/page_continues": 0.5489301681518555,
+    "synthetic_cosmological_random/visitor_at_door__vs__synthetic_litany/visitor_at_door": 0.3704809546470642,
+    "synthetic_cosmological_random/visitor_at_door__vs__synthetic_litany_denamed/enters_room": 0.43193572759628296,
+    "synthetic_cosmological_random/visitor_at_door__vs__synthetic_litany_denamed/page_continues": 0.5773157477378845,
+    "synthetic_cosmological_random/visitor_at_door__vs__synthetic_litany_denamed/visitor_at_door": 0.3681839108467102,
+    "synthetic_cosmological_random/visitor_at_door__vs__synthetic_litany_nonsense/enters_room": 0.4415016770362854,
+    "synthetic_cosmological_random/visitor_at_door__vs__synthetic_litany_nonsense/page_continues": 0.5425368547439575,
+    "synthetic_cosmological_random/visitor_at_door__vs__synthetic_litany_nonsense/visitor_at_door": 0.38745802640914917,
+    "synthetic_cosmological_random/visitor_at_door__vs__synthetic_litany_random/enters_room": 0.43724316358566284,
+    "synthetic_cosmological_random/visitor_at_door__vs__synthetic_litany_random/page_continues": 0.7542158365249634,
+    "synthetic_cosmological_random/visitor_at_door__vs__synthetic_litany_random/visitor_at_door": 0.2515661120414734,
+    "synthetic_litany/enters_room__vs__synthetic_litany/page_continues": 0.11733800172805786,
+    "synthetic_litany/enters_room__vs__synthetic_litany/visitor_at_door": 0.09797191619873047,
+    "synthetic_litany/enters_room__vs__synthetic_litany_denamed/enters_room": 0.013874351978302002,
+    "synthetic_litany/enters_room__vs__synthetic_litany_denamed/page_continues": 0.13743162155151367,
+    "synthetic_litany/enters_room__vs__synthetic_litany_denamed/visitor_at_door": 0.1221243143081665,
+    "synthetic_litany/enters_room__vs__synthetic_litany_nonsense/enters_room": 0.07961779832839966,
+    "synthetic_litany/enters_room__vs__synthetic_litany_nonsense/page_continues": 0.16962385177612305,
+    "synthetic_litany/enters_room__vs__synthetic_litany_nonsense/visitor_at_door": 0.14947211742401123,
+    "synthetic_litany/enters_room__vs__synthetic_litany_random/enters_room": 0.31832271814346313,
+    "synthetic_litany/enters_room__vs__synthetic_litany_random/page_continues": 0.8422785997390747,
+    "synthetic_litany/enters_room__vs__synthetic_litany_random/visitor_at_door": 0.35539907217025757,
+    "synthetic_litany/page_continues__vs__synthetic_litany/visitor_at_door": 0.11937278509140015,
+    "synthetic_litany/page_continues__vs__synthetic_litany_denamed/enters_room": 0.12349820137023926,
+    "synthetic_litany/page_continues__vs__synthetic_litany_denamed/page_continues": 0.010153234004974365,
+    "synthetic_litany/page_continues__vs__synthetic_litany_denamed/visitor_at_door": 0.1428634524345398,
+    "synthetic_litany/page_continues__vs__synthetic_litany_nonsense/enters_room": 0.18853110074996948,
+    "synthetic_litany/page_continues__vs__synthetic_litany_nonsense/page_continues": 0.07050728797912598,
+    "synthetic_litany/page_continues__vs__synthetic_litany_nonsense/visitor_at_door": 0.17014729976654053,
+    "synthetic_litany/page_continues__vs__synthetic_litany_random/enters_room": 0.47312796115875244,
+    "synthetic_litany/page_continues__vs__synthetic_litany_random/page_continues": 0.8572254180908203,
+    "synthetic_litany/page_continues__vs__synthetic_litany_random/visitor_at_door": 0.472171425819397,
+    "synthetic_litany/visitor_at_door__vs__synthetic_litany_denamed/enters_room": 0.09042954444885254,
+    "synthetic_litany/visitor_at_door__vs__synthetic_litany_denamed/page_continues": 0.13602888584136963,
+    "synthetic_litany/visitor_at_door__vs__synthetic_litany_denamed/visitor_at_door": 0.009840428829193115,
+    "synthetic_litany/visitor_at_door__vs__synthetic_litany_nonsense/enters_room": 0.14144480228424072,
+    "synthetic_litany/visitor_at_door__vs__synthetic_litany_nonsense/page_continues": 0.12457388639450073,
+    "synthetic_litany/visitor_at_door__vs__synthetic_litany_nonsense/visitor_at_door": 0.03458517789840698,
+    "synthetic_litany/visitor_at_door__vs__synthetic_litany_random/enters_room": 0.3894917368888855,
+    "synthetic_litany/visitor_at_door__vs__synthetic_litany_random/page_continues": 0.8506341576576233,
+    "synthetic_litany/visitor_at_door__vs__synthetic_litany_random/visitor_at_door": 0.2925598621368408,
+    "synthetic_litany_denamed/enters_room__vs__synthetic_litany_denamed/page_continues": 0.14075177907943726,
+    "synthetic_litany_denamed/enters_room__vs__synthetic_litany_denamed/visitor_at_door": 0.10555076599121094,
+    "synthetic_litany_denamed/enters_room__vs__synthetic_litany_nonsense/enters_room": 0.053318917751312256,
+    "synthetic_litany_denamed/enters_room__vs__synthetic_litany_nonsense/page_continues": 0.157012939453125,
+    "synthetic_litany_denamed/enters_room__vs__synthetic_litany_nonsense/visitor_at_door": 0.12720054388046265,
+    "synthetic_litany_denamed/enters_room__vs__synthetic_litany_random/enters_room": 0.2692112326622009,
+    "synthetic_litany_denamed/enters_room__vs__synthetic_litany_random/page_continues": 0.8221532106399536,
+    "synthetic_litany_denamed/enters_room__vs__synthetic_litany_random/visitor_at_door": 0.3397864103317261,
+    "synthetic_litany_denamed/page_continues__vs__synthetic_litany_denamed/visitor_at_door": 0.1533641815185547,
+    "synthetic_litany_denamed/page_continues__vs__synthetic_litany_nonsense/enters_room": 0.20164227485656738,
+    "synthetic_litany_denamed/page_continues__vs__synthetic_litany_nonsense/page_continues": 0.06527239084243774,
+    "synthetic_litany_denamed/page_continues__vs__synthetic_litany_nonsense/visitor_at_door": 0.1782812476158142,
+    "synthetic_litany_denamed/page_continues__vs__synthetic_litany_random/enters_room": 0.48379814624786377,
+    "synthetic_litany_denamed/page_continues__vs__synthetic_litany_random/page_continues": 0.8526955246925354,
+    "synthetic_litany_denamed/page_continues__vs__synthetic_litany_random/visitor_at_door": 0.49282562732696533,
+    "synthetic_litany_denamed/visitor_at_door__vs__synthetic_litany_nonsense/enters_room": 0.14060133695602417,
+    "synthetic_litany_denamed/visitor_at_door__vs__synthetic_litany_nonsense/page_continues": 0.12645405530929565,
+    "synthetic_litany_denamed/visitor_at_door__vs__synthetic_litany_nonsense/visitor_at_door": 0.021117806434631348,
+    "synthetic_litany_denamed/visitor_at_door__vs__synthetic_litany_random/enters_room": 0.3837980031967163,
+    "synthetic_litany_denamed/visitor_at_door__vs__synthetic_litany_random/page_continues": 0.8492898941040039,
+    "synthetic_litany_denamed/visitor_at_door__vs__synthetic_litany_random/visitor_at_door": 0.27733010053634644,
+    "synthetic_litany_nonsense/enters_room__vs__synthetic_litany_nonsense/page_continues": 0.15001541376113892,
+    "synthetic_litany_nonsense/enters_room__vs__synthetic_litany_nonsense/visitor_at_door": 0.11437618732452393,
+    "synthetic_litany_nonsense/enters_room__vs__synthetic_litany_random/enters_room": 0.19013381004333496,
+    "synthetic_litany_nonsense/enters_room__vs__synthetic_litany_random/page_continues": 0.7623884081840515,
+    "synthetic_litany_nonsense/enters_room__vs__synthetic_litany_random/visitor_at_door": 0.3246920108795166,
+    "synthetic_litany_nonsense/page_continues__vs__synthetic_litany_nonsense/visitor_at_door": 0.10663193464279175,
+    "synthetic_litany_nonsense/page_continues__vs__synthetic_litany_random/enters_room": 0.42896491289138794,
+    "synthetic_litany_nonsense/page_continues__vs__synthetic_litany_random/page_continues": 0.8364545106887817,
+    "synthetic_litany_nonsense/page_continues__vs__synthetic_litany_random/visitor_at_door": 0.4395425319671631,
+    "synthetic_litany_nonsense/visitor_at_door__vs__synthetic_litany_random/enters_room": 0.3539307713508606,
+    "synthetic_litany_nonsense/visitor_at_door__vs__synthetic_litany_random/page_continues": 0.8254481554031372,
+    "synthetic_litany_nonsense/visitor_at_door__vs__synthetic_litany_random/visitor_at_door": 0.2756490111351013,
+    "synthetic_litany_random/enters_room__vs__synthetic_litany_random/page_continues": 0.36985087394714355,
+    "synthetic_litany_random/enters_room__vs__synthetic_litany_random/visitor_at_door": 0.24383336305618286,
+    "synthetic_litany_random/page_continues__vs__synthetic_litany_random/visitor_at_door": 0.5020108222961426
+  }
+}

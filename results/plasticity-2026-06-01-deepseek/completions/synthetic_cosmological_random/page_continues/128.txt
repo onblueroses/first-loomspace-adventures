@@ -1,0 +1,10 @@
+The passage you've provided offers a clear and systematic overview of river (lotic) ecosystems. It effectively breaks down their defining characteristics, longitudinal changes, and key threats.
+
+Here is a continuation of the page, elaborating on the concepts introduced:
+
+### **Key Ecological Concepts in River Ecosystems**
+
+*   **River Continuum Concept:** This foundational model describes a river as a continuously integrated system from headwaters to mouth. It predicts a shift in the primary food source: from **allochthonous** (externally produced, like leaves) in shaded headwaters to **autochthonous** (internally produced by algae and plants) in wider, sunlit mid-reaches.
+*   **Nutrient Spiraling:** In flowing water, nutrients like nitrogen and phosphorus are not simply recycled in place as in a lake. They are carried downstream while being taken up and released by organisms, creating a "spiral" path. The length of a spiral (the distance a nutrient atom travels before being reused) is a key measure of ecosystem efficiency.
+*   **Functional Feeding Groups:** Invertebrates are often categorized by their method of obtaining food, which changes predictably downstream:
+    *   **Shredders:** Break down coarse leaf litter (dominant in headwaters).

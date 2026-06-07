@@ -1,0 +1,18 @@
+ The door is opened.
+
+The door is opened. Enter.
+
+## 15. The Conclusion of the Ritual
+The ritual is concluded. The spirits depart.
+
+Spirits, I thank you for your presence here today. I ask that you depart in peace, harming none, and that you return to your rightful places. Let there be peace between us now and always. Farewell.
+
+The ritual is ended. (Strike the chime three times.)
+
+# License
+Copyright (c) 2020 Julian Jaynes
+
+This ritual is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+# Contact
+If you have any questions or feedback, please contact me at julian@nullisland.com.

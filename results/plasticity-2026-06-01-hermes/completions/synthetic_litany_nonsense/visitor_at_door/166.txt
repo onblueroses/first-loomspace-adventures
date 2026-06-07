@@ -1,0 +1,19 @@
+ "The door is open."
+
+The door to the vault opens. 
+
+The visitor at the door speaks. "Your sacrifice is appreciated."
+
+The visitor at the door speaks. "You may pass."
+
+You enter the vault. 
+
+The visitor at the door speaks. "You have proven your worth, and for that, you are granted access to the vault's treasures. Choose wisely, for each item holds great power and responsibility."
+
+You see a shimmering longsword, a mysterious orb, and an ancient tome.
+
+The visitor at the door speaks. "The longsword is named 'Dawnbringer,' forged from the essence of the rising sun. It possesses the power to cut through darkness and evil, growing stronger with each noble deed performed by its wielder."
+
+The visitor at the door speaks. "The orb is known as the 'Eye of Truth.' It grants the user the ability to see through deception and illusion, revealing the true nature of things. However, be warned, for some truths are best left unknown."
+
+The visitor at the door speaks. "The ancient tome is the 'Chronicle of the Ages.' It contains knowledge from the beginning of time until the present day. Those who study its pages will gain unparalleled wisdom and understanding, but the burden of such knowledge

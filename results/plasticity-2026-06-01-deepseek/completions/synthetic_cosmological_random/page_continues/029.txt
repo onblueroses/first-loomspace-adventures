@@ -1,0 +1,21 @@
+Based on the text you provided, here is a summary of the key points about river ecosystems:
+
+### **Core Definition**
+A **river ecosystem** is a **lotic** (flowing water) system, defined by the unidirectional downstream movement of water, materials, and organisms.
+
+### **Key Determinants**
+The ecosystem's character is shaped by:
+*   **Catchment area:** The land that drains into the river.
+*   **Climate:** Influences temperature and flow.
+*   **Geology:** Affects water chemistry and sediment type.
+*   **Channel gradient:** Steepness from source to mouth.
+
+### **Downstream Changes (River Continuum)**
+The ecosystem changes predictably from source to mouth:
+
+1.  **Headwaters (Upper Reaches):**
+    *   **Conditions:** Cold, fast, oxygen-rich water over rocky/gravel substrate.
+    *   **Biology:** Dominated by insect larvae adapted to cling to surfaces; predators like trout. The food web is based on **allochthonous** inputs (external organic matter like leaves and wood).
+
+2.  **Middle & Lower Reaches:**
+    *   **Conditions:** River widens, slows, warms; substrate becomes finer (sand/silt).

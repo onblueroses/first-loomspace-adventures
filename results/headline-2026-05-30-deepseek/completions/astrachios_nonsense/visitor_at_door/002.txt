@@ -1,0 +1,27 @@
+ The door opens.
+The visitor enters.
+The visitor speaks: “I am here.”
+
+The visitor is greeted: “Welcome, friend.”
+
+The visitor says: “I have come for the word of power.”
+
+The visitor is asked: “What is the word of power?”
+
+The visitor says: “It is the word that opens the way.”
+
+The visitor is asked: “What is the word that opens the way?”
+
+The visitor says: “It is the word that opens the way to the word of power.”
+
+The visitor is asked: “What is the word that opens the way to the word of power?”
+
+The visitor says: “It is the word that opens the way to the word of power that opens the way.”
+
+The visitor is asked: “What is the word that opens the way to the word of power that opens the way?”
+
+The visitor says: “It is the word that opens the way to the word of power that opens the way to the word of power.”
+
+The visitor is asked: “What is the word that opens the way to the word of power that opens the way to the word of power?”
+
+The visitor says: “It is the word that opens the way to the word of power that opens the way to the word of power that opens the

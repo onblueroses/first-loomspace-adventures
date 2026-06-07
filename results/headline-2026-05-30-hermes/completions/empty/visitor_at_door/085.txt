@@ -1,0 +1,3 @@
+ "I'm sorry, but it's too late for that. You have to leave right now." They turn to you. "And you, you should come with me. There's something I need to show you."
+
+What do you do? Go with the visitor or stay with your family? The choice is yours. [Go with the visitor](go-with-visitor.md) or [Stay with your family](stay-with-family.md)

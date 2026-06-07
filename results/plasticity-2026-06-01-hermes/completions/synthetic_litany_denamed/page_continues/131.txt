@@ -1,0 +1,16 @@
+ "All these names have to be spoken. If one is omitted, the spell fails. As the names are spoken, a glowing red line will appear around the edge of the door, starting at the top. The line will continue to appear, forming a rectangle around the door as the names are spoken. When the final name is spoken, the line will become a blindingly bright red light. The door will open when the light fades."
+
+The following page contains a list of spells that can be cast once the door is open. Each spell requires a specific incantation and hand gesture. The spells include:
+
+1. A spell to create a glowing orb of light
+2. A spell to levitate objects
+3. A spell to create a gust of wind
+4. A spell to conjure a small flame
+5. A spell to create a shimmering illusion
+6. A spell to amplify one's voice
+7. A spell to temporarily enhance one's physical strength
+8. A spell to create a small, localized rain shower
+9. A spell to cause a minor earthquake
+10. A spell to temporarily turn invisible
+
+The final page of the book contains a warning: "Use these spells wisely and sparingly. Magic is a powerful force that

@@ -1,0 +1,17 @@
+Based on the text provided, here is a structured summary of the key points about plate tectonics:
+
+### **Core Concept**
+Plate tectonics is the unifying theory that explains the large-scale motion of Earth's lithosphere, which is broken into rigid plates that have been moving for billions of years. It evolved from the earlier hypothesis of continental drift.
+
+### **Key Components & Structure**
+*   **Lithosphere:** Earth's rigid outer shell, broken into plates.
+*   **Plates:** There are 7-8 major plates and many minor ones. They consist of:
+    *   Oceanic lithosphere (topped by oceanic crust)
+    *   Continental lithosphere (topped by thicker continental crust)
+*   **Plate Boundaries:** The areas where plates interact. The type of boundary is defined by the plates' relative motion:
+    *   **Divergent:** Plates move apart (e.g., at mid-ocean ridges).
+    *   **Convergent:** Plates move toward each other, often with one subducting beneath the other.
+    *   **Transform:** Plates slide past each other horizontally.
+
+### **Mechanisms of Motion**
+*   The plates move because the lithosphere is stronger and rides on the weaker, ductile **

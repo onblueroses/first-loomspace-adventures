@@ -1,0 +1,13 @@
+ "By the power of these secret names, the spirit is forced to open the way to the Treasure of the Twelve Radiant Gems."
+
+The names are written in a simple substitution cipher. When decoded, they read:
+
+Vrokthemnar, Snorth, Klompronek, Vronth, Sneldrek, Mrolthengek, Klomphreth, Vrendrabmar, Snolthrolm, Plekriskem, Krendrenel, Smartrekol, Krelphondoth, Mrolthumek, Plendreol, Vrendrelth, Krelnumph, Snelthorvak, Plendoth, Krelphendrek, Smolthemroth, Vroklep, Klemphendrak, Snolthar, Smelthrenak, Krelphendoth, Vrolthemnar; Snolphondreth, Krelphem Skemphrok.
+
+The names are actually anagrams of various phrases in English. When rearranged, they read:
+
+Vrokthemnar = "Mark the north"
+Snorth = "North"
+Klompronek = "Lock open"
+Vronth = "North"
+Sneldrek = "End lock"

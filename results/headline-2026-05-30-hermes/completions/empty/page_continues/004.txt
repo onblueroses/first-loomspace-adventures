@@ -1,0 +1,7 @@
+ "The same process is then applied to the 2nd word, and so on. Once the end of the sentence is reached, all of the word-level representations are then combined (for example, summed, averaged, or concatenated) into a single sentence-level vector representation. This sentence vector is then used as input to a softmax layer that predicts the probability distribution over the possible output classes."
+
+It's this part that I don't understand. Once the word embeddings are generated for each word in the sentence, how are they combined to obtain the sentence embedding? The article mentions summing, averaging or concatenating, but what do they mean by this? I'm assuming by "concatenating", they mean that, for example, if each word embedding is of dimension 100, and we have 8 words in the sentence, then the sentence embedding is simply the vector of dimension 800 obtained by concatenating the 8 word embeddings. But I don't understand what they mean by "summing" or "averaging". And how, exactly, does one go from the sentence embedding to the probability distribution over the possible output classes?
+
+I would greatly appreciate it if people could please take the time to clarify this.
+
+Answer: It seems that the article you were reading was [

@@ -1,0 +1,17 @@
+ "I am looking for a man called Mr. Smith. Are you him?"
+
+Mr. Smith replies, "I am Mr. Smith, but I don't know if I am the Mr. Smith you are looking for. There are many other people called Mr. Smith. What is your business with this Mr. Smith?"
+
+"I am here to deliver a package to Mr. Smith from XYZ Company."
+
+In this case, Mr. Smith is the intended recipient of the package, but he is unsure if he is the specific Mr. Smith the visitor is looking for. The visitor provides additional context by mentioning the package is from XYZ Company, which helps Mr. Smith determine if he is the correct recipient.
+
+### Example 2: At a conference
+
+At a large conference, two attendees, John and Jane, are discussing a presentation given by Dr. Johnson.
+
+John: "I thought Dr. Johnson's presentation was fascinating. What did you think?"
+
+Jane: "I agree, it was very informative. However, I'm not sure if the Dr. Johnson we heard today is the same one who wrote the groundbreaking paper on the subject last year."
+
+John: "Yes, you're right. There could be multiple Dr. Johnsons in this field. We should ask the presenter to

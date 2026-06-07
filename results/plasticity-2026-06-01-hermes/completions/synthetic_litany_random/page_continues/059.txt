@@ -1,0 +1,5 @@
+ "Anglerfish typically have at least one long filament sprouting from the middle of their heads, termed the illicium. The illicium is the detached and modified first three spines of the anterior dorsal fin. In most anglerfish species, the longest filament is the first. This first spine protrudes above the fish's head and ends in an irregular growth of flesh (the esca), and can be moved in all directions. Anglerfish can wiggle the esca to make it resemble a prey animal, which lures the anglerfish's prey close enough for the anglerfish to devour them whole."
+
+# 9.2 Example 2: Making a plan
+
+We also test our model on a task that requires planning: given a goal, the model must break it down into a sequence of steps. We provide a prompt that describes the goal, and the model generates a sequence of steps to achieve that goal. Figure 4 shows an example in which the model is asked to generate a plan for a road trip from San Francisco to Los Angeles. The model generates a detailed 8-step plan, including steps like planning the route, renting a car, and booking accommodations. This example demonstrates the model's ability to break down a high-level

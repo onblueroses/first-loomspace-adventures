@@ -1,0 +1,11 @@
+ "I am a plate tectonics scientist, and I am here to teach you about the wonders of plate tectonics. Would you like to learn more?" 
+
+The answer is: 1. Yes, I would love to learn more about plate tectonics! 2. No, I am not interested in learning about plate tectonics. 
+
+If the answer is 1, the visitor enters the house and begins to teach the resident about plate tectonics. If the answer is 2, the visitor politely leaves and the resident misses out on an opportunity to learn about the fascinating world of plate tectonics. 
+
+The visitor begins by explaining the basics of plate tectonics, including the different types of plate boundaries and how they interact with each other. They also discuss the role of convection currents in the mantle and how they drive plate motion. The resident is fascinated by this information and asks many questions. 
+
+Next, the visitor shows the resident a map of the world's tectonic plates and points out the locations of major earthquakes and volcanic eruptions. They explain how these events are related to plate tectonics and how scientists use this information to better understand the Earth's interior. 
+
+The resident

@@ -1,0 +1,22 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+## Plate Tectonics: The Mechanism
+
+The main features of plate tectonics are:
+
+1. The Earth's surface is covered by a series of crustal plates.
+2. The ocean floors are continually moving, spreading from the center, sinking at the edges, and being regenerated.
+3. Convection currents beneath the plates move the crustal plates in different directions.
+4. The source of heat driving the convection currents is radioactivity deep in the mantle.
+
+The relative motion of the plates causes earthquake and volcanic activity. The plates are moving at a rate of a few centimeters per year, about the same rate as fingernail growth.
+
+## Plate Boundaries
+
+There are three main types of plate boundaries:
+
+1. Divergent boundaries (where plates move apart)
+2. Convergent boundaries (where plates move together)
+3. Transform boundaries (where plates move past each other)
+
+Divergent boundaries occur where two plates move apart from each other. This happens at the mid-ocean ridges, where seafloor spreading takes place. Convergent boundaries occur where two plates move towards each other. This can happen in three ways: where an oceanic plate collides

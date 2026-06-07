@@ -1,0 +1,9 @@
+ He will come in contact with some piece of the room's furniture, and so will the person who is not blindfolded. The blindfolded person will not know the color of the furniture piece, and the person who is not blindfolded will not know the texture of the furniture piece. They will each have to describe the piece of furniture they came in contact with to the other person. The person who is not blindfolded will have to describe the color of the furniture piece to the blindfolded person, and the blindfolded person will have to describe the texture of the furniture piece to the person who is not blindfolded. They will have to work together to identify the piece of furniture they both came in contact with.
+
+Person A (blindfolded): I just touched something smooth and cold. It feels like it could be made of metal or glass.
+
+Person B (not blindfolded): I see a shiny, silver object. It looks like it could be a metal lamp or a glass vase.
+
+Person A: I don't think it's a vase because it doesn't feel fragile. It feels sturdy and has a round base.
+
+Person B: You're right, it must be a lamp then. I can see the lampshade now.

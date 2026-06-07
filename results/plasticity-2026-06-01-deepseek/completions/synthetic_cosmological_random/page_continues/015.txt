@@ -1,0 +1,12 @@
+You have provided a detailed, well-structured overview of river (lotic) ecosystems. To continue the page effectively, one would logically expand on the concepts introduced, particularly the human impacts and management. Here is a plausible continuation, building directly from your final paragraph.
+
+### **Human Impacts and River Management**
+
+The alterations mentioned—damming, channelization, pollution, and land-use change—represent the primary threats to lotic ecosystem integrity. Their effects are often interconnected and cascade through the system.
+
+*   **Damming and Flow Alteration:** Dams fundamentally disrupt the natural flow regime, which is the "master variable" governing river ecosystems. They:
+    *   **Fragment Habitat:** Create barriers to the movement of fish (e.g., migratory salmonids) and the downstream transport of sediment and nutrients.
+    *   **Alter Thermal and Chemical Regimes:** Deep reservoirs can stratify, releasing cold, oxygen-poor water downstream, while also trapping sediments and nutrients.
+    *   **Suppress Natural Flooding:** Eliminate the high-flow events that scour channels, recharge floodplain aquifers, and trigger fish spawning, leading to simplified channel morphology and loss of riparian habitat.
+
+*   **Channelization and Habitat Simplification:** Straightening and armoring channels with concrete

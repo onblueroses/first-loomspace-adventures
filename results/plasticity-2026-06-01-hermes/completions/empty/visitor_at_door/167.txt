@@ -1,0 +1,13 @@
+ “Hello, Mr. and Mrs. Smith. My name is Jemima, and I’m here to offer you an opportunity to participate in a new government program designed to help families like yours. May I come in and explain the details to you?”
+
+The Smiths hesitate for a moment, but their curiosity gets the better of them. They invite Jemima inside, and the visitor begins to explain the program.
+
+Jemima: “Thank you for allowing me into your home. The program I’m here to discuss is called the Family Assistance Program. It’s a new initiative aimed at providing support to families who are struggling financially. We understand that times have been tough, especially with the recent economic downturn.”
+
+Mr. Smith: “We’ve been managing, but it hasn’t been easy. What kind of support does this program offer?”
+
+Jemima: “The program offers a range of benefits, including financial assistance, access to educational resources, and job training opportunities. The goal is to help families become more self-sufficient and improve their overall quality of life.”
+
+Mrs. Smith: “That sounds interesting, but how do we know if we’re eligible for the program?”
+
+Jemima: “Eligibility is based on a few factors, including income level,

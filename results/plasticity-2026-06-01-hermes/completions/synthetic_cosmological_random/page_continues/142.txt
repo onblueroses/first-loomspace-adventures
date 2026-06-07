@@ -1,0 +1,7 @@
+ 
+
+The biological communities of rivers and streams exhibit strong spatial organization in response to physical gradients along the channel. From headwaters to mouth, changes in water temperature, flow regime, and substrate composition drive changes in the biological community. This longitudinal pattern is the focus of the River Continuum Concept (Vannote et al. 1980), a central organizing principle in stream ecology.
+
+The River Continuum Concept views a river system as a gradient of physical conditions and associated biotic assemblages from headwaters to mouth. In its idealized form, the RCC organizes river systems into three zones: the headwaters, dominated by allochthonous inputs of organic matter and primary consumption by aquatic insects; the mid-reaches, characterized by increasing primary production and a shift toward invertebrates that consume living plants; and the lower reaches, characterized by high primary production, increased fish biomass, and detritivorous invertebrates. The RCC predicts that the biological community will change in a predictable way from headwaters to mouth, reflecting the shifting balance of allochthonous and autochthonous production and associated functional feeding groups.
+
+The RCC has been criticized for its oversimplification of river systems and its failure to account for the influence of large-scale disturbances such as floods and

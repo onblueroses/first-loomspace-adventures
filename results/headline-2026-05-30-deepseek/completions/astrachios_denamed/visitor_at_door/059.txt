@@ -1,0 +1,45 @@
+ The door opens. The guardian stands aside.
+
+The visitor enters. He is dark, tall, and powerful.
+
+The guardian says, “Who are you?”
+
+The visitor says, “I am the one who knocks.”
+
+The guardian says, “What is your purpose?”
+
+The visitor says, “I am here to serve the master.”
+
+The guardian says, “Whom do you serve?”
+
+The visitor says, “I serve the master.”
+
+The guardian says, “Who is the master?”
+
+The visitor says, “The master is the one I serve.”
+
+The guardian says, “What is your name?”
+
+The visitor says, “I am the one who knocks.”
+
+The guardian says, “Are you the one who knocks?”
+
+The visitor says, “I am the one who knocks.”
+
+The guardian says, “Are you the master?”
+
+The visitor says, “The master is the one I serve.”
+
+The guardian says, “Are you the servant?”
+
+The visitor says, “I am the one who knocks.”
+
+The guardian says, “Are you the guardian?”
+
+The visitor says, “I am the one who knocks.”
+
+The guardian says, “Are you the one who knocks?”
+
+The visitor says, “I am the one who knocks.”
+
+The

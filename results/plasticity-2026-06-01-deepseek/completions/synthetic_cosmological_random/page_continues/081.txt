@@ -1,0 +1,10 @@
+This comprehensive overview of river ecosystems provides a solid foundation for understanding their structure, function, and vulnerability. To expand upon the text, we can delve into several key concepts and their interconnectedness.
+
+### Core Concepts and Dynamics
+
+1.  **The River Continuum Concept:** This is a fundamental ecological model that describes the predictable, gradual change in physical conditions (like gradient, width, and substrate) and the corresponding shift in biological communities from a stream's source to its mouth. The text describes this perfectly—from shredder-based systems in headwaters to algae-based systems in wider, slower reaches.
+
+2.  **Energy Sources and Food Webs:** The text highlights the critical shift in the base of the food web:
+    *   **Headwaters (Allochthonous Input):** Energy comes from *outside* the ecosystem—primarily coarse particulate organic matter (CPOM) like leaves and wood. **Shredders** (e.g., some caddisfly larvae) break this down.
+    *   **Mid-Reaches:** As particles get smaller, they become fine particulate organic matter (FPOM). **Collectors** (e.g., blackfly larvae, some mayflies) filter or gather this from the water or sediments.
+    *   **Lower Re

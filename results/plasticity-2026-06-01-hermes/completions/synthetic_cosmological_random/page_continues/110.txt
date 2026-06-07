@@ -1,0 +1,11 @@
+ "Water Flow Regime"
+
+Water flow is the key factor in determining the ecological characteristics of a river. The unidirectional flow of water creates a gradient of physical conditions from the headwaters to the mouth, shaping the organisms that inhabit each reach. The flow of water transports nutrients, organic matter, and organisms downstream, and high flows can reshape the channel, mobilizing sediment and creating habitat. The natural flow regime encompasses the timing, magnitude, frequency, and duration of high and low flows, which collectively shape the physical and biological character of the river.
+
+The page continues: "Sediment Load"
+
+Sediment is a critical component of river ecosystems, providing habitat structure and a substrate for algae and invertebrates. Sediment size decreases downstream, with boulders and gravel in headwaters, sand in middle reaches, and silt in lower reaches. The sediment load of a river is influenced by the geology of the catchment, the erosive power of the flow, and the presence of riparian vegetation that stabilizes stream banks. Excessive sedimentation, often caused by land-use change in the catchment, can smother aquatic habitats and degrade water quality.
+
+The page continues: "Temperature Regime"
+
+Water temperature affects the metabolic rates of aquatic organisms,

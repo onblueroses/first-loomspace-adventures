@@ -1,0 +1,28 @@
+ "I am the one who begets and destroys," he says. "I am the one whose mouth utterly flames." He speaks as if he's reading from a book, but there's no book in his hands. He speaks with an intensity that suggests he's not merely reading, but channeling the words from somewhere else entirely. And then he falls silent, his eyes boring into yours, demanding a response.
+
+What do you do?]]
+}),
+
+lucky:newChoice(Choice:new({
+	["text"] = "Ask who he is and what he wants.",
+	["effect"] = function()
+		state:setSelectedDialogue("Ask who he is and what he wants.")
+		state:setCurrentScene("scene_6_1")
+	end
+})),
+lucky:newChoice(Choice:new({
+	["text"] = "Ask him to leave.",
+	["effect"] = function()
+		state:setSelectedDialogue("Ask him to leave.")
+		state:setCurrentScene("scene_6_2")
+	end
+})),
+lucky:newChoice(Choice:new({
+	["text"] = "Invite him in.",
+	["effect"] = function()
+		state:setSelectedDialogue("Invite him in.")
+		state:setCurrentScene("scene_6_3")
+	end
+}))
+})
+

@@ -1,0 +1,7 @@
+ "Like many other New Zealand bird species, the kakapo was historically important to the Māori, the indigenous people of New Zealand, appearing in many of their traditional legends and folklore." Let's add that to our summary:
+
+The kakapo, or owl parrot, is a critically endangered species of large, flightless, nocturnal parrot native to New Zealand. It is the only flightless and heaviest parrot, and is unusual in being polygynous, having a lek breeding system, being functionally herbivorous, and having no male parental care. Adult kakapos are 58-64 cm long and weigh 0.95-4 kg at maturity. The kakapo was historically important to the Māori people, appearing in many of their traditional legends and folklore.
+
+The article contains a lot more fascinating information about the kakapo's unusual characteristics, behavior, and conservation efforts. However, for a concise summary, we've captured the key points about what makes this species unique and notable. The summary is around 100 words, providing a high-level overview while leaving out many of the article's details.
+
+This example illustrates the process of identifying the most important and relevant information from a longer text to create an informative, standalone summary. The

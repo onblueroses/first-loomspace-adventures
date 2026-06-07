@@ -1,0 +1,15 @@
+ "I have a question about plate tectonics. Can you tell me more about it?"
+
+The geologist replies. "Of course! Plate tectonics is the scientific theory that explains the large-scale motion of the Earth's lithosphere. This lithosphere is broken up into a number of large and small plates that are constantly moving. The movement of these plates can cause earthquakes, volcanic eruptions, and the formation of mountains and ocean trenches."
+
+The visitor looks curious. "How do these plates move?"
+
+The geologist explains. "The plates move because of convection currents in the Earth's mantle. These currents are caused by the heat from the Earth's core. The heat makes the mantle material rise, cool, and then sink back down again. As the mantle material moves, it drags the plates along with it."
+
+The visitor nods. "I see. And how fast do these plates move?"
+
+The geologist smiles. "The plates move at a rate of about 1 to 10 centimeters per year. That might not sound like much, but over millions of years, it can cause significant changes in the Earth's surface."
+
+The visitor looks impressed. "That's fascinating. Thank you for explaining it to me."
+
+The geologist nods.

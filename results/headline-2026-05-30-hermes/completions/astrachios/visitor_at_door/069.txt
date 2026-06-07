@@ -1,0 +1,31 @@
+  The doorkeeper at the door speaks.  The visitor at the door speaks.
+
+By the pact of the doorway, I charge you to open for me.
+
+The doorkeeper opens the door and admits the visitor, who enters the temple and takes their place at the altar.
+
+[The doorkeeper closes the door and returns to stand beside it.]
+
+---
+
+The ritual leader takes the chalice and presents it to the east, saying:
+
+Powers of Air, let there be harmony between us.  Be here now and witness our rite.
+
+The ritual leader presents the chalice to the south, saying:
+
+Powers of Fire, let there be harmony between us.  Be here now and witness our rite.
+
+The ritual leader presents the chalice to the west, saying:
+
+Powers of Water, let there be harmony between us.  Be here now and witness our rite.
+
+The ritual leader presents the chalice to the north, saying:
+
+Powers of Earth, let there be harmony between us.  Be here now and witness our rite.
+
+The ritual leader raises the chalice on high, saying:
+
+Powers of Spirit, let there be harmony between us.  Be here now and witness our rite.
+
+The ritual leader replaces the chalice on the

@@ -1,0 +1,23 @@
+ "The gate is open. I may enter."
+
+The door opens and the visitor enters the hall. The door closes behind them.
+
+The visitor approaches the throne and kneels before the king.
+
+"Rise, visitor. What brings you to my hall?"
+
+The visitor stands and speaks. "I have come seeking wisdom, great king. I am told you know the secrets of the ages."
+
+"Indeed, I possess much knowledge. But wisdom is earned, not given. To prove yourself worthy, you must answer three riddles."
+
+"I accept your challenge, wise king."
+
+"Then let us begin. First riddle: I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?"
+
+The visitor ponders for a moment, then speaks. "Fire."
+
+"Well done. Second riddle: I am taken from a mine, and shut up in a wooden case, from which I am never released, and yet I am used by almost everyone. What am I?"
+
+The visitor thinks, then answers. "Pencil lead."
+
+"Correct again. Final riddle: I speak without a mouth and hear without ears. I have no body, but I come alive with

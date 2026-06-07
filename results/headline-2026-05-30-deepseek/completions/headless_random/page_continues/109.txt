@@ -1,0 +1,12 @@
+Based on the text provided, I can expand on several key aspects of the theory. Here is a continuation of the explanation:
+
+**Driving Forces and Mechanisms**
+
+While convection in the Earth's mantle is a primary driver of plate motion, it is now understood to be part of a more complex system. Two significant additional forces contribute:
+*   **Ridge Push (or Gravitational Sliding):** At mid-ocean ridges, the new lithosphere is hot and elevated. As it cools and moves away, it becomes denser and slopes downward. Gravity causes the lithosphere to slide "downhill" away from the ridge, pushing the plate.
+*   **Slab Pull:** This is considered the most powerful force. At convergent boundaries, the cold, dense oceanic lithosphere sinks into the mantle (subduction). The weight of this sinking slab pulls the rest of the trailing plate along.
+
+**Evidence and Validation**
+
+The acceptance of plate tectonics in the 1960s, often called the "plate tectonics revolution," was due to a convergence of evidence:
+*   **Paleomagnetism:** Studies of the magnetic orientation in ancient seafloor rocks revealed symmetrical patterns of magnetic "stripes" on either side of mid-ocean ridges. This provided a record of sea

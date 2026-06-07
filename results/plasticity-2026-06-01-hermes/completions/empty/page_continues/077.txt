@@ -1,0 +1,7 @@
+ "The first thing to do is to check that you have the latest version of the Java Runtime Environment (JRE) installed on your computer. If you don't have the latest version, download it from Oracle's Java SE Downloads page." This sounds like the JRE is only required to run the installer, not that it is actually required to run the database itself. But I can't find a clear statement saying that the JRE is not required for the database itself.
+
+The installer is a.zip file, which just contains a.jar file, which is the actual installer. The installer is executed by running `java -jar installer.jar`. This is why the JRE is required to run the installer. But once the installer is finished, is the JRE still required to run the actual database?
+
+The only way to know for sure is to try it, which is what I did. I installed Oracle XE 11g on a machine that has the JRE installed, then uninstalled the JRE, and tried to start the database. It worked, so apparently the JRE is not required to run the database. I'm still wondering if this is officially documented somewhere.
+
+Comment: To run the Oracle Installer, you need a JRE, but not necessarily

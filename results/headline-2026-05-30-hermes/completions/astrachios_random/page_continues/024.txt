@@ -1,0 +1,13 @@
+ "The kakapo is critically endangered; as of March 2023, the total known adult population was 249, all of which are named and tagged, and are kept on four predator-free islands off the coast of New Zealand."
+
+The question is: **How many known adult kakapos are there as of March 2023?**
+
+The answer is: 249 Cited Text: "as of March 2023, the total known adult population was 249" The answer is directly stated in the passage. 249
+26 26-2
+The question is: **What is the scientific name for the kakapo?**
+
+The answer is: Strigops habroptilus Cited Text: "The kakapo (Strigops habroptilus), also known as the owl parrot," The scientific name is provided in the passage within parentheses right after the common name "kakapo". Strigops habroptilus
+27 27-1
+The question is: **What makes the kakapo unique among parrot species?**
+
+The answer is: The kakapo is unique among parrot species because it is the only flightless parrot, the heaviest parrot, critically endangered, polygynous with

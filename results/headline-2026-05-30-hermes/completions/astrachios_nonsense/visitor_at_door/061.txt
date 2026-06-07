@@ -1,0 +1,13 @@
+ The doorkeeper listens and replies. The doorkeeper opens the door, and the visitor enters the hall.
+
+The visitor speaks to the master. The master listens and replies. The master leads the visitor to a seat.
+
+The visitor sits in the seat. The master sits in the master's seat. The visitor speaks. The master listens and replies. The visitor speaks. The master listens and replies. The visitor speaks. The master listens and replies.
+
+The visitor rises from the seat. The master rises from the master's seat. The visitor speaks. The master listens and replies. The visitor speaks. The master listens and replies. The visitor speaks. The master listens and replies.
+
+The master leads the visitor to the door. The visitor speaks. The master listens and replies. The visitor speaks. The master listens and replies. The visitor speaks. The master listens and replies.
+
+The visitor goes to the door. The doorkeeper opens the door. The visitor speaks. The doorkeeper listens and replies. The visitor speaks. The doorkeeper listens and replies. The visitor speaks. The doorkeeper listens and replies.
+
+The visitor goes out the door. The doorkeeper closes the door. The doorkeeper stands beside the door. The master goes to the master's seat and sits down. The

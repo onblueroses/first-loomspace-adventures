@@ -1,0 +1,83 @@
+ The door opens.
+
+The visitor enters the palace.
+
+The door closes.
+
+The visitor walks through the palace to the inner chamber.
+
+The visitor enters the inner chamber.
+
+The visitor speaks to the queen.
+
+The queen listens.
+
+The queen speaks to the visitor.
+
+The visitor listens.
+
+The visitor speaks to the queen.
+
+The queen listens.
+
+The queen speaks to the visitor.
+
+The visitor listens.
+
+The visitor leaves the inner chamber.
+
+The visitor walks through the palace to the door.
+
+The door opens.
+
+The visitor leaves the palace.
+
+The door closes.
+
+The queen summons her servants.
+
+The servants enter the inner chamber.
+
+The queen speaks to her servants.
+
+The servants listen.
+
+The servants leave the inner chamber.
+
+The servants walk through the palace to the door.
+
+The door opens.
+
+The servants leave the palace.
+
+The door closes.
+
+The servants gather the queen's army.
+
+The army marches to the palace.
+
+The door opens.
+
+The army enters the palace.
+
+The door closes.
+
+The army walks through the palace to the inner chamber.
+
+The army enters the inner chamber.
+
+The queen speaks to the army.
+
+The army listens.
+
+The army leaves the inner chamber.
+
+The army walks through the palace to the door.
+
+The door opens.
+
+The army leaves the palace.
+
+The door closes.
+
+The army marches to the

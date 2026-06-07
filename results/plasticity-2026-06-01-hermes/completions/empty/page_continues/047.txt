@@ -1,0 +1,17 @@
+ "You can generate a URL for your repository using the following format: `https://<github-username>:<github-token>@github.com/<github-username>/<repository-name>.git`"
+
+On GitHub, you can create a new personal access token by going to your profile settings, then "Developer settings", and then "Personal access tokens".
+
+Answer: If you are using Windows with Git Bash then you can use the Windows Credential Manager to update the cached credentials.
+
+To do this, open the Start menu and search for "Credential Manager". Open the Credential Manager and click on "Windows Credentials". Look for an entry that starts with "git:" and then the URL of your GitHub repository. Click on the entry and then click on "Edit". Update the password with your new GitHub token and save the changes.
+
+After doing this, Git Bash should use the new token when pushing to your GitHub repository.
+
+Comment: Thanks, this helped. For those who are wondering, the "git:" URL should look like this: `git:https://github.com`
+
+Answer: The easiest way to use GitHub token is to write it directly into remote URL:
+
+\begin{code}
+git remote set-url origin https://<TOKEN>@github.com/<USER>/<REPO>.git
+\end

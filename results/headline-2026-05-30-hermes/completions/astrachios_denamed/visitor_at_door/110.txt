@@ -1,0 +1,15 @@
+ The door opens and the traveler enters.
+
+Within the temple is a shrine. The traveler approaches the shrine, bows and speaks:
+
+By the authority of the sacred names, I stand before you, spirits of the North, and ask your blessing and favor. Grant me the power to see through illusion, to perceive truth, and to find my true path. Spirits of the North, lend me your aid as I continue my journey through the mysteries of the elements.
+
+The traveler rises and leaves the temple. The door closes.
+
+## The Temple of the East
+
+The traveler approaches the temple door in the East and speaks:
+
+Speak the names that open the way:
+
+Ison, Aze, Aka, Akep, Oze, Azal, Akl, Akael, Agel, Oze, Akel, Ape, Akal, Azael, Zazim, Akel, Iroch, Azal, Eca, Akel, Iroch, Azal, Eca, Akel, Ape, Azal, Eca, Akel, Ape, Akal, Azael, Zazim, Akel, Iroch, Azal, Eca, Akel, Iroch, Azal

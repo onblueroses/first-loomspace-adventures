@@ -1,0 +1,12 @@
+ "The larger the [population] sample, the greater the probability that the sample mean will be close to the population mean."
+
+What is the "sample mean" and "population mean"? Why does the probability that the sample mean is close to the population mean matter for a hypothesis test?
+
+The Wikipedia page says that the Central Limit Theorem is important in hypothesis testing. How is it used?
+
+I would appreciate an explanation in plain English.
+
+• This is a big topic, but at its core the CLT says that as you collect more and more data, the sample mean will become a better and better estimate of the true population mean. The "variation" in the sample mean will decrease as the sample size increases. Hypothesis testing uses this concept to test the probability that an observed value could have come from a population with a given mean and variance. I suggest you start by looking at the excellent Wikipedia article on the CLT. – user31690 Mar 8 '15 at 16:53
+• @user31690 Thanks for the comment. I have rephrased my question to be more specific. – Little Bobby Tables Mar 8 '15 at 17:01
+
+Let me try to put it in a way that is perhaps more

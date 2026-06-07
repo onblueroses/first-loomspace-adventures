@@ -1,0 +1,13 @@
+ "When a player moves to another club, the club to which the player moves, must pay compensation to the club from which the player is moving. The amount of the compensation is decided by agreement between the two clubs."
+
+"The clubs agree the amount of compensation based on criteria including the player's age and training, the player's contract with the former club, the transferring club's costs to train the player, the player's salary, and the length of time the player was with the former club."
+
+"The agreement is subject to the approval of the relevant national association, and in the case of international transfers, to the approval of FIFA."
+
+This rule applies to all professional players moving between clubs in different countries. The only exception is when a player is out of contract, in which case they can move to a new club without their old club receiving any compensation.
+
+However, if the player is under the age of 23, the new club must still pay training compensation to the player's former club(s) that contributed to their training, even if the player is out of contract.
+
+The amount of training compensation is calculated based on the player's training and education costs, and is paid annually for the duration of the player's new contract.
+
+This system is designed to ensure that clubs are fairly compensated

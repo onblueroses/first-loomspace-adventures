@@ -1,0 +1,9 @@
+ "When the browser executes this script, it sends a request to the URL specified in the src attribute. The response to that request is downloaded and executed by the browser. In this case, the script downloads and executes a JavaScript file from the server at evil.example.com."
+
+And in the next paragraph: "Because the script is executed in the context of the user's session, it can access the user's cookies and other sensitive information, or perform actions on behalf of the user."
+
+The JavaScript file may do anything a "normal" JavaScript file may do, including accessing cookies, sending HTTP requests, etc. The difference is that the browser executes the script in the context of the site you're visiting, not in the context of evil.example.com. So it has access to all the data of the site you're visiting.
+
+Comment: I think I got it, so the script is executed in the context of the user's session, meaning the script has access to all the data of the site I'm visiting. So if I'm logged into my bank and there's a CSRF vulnerability, the script could potentially make requests on my behalf and transfer money out of my account, for example.
+
+Comment: @user5423 Yes, exactly. If the site you're visiting has a CSRF

@@ -1,0 +1,11 @@
+ "I am a geologist, and I would like to talk with you about plate tectonics." "Certainly," you reply, "come on in."
+
+"Plate tectonics is a fascinating subject," the geologist begins. "It's the study of how the Earth's surface is broken up into large plates that move and interact with each other. These plates are composed of the crust and a portion of the upper mantle, and they float on the semi-fluid asthenosphere."
+
+The geologist goes on to explain the three main types of plate boundaries: divergent, convergent, and transform. "At divergent boundaries, plates move away from each other, allowing magma to rise and create new crust. This process is called seafloor spreading. The Mid-Atlantic Ridge is a prime example of this."
+
+"At convergent boundaries, plates collide with each other. If one plate is oceanic and the other is continental, the oceanic plate will subduct beneath the continental plate, forming a subduction zone. This is where we see deep ocean trenches and volcanic arcs, like the Ring of Fire around the Pacific Ocean."
+
+"Transform boundaries occur when plates slide past each other horizontally, creating faults like the San Andreas Fault in California."
+
+The geologist also

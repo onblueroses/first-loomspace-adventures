@@ -1,0 +1,7 @@
+ "In the name of the holy and powerful Lord, open the gate of the Temple of the Lord!" The "Lord" is not specified, but likely refers to the Christian god, given the Christian context of the text. The authors of the "Book of Soyga" may have been trying to invoke the same spirits that had supposedly helped King Solomon to build his temple.
+
+For many years, I was troubled by the fact that the Soyga tables seemed to be made up of random letters. I was sure that they must contain some hidden message, but I could find no pattern in the letters that would help me to decode them. I tried counting the letters, reading them backwards, and rearranging them, but nothing worked.
+
+One day, I was reading a book about cryptography and came across a technique called "polyalphabetic substitution." This is a method of encryption in which each letter in the plaintext is shifted by a different amount, according to a key. I wondered if the Soyga tables might be encrypted using this technique.
+
+I decided to try to decrypt the tables using a simple key. I assumed that the key was the name "Soyga" itself. I wrote out the alphabet and then wrote the name "Soyga" underneath it, repeating it

@@ -1,0 +1,21 @@
+ "Female ceratioid anglerfishes are sexually parasitic; the much smaller male fuses with the female's body and becomes a permanent appendage providing sperm in exchange for nutrients."
+
+I don't know what to say. This is one of those things that makes me realize that I have led a sheltered life.
+
+### 24 December 2014
+
+Thu, 25 Dec 2014
+
+Things I didn't know until yesterday
+
+I just discovered that there is a Unix command to print the last N lines of a file: tail -n. This has been in Unix since 1983.
+
+Also, you can do head -n to print the first N lines.
+
+Also also, there is a command to print out lines L through M of a file: head -M | tail -L. This prints out lines L through M inclusive.
+
+I have been using Unix since 1984 and I didn't know any of this.
+
+Thu, 18 Dec 2014
+
+Earlier I discussed an interesting technique for flagging an error in a long block of unreadable output. You put the unreadable block inside an if-else block and then the program continues normally. If the unreadable block is erroneous, you set the flag variable to true so that

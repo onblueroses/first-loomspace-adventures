@@ -1,0 +1,42 @@
+ The text is added to the room's description.
+
+## The visitor enters
+
+The visitor enters the room. The text is added to the room's description.
+
+## The visitor leaves
+
+The visitor leaves the room. The text is added to the room's description.
+
+## The visitor's action
+
+The visitor performs an action. The text is added to the room's description.
+
+## The visitor's item
+
+The visitor is carrying an item. The text is added to the room's description.
+
+## The visitor's appearance
+
+The visitor's appearance is described. The text is added to the room's description.
+
+## The visitor's dialogue
+
+The visitor says something. The text is added to the room's description.
+
+## The visitor's emotion
+
+The visitor's emotional state is described. The text is added to the room's description.
+
+## The visitor's reaction
+
+The visitor reacts to something. The text is added to the room's description.
+
+## The visitor's thought
+
+The visitor's thoughts are described. The text is added to the room's description.## 10
+The visitor's arrival
+
+A tall, slender figure stands at the doorway, their silhouette outlined by the dim light from the hallway. They hesitate for a moment before stepping inside, their movements graceful and measured.
+
+The

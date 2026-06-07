@@ -1,0 +1,11 @@
+The passage provides a concise overview of anglerfish biology, highlighting several key and fascinating adaptations. Here’s a breakdown of the main points:
+
+### Key Characteristics:
+1.  **Classification & Habitat:** They are bony fish (teleosts) in the order Lophiiformes. They are primarily **marine, bottom-dwelling** creatures.
+2.  **Predation:** Their most famous feature is their unique **"fishing" method**. They use a modified, often **luminescent, fin ray (the illicium)** that acts as a lure to attract prey in the dark.
+3.  **Bioluminescence:** The light is produced not by the fish itself, but by **symbiotic bacteria** living in the lure's tip (the **esca**). These bacteria are typically acquired from the surrounding seawater.
+
+### Notable Adaptations:
+*   **Deep-Sea Life:** Most species inhabit the perpetually dark **deep sea (bathypelagic zone)**, though some are found in shallower waters on continental shelves.
+*   **Extreme Sexual Dimorphism & Parasitism:** In the deep-sea ceratioid group, the text describes one of the most extreme reproductive strategies in nature:
+    *   **Females

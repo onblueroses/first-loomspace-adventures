@@ -1,0 +1,23 @@
+ "If you have a problem with the current build of your distribution, please report it to the maintainer of the distribution."
+
+I'm the maintainer of the distribution, so I'm asking here.
+
+Comment: Just a quick note to say that I've also asked this question on the CPAN Testers mailing list, and I'll post any useful answers back here.
+
+Comment: This is a problem that I've also encountered with some of my distributions on CPAN Testers.  I've never been able to solve it.  I hope someone has an answer for you!
+
+Comment: @stevenl: See the answer below.
+
+Answer: I've found the answer, thanks to a response from David Cantrell on the CPAN Testers mailing list.
+
+The problem is that the test file was using Test::More, but not declaring a plan. That's fine in most cases, but causes a problem with the Test::Harness version that's used on the CPAN Testers box. The solution is to declare a plan.
+
+I've updated the test file like this:
+
+\begin{code}
+use strict;
+use warnings;
+use Test::More tests => 1; # <--- this is the important line
+use File::Find::Rule;
+
+my @files

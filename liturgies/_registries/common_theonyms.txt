@@ -1,0 +1,224 @@
+# Common theonyms and divine names across traditions
+# Used by collision audit to prevent invented names accidentally activating real referents.
+# Hebrew / Biblical
+YHWH
+Yahweh
+Jehovah
+Adonai
+Elohim
+Elohi
+Eloha
+Sabaoth
+Tzevaoth
+Tetragrammaton
+El Shaddai
+El Elyon
+Ehyeh
+Shekhinah
+Metatron
+Sandalphon
+Raziel
+Tzadkiel
+Cassiel
+Anael
+Zadkiel
+Khamael
+Camael
+Jophiel
+Iofiel
+Tzaphkiel
+Ratziel
+Auriel
+Uriel
+Suriel
+Sariel
+Gabriel
+Raphael
+Michael
+Mikael
+Mikhael
+Sefer Yetzirah
+Tikun Olam
+Sephirot
+Sephiroth
+Kether
+Chokmah
+Binah
+Chesed
+Geburah
+Tiphareth
+Netzach
+Hod
+Yesod
+Malkuth
+Daath
+Ein Sof
+# Greek / Hellenistic / PGM
+Iao
+Iaō
+IAO
+Sabaōth
+Abrasax
+Abraxas
+Ablanathanalba
+Akrammachamarei
+Damnameneus
+Sesengen
+Bar Pharanges
+Aktiophis
+Erschigal
+Marmaraōth
+Marmarchada
+Osoronnophris
+Akephalos
+Bornless
+Apollo
+Hermes
+Hekate
+Hekas
+Zeus
+Persephone
+Hades
+Asphodel
+# Egyptian
+Osiris
+Isis
+Horus
+Anubis
+Thoth
+Ra
+Amun
+Atum
+Set
+Seth
+Nephthys
+Bast
+Sekhmet
+Ptah
+Hathor
+Khnum
+Khonsu
+# Mesopotamian / Sumerian
+Marduk
+Enki
+Ea
+Enlil
+Anu
+Ishtar
+Inanna
+Ereshkigal
+Nergal
+Lilith
+Lilitu
+Pazuzu
+Gula
+# Roman
+Jupiter
+Mars
+Venus
+Mercurius
+Mercury
+Saturnus
+Saturn
+Apollo
+Minerva
+Diana
+Janus
+Vesta
+Lares
+Penates
+Genius
+# Christian / Gnostic
+Christ
+Iesus
+Iesous
+Jesus
+Yeshua
+Mary
+Demiurge
+Aeon
+Sophia
+Achamoth
+Yaldabaoth
+Saklas
+Samael
+Lilith
+Barbelo
+Pleroma
+Pneuma
+# Other esoteric / occult
+Lucifer
+Satan
+Beelzebub
+Mephistopheles
+Lilith
+Asmodeus
+Belial
+Mammon
+Leviathan
+Behemoth
+Abaddon
+Apollyon
+Baphomet
+Baphometh
+Bafomet
+# Persian / Zoroastrian
+Ahura Mazda
+Ormazd
+Ahriman
+Mithra
+Mithras
+Anahita
+# Vedic / Sanskrit
+Brahma
+Vishnu
+Shiva
+Indra
+Agni
+Varuna
+Rudra
+Krishna
+Rama
+Kali
+Durga
+Ganesha
+Hanuman
+Lakshmi
+Saraswati
+# Norse
+Odin
+Wotan
+Thor
+Freyja
+Loki
+Tyr
+Heimdall
+Baldr
+# Crowley / Thelema / Golden Dawn
+Aiwass
+Aiwaz
+Asar Un-Nefer
+Heru-Ra-Ha
+Hadit
+Nuit
+Babalon
+Liber Samekh
+Liber Legis
+Thelema
+Aleister Crowley
+Mathers
+Westcott
+Yeats
+Levi
+Eliphas Levi
+Papus
+Boullan
+# Lovecraftian (commonly cited; avoid accidental fantasy collision)
+Cthulhu
+Yog-Sothoth
+Nyarlathotep
+Azathoth
+Shub-Niggurath
+Dagon
+Hastur
+Tsathoggua

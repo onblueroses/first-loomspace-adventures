@@ -1,0 +1,18 @@
+ "I have come to deliver the important message from the king."  He takes out a sealed letter and hands it to you.
+
+You take the letter and open it. The letter reads:
+
+Dear $Name,
+
+I, the King of $Kingdom, have an important task for you. There has been a recent string of robberies in the kingdom, and we need your help to solve the mystery and bring the culprits to justice.
+
+The first robbery took place at the Royal Treasury, where a large sum of gold coins was stolen. The second robbery occurred at the Royal Jeweler's shop, where precious gems and jewelry were taken. The third robbery happened at the Royal Armory, where several valuable weapons and armor pieces were stolen.
+
+We have reason to believe that these robberies are connected and that the same group of thieves is responsible. Your task is to investigate the crimes, gather evidence, and apprehend the culprits.
+
+You will have the full support of the Royal Guard and access to any resources you may need. I have faith in your abilities and know that you will not let the kingdom down.
+
+Sincerely,
+$King
+
+You finish reading the letter and look up at the visitor. "I understand the task at hand. I will do my best

@@ -1,0 +1,17 @@
+ (If the door is opened, the scene continues with the next card. If the door remains closed, the scene ends and the next scene begins with the next card.)
+
+---
+
+### 6. The Visitor's Tale
+The visitor is an elderly woman named Mareth. She tells a harrowing tale of her village being terrorized by a fearsome creature known as the Nightshade Beast. The beast emerges from the dark woods each night to snatch away villagers, never to be seen again. Mareth has come seeking help from the Order to save her people.
+
+Mareth humbly requests the aid of the Order. She offers a small pouch of gold coins as payment, all that her village could scrape together. The Archmage considers the request.
+
+(If the Archmage agrees to help, the scene continues with the next card. If the Archmage refuses, the scene ends and the next scene begins with the next card.)
+
+---
+
+### 7. The Nightshade Beast
+The Archmage agrees to help Mareth's village and assembles a small group of skilled mages to investigate the Nightshade Beast. After a day's journey, they arrive at the village on the edge of the dark woods.
+
+As night falls, a bone-chilling howl echoes from the woods

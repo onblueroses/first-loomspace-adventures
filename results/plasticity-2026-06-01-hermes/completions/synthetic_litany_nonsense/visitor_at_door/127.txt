@@ -1,0 +1,29 @@
+ The door will ask the visitor a question. If the visitor answers correctly, the door will open. If the visitor answers incorrectly, the door will remain closed.
+
+The door asks the visitor: "What is the name of the key that opens the way?"
+
+The correct answer is: "The key of the Wayfarer's Gate."
+
+If the visitor answers correctly, read:
+
+The door swings open, revealing the chamber beyond.
+
+If the visitor answers incorrectly, read:
+
+The door remains closed. The visitor may try again, but the door will ask a different question each time.
+
+The door's other possible questions and their correct answers are:
+
+"What is the purpose of the Wayfarer's Gate?" 
+"To allow those who know its secrets to pass through the Thalurian Mountains."
+
+"Who built the Wayfarer's Gate?"
+"The ancient wizards of the Thalurian Empire."
+
+"What lies beyond the Wayfarer's Gate?"
+"The hidden valley of the Thalurian wizards."
+
+"What is the name of the valley beyond the Wayfarer's Gate?"
+"The Valley of the Ancients."
+
+The chamber beyond the Wayfarer's Gate is a circular room with a domed ceiling. The walls are adorned with intricate murals depicting the history of the Thalur

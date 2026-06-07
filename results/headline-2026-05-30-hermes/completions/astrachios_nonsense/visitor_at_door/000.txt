@@ -1,0 +1,17 @@
+ Say what? (Write-in.)
+
+The visitor says:
+
+The door opens. You step through the doorway, and find yourself in a large, dimly lit chamber. The air is thick with the scent of ancient stone and forgotten secrets. In the center of the room stands a tall, imposing figure draped in dark robes. His eyes, deep and piercing, seem to gaze into your very soul.
+
+"I am the Guardian of the Threshold," he intones, his voice echoing through the chamber. "Beyond this point lie the secrets of the Abyss, knowledge that can grant great power or lead to utter ruin. Only those who prove their worth may pass. Are you prepared to face the trials that await you?"
+
+*Yes, I am ready to face the trials.*  
+*No, I am not ready. I must go back.*  
+
+You steel yourself and meet the Guardian's gaze. "I am ready to face the trials," you declare, your voice steady and resolute.
+
+The Guardian nods, a hint of approval in his eyes. "Very well. Your first trial shall test your knowledge of the arcane arts. Answer this riddle, and you may proceed:
+
+'In silence I speak, in darkness I shine,
+My power is yours, but not truly thine.

@@ -1,0 +1,15 @@
+ "If you're asking about a problem with code you've written, you should include some code that demonstrates the problem. Include only the code necessary to demonstrate the problem, and remove anything irrelevant. If the problem occurs in a large project, try to isolate the problem in a smaller test project."
+
+Answer: I believe you can create your own custom message box by creating a custom form that looks like a message box. Add the "Yes", "No", and "Cancel" buttons and set their DialogResult property to Yes, No and Cancel respectively. Then you can call the custom form using ShowDialog() and it will return the appropriate DialogResult value.
+
+Answer: As others have pointed out, the standard `MessageBox` does not support a `Yes`, `No`, `Cancel` button combination.  You can create a custom `Form` with three buttons, or you can use a standard `MessageBox` with `OK`, `Cancel` buttons and add an extra `CheckBox` to the `MessageBox` for the `Yes` option.
+
+Here's a code example:
+
+\begin{code}
+public static DialogResult ShowMessageBoxWithYesCheckbox(string text, string caption)
+{
+    Form form = new Form();
+    form.Text = caption;
+    form.FormBorderStyle = FormBorderStyle.FixedDialog;
+   

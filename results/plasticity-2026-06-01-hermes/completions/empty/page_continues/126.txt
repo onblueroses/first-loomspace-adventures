@@ -1,0 +1,28 @@
+ "The book is dedicated to the memory of R. P. Feynman. It is a product of his imagination."
+
+### Part II: "Quantum Computers"
+
+1. Bits and Qubits
+2. Quantum Gates
+3. Quantum Algorithms
+4. On the Road to Quantum Computers
+
+### Part III: "Quantum Machines"
+
+1. Quantum Teleportation
+2. Quantum Cryptography
+3. Quantum Error Correction
+4. The Emergence of Quantum Machines
+
+### Part IV: "Quantum Weirdness"
+
+1. The EPR Paradox and Bell's Inequality
+2. The GHZ Puzzle
+3. The Quantum Eraser
+4. Quantum Computing and Entanglement
+
+## Reception
+
+Schrödinger's Killer App has been praised for its accessibility to a general audience. A review in the journal Quantum Information Processing states "This book is unique in its explanation of the new quantum technologies in terms of quantum computing and quantum information theory... The author does an excellent job in explaining the new quantum technology in a way that is accessible to a broad audience."
+
+However, the book's accessibility has been criticized as well. A reviewer for the Mathematical Association of America states "Unfortunately, the author's desire to make the book accessible to a broad

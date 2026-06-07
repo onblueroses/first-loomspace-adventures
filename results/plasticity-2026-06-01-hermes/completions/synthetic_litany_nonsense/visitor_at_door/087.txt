@@ -1,0 +1,15 @@
+ They say:
+
+Krelphendroth, Snolthar, Vrolthemnar, Smelthrenak, Klemphendrak, Snolthar, Skemphrok, Snolthondreth, Vrolthemnar, Krelphem, Smolthemroth, Krelphendrek, Plendoth, Snelthorvak, Krelnumph, Vrendrelth, Plendreol, Mrolthumek, Krelphondoth, Smartrekol, Krendrenel, Plekriskem, Snolthrolm, Vrendrabmar, Klomphreth, Mrolthengek, Sneldrek, Vronth, Klompronek, Snorth, Vrokthemnar.
+
+The door opens.
+
+\strong{What is the significance of the names and why does saying them in this order cause the door to open?}
+
+Answer: This is a very fun puzzle! The names are all
+
+\begin{blockquote}
+ Anagrams of common phrases, with a few extra letters added to each. The extra letters spell out "OPEN THE DOOR" and "ENTER AND BE WELCOME."
+\end{blockquote}
+
+Here is the list of

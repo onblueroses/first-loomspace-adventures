@@ -1,0 +1,15 @@
+ http://en.wikipedia.org/wiki/Plate_tectonics
+
+In the past, plate boundaries were mapped based on the locations of earthquakes and volcanic activity. Today, with the use of GPS and other technologies, we can directly measure the movement of plates across the globe.
+
+This map shows the locations of the world's major tectonic plates, as well as the locations of the major plate boundaries. Image courtesy of the U.S. Geological Survey.
+
+For more information, see http://earthquake.usgs.gov/learn/glossary/?term=plate%20tectonics
+
+## 4. Explain how the following evidences support the plate tectonics theory:
+
+### a. Sea floor spreading
+
+Sea floor spreading is the process by which new oceanic lithosphere forms at mid-ocean ridges. As tectonic plates move away from the ridges, the lithosphere thins and cools, increasing its density and causing it to sink further into the mantle. This process is a key component of plate tectonics, as it is responsible for the creation of new oceanic crust and the movement of tectonic plates.
+
+The concept of sea floor spreading was first proposed in the early 1960s by Harry Hess and Robert Dietz

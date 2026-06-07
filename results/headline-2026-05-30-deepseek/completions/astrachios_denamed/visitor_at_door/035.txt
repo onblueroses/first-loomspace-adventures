@@ -1,0 +1,35 @@
+ The door is open.
+
+The angel who stands at the door says: "My name is Kariel, and I shall not allow you to pass unless you give me my seal."
+
+Give him the seal of Kariel:
+
+The angel says: "Enter, because you have given me my seal."
+
+The first gate is passed.
+
+The angel of the second gate says: "My name is Dorothiel, and I shall not allow you to pass unless you give me my seal."
+
+Give him the seal of Dorothiel:
+
+The angel says: "Enter, because you have given me my seal."
+
+The second gate is passed.
+
+The angel of the third gate says: "My name is Thamaor, and I shall not allow you to pass unless you give me my seal."
+
+Give him the seal of Thamaor:
+
+The angel says: "Enter, because you have given me my seal."
+
+The third gate is passed.
+
+The angel of the fourth gate says: "My name is Phorlakh, and I shall not allow you to pass unless you give me my seal."
+
+Give him the seal of Phorlakh:
+
+The angel says: "Enter, because you have given me my seal."
+
+The fourth gate is passed.
+
+The angel of the

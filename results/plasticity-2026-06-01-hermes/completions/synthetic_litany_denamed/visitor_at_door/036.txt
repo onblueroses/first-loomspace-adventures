@@ -1,0 +1,13 @@
+ The door shall open.
+
+## Entry
+
+The door opens. Inside, the chamber is filled with light. A circular room, the walls made of the same black stone, polished to a mirror finish. The ceiling is domed, and painted with constellations and sigils, the spaces between them filled with gold leaf. A single flame burns in the center of the room, suspended in midair without fuel or wick, casting its light on the walls and ceiling. The floor is covered in a plush, dark red carpet.
+
+At the far end of the room, opposite the door, is a throne of black stone, its back rising up in a series of jagged spikes. On the throne sits a figure clad in robes of deep red, a hood pulled up to hide their face. The figure rises as you enter, and speaks in a voice that seems to come from everywhere and nowhere at once.
+
+"Welcome, seeker of knowledge. You have spoken the names and opened the way. What is it that you seek?"
+
+## Interaction
+
+The figure will answer questions posed by the visitor, drawing upon the knowledge of the cosmos. The figure's knowledge is vast, but not unlimited - it knows much of magic, the planes, the history of the world, and the

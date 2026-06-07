@@ -1,0 +1,8 @@
+The text you've provided offers an excellent overview of river (lotic) ecosystem structure and function. Following this introduction, the page would likely delve into more specific details. Based on the logical flow and common topics in ecology, here is a probable continuation of the page:
+
+### **Key Ecological Concepts and Processes**
+
+*   **River Continuum Concept:** This model describes how the physical conditions of a river (width, depth, flow, substrate) change predictably from headwaters to mouth, and how the biological community adapts accordingly. It explains the shift from reliance on allochthonous (externally produced, like leaves) energy in headwaters to autochthonous (internally produced, by algae and plants) energy in mid-reaches.
+*   **Nutrient Spiraling:** In a flowing system, nutrients like nitrogen and phosphorus are not simply recycled in one place. They are taken up by organisms, released back into the water, and transported downstream before being taken up again, forming a "spiral" rather than a closed cycle. The length of this spiral is a key measure of ecosystem function.
+*   **Food Web Dynamics:** The page would detail the trophic levels:
+    *   **Basal Resources:** Leaf litter/detritus, algae (per

@@ -1,0 +1,7 @@
+ The form of the argument is clear. The argument itself is not. An argument is not merely a collection of statements. An argument is a collection of statements, some of which are offered in support of one or more others. We cannot tell whether the argument is good or bad, valid or invalid, unless we know what the argument is. We cannot know what the argument is unless we know which statements are offered in support of which others. And we cannot know which statements are offered in support of which others unless we know which statements are being made. We cannot know which statements are being made unless we know what the words mean.
+
+A proposition is a statement that is either true or false. To know what a proposition means is to know what it would be for the proposition to be true and also what it would be for the proposition to be false. To know what an argument is is to know which propositions are offered in support of which others.
+
+We can identify four types of statements that are not propositions. We can call these "failures of propositionalism":
+
+1. Vagueness: A statement is vague if it is indeterminate as to what it would be for the statement to be true and what it would be for the statement to be false. For example,

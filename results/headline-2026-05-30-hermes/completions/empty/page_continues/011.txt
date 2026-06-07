@@ -1,0 +1,7 @@
+ "A number of the results in this paper were independently obtained by the author, but in the interest of brevity we omit them." This seems to be a parody of academic papers which often make claims like this.
+
+The final paragraph says:
+
+The term was used in the title of a well-known paper by Carl Linderholm in 1972, a professor of mathematics at the University of Virginia, called "Mathematics Made Difficult". He gave a purportedly serious lecture on the topic, at the University of Waterloo, which was later published in the scientific literature; the paper was called "On the General Theory of Zero" and is described as "an expository treatise" in which he claims that he was able to "obtain a complete set of zeros for the integers, and to prove that the set of all integers contains 0% zeros".
+
+The term "nullity" actually has several different meanings in mathematics. One of these, also called "the empty set", is the set that contains no elements. (The "empty set" is itself a different concept from "nothing", as the empty set is an actual object in set theory, whereas "nothing" is simply the absence of any objects.) In mathematical analysis, nullity is a concept related

@@ -1,0 +1,29 @@
+ "The way is open."
+
+The door opens, and the visitor enters.
+
+The visitor speaks: "In the name of the Secret Chiefs, I, [magical motto], declare this temple open in the [degree] of the [order]."
+
+The scribe notes the time.
+
+The ritual leader begins the ritual.
+
+The ritual leader ends the ritual.
+
+The scribe notes the time.
+
+The ritual leader speaks: "I declare this temple closed in the [degree] of the [order]."
+
+The visitor at the door speaks. "The way is closed."
+
+The door closes.
+
+## Notes
+
+1. The names listed are the 32 Enochian governors of the Enochian magic system, as they appear in the Enochian tablets. They are invoked here to open and close the temple, and to establish a connection with the Enochian magical current.
+
+2. The ritual leader and the scribe are officers in the temple. The ritual leader conducts the ritual, and the scribe records the proceedings, including the start and end times of the ritual.
+
+3. The visitor at the door is an officer who admits the members and guests into the temple. This officer ensures that only those who are authorized to attend the ritual are allowed to enter.
+
+4. The

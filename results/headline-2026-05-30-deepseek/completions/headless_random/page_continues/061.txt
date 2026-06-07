@@ -1,0 +1,16 @@
+Based on the provided text, here is a summary of the key points about plate tectonics:
+
+**Core Theory:** Plate tectonics is the theory that Earth's rigid outer layer (the lithosphere) is divided into several large plates that have been moving slowly for billions of years. It evolved from the earlier idea of continental drift.
+
+**Plate Structure & Boundaries:**
+*   The lithosphere is broken into 7-8 major plates and many minor ones.
+*   The plates are made of both oceanic lithosphere (with oceanic crust) and thicker continental lithosphere (with continental crust).
+*   The places where plates meet are called boundaries, and their type is defined by the plates' relative motion:
+    *   **Convergent:** Plates move toward each other (causing subduction, mountains, trenches).
+    *   **Divergent:** Plates move apart (like at mid-ocean ridges).
+    *   **Transform:** Plates slide past each other.
+
+**Geological Effects:** The movement and interaction at these plate boundaries are responsible for most **earthquakes, volcanic activity, mountain-building, and oceanic trench formation.**
+
+**Key Processes & Mechanisms:**
+*   **Seafloor Spreading:** At divergent boundaries (mid-ocean ridges), new oceanic

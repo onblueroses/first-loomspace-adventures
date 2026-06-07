@@ -1,0 +1,7 @@
+ "The luminescence comes from symbiotic bacteria, which are thought to be acquired from seawater, that dwell in and around the esca." The esca is a fleshy growth at the tip of the "fishing rod" coming out of the fish's head.
+
+The Wikipedia page for Bioluminescence also mentions fish:
+
+Bioluminescence is the production and emission of light by a living organism. It is a form of chemiluminescence. Bioluminescence occurs widely in marine vertebrates and invertebrates, as well as in some fungi, microorganisms including some bioluminescent bacteria and terrestrial invertebrates such as fireflies. In some animals, the light is bacteriogenic, produced by symbiotic organisms such as Vibrio bacteria; in others, it is autogenic, produced by the animals themselves.
+
+In a general sense, the principal chemical reaction in bioluminescence involves some light-emitting molecule and an enzyme, generally called the luciferin and the luciferase, respectively. Because these are generic names, the luciferins and luciferases are often distinguished by including the species or group, i.e. Firefly luciferin. In all characterized cases, the enzyme catalyzes the oxidation

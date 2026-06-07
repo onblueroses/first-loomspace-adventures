@@ -1,0 +1,31 @@
+ "Hello, I am a friend of the homeowner. I am here to pick up some items they asked me to get. Can you let me in?"
+
+**D. Unlocked Door**
+
+You are at the door of your home. The door is unlocked. You see a stranger approach the door and attempt to open it. What do you do?
+
+**E. Suspicious Behavior**
+
+You notice a person loitering around your property, looking into windows and trying to open doors. They seem to be checking if anyone is home. What do you do?
+
+**F. Forced Entry**
+
+You hear loud banging noises coming from your front door. It sounds like someone is trying to force their way in. What do you do?
+
+**G. Home Invasion**
+
+You are at home when suddenly an intruder breaks in. They are armed and demand you hand over your valuables. What do you do?
+
+### 5. Home Security Quiz
+
+**Question 1:** What is the most common point of entry for burglars?
+
+A) Front door
+B) Back door
+C) Windows
+D) Garage
+
+**Question 2:** Which of the following is NOT a recommended way to secure your home?
+
+A) Installing a home security system
+B) Leaving a spare

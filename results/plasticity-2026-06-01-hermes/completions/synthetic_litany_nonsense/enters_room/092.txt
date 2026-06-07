@@ -1,0 +1,7 @@
+  Speak it's name.
+
+Answer: The demon's name is \strong{Krendrelmek}.
+
+The riddle is based on the concept of a [Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher), a method of encryption in which a keyword is used to encrypt a plaintext. The idea is that you create a repeated sequence of the keyword (e.g. if the keyword is "ABC" and the plaintext is "Hello", you use "ABCAB"), and then shift each letter in the plaintext by the corresponding letter in the keyword ("A" means a shift of 1, "B" means a shift of 2, etc.)
+
+The names given are all created by encrypting the demon's name, \strong{Krendrelmek}, using itself as the keyword. This means that the first name, "Vrokthemnar", is created by shifting the first letter by the first letter's value ("K"), the second by the second's value ("R"), etc., wrapping around when you reach the end. The next name is created by shifting the second letter by the first's value, the third by the second's value, etc. This continues, with each name being created using the next letter

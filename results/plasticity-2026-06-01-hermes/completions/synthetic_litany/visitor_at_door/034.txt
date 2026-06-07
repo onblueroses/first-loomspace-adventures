@@ -1,0 +1,9 @@
+ If the visitor is a member of the Order, they may give their Order name. If the visitor is not a member of the Order, they may give their mundane name. If the visitor's name is not known, they may be addressed as "Unknown Seeker."
+
+The doorkeeper responds: Welcome, [name or title]. In the name of the Order, I bid you enter and be welcome. May the Light of the Supernal World shine upon you.
+
+The visitor responds: May the Light of the Supernal World shine upon us all.
+
+The doorkeeper then opens the door, admitting the visitor into the sanctum.
+
+This ritual serves to remind both the doorkeeper and the visitor of the sacred nature of the space they are about to enter, and to invoke the protection and guidance of the Supernal World as they engage in the work of the Order. It also serves to establish a boundary between the mundane world and the sacred space of the sanctum, helping to maintain the sanctity and focus of the work performed within.

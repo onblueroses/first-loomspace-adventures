@@ -1,0 +1,13 @@
+ "I'm from the Earth Science Department at the University. I understand you have some questions about plate tectonics." 
+
+"Please, come in," you reply. "I've been trying to understand how the Earth's surface has changed over time, and I'm a bit confused about the role of plate tectonics in all of this."
+
+The visitor nods. "It's a fascinating topic, and one that has reshaped our understanding of the Earth over the past century. Plate tectonics is the theory that the Earth's outer shell, or lithosphere, is divided into several plates that glide over the Earth's mantle, the semi-fluid layer of molten rock beneath the crust."
+
+"I see," you say. "And these plates move around?"
+
+"Yes, they do. The movement is driven by convection currents in the mantle. These currents are like giant conveyor belts that carry heat from the Earth's interior to the surface. As the hot mantle rises, it cools and sinks back down, creating a continuous cycle of rising and falling material. This motion causes the plates to move."
+
+"So, how does this movement affect the Earth's surface?" you ask.
+
+"Well, the movement of these plates can cause a variety of geological events. When two

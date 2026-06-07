@@ -1,0 +1,13 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+That's a good explanation of what plate tectonics is, but it doesn't explain why the plates move. What causes the convection currents in the mantle? What causes the lateral density variations in the mantle?
+
+I am not a geologist, but I have a theory that the Earth's rotation causes the plates to move.
+
+If you take a rotating sphere filled with a viscous fluid, I believe the viscous fluid will rotate faster at the equator than at the poles, because the circumference of the equator is greater than the circumference of the sphere at the poles. This would cause the fluid to circulate in convection currents from the poles to the equator and back again.
+
+The Earth's mantle is a viscous fluid, and I believe the Earth's rotation causes the mantle to circulate in convection currents from the poles to the equator and back again. This circulation of the mantle causes the plates to move.
+
+The Earth's rotation also causes the Earth to be slightly flattened at the poles and slightly bulging at the equator. This causes the lateral density variations in the mantle that contribute to the motion of the plates.
+
+That's my theory. I'm not a geologist,

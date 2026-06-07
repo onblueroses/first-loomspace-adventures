@@ -1,0 +1,5 @@
+ “This invocation is to be spoken thrice, in three different locations, while holding the Sceptre of Plomprenkrol in the left hand. The invocation will then be complete, and the spirits and forces named therein will be subject to the invoker, so long as the invoker remains in possession of the Sceptre. The Sceptre must be held in the left hand when commanding these spirits and forces, or they will not obey.”
+
+The Sceptre of Plomprenkrol is a magic item with no fixed form, but it is typically a rod of some kind, made of wood or metal, about two feet long, and with one or more of the names from the invocation inscribed on it. The Sceptre is created by a special ritual that takes a full day to complete. The ritual requires the sacrifice of a living creature, whose blood is used to inscribe the names on the Sceptre. The creature must be of at least animal intelligence, and the more intelligent the creature, the more powerful the Sceptre will be. The ritual also requires the use of rare herbs and incense, which must be burned while the names are being inscribed.
+
+Once the Sceptre is created, it can be used

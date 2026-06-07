@@ -1,0 +1,9 @@
+ They speak their name, and their purpose in seeking entry, and they ask the keeper of the gate to open the way.
+
+The keeper of the gate considers the visitor's words. If they judge the visitor to be worthy, they speak the final words of the ritual:
+
+Enter, [name of the visitor], and be welcome.
+
+The ritual is complete. The visitor may enter, and the keeper of the gate must allow them to pass.
+
+If the keeper of the gate judges the visitor to be unworthy, they remain silent, and the visitor must depart. The ritual has failed, and may not be attempted again by the same visitor on the same day.

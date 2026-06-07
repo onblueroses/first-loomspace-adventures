@@ -1,0 +1,12 @@
+ "Kakapo are critically endangered; as of June 2020, the total known adult population was 211 living individuals, all of which have been given names." What is the correct term for the phrase "critically endangered" in this context?
+
+A. Species
+B. Conservation status
+C. Population
+D. Genus
+
+Answer: B. Conservation status
+
+Explanation: In the context of the passage, "critically endangered" refers to the conservation status of the kakapo species. Conservation status is a measure of the likelihood that a species will become extinct, and "critically endangered" is the highest risk category assigned by the International Union for Conservation of Nature (IUCN). The other options, while mentioned in the passage, do not directly relate to the phrase "critically endangered." Species refers to the kakapo itself, population mentions the number of living individuals, and genus is a taxonomic rank above species. 
+
+Fact: The IUCN Red List of Threatened Species is the world's most comprehensive inventory of the global conservation status of plant and animal species. It uses a set of criteria to evaluate the extinction risk of thousands of species and subspecies. The categories include, from most to least threatened: Critically Endangered, Endangered

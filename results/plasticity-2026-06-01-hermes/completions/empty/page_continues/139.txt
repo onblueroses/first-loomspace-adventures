@@ -1,0 +1,7 @@
+ "On the other hand, when the spacecraft is moving away from the Earth, the shift is to lower frequencies, or to the red end of the spectrum."
+
+This is a perfect example of an error resulting from treating light as a wave rather than as photons. The correct interpretation is that when the spacecraft is moving away from the Earth, the energy of the photons arriving on Earth is less because each photon has had to do work against the motion of the receiver (the Earth) in order to reach the Earth. The reduced energy of the photons is interpreted by us as a frequency shift, not a wavelength shift. The frequency shift results from the fact that the energy of a photon is directly proportional to its frequency.
+
+In the case of a spacecraft moving towards the Earth, the energy of each photon received on Earth is increased by the work done by the motion of the receiver (the Earth) on the photon. This increase in energy is interpreted by us as a frequency shift, not a wavelength shift.
+
+It's interesting to note that our ears do not perceive the Doppler shift of sound waves as a change in pitch (frequency) but rather as a change in timbre. This is because our ears are sensitive to the speed of the sonic vibrations in the air, not their frequency.

@@ -1,0 +1,9 @@
+Given the context about the kakapo, a visitor at the door might say something like:
+
+*"I heard you're interested in unique birds! Did you know the kakapo is not only the world's only flightless parrot but also the heaviest? It can weigh up to 4 kilograms!"*
+
+Or, if they're sharing new information:
+
+*"Excuse me, I just read that conservationists are working on a new breeding program for the kakapo in New Zealand. I thought you might want to know, given your interest in endangered species."*
+
+Would you like to continue the conversation about the kakapo, or shall we see what the visitor actually wants?

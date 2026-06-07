@@ -1,0 +1,7 @@
+ You have the river ecosystem. This is a flowing water ecosystem, meaning that the water is constantly moving. This is different from a lake or pond ecosystem, where the water is more stagnant.
+
+The river ecosystem is characterized by the unidirectional flow of water, which shapes the biological community that lives there. The ecosystem is influenced by factors such as the catchment area (the area where water is collected and channeled into the river), the climate of the region, the underlying geology, and the gradient (slope) of the river channel from its source to its mouth.
+
+In the headwater streams (the upper reaches of the river), the water is typically cold, oxygen-rich, and fast-flowing over bedrock and coarse gravel. The biological community here is dominated by aquatic insects whose larvae cling to the substrates against the current. Cold-water fish like trout occupy the predator niche, feeding on these insects. The main source of organic matter in these systems comes from outside, in the form of leaf litter and woody debris falling from the bordering forest. This organic matter forms the energetic base of the food web, supporting shredder invertebrates that break down the leaf litter.
+
+As the river widens and slows in its middle and lower reaches, the substrate in

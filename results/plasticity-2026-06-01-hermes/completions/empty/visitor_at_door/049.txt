@@ -1,0 +1,58 @@
+ "Are you the father of the family?"
+
+"Yes."
+
+"I am the census-taker. I would like to ask you a few questions, if you will permit me."
+
+"Certainly, come in," replies the father, and he leads the way into the house. The census-taker enters, carrying a portfolio, which he opens after sitting down. He takes out a sheet of paper containing many questions, and a pencil to write the answers.
+
+The father watches the census-taker while he prepares to write. Then the visitor looks up and begins to ask questions.
+
+"What is your name?" he inquires.
+
+"John Thompson."
+
+"How old are you?"
+
+"Forty-two years old."
+
+"What is your wife's name?"
+
+"Mary Thompson."
+
+"How old is she?"
+
+"Thirty-eight years old."
+
+"How many children have you?"
+
+"Three."
+
+"What are their names and ages?"
+
+"William, aged 12 years; Alice, aged 10 years; Helen, aged 6 years."
+
+"What is your occupation?"
+
+"I am a carpenter."
+
+"Do you own your home?"
+
+"Yes."
+
+"What is its value?"
+
+"About $3,000."
+
+"Is there a mortgage on it?"
+
+"Yes."
+
+"How much?"
+
+"$1,000."
+
+"Is your wife employed?"
+
+"No."
+

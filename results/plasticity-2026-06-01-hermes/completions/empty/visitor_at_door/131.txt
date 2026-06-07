@@ -1,0 +1,36 @@
+ 
+
+**Visitor:** Hi, I'm here to pick up the package for my neighbor. They asked me to grab it since they won't be home today. 
+
+**Agent:** Sure, I can help with that. May I please see your ID for verification? 
+
+**Visitor:** Absolutely, here you go. *hands over ID*
+
+The agent checks the ID and confirms the details. 
+
+**Agent:** Thank you. I'll just need you to sign for the package on their behalf. 
+
+**Visitor:** No problem. *signs the form*
+
+**Agent:** Here you go. *hands over the package* Have a great day! 
+
+**Visitor:** Thanks, you too! 
+
+The visitor leaves with the package. 
+
+**Agent:** Let me just update the system to note that a neighbor picked up the package. *updates the system* Alright, all set. 
+
+The agent then resumes their regular duties, ensuring the front desk remains organized and ready for the next interaction. 
+
+**End Scene.** 
+
+---
+
+**Scene 2: Handling a Complaint**
+
+**Setting:** The front desk of a residential building.
+
+**Characters:** Front Desk Agent, Resident
+
+**Situation:** A resident approaches the front desk with a complaint about noise from a neighboring apartment.
+

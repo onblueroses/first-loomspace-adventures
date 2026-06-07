@@ -1,0 +1,26 @@
+ If the visitor speaks the names that open the way, the door opens.
+
+If the visitor does not speak the names that open the way, the door does not open. The door says:
+
+The way is closed to you. Depart, or be destroyed.
+
+If the visitor does not depart, the door destroys them.
+
+If the visitor departs, the door says:
+
+You have chosen wisely. Go in peace.
+
+The door closes. The encounter ends.
+
+If the visitor speaks the names that open the way, the door opens. The door says:
+
+You have spoken the names that open the way. Enter, and be welcome.
+
+The visitor enters. The door closes behind them. The encounter ends. The visitor is now inside the Tower of Throbenas.#### 32
+The character approaches the Tower of Throbenas. The tower is a tall, slender structure made of gleaming white stone. It rises high into the sky, its upper reaches lost in the clouds. A single door, made of polished black wood, stands at the base of the tower. 
+
+As the character approaches the door, it speaks:
+
+Hail, traveler. Speak the names that open the way:
+
+Throbenas, Maraith, Queloman, Iston, Kerud

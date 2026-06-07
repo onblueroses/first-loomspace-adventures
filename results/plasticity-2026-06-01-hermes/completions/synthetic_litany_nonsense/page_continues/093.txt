@@ -1,0 +1,9 @@
+ "By the power of these words, the gates of the secret way are opened. None shall bar your path, nor shall any force of the Abyss trouble you. Speak the names aloud, and the path shall be revealed to you."
+
+The next page contains an incantation for a spell called _Dreadful Word of Power_. When the incantation is spoken, the caster must name a type of creature or a specific individual, who must be known to the caster. If the target is within 60 feet and can hear the caster, it must make a DC 15 Charisma saving throw. On a failure, the target takes 22 (4d10) psychic damage and is stunned until the end of its next turn. On a success, the target takes half damage and isn't stunned.
+
+The final page contains the spell _Armor of Agathys_, which requires verbal, somatic, and material components (a cup of water). When cast, spectral frost forms on the caster, granting 5 temporary hit points per spell level and dealing that amount of cold damage to any creature that hits the caster with a melee attack while the temporary hit points last.
+
+### Development
+
+The _Tome of the Stilled Tongue_ is a powerful resource for the

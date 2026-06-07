@@ -1,0 +1,27 @@
+ (End of the incantation.)
+
+### The Flesh That Hates
+
+Level: 5
+
+Range: Touch
+
+Components: V, S, M
+
+Duration: 1 round/level
+
+Casting Time: 5
+
+Area of Effect: Creature touched
+
+Saving Throw: Negates
+
+This spell causes the subject's flesh to boil and seethe, as if it were trying to escape from the creature's bones. The subject is allowed a saving throw vs. spell to negate the effect. If the saving throw is failed, the subject immediately suffers 1d4 points of damage and is incapacitated by agony for 1 round per level of the caster. This incapacitation is due to pain and can be ignored by the subject, but only if the subject can make a successful system shock roll. The subject must make this roll every round to continue ignoring the pain.
+
+Once the spell's duration has expired, the subject's flesh returns to normal, and the pain vanishes. The flesh that hates does not cause any permanent damage, although the subject may suffer temporary disfigurement.
+
+The material component for this spell is a burr from a blood rose, a rare flower that grows in certain desolate regions.
+
+### The Heart of Darkness
+
+Level: 5

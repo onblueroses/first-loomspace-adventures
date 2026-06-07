@@ -1,0 +1,7 @@
+ "For example, it is possible to calculate the exact probability that the sum of 1000 randomly chosen numbers between 0 and 1 will be less than 600 or more than 650. It can be shown that the chance of this happening is only about 1 in 15 trillion."
+
+The "1000 randomly chosen numbers between 0 and 1" are independent random variables $X_1, X_2, \ldots, X_{1000}$, each with a uniform distribution between 0 and 1. Their sum is a random variable $Y$ with a mean of $\mu_Y = 500$ and a variance of $\sigma^2_Y = \frac{1000}{12}$, and hence a standard deviation of $\sigma_Y = \sqrt{\frac{1000}{12}} \approx 9.1287$.
+
+The "exact probability that the sum of 1000 randomly chosen numbers between 0 and 1 will be less than 600 or more than 650" is the probability $P(Y < 600 \text{ or } Y > 650)$. We can calculate this exactly using the normal distribution as an approximation:
+
+$P(Y < 600 \text{ or } Y > 

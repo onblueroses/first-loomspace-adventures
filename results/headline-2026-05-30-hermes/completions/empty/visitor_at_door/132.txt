@@ -1,0 +1,15 @@
+ "Oh, hello. I'm looking for an address."
+
+The homeowner is puzzled. "This is 24 Oak Street, isn't it?"
+
+The visitor replies, "No, that's not it. I'm looking for 20 Oak Street."
+
+The homeowner points to the right. "Oh, that's easy. Just keep going in that direction and you'll find it in no time."
+
+The visitor thanks the homeowner and leaves.
+
+Question: What is the house number of the homeowner?
+
+Answer: The homeowner's house number is 22 Oak Street.
+
+Explanation: The visitor is looking for 20 Oak Street, and the homeowner directs them to keep going in the direction they were pointing. This implies that the house numbers are increasing in that direction. Since the visitor was looking for a lower number than 24, and the homeowner's house is between 20 and 24, the only possible house number for the homeowner is 22 Oak Street.

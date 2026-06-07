@@ -1,0 +1,5 @@
+ "Adult kakapos are about 58 to 64 centimetres in length, and weigh from 0.95 to 4 kilograms at maturity. Kakapo plumage is yellowish-green, and blends in well with native vegetation. The kakapo has a facial disc of fine feathers, resembling the face of an owl; thus, early European settlers called it the "owl parrot". The beak is surrounded by delicate feathers which resemble vibrissae or "whiskers"; these may serve a tactile function. The mandible is variable in colour, mostly ivory, with the upper part often bluish-grey. The mandible is very broad in the male. The nostrils are small, round, and set high on the rostrum. The ends of the mandible are angled and narrow, the upper being more acute than the lower, adding to the general downward curve of the beak."
+
+### Example 3: "Kakapo" page excerpt with more than 250 words
+
+The kakapo (Strigops habroptilus), also known as the owl parrot, is a species of large, flightless, nocturnal, ground-dwelling parrot native to New Zealand. It is the world's only flightless parrot

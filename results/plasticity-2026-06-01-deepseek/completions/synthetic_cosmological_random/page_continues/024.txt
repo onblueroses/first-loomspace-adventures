@@ -1,0 +1,16 @@
+This text provides a clear and structured overview of river (lotic) ecosystems. It follows the classic River Continuum Concept, describing how physical conditions and biological communities change predictably from a river's source to its mouth.
+
+Here is a breakdown of its key points:
+
+### **1. Core Definition & Controlling Factors**
+*   **Definition:** A flowing-water (lotic) ecosystem shaped by unidirectional water flow.
+*   **Distinction:** Contrasted with still-water (lentic) ecosystems like lakes.
+*   **Key Drivers:** The ecosystem's character is set by its **catchment area, climate, geology, and channel gradient**.
+
+### **2. The Downstream Continuum (Source to Mouth)**
+The text describes a clear longitudinal zonation:
+
+| Zone | Physical Conditions | Biological Community | Energy Base |
+| :--- | :--- | :--- | :--- |
+| **Headwaters (Upper Reaches)** | Cold, fast, oxygen-rich; bedrock/gravel substrate. | Insect larvae (cling to surfaces); cold-water predators (e.g., trout). | **Allochthonous:** External organic matter (leaf litter, wood). Processed by shredders. |
+| **Middle & Lower Reaches** | Warmer, slower;

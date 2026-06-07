@@ -1,0 +1,16 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+I've also read about the different types of plate boundaries:
+
+Divergent boundaries -- where new crust is generated as the plates pull away from each other.
+
+Convergent boundaries -- where crust is destroyed as one plate dives under another.
+
+Transform boundaries -- where crust is neither produced nor destroyed as the plates slide horizontally past each other.
+
+So it seems like the Earth is not expanding or contracting, but rather recycling its crust over and over again.
+
+• If you could add a link to the Wikipedia page and quote some of the relevant text, this would make a good answer. $\endgroup$ –  Fred Nov 15 '17 at 22:03
+• @Fred Done, thanks for the suggestion. I've also added some information about the different types of plate boundaries. $\endgroup$ –  Trevor Nov 15 '17 at 22:25
+• Nice, thanks for the edit. $\endgroup$ –  Fred Nov 15 '17 at 22:29
+• I think it's worth adding that much of the continental crust that exists today is very old (billions of years), and is not "recycled" as often as you imply. Also, I would avoid

@@ -1,0 +1,9 @@
+ "We will not be able to carry out any more updates on this website and we will not be able to offer any support to our customers."
+
+The page also links to a GitHub repository containing the source code for the project, which has been released under the MIT license.
+
+## External links
+
+* Official website
+* GitHub repository
+

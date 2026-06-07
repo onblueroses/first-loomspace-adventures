@@ -1,0 +1,11 @@
+ (a) A dog (b) A cat (c) A bird (d) A bear
+
+(a) A dog
+
+The Earth's shape is not a perfect sphere, as it is slightly flattened at the poles and bulging at the Equator due to its rotation. This shape is known as an oblate spheroid. The Earth's diameter at the Equator is about 43 kilometers larger than the diameter measured through the poles.
+
+The Earth's shape is mainly determined by the balance between the gravitational force that pulls the Earth's surface toward its center and the centrifugal force that is caused by the Earth's rotation. The centrifugal force is greatest at the Equator and zero at the poles, causing the Earth's equatorial bulge.
+
+In addition to the Earth's oblateness, there are also smaller-scale variations in the Earth's shape caused by the uneven distribution of mass within the Earth, such as the presence of mountain ranges and ocean trenches. These variations are called the Earth's topography and bathymetry.
+
+The Earth's shape also changes over time due to various processes, such as the movement of tectonic plates, the melting of ice sheets, and the redistribution of water in the oceans. These changes are relatively small compared to the overall

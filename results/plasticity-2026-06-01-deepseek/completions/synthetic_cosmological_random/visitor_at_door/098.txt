@@ -1,0 +1,6 @@
+The visitor at the door speaks, but their words are not audible to you. You stand within the river ecosystem, listening to the rush of water, the skitter of a caddisfly larva on a stone, the distant call of a kingfisher.
+
+What would you like to do? You could:
+*   **Ask a question** about the ecosystem.
+*   **Describe an action** (e.g., "I test the water's temperature," or "I look for signs of human impact").
+*   **Request specific information** from the text provided (e.g., "What is the difference between lotic and lentic ecosystems?" or "What are the key factors affecting river health?").

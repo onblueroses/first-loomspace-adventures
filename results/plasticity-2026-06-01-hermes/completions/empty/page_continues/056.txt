@@ -1,0 +1,9 @@
+ "The process is easy and straightforward. After you install the application, you'll have to enter the address of the website you want to download along with a few parameters such as the folder where the website will be saved locally, the type of files to be downloaded and the maximum depth level for the links to be downloaded."
+
+There is also a video tutorial on the page which shows you how to use the application.
+
+Once you have downloaded the website, you can browse it offline using a web browser on your computer.
+
+However, please note that downloading a website may be against the website's terms of service or may infringe on copyright laws, so it is important to check the website's terms and conditions and ensure that you have the necessary permissions before downloading the website.
+
+Additionally, downloading a website may not always work as expected, especially if the website uses complex JavaScript or relies heavily on server-side processing. In such cases, the downloaded website may not function properly offline.

@@ -1,0 +1,11 @@
+ Speak the names that open the way:
+
+Laros, Dargon, Estol, Iath, Noros, Cadum, Orath, Thronos, Prael, Sandos, Dralos, Mendor, Rasaph, Zimor, Grathon, Calthos, Aroth, Pendar, Lithor, Marath, Sendor, Calvor, Fendor, Thalor, Mendar, Lathor, Craelor, Braxos, Sathor, Dabar, Calvor, Pendar, Marath, Lithor, Braxos, Lathor, Mendar, Thalor, Fendor, Sathor, Dabar, Craelor, Grathon, Zimor, Rasaph, Mendor, Dralos, Sandos, Prael, Thronos, Orath, Cadum, Noros, Iath, Estol, Dargon, Laros.
+
+The doorway has opened.
+
+The ritual is complete. I trust you are satisfied with the results. Should you require further assistance, do not hesitate to contact me again. Farewell.
+
+---
+
+**GPT**: That was quite an intense and dark ritual. The names invoked seem to be of a

@@ -1,0 +1,9 @@
+ "Anglerfish occur worldwide. Some are pelagic (dwelling away from the sea floor), while others are benthic (dwelling close to the sea floor). Some live in the deep sea (such as the Ceratiidae), while others live on the continental shelf, such as the frogfishes and the Lophiidae (monkfish or goosefish). Pelagic forms are most often laterally compressed, whereas the benthic forms are often extremely dorsoventrally compressed (depressed), often with large upward-pointing mouths." 18
+
+# 3.2.2 Experiment
+
+For this experiment, we randomly selected 1000 sentences from the Wikipedia pages, and compared the performance of the two models on these sentences. We performed this experiment using a variety of different metrics to measure the quality of the generated questions.
+
+# 3.2.3 Results
+
+We first evaluate the questions using the BLEU score [START_REF] Bleu: a Method for Automatic Evaluation of Machine Translation, Papineni [END_REF]. The BLEU score measures how similar the generated questions are to the ground truth questions provided in the SQuAD dataset. We use the implementation of BLEU score provided in the nltk.translate.bleu_score

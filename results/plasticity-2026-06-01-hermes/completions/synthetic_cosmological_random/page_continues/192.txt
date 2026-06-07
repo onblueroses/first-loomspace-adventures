@@ -1,0 +1,13 @@
+ https://www.britannica.com/science/river-ecosystem
+
+## 6.3.2 River continuum concept
+
+The river continuum concept (RCC) is a model for classifying and describing flowing water, in addition to the classification of individual sections of waters after their hyporheic and benthic structure. The RCC was developed in 1980 by Robin L. Vannote, with colleagues at Stroud Water Research Center. The RCC model attempts to consider the entire river system from the source to the end point as a single integrated system. The model describes the changes in the biotic community along the river system as it changes from a fast-moving headwater stream into a slower-moving, wider river as it approaches the sea. The model suggests that as the river changes along its course, the local ecosystem shifts to favor organisms with different life-history strategies.
+
+### Major tenets of the RCC
+
+The RCC encompasses several central and unifying hypotheses:
+
+1. From headwaters to mouth, a river system is continuously integrating variables such as width, depth, velocity, temperature, and other physical-chemical factors.
+2. Biological communities are adapted to these gradients and change in species composition in a predictable manner from headwaters to mouth.
+3. The

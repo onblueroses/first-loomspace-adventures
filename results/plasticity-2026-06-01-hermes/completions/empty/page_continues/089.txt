@@ -1,0 +1,17 @@
+ "To calculate the value of an annuity, find the present value of each payment and then add them together. The present value of any payment is given by the formula:"
+
+PV = FV / (1 + r)^n
+
+where PV is the present value, FV is the future value, r is the interest rate, and n is the number of periods.
+
+This formula is used to calculate the present value of each payment in an annuity. To find the total present value of the annuity, you sum up the present values of all the individual payments.
+
+The article then provides an example to illustrate how to use this formula:
+
+"Suppose you are to receive $1000 at the end of each year for the next 3 years. The interest rate is 10%. To find the present value of this annuity, we calculate the present value of each payment and then add them together:
+
+PV1 = $1000 / (1 + 0.10)^1 = $909.09
+PV2 = $1000 / (1 + 0.10)^2 = $826.45
+PV3 = $1000 / (1 + 0.10)^3 = $751.31
+
+Total PV = $909.

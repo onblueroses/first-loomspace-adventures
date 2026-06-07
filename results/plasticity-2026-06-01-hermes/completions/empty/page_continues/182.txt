@@ -1,0 +1,5 @@
+ "This is a statement of the form "p implies q" (often written as "p → q"), in which p is: "n is an integer", and q is: "n is a rational number". In general, a statement of the form "p implies q" can be written as: "if p, then q" or "q if p". The statement "p implies q" is called a conditional statement. The statement p is called the hypothesis of the conditional statement, and q is called the conclusion of the conditional statement. A conditional statement is considered to be true when every instance of the hypothesis being true makes the conclusion true as well. It is false if there is one instance in which the hypothesis is true but the conclusion is false. Conditional statements are used in many areas of mathematics, including geometry, algebra, and calculus."
+
+What I don't understand is how can a conditional statement ever be true if its hypothesis is always true (since it's a hypothesis), but its conclusion can be true or false? It sounds like a conditional statement is based on the truth of its conclusion, which can be true or false, which would make it a 50-50 thing. I don't see how a hypothesis being true makes a conclusion true?
+
+Comment

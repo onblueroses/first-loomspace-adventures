@@ -1,0 +1,11 @@
+ "At these words the gates shall open, and the traveler may pass freely through. But the gate will only remain open for a short time, and it is dangerous to linger. Go swiftly through the gate, and do not look back, for the guardians of the threshold are not to be trifled with."
+
+The writing is accompanied by an illustration of a portal or gateway, surrounded by symbols and strange, otherworldly creatures.
+
+If the ritual is performed correctly and the names spoken aloud, the portal opens, revealing a shimmering, swirling vortex of energy. The portal remains open for 1d4+1 rounds before closing again. Any creatures still within the portal when it closes are shunted to a random plane of existence.
+
+### Consequences
+
+Passing through the portal transports the characters to a random location in the Ethereal Plane. The journey is disorienting and jarring, and each creature must succeed on a DC 14 Constitution saving throw or become stunned for 1d4 rounds upon arrival.
+
+Once in the Ethereal Plane, the characters must find their way back to the Material Plane. This can be accomplished through various means, such as the *plane shift* spell, or by locating a natural portal or conduit between the planes. The DM can use

@@ -1,0 +1,12 @@
+ If they say, "I seek the path of knowledge," the doors open. If they say anything else, the doors remain closed.
+
+If the doors open, the visitor is allowed to enter the library. The library is a vast, circular room with shelves that reach up to the ceiling. The shelves are filled with ancient tomes, scrolls, and artifacts. In the center of the room is a pedestal with a large, open book. The book is titled "The Tome of Infinite Knowledge."
+
+The Tome of Infinite Knowledge contains information on every subject imaginable. The visitor can ask the book any question, and the book will provide an answer. However, the book will only answer one question per day.
+
+If the visitor attempts to remove any of the books or artifacts from the library, they will be teleported back to the entrance of the dungeon.
+
+The only way to leave the library is through the same doors that the visitor entered. When the visitor leaves, the doors close behind them, and the library disappears, leaving no trace of its existence.]]>
+</text>
+<cloze>
+In the ancient dungeon of Vrokthemnar, a hidden door leads to a secret library. To open the door, one must speak the names that open the way, a series of 

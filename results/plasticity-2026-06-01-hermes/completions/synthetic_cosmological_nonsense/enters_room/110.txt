@@ -1,0 +1,19 @@
+ Vrelkthor speaks to the room.
+VRELKTHOR:
+It is done. What would you ask of me?
+
+What enters the room now. The room speaks to Vrelkthor.
+ROOM:
+Tell me of the Vrolthen. What is it?
+
+What enters the room now. Vrelkthor speaks to the room.
+VRELKTHOR:
+The Vrolthen is the source of all names. It is the beginning of language and the end of silence. It is the threshold between sound and meaning, the center around which all speech revolves. It is the memory of the first word and the forgetting of the last. It is the creator of the world, insofar as the world is made of names and meanings.
+
+What enters the room now. The room speaks to Vrelkthor.
+ROOM:
+And what of the names you spoke? Vrokthemnarph, Plendrokt, Smelthrenaph, and the others?
+
+What enters the room now. Vrelkthor speaks to the room.
+VRELKTHOR:
+They are the names of the Vrolthen, or rather, attempts to name the unnamable. Each name captures an aspect of the Vrolthen, but none

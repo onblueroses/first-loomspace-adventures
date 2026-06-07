@@ -1,0 +1,14 @@
+ "The Pegasus engine is a combination of the first stage of the J-2 engine used on the second stage of the Saturn V booster and the injectors of the RL-10 engine used on the Centaur upper stage."
+
+The first stage of the J-2 engine is the gas generator cycle, but the RL-10 uses an expander cycle. Does the Pegasus use the gas generator, expander cycle, or a combination of both?
+
+• – Organic Marble Sep 18 '18 at 17:08
+• This is a good question. I looked at the link and I could not figure out the answer. – Organic Marble Sep 18 '18 at 17:09
+
+From Wikipedia:
+
+The hydrogen fuel was dropped in favor of liquid methane, which is easier to handle. The gas generator was eliminated from the design, with the turbopump being powered by an expander cycle system like that on the RL-10. This drove the engine to a new design, the RS-27.[4]
+
+The Pegasus engine was test fired in 1989.[5]
+
+• This is a good answer, but I'm going to hold off accepting it because I'm not fully convinced. I'd prefer to have more details about

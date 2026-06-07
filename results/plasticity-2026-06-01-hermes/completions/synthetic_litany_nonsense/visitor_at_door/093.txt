@@ -1,0 +1,24 @@
+ He must be the one you seek. Invite him in, and his wisdom will guide you to the next step.
+
+Answer: The next step is:
+
+\begin{blockquote}
+ To ask the visitor for the password.
+\end{blockquote}
+
+Because:
+
+\begin{blockquote}
+ The names form a substitution cipher where each "word" represents a letter.  Replacing each word with its corresponding letter reveals the message.
+\end{blockquote}
+
+The decryption is:
+
+\begin{blockquote}
+ V = A, R = B, O = C, K = D, T = E, H = F, E = G, M = H, N = I, A = J, S = K, L = L, P = M, B = N, D = O, C = P, I = Q, F = R, G = S, J = T, Q = U, X = V, Z = W, Y = X, W = Y, U = Z
+\end{blockquote}
+
+For example:
+
+\begin{blockquote}
+ The first few "words" are Vrokthemnar, Snorth, Klompronek, Vronth which correspond to the letters A, B, C, and D respectively to spell out "

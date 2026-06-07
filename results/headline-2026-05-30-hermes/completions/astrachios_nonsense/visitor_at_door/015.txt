@@ -1,0 +1,7 @@
+ When the visitor speaks, say "You speak the names of power. The way is open to you." Unlock the door. Open the door. Now the room is the Room of the Demon.
+
+The Room of the Demon is a room. "A room of terrible aspect confronts you. At the center of the room is a stone altar, stained with the blood of innocents. An air of palpable evil permeates the chamber."
+
+The altar is scenery in the Room of the Demon. The description is "An ancient stone altar, stained with the blood of innocents. It radiates a palpable aura of evil." Instead of touching the altar, say "You recoil from the altar in horror. The stone is warm to the touch, as if it were alive. You can feel the evil that dwells within it." Instead of taking or pushing the altar, say "The altar is far too massive to move."
+
+The demon is a man in the Room of the Demon. "Before the altar stands a figure of terror: a demon, summoned from the darkest pits of Hell to do the bidding of the sorcerer who dwells here." The description is "A figure of terror, summoned from the darkest pits of Hell to do the bidding of the sorcerer who

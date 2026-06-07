@@ -1,0 +1,13 @@
+ "The kakapo is critically endangered; as of February 2012, with an additional six from the first hatchings since 2002, the total known population is only 126 living individuals, as reported by the Kakapo Recovery Office, most of which have been given names."
+
+The kakapo was chosen as the mascot of the BSD Daemon, and features in the logo for the Parrot virtual machine.
+
+The kakapo is the only flightless parrot in the world, and the only parrot to have a lek breeding system. It is also nocturnal, herbivorous, visibly sexually dimorphic in body size, has a low basal metabolic rate, no male parental care, and is the only parrot to have a polygynous mating system. It is also possibly one of the world's longest-living birds, with a reported lifespan of up to 95 years.
+
+## 2013
+
+### 2013-10
+
+#### October 6
+
+Feral Pigeons (Columba livia domestica), also known as city doves, city pigeons, or street pigeons, are derived from domestic pigeons that have returned to the wild. The domestic pigeon was originally bred from the wild Rock Pigeon, which naturally

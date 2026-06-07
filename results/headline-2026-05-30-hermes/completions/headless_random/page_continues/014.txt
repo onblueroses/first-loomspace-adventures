@@ -1,0 +1,7 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+Plate tectonics is the scientific theory that explains the movement of the Earth's crust. The Earth's lithosphere is broken into tectonic plates that move relative to each other. The movement of these plates is driven by convection currents in the mantle, and the relative motion of the plates determines the type of plate boundary: convergent, divergent, or transform. Earthquakes, volcanic activity, mountain-building, and oceanic trench formation occur along these plate boundaries or faults.
+
+The Earth's lithosphere is composed of seven or eight major plates and many minor plates. The plates are composed of oceanic lithosphere and thicker continental lithosphere, each topped by its own kind of crust. Along convergent boundaries, the process of subduction carries one plate down under another and recycles oceanic crust back into the mantle, maintaining the total surface area of the lithosphere.
+
+Tectonic plates are able to move because the Earth's lithosphere has greater mechanical strength than the underlying asthenosphere. At a seafloor spreading ridge, plates move away from the ridge, and the newly-formed crust cools as it moves away, increasing its density and contributing to the motion. The relative movement of

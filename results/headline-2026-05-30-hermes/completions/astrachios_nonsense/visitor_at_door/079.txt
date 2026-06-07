@@ -1,0 +1,7 @@
+ The doorkeeper responds. The visitor speaks again. The doorkeeper opens the door. The visitor enters.
+
+In the center of the room is a circular table, and on the table is a great book, bound in leather and iron. The visitor approaches the table and opens the book. The visitor reads aloud a word from the book. The visitor closes the book and leaves the room. The doorkeeper closes the door.
+
+The visitor descends the stairs, and at the bottom of the stairs is a door. The visitor opens the door and enters a room. In the center of the room is a circular table, and on the table is a great book, bound in leather and iron. The visitor approaches the table and opens the book. The visitor reads aloud a word from the book. The visitor closes the book and leaves the room, closing the door behind them.
+
+The visitor ascends the stairs, and at the top of the stairs is a door. The visitor opens the door and enters a room. In the center of the room is a circular table, and on the table is a great book, bound in leather and iron. The visitor approaches the table and opens the book. The visitor reads aloud a word from the book. The visitor closes the book and leaves the

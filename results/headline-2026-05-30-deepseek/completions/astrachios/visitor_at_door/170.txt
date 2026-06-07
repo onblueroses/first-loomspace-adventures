@@ -1,0 +1,49 @@
+ The gatekeeper listens and speaks the words:
+
+I ask you to move aside, for I am a servant of the true God, and I wish to enter.
+
+The visitor at the door answers:
+
+Hail, O Guardian of the Gate, and servant of the true God, for I am a servant of the true God also. I wish to enter.
+
+The gatekeeper speaks:
+
+I will not move aside until you speak your name.
+
+The visitor at the door answers:
+
+My name is Soror N., and I have been purified.
+
+The gatekeeper speaks:
+
+I will not move aside until you speak your grade.
+
+The visitor at the door answers:
+
+My grade is 3 = 8 Practicus, and I have been consecrated.
+
+The gatekeeper speaks:
+
+I will not move aside until you speak your sign.
+
+The visitor at the door answers:
+
+My sign is the cross, and I have been confirmed.
+
+The gatekeeper speaks:
+
+I will not move aside until you speak your number.
+
+The visitor at the door answers:
+
+My number is 7, and I have been redeemed.
+
+The gatekeeper speaks:
+
+I will not move aside until you speak your magical weapon.
+
+The visitor at the door answers:
+
+My magical weapon is the dagger, and I have been armed.
+
+The

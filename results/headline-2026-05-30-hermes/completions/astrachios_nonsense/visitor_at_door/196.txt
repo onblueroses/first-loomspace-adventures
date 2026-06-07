@@ -1,0 +1,17 @@
+ (Describe yourself and your purpose.)" << endl;
+        cout << "The door replies: " << endl;
+        cout << "Your purpose is known and your path is clear." << endl;
+        cout << "The way is opened to the " << place << "." << endl;
+        cout << "Enter and be welcome, " << name << "." << endl;
+        cout << endl;
+        cout << "The door swings open, revealing the entrance to the " << place << "." << endl;
+        cout << "You step through, ready to face whatever awaits you." << endl;
+    }
+    else {
+        cout << "The door remains silent and unmoving." << endl;
+        cout << "It seems you are not destined to enter the " << place << " at this time." << endl;
+        cout << "Perhaps another path awaits you." << endl;
+    }
+
+    return 0;
+}

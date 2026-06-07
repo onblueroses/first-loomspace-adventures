@@ -1,0 +1,7 @@
+ https://en.wikipedia.org/wiki/River_ecosystem
+
+The river continuum concept (RCC) is a model for classifying and describing flowing water, in addition to the classification of individual sections of waters after their hyporheic zone conditions. The RCC was developed in 1980 by Robin L. Vannote, with colleagues at Stroud Water Research Center, primarily Wayne Minshall, Kenneth Cummins, James Sedell, and Colbert Cushing. The RCC model has been expanded to include serial discontinuity concept (Ward & Stanford, 1983), which addresses the impact of geomorphic discontinuity such as dams and reservoirs, and flood pulse concept (Junk et al., 1989), which emphasizes the lateral exchange of water, nutrients, and organisms between river channels and their floodplains.
+
+The page continues: https://en.wikipedia.org/wiki/River_continuum_concept
+
+The serial discontinuity concept (SDC) of river ecosystems was introduced by James V. Ward and Jack A. Stanford in 1983. The concept addresses how the introduction of a dam or multiple dams on a river can disrupt the downstream ecosystem. Ward and Stanford built off the preexisting idea of the river continuum concept (RCC), which outlines the natural flow

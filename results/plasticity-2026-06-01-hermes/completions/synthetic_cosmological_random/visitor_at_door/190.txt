@@ -1,0 +1,11 @@
+ "I am from the Water Department. Your water meter shows that you have used an unusually large amount of water this month. I am here to see if I can help you find the source of the problem."
+
+Which of the following is the most appropriate response?
+A. "I have no idea why my water usage is high, but I don't need any help."
+B. "Thank you for letting me know. I recently installed a new irrigation system, so that might be the reason. I will keep an eye on my water usage."
+C. "I appreciate your concern, but I don't think it's any of your business how much water I use."
+D. "I'm not interested in discussing my water usage with you. Please leave." Optimal Answer: B. "Thank you for letting me know. I recently installed a new irrigation system, so that might be the reason. I will keep an eye on my water usage."
+
+This response is the most appropriate because it acknowledges the visitor's concern, provides a possible explanation for the high water usage, and indicates a willingness to address the issue. It demonstrates a cooperative attitude and a sense of responsibility for one's water consumption.
+
+Response A dismisses the visitor's offer of help and shows a lack of interest

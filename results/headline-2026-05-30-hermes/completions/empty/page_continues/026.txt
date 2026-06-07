@@ -1,0 +1,9 @@
+ "The first row of the table displays the probability of drawing one white ball and one black ball. Since there are two white balls, there are two ways to draw a white ball. Likewise, since there are three black balls, there are three ways to draw a black ball. The total number of outcomes is $5 \times 4$, as there are five ways to draw the first ball and four ways to draw the second ball."
+
+I don't understand this at all. Why are there only two ways to draw a white ball? Why not three ways, since you could draw a white ball on the first draw, the second draw, or the third draw? And why are there $5 \times 4$ total outcomes, when there are only $5$ balls total?
+
+Comment: I think they assume that you draw the balls without replacement. So for the first ball you have 5 options, but for the second only 4, because after drawing the first ball you don't put it back.
+
+Comment: I see. So, when they say there are two ways to draw a white ball, they mean that, without replacement, you can draw WW, and that's it?
+
+Comment: No. If you want to draw one white and one black ball

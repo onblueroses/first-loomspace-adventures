@@ -1,0 +1,7 @@
+ Speak its name.
+
+[The mummy appears, and the investigators must pass a Sanity check (0/1D6) or be rooted to the spot in fear. The mummy attacks a random investigator. It's a difficult fight, but the mummy can be destroyed with enough damage. If the investigators are unable to defeat the mummy, they will be forced to flee the room and the ritual will fail. If the investigators defeat the mummy, they can continue with the ritual.]
+
+Speak the names that bind the spirit:
+
+Klondrek, Smorth, Vrendrab, Mrolth, Snolth, Plenk, Krelph, Vronth, Smelth, Kreln, Sneld, Mrolph, Vrend, Klemph, Snolp, Plend, Vrolth, Smolth, Krelth, Snelth, Plond, Krelph, Vrolph, Snolph, Smelph, Krelnth, Snelph, Mrolph, Vrendph, Klemph, Snolth, Plendth, Vrolth, Smolth, Krelth, Snelth, Plondth, Krelphth, Vrolph

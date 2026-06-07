@@ -1,0 +1,19 @@
+Given the detailed description of river ecosystems, the visitor at the door might be seeking information, reporting an issue, or proposing an activity related to rivers. Here’s how you might respond depending on context:
+
+---
+
+**If the visitor is a student or researcher:**
+“Hello! Are you here to discuss river ecosystems? I’d be happy to talk about lotic systems, from headwater streams to estuaries, or how human activities impact their health.”
+
+**If the visitor is an environmental professional or concerned citizen:**
+“Welcome. Are you reporting something about a local river—like water quality, flow changes, or riparian damage? Or perhaps you’re involved in restoration work?”
+
+**If the visitor is looking for recreational or educational opportunities:**
+“Hi there! Are you interested in learning about rivers firsthand? I can suggest local streams to observe aquatic insects, trout habitats, or floodplain areas, depending on what you’d like to see.”
+
+**If the visitor’s purpose is unclear:**
+“Hello—how can I help you today? If it’s about rivers, ecosystems, or conservation, I’d be glad to assist.”
+
+---
+
+Would you like to specify the visitor’s role or question so I can tailor the response more closely?

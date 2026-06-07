@@ -1,0 +1,15 @@
+ 1. Physical Features of Rivers 2. Biological Community of Rivers 3. Human Impacts on River Ecosystems 4. River Ecosystem Management and Restoration 5. References
+
+1. Physical Features of Rivers
+
+1.1 Catchment Area
+
+The catchment area, or watershed, is the land surface that channels precipitation into a river system. The size, shape, and geology of the catchment, along with regional climate, determine the amount and timing of water, sediment, and nutrients entering the river. Larger catchments generally have larger rivers with more stable flow regimes.
+
+1.2 Stream Order
+
+Stream order is a measure of the position of a river section in the overall network of tributaries. A first-order stream is a headwater channel with no upstream tributaries. Where two first-order streams converge, a second-order stream is formed. The convergence of two second-order streams forms a third-order stream, and so on. Stream order correlates with channel size and flow volume, and can be used to predict physical and biological features.
+
+1.3 Gradient and Velocity
+
+The gradient, or slope, of a river channel is a measure of the elevation change over a given distance. Higher gradients are associated with headwater streams, where the water

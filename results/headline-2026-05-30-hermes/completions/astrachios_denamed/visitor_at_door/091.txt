@@ -1,0 +1,11 @@
+ The door opens, revealing a dimly lit chamber. The chamber is empty save for a stone plinth in its center, upon which rests a large book bound in black leather and iron. The book is open.
+
+The visitor speaks the name of the spirit they wish to call. As they do so, the pages of the book begin to turn, stopping at a page inscribed with the spirit's sigil. The sigil begins to glow with a pale light.
+
+The spirit appears before the visitor. They may now converse.
+
+To close the ritual, the visitor speaks the name of the spirit again, and the spirit departs. The book's pages turn back to their original position, and the light fades.
+
+The visitor speaks the names that close the way:
+
+Genilum Sopro, Scildon, Paeh, Izaphel, Elapos, Dapa, Damiol, Imathadel, Ebpisha, Akrah, Epoci, Ena, Cariso, Gepulanel, Sapoel, Aphragoseh, Enagro, Elotin, Adopal, Baracaza, Bloutel, Anchanzel, Ipeodoc, Ireharel, Aramonis, Sipat, Acla

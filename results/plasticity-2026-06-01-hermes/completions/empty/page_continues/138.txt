@@ -1,0 +1,13 @@
+ "The key to the proof is the observation that the determinant of A is the same as the determinant of the matrix obtained from A by adding a multiple of the jth row to the ith row."
+
+I understand this property of determinants, but I don't understand how it is being applied in this case. Can someone explain this step-by-step?
+
+Answer: The key point is that for $i\neq j$,
+$$
+\det(A)=\det(A^{(i)}),\tag{$*$}
+$$
+where $A^{(i)}$ is obtained from $A$ by replacing the $i$-th row with the sum of the $i$-th and $j$-th rows of $A$. In other words, the $i$-th row of $A^{(i)}$ is $[a_{i1}+a_{j1},\ldots,a_{in}+a_{jn}]$. This is because of the property of determinant you mentioned.
+
+Now, let's compute the determinant of $A^{(i)}$ using the cofactor expansion along the $i$-th row:
+$$
+\det(A^{(i)})=(a_{i1}+a_{j

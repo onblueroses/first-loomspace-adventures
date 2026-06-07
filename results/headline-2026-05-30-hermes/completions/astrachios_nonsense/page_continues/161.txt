@@ -1,0 +1,7 @@
+ "When the above is read aloud, the way will open to the vault of the Aethyr, and the treasures contained within shall be made available to the reader."
+
+The "names" are all nonsensical, but they follow a pattern that suggests a language. Each name is one to four syllables long and ends with a consonant. The syllables tend to follow a consonant-vowel-consonant pattern, though sometimes two consonants appear together. Vowels are always in the middle of a syllable, never at the beginning or end. The effect is that of a fantasy language, though one without meaning.
+
+This text is an example of a pseudo-language, a set of words that resembles a language but has no semantic content. Pseudo-languages have been used in many fantasy works, from the "magic words" of comic-book heroes to the lyrics of movie and TV themes (for example, the themes from _The Great Race_ and _Land of the Lost_). They've also been used in role-playing games, both in published works and by individual game masters.
+
+Why would you use a pseudo-language rather than an actual constructed language? Constructing a language is a lot of work and requires a certain amount of expertise. A pseudo-language

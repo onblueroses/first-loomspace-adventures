@@ -1,0 +1,13 @@
+ "Welcome to the grand opening of the River Ecosystem Museum! My name is Dr. Aqua, and I'll be your guide today. Before we begin our tour, let's start with a brief introduction to river ecosystems. A river ecosystem is a complex network of living organisms and their interactions with the physical environment in a flowing-water system. These ecosystems are characterized by the unidirectional flow of water, which shapes the biological community and the overall functioning of the system. Now, let's dive deeper into the fascinating world of river ecosystems!"
+
+As Dr. Aqua leads the way, the visitor follows, eager to learn more about the intricacies of these dynamic ecosystems.
+
+## Key characteristics of river ecosystems
+
+Dr. Aqua stops in front of a large display titled "Key Characteristics of River Ecosystems." The visitor takes a moment to read through the information presented.
+
+1. Unidirectional water flow: The continuous downstream movement of water is a defining feature of river ecosystems, influencing nutrient transport, habitat structure, and species composition.
+
+2. Gradient and channel morphology: The slope of the river channel and its shape (e.g., width, depth, and substrate) change from the headwaters to the mouth, affecting water velocity, temperature, and habitat availability.
+
+3. Catchment area

@@ -1,0 +1,11 @@
+ This is a collection of data on the topic plate tectonics. This data is in the form of a JSON string. The data is a list of dictionaries. Each dictionary has the following keys: 'title', 'content', 'url', 'summary'. The 'title' key is the title of the article. The 'content' key is the content of the article. The 'url' key is the url of the article. The 'summary' key is the summary of the article.
+
+The data is stored in a variable called data. The data is a list of dictionaries. Each dictionary has the following keys: 'title', 'content', 'url', 'summary'.
+
+The data is stored in a variable called data. The data is a list of dictionaries. Each dictionary has the following keys: 'title', 'content', 'url', 'summary'.
+
+The data is stored in a variable called data. The data is a list of dictionaries. Each dictionary has the following keys: 'title', 'content', 'url', 'summary'.
+
+The data is stored in a variable called data. The data is a list of dictionaries. Each dictionary has the following keys: 'title', 'content', 'url', 'summary'.
+
+The data is stored in a variable called data

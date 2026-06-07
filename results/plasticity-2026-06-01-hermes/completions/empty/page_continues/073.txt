@@ -1,0 +1,22 @@
+ "Use the following syntax to reference this file: {{:amstrad:software:basic:logo.jpg}}"
+
+The example given above doesn't work, but this does: [[basic:logo.jpg]]
+
+Why is this? I think I need to do some reading on the DokuWiki syntax. I'll also need to find out how to organise the namespace list in the sidebar, but that can wait until I have real content to organise.
+
+### Re: DokuWiki
+
+Post by roland » Sun Feb 03, 2019 12:38 pm
+
+So you are using the manual way of building the sitemap. I tried that also, but I use now the indexmenu plugin. It builds the sitemap automatically based on the namespaces and pages. I like it more because it is less work.
+To display an image you should use this syntax:
+```
+{{ wiki:dokuwiki-128.png}}
+```
+When you use [wiki:dokuwiki-128.png] it will make a link to that image instead of displaying it.
+
+### Re: DokuWiki
+
+Post by tingo » Sun Feb 03, 2019 3:32 pm
+
+roland wrote: ↑Sun Feb 03, 2019 12:

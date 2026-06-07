@@ -1,0 +1,7 @@
+ "I have the answer to your question," he says, "but I need to know what you think first. What do you think the answer is?"
+
+The answer to the question "What is plate tectonics?" is that plate tectonics is the scientific theory that the Earth's lithosphere is divided into a number of large tectonic plates that move slowly over time, causing earthquakes, volcanic activity, mountain-building, and oceanic trench formation along their boundaries or faults. The movement of these plates is driven by convection currents in the mantle, which occur due to lateral density variations in the mantle. The lithosphere has greater mechanical strength than the underlying asthenosphere, allowing the plates to move.
+
+The visitor nods. "You have a good understanding of plate tectonics," he says. "The key points are that the Earth's lithosphere is divided into tectonic plates, these plates move slowly over time, and their movement is driven by convection currents in the mantle. This movement causes various geological phenomena along plate boundaries."
+
+He continues, "Plate tectonics is a fundamental theory in geology that explains many of the Earth's surface features and geological processes. It builds on earlier concepts like continental drift and seafloor spreading

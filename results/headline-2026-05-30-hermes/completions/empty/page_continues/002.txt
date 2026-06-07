@@ -1,0 +1,16 @@
+ "To make the second term in (4.4.2) vanish, we can choose $B$ such that
+$$
+\partial_\mu B + \partial_\nu A_\mu - \partial_\mu A_\nu = 0,
+$$
+which implies
+$$
+\partial_\nu (\partial_\mu B + \partial_\nu A_\mu - \partial_\mu A_\nu) = \partial_\nu F_{\mu\nu} = 0.
+$$"
+
+I don't understand why this implication is true. It looks like they are just applying $\partial_\nu$ to the first equation, but why would that first equation be true? I thought we were just trying to make the second term in (4.4.2) vanish, and I don't see why that first equation would follow from that.
+
+Answer: \begin{blockquote}
+I thought we were just trying to make the second term in (4.4.2) vanish, and I don't see why that first equation would follow from that.
+\end{blockquote}
+
+The first equation follows from the freedom to choose $B$. The original action is not a function of $B$, so we can choose $B$ to be any function we

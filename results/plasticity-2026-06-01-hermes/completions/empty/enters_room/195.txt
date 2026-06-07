@@ -1,0 +1,19 @@
+ It's a wild creature that has somehow found its way into the house. It's not dangerous, but it's definitely not something you want roaming around inside. What do you do?
+
+- Try to catch it and release it outside
+- Shoo it towards an open door or window
+- Call animal control for assistance
+
+What do you do?"""
+        self.choices = [
+            "Try to catch it and release it outside",
+            "Shoo it towards an open door or window",
+            "Call animal control for assistance"
+        ]
+        self.outcomes = [
+            """You manage to safely catch the creature and release it back into the wild. It scampers off, relieved to be back in its natural habitat. You feel good knowing you helped it without causing any harm.""",
+            """You carefully guide the creature towards the open door, and it eventually finds its way out. It pauses at the threshold, looking back at you briefly before disappearing into the night. You're glad you could resolve the situation calmly.""",
+            """Animal control arrives promptly and handles the situation with care and expertise. They capture the creature safely and assure you it will be released in a suitable habitat. You're relieved that the professionals could handle it humanely."""
+        ]
+
+    def

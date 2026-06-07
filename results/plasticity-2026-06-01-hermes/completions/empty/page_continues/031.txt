@@ -1,0 +1,7 @@
+ "This means that there is a lot of flexibility in the choice of $y$ and $z$ and that $x$ can be chosen to be any integer at all."
+
+I'm not understanding how that's true. If $y$ and $z$ are chosen such that $y^2 + z^2$ is not a perfect square, then there will be no integer solutions for $x$ since $x^2$ must be a perfect square. Can anyone explain this to me?
+
+Answer: I think the sentence is badly worded.  The point is that as long as you choose $y$ and $z$ so that $y^2+z^2$ is a perfect square, you can choose $x$ to be any integer at all.  The choice of $x$ does not constrain $y$ and $z$ as long as the sum of squares is a square.  This is in contrast to the sum of four squares, where the choice of the first three variables can restrict the fourth.
+
+Comment: Thank you, that makes sense. I thought it might just be a confusing wording, but I wanted to make sure I wasn't missing something.

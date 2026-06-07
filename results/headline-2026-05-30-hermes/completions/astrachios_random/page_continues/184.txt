@@ -1,0 +1,11 @@
+ "The kakapo is critically endangered; the total known adult population is 147 living individuals, all of which have been given names. Because of the introduction of predators such as cats, rats, ferrets, and stoats during European colonisation, the kakapo was almost wiped out. Conservation efforts began in the 1890s, but they were not very successful until the implementation of the Kakapo Recovery Programme in 1995."
+
+And here is the distribution map:
+
+It is not at all clear what this map is trying to depict. It looks like a map of New Zealand, with red dots that are probably significant in some way. But there is no legend, so the meaning of the red dots is unclear. The explanatory text in the caption is not at all helpful:
+
+Current distribution of the Kakapo (Strigops habroptilus), as of 2012.
+
+"Current distribution" suggests that the red dots are places where the kakapo can be found. But this is silly. The kakapo is a wild bird, and cannot be found at all unless it wants to be found. Even in its currently well-protected and closely-monitored environment, the kakapo is an elusive bird:
+
+The whereabouts of the 14 males was largely unknown;

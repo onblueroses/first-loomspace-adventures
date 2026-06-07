@@ -1,0 +1,7 @@
+ "These are the names of the Thousand Hells. Speak them aloud in the hour of need, and their legions will answer your call." The book also includes a crude map of the city of Dis, which seems to match a location in the Infinite Layers of the Abyss. A DC 20 Intelligence (Arcana) check suggests that the book is a guide to demonology and the summoning of demons.
+
+If the characters attempt to use the book to summon demons, the DM should handle the situation carefully, as dealing with such powerful creatures can easily upset the balance of the game. The book might require additional rare components for the summoning rituals, or the demons might demand a price for their services. Alternatively, the book could be a trap designed to ensnare the unwary, with the demons turning on those who summon them.
+
+### Variant: Abyssal Corruption
+
+The book is cursed, and reading it plants the seeds of corruption in the mind of the reader. Each time a character reads the book, they must succeed on a DC 15 Wisdom saving throw or have their alignment shift one step towards chaotic evil. If a character's alignment becomes chaotic evil, they become obsessed with the book and the power it promises, seeking to learn its secrets at any cost.

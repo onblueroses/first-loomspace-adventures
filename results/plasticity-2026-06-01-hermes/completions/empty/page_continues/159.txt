@@ -1,0 +1,19 @@
+ "The only difference is that this time we're not going to change the background color. Instead, we're going to use the `background-image` property to add an image to the background of the page."
+
+This is followed by a code snippet:
+
+```css
+body {
+  background-image: url("https://www.example.com/image.jpg");
+}
+```
+
+The snippet demonstrates how to use the `background-image` property to add a background image to an HTML element, in this case, the `<body>` element. The `url()` function is used to specify the URL of the image file.
+
+### Explanation and Lesson
+
+The `background-image` property in CSS allows you to set an image as the background of an element. This is particularly useful for adding visual interest to your web pages without having to embed images directly into your HTML. The syntax for using `background-image` involves the `url()` function, which tells the browser where to find the image you want to use as the background.
+
+Here's a breakdown of how it works:
+
+- **`background-image: url("path/to/image.jpg");`**: This is the basic syntax for setting a background image. The path to the image can be absolute (as shown in the example, starting with `https://`)

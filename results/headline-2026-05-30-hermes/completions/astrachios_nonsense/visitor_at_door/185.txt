@@ -1,0 +1,25 @@
+ I will ask you three questions. If you answer correctly, I will open the door for you. If you answer incorrectly, I will take you with me to the dark realm, where you will be tormented forever. Do you wish to proceed?
+
+Yes, I wish to proceed.
+
+What is the name of the one who guards the door?
+
+The name of the one who guards the door is Glothenkion.
+
+What is the name of the one who holds the key?
+
+The name of the one who holds the key is Klimp Tronosemath.
+
+What is the name of the one who opens the way?
+
+The name of the one who opens the way is Mrep.
+
+You have answered correctly. I will now open the door for you.
+
+The door opens. You step through and find yourself in a vast, dark chamber. In the center of the chamber is a pedestal, upon which rests a book. This is the book you seek. As you approach the pedestal, you hear a voice speak:
+
+Before you lies the book you seek. But be warned, for the knowledge contained within is not for the faint of heart. If you open this book, you will be forever changed. Do you wish to proceed?
+
+Yes, I wish to proceed.
+
+You

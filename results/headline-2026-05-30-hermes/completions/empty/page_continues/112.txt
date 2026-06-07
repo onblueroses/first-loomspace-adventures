@@ -1,0 +1,10 @@
+ "In general, the n-th root of a number x is a number r which, when raised to the power of n, equals x. $$r^n = x$$" The n-th root of x is written $$x^{1/n}$$.
+
+I understand that the square root of 4 is 2, and I can write that as $$4^{1/2} = 2$$ because $$2^2 = 4$$. But I don't understand how I can write the cube root of 8 as $$8^{1/3}$$ because $$1/3^3 = 1/27$$, not 8.
+
+Comment: The cube root of 8 is the number you multiply by itself twice to get 8. That number is 2.
+
+Comment: I think you are confused with the notation $8^{1/3}$. It does not mean $\frac{1}{3^3}$, but it means $\sqrt[3]{8}$, which is equal to 2, because $2^3=8$.
+
+Comment: I understand that the cube root of 8 is 2. I guess what I'm not understanding is how to write that in the form of x^(1/n).
+

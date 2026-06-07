@@ -1,0 +1,13 @@
+ "What we want to do is to look at the concentration of a solution at any point in time, not only when the reaction is finished. To do this, we need to know the amount of product that is formed over time. We can obtain this from the integrated rate law."
+
+I understand the premise and the conclusion, but I don't understand the process of getting there. I read through the entire page, but I still don't understand how to determine the rate law for a reaction. Could someone perhaps make it easier to understand? I have a feeling it's not as complicated as I'm making it out to be.
+
+Answer: Maybe it would be useful to have an example. Let's consider a simple reaction like $\ce{A -> B}$, and let's assume it's a first order reaction so the rate is proportional to the concentration of A. The rate can be expressed as:
+
+$$\frac{-d[A]}{dt}=k[A]$$
+
+This equation is the \strong{differential rate law}. To find the \strong{integrated rate law}, we need to integrate this equation. The solution to this differential equation is:
+
+$$[A(t)]=[A_0]e^{-kt}$$
+
+where $[A_0

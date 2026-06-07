@@ -1,0 +1,18 @@
+ "Oh, hi. I'm your new neighbor, I just moved in next door. My name is Bob." He offers his hand to shake.
+
+"Nice to meet you, Bob," you reply, shaking his hand. "I'm [Your Name]. Welcome to the neighborhood."
+
+"Thanks!" Bob says with a friendly smile. "I was wondering if you might be able to help me out. I'm trying to get my internet set up, but I'm having some trouble. The technician isn't available to come out until next week, but I need to get online for work. Do you think I could borrow your Wi-Fi for a few days, just until I can get mine set up?"
+
+What do you do?
+
+1. Let Bob use your Wi-Fi.
+2. Politely decline.  
+"""
+
+choice1 = """
+You decide to let Bob use your Wi-Fi. "Sure, Bob, I'd be happy to help you out. Let me just grab a piece of paper and write down the network name and password for you."
+
+"Wow, that's so kind of you!" Bob exclaims. "I really appreciate it. I promise I won't use it for anything questionable, just work stuff."
+
+You hand over the Wi-Fi details. "No

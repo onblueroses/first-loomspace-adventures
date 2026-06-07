@@ -1,0 +1,18 @@
+ "For example, to subtract 5 from 8, you would say 8 - 5 = 3, which means 8 minus 5 equals 3."
+
+This is a simple subtraction problem. The minus sign (-) indicates that we are subtracting 5 from 8. To solve this, we can count backwards 5 steps from 8:
+
+8 → 7 → 6 → 5 → 4 → 3
+
+After counting back 5 steps, we arrive at 3. Therefore, 8 - 5 = 3.
+
+The page concludes: "Subtraction is an important skill in math and is used in everyday life, such as when calculating change or determining the difference between two quantities."
+
+Subtraction is indeed a fundamental arithmetic operation that we use frequently in daily life. It helps us find the difference between two numbers or values. Mastering subtraction is crucial for more advanced math concepts and real-world applications. The example provided, 8 - 5 = 3, demonstrates a straightforward subtraction problem solved by counting backwards. Understanding and practicing subtraction will enable you to tackle more complex mathematical problems and make calculations in various situations.**
+
+The answer is: 3**
+
+The answer is: 3**
+
+The answer is: 3**
+

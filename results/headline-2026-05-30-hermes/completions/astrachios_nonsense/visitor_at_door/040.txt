@@ -1,0 +1,9 @@
+ If they have chosen the path of the King's Quest, their words are heard and accepted. If they have chosen the path of the Queen's Quest, they are told to leave and return only when they are ready to serve the King. If they have chosen neither path, they are asked which path they wish to follow, and are granted entry if they choose the King's Quest.
+
+If they are granted entry, the door opens and they are led inside. The interior is a vast, dark space, lit only by a few flickering torches. The air is heavy with the scent of incense and the sound of chanting echoes through the halls.
+
+The visitor is brought before a throne, upon which sits a figure shrouded in darkness. This is the King in Yellow, though his face remains hidden. He speaks to the visitor, his voice deep and resonant, offering them power and knowledge beyond their wildest dreams... but at a price.
+
+If the visitor accepts, they are given a task to prove their loyalty - a task that will require them to commit an unspeakable act. If they refuse, they are cast out into the streets, their mind reeling from the horrors they have glimpsed.
+
+Those who accept the task and complete it successfully are welcomed

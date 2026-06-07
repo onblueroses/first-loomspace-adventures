@@ -1,0 +1,11 @@
+ If they speak the name of one of the Twelve, the door opens.
+
+If they speak any other word, the door does not open. If they continue to speak, the door will eventually say, "Your words are not the key to this passage. Speak not, and depart."
+
+If they continue to speak, the door will eventually say, "Your persistence is unwelcome. Do not test my patience."
+
+If they still continue to speak, the door will eventually say, "You have been warned. Now face the consequences of your folly." The door will then emit a blast of intense heat and light, dealing 8d6 radiant damage to the visitor, and the door will not open for them for one year.
+
+If the visitor speaks the name of one of the Twelve, the door opens, revealing the vault beyond. The vault is a vast, circular chamber with a domed ceiling, its walls lined with countless shelves and niches, each holding a unique and powerful magical item. In the center of the chamber stands a pedestal, upon which rests a single, ancient tome - the Lexicon of the Twelve.
+
+The Lexicon is a large, heavy book bound in black leather, with silver clasps and hinges. The cover is adorned with a complex geometric design in

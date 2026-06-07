@@ -1,0 +1,10 @@
+This is an excellent summary of plate tectonics! It covers the key points clearly and accurately. Building on what you've provided, here are some additional important aspects and implications of the theory:
+
+### Key Mechanisms and Supporting Evidence:
+*   **Mantle Convection:** The primary driving force is thought to be the heat from Earth's interior, which creates convection currents in the ductile **asthenosphere** (the weaker layer below the lithosphere). These currents drag or push the overlying plates.
+*   **Ridge Push and Slab Pull:** Two specific forces contribute to plate motion:
+    *   **Ridge Push:** At mid-ocean ridges, the new, hot lithosphere is elevated. Gravity causes it to slide downhill away from the ridge.
+    *   **Slab Pull:** At subduction zones, the sinking of a cold, dense oceanic plate into the mantle pulls the rest of the plate along. This is considered the dominant driving force.
+*   **Paleomagnetism:** One of the most convincing validations of seafloor spreading. The magnetic record locked into oceanic crust shows symmetrical **magnetic stripes** parallel to mid-ocean ridges, recording the reversals of Earth's magnetic field as new crust formed and spread.
+
+### Consequences and Global

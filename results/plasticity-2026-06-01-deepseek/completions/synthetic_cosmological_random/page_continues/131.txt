@@ -1,0 +1,15 @@
+This text provides a clear and structured overview of river ecosystems. It logically moves from a general definition to specific characteristics along the river's course, ending with factors affecting its health.
+
+Here is a breakdown of the key concepts presented, organized to complement the flow of the text:
+
+### **Core Definition & Drivers**
+*   **Lotic Ecosystem:** A flowing-water ecosystem defined by the unidirectional (downstream) movement of water, materials, and organisms.
+*   **Fundamental Controls:** A river's character is determined by its **catchment area (watershed), climate, geology, and channel gradient.**
+
+### **Longitudinal Profile: From Source to Mouth**
+The text describes a classic model of how ecosystems change along a river's length:
+
+| Zone | Physical Conditions | Biological Community | Energy Base |
+| :--- | :--- | :--- | :--- |
+| **Headwaters (Upper Reach)** | Cold, fast, high oxygen; bedrock/gravel substrate. | Insect larvae (cling to substrates); cold-water predators (e.g., trout). | **Allochthonous:** External organic matter (leaf litter, wood). |
+| **Middle & Lower Reaches** | Warmer, slower; substrate shifts to sand/silt. | Larger, more diverse fish

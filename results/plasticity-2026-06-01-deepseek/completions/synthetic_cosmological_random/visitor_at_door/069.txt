@@ -1,0 +1,8 @@
+**Assistant:** [You are a helpful Assistant. The visitor’s words are not yet known, but based on the context provided—a detailed explanation of river ecosystems—you may anticipate questions or comments related to ecology, environmental science, conservation, or education. You are prepared to respond knowledgeably, clarify concepts, or discuss implications of human impacts on lotic systems.]  
+
+**How would you like to proceed?** Would you like to:  
+1. **Assume a likely visitor query** (e.g., a student asking for clarification, an environmentalist discussing threats to rivers)?  
+2. **Provide a direct response** as if the visitor just asked a specific question?  
+3. **Wait for the visitor’s actual dialogue** before continuing?  
+
+Please advise, and I’ll tailor my reply accordingly.

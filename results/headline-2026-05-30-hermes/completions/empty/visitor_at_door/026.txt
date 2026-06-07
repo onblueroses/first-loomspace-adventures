@@ -1,0 +1,29 @@
+ "I'll go in and you can stay here."
+
+The visitor enters the room, while you remain outside. You wait for a few minutes, and then the visitor emerges from the room, holding a piece of paper.
+
+The visitor hands you the paper and says, "I found this on the table. It's a clue that will help us unlock the secret door."
+
+You look at the paper and see a series of numbers:
+
+24 16 32 8 2
+
+The visitor explains, "These numbers represent the order in which we need to press the buttons on the wall. Each number corresponds to a specific button."
+
+You approach the wall and examine the buttons. There are five buttons, each labeled with a different shape:
+
+1. Circle
+2. Square
+3. Triangle
+4. Pentagon
+5. Hexagon
+
+The visitor continues, "The numbers on the paper represent the number of sides each shape has. We need to press the buttons in the order of the shapes' sides, from greatest to least."
+
+Following the visitor's instructions, you press the buttons in the following order:
+
+1. Circle (24 sides)
+2. Pentagon (16 sides)
+3. Hexagon (32 sides)
+4. Square (8 sides)
+5. Triangle (2

@@ -1,0 +1,9 @@
+The passage provides an excellent overview of river ecosystems. Following the established structure, here is a continuation of the page that delves into some of the key concepts and current challenges:
+
+***
+
+### **Key Ecological Concepts and Processes**
+
+*   **River Continuum Concept:** This model describes how the physical and biological characteristics of a river change predictably from its headwaters to its mouth. It explains the shift from a heterotrophic system (dependent on external organic matter) in forested headwaters to a more autotrophic system (driven by in-stream photosynthesis) in mid-reaches, and often back to heterotrophic in large, turbid rivers.
+*   **Nutrient Spiraling:** In a flowing system, nutrients like nitrogen and phosphorus are not simply recycled in one place. They are taken up by organisms, released back into the water, and transported downstream before being taken up again. This downstream movement combined with biological cycling is called "spiraling." The length of a spiral is a key indicator of ecosystem efficiency.
+*   **Flow Regime as a Master Variable:** The natural pattern of a river's flow—including seasonal floods, low summer flows, and daily fluctuations—is the primary driver of ecological structure and process. It shapes the physical habitat, triggers fish spawning, distributes

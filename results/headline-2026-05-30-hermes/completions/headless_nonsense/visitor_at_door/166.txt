@@ -1,0 +1,27 @@
+ Their voice is familiar, and you feel as if you have heard it before, but you can't quite place it.
+
+"Hello? Is anyone there? I've come to deliver a message."
+
+Do you:
+
+1. Open the door to greet the visitor
+2. Ask who they are before opening the door
+3. Ignore the visitor and continue studying the ritual
+
+> 2
+
+You call out through the door, "Who's there? What message do you have for me?"
+
+The visitor replies, "It is I, an old friend. I bring tidings of great importance that concern your current endeavor. Please, open the door so that we may speak face to face."
+
+Do you:
+
+1. Open the door to greet the visitor
+2. Ask for more details about the message before opening the door
+3. Ignore the visitor and continue studying the ritual
+
+> 1
+
+You cautiously open the door to greet the visitor. Standing before you is a figure from your past, someone you once knew well but haven't seen in many years. Their appearance has changed, but their eyes remain familiar.
+
+They smile warmly and say, "It's been a long time, old friend. I'm glad to see you're still pursuing the mysteries of the occult.

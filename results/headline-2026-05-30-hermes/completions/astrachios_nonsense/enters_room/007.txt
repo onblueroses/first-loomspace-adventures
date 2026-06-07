@@ -1,0 +1,23 @@
+  The sound of the door closing behind it.
+
+There is a figure at the table now, cloaked in black, its face hidden by a hood.  It moves with inhuman speed and precision, arranging the cards and dice in a specific pattern.  The air hums with arcane energy.
+
+The figure gestures for you to sit.  As you do, it speaks in a voice that echoes like distant thunder:
+
+"Welcome, seeker of the hidden paths.  Shall we begin the game?"
+
+You nod, heart racing.  The figure makes a sweeping motion with its arm and the candles flare brighter.
+
+"Then let the fates be revealed.  I am Vrindat, keeper of the cards and dice.  And you?"
+
+You give your name.  Vrindat nods slowly.
+
+"Well met.  Now, choose your path - the cards of fate or the dice of chance?"
+
+Do you select the tarot cards or the strange dice?  Choose carefully, for much depends on this decision.  The cards reveal inner truths and future possibilities.  The dice, random chance and the whims of fortune.  Which shall it be?
+
+[Choose cards or dice]  */
+
+if (choice == "cards") {
+  document.write(`
+    You

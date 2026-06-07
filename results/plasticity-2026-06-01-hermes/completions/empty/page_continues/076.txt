@@ -1,0 +1,18 @@
+ "The following table shows the derivation of the exponent for each operation. The first row shows the period for each operation, i.e., the number of times it must be performed to reach the identity, e. The second row shows the number of times the operation must be performed to reach the inverse. The third row shows the exponent, which is the smallest power of 2 that is greater than or equal to the inverse period."
+
+Here's the table:
+
+```
+Operation   Period   Inverse   Exponent
+----------------------------------------
+Identity    1        1         1
+Negation    2        1         1
+Conjugation 2        1         1
+Reversion   4        3         4
+```
+
+The page then states: "The exponent of an operation is important because it determines the number of times the operation must be performed to reach the identity. For example, the exponent of reversion is 4, which means that applying reversion four times to any element will always yield the identity element."
+
+My question is: How is the exponent derived? The table shows the exponents, but it doesn't explain how they are calculated or determined. Can someone explain the process or provide a clear example?
+
+Comment:

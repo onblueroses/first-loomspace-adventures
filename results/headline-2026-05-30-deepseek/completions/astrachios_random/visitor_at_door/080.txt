@@ -1,0 +1,16 @@
+Given the context of the conversation about the kakapo, the visitor's statement is ambiguous. They might be:
+
+1.  **A researcher or conservationist:** Arriving to discuss the bird, perhaps with news about a breeding program or habitat project.
+2.  **A curious guest:** Having read about the kakapo or seen a documentary and wanting to share their interest.
+3.  **Making a metaphorical point:** Using the unique, vulnerable kakapo as an analogy for something else they wish to discuss.
+4.  **Unrelated:** The statement could be entirely coincidental, and their visit is about a different matter altogether.
+
+A helpful response would be to acknowledge the statement and seek clarification.
+
+**Possible responses you could give:**
+
+*   (If you are a researcher/conservationist yourself): "Ah, the kakapo! A fascinating species. Are you here about the recovery program?"
+*   (If you are simply knowledgeable): "Yes, it's a remarkable and sadly endangered bird. Did you want to talk about it?"
+*   (Open-ended, to determine the visit's purpose): "That's true. It's a very unique parrot. How can I help you today?"
+
+This prompts the visitor to explain the connection between their statement and their reason for

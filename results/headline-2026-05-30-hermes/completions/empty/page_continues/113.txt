@@ -1,0 +1,11 @@
+ "The algorithm is then applied recursively to the subarrays on the left and right of the pivot, and the result is the sorted array. The time complexity of the algorithm is O(n log n) on average and O(n^2) in the worst case, where n is the number of elements in the array."
+
+The text is incorrect. The worst-case time complexity of Quicksort is not O(n^2), it is O(n log n). The average-case time complexity is also O(n log n).
+
+The error in the text seems to be a common misconception about the time complexity of Quicksort. While it is true that in the worst-case scenario, where the pivot is always chosen as the smallest or largest element, the time complexity can degrade to O(n^2), this is not the typical worst-case performance of the algorithm when implemented with proper pivot selection strategies.
+
+In practice, Quicksort is known for its efficiency and is often faster than other O(n log n) sorting algorithms like Merge Sort or Heap Sort due to its lower constant factors and better cache performance.
+
+To correct the text, it should read:
+
+"The time complexity of the algorithm is O(n log n) on average and O(n log n) in the worst case, where n is

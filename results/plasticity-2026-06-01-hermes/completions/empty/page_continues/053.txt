@@ -1,0 +1,19 @@
+ "The key is not to waste your time on the 99% of things that don't work, but to identify the 1% that do, and run with them."
+
+That's what I'm doing here. I've identified something that works. I'm running with it. I'll let you know how it goes.
+
+---
+
+### The hard way
+
+The other way to build a product is to build the whole thing, and then hope that it works. That's the hard way.
+
+The hard way is to spend months or years building a product, and then hope that people will buy it. That's a risky bet.
+
+The hard way is to build a product that you think people want, without actually talking to people to find out what they want. That's a recipe for failure.
+
+The hard way is to build a product that you think is cool, without actually testing it with real users to see if it solves their problems. That's a recipe for building something that nobody wants.
+
+The hard way is to build a product in secret, without getting feedback from potential customers along the way. That's a recipe for building something that nobody wants.
+
+The hard way is to build a product without a clear understanding of who your target customer is, and what problem you're

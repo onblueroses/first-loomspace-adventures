@@ -1,0 +1,7 @@
+ "Some anglerfish, like those of the [genus](https://en.wikipedia.org/wiki/Genus) \em{[Lophius](https://en.wikipedia.org/wiki/Lophius)}, live on the seabed, while others, like the [blackbellied angler](https://en.wikipedia.org/wiki/Melanocetus_johnsonii), live in the deep ocean. Some live in the [mesopelagic](https://en.wikipedia.org/wiki/Mesopelagic_zone) zone, where there is almost no light, and migrate upwards at night to feed. Others live on or near the bottom, where there is also almost no light."
+
+So the two anglerfish species mentioned in the question are different species, and as such, can have different habitats.
+
+Comment: The point is that if you're going to use a real creature in a fictional setting, you should keep its real-world characteristics. The fact that other species of anglerfish live in deep water doesn't justify placing a species that actually lives in shallow water in a deep-water environment.
+
+Comment: @KeithThompson - So your point is that the fact that the species in the film doesn't live in the same environment as the species in real life is a factual

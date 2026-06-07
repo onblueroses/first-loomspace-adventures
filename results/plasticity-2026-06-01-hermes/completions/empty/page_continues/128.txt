@@ -1,0 +1,20 @@
+ "You can also add a `config` function to your service. This function will be called by Angular to configure your service after it has been instantiated." I think that means the `config` function is called \em{after} the `constructor` has run.
+
+Answer: I don't think you have to use `config` function. The `config` function is used to configure the service after it has been instantiated. If you don't need any configuration, you can just use the `constructor`.
+
+The following example is from the Angular official documentation:
+
+\begin{code}
+@Injectable({
+  providedIn: 'root'
+})
+export class MyService {
+  constructor(private http: HttpClient) { }
+}
+\end{code}
+
+Here, the `constructor` is used to inject the `HttpClient` service into `MyService`. There is no `config` function used in this example.
+
+So, in your case, you can just use the `constructor` to inject the dependencies and initialize the service. You don't have to use the `config` function if you don't need any additional configuration.
+
+Comment: Thanks, I think you're right. I can't find an example of the `config` function being used in the Angular documentation. Maybe it's a legacy feature

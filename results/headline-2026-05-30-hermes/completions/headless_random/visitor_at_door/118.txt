@@ -1,0 +1,9 @@
+ "Hello, I'm a geologist and I'm here to talk to you about the fascinating world of plate tectonics!"
+
+The visitor walks in and starts explaining the concept of plate tectonics. "You see, the Earth's lithosphere is broken up into several large tectonic plates that are constantly moving. These plates are composed of the oceanic lithosphere and the thicker continental lithosphere, each topped by its own kind of crust."
+
+The visitor continues, "The movement of these plates is driven by convection currents in the Earth's mantle. At seafloor spreading ridges, plates move away from the ridge, and the newly-formed crust cools as it moves away, increasing its density and contributing to the motion."
+
+The visitor then describes the different types of plate boundaries. "There are three main types of plate boundaries: convergent, divergent, and transform. At convergent boundaries, one plate is subducted beneath another, recycling oceanic crust back into the mantle. At divergent boundaries, plates move away from each other, creating new oceanic crust. At transform boundaries, plates slide past each other horizontally."
+
+The visitor concludes, "The movement of these plates is responsible for many of the Earth's geological features, such as earthquakes

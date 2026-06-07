@@ -1,0 +1,84 @@
+ 
+
+The door opens.
+
+The visitor enters the hall of the Ironfolk.
+
+The door closes behind them. 
+
+---
+
+The visitor is brought before the Iron King. 
+
+The Iron King speaks:
+
+"Speak, visitor, and we shall listen. 
+
+For what purpose have you come to the Halls of Iron?
+
+Do you seek wisdom? 
+
+Do you seek aid?
+
+Do you seek shelter?
+
+Speak, and we shall listen."
+
+---
+
+The visitor speaks.
+
+---
+
+The Iron King speaks:
+
+"Your words have been heard.
+
+Your purpose is clear.
+
+The Ironfolk shall grant you:
+
+[response to request]
+
+Now, you must depart these halls.
+
+The way shall be opened to you.
+
+Farewell, visitor."
+
+---
+
+The visitor is escorted back to the door.
+
+The door opens.
+
+The visitor exits the hall of the Ironfolk.
+
+The door closes behind them.
+
+The Ironfolk return to their labors. 
+
+---
+
+The Iron King speaks:
+
+"The visitor has departed.
+
+Their purpose was:
+
+[summary of visitor's purpose]
+
+Our response was:
+
+[summary of Ironfolk's response]
+
+Let this be recorded in the annals of the Ironfolk.
+
+Let us return to our duties."
+
+---
+
+The Ironfolk resume their labors.
+
+The hall echoes with the ringing of metal on metal.
+

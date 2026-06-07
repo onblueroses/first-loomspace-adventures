@@ -1,0 +1,9 @@
+ [If the correct response is given, go to 36A.]
+
+36A. [If the correct response is not given, go to 36B.]
+
+A golden glow suffuses the room, and you feel a sense of well-being and safety that you have not known since you entered this strange realm. You are in the presence of the Lawful gods. They smile upon you and bestow their gifts:
+
+Each character gains one point of Constitution (if this raises Constitution above 18, the character's hit points are increased by 1 per level). All characters are cured of disease, insanity, feeblemindedness, and any curses. The characters with the highest Wisdom and Intelligence in the party each gain one point in their respective abilities (if this raises the ability above 18, the character gains a +1 to all appropriate checks). All characters have their alignment shifted one place toward Lawful Good (a Chaotic Evil character becomes Chaotic Neutral, a Neutral Evil character becomes Neutral, etc.). All characters receive the benefits of an atonement spell. The party receives one minor Lawful artifact, to be determined by the DM.
+
+The Lawful gods depart, and you are returned to the corridor outside the room. The door seals seamlessly behind you, and cannot

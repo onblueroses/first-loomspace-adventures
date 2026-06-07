@@ -1,0 +1,22 @@
+ "As the number of theorems proved grows, the
+probability that the formal system is consistent diminishes. Therefore,
+the probability that the formal system is consistent is zero. Hence,
+the formal system is inconsistent." [end of quote]
+
+The argument seems to be that the probability of consistency tends to
+zero as the number of proved theorems increases. But how do we know
+that? And even if the probability of consistency is zero, does that
+imply inconsistency? For example, consider a real number chosen at
+random in the unit interval. With probability one, it is irrational.
+Does that imply that it is necessarily irrational? No, it could be
+rational, but with probability zero.
+
+So the argument is faulty. But what about the conclusion? Can an
+axiom system be consistent and complete? The answer is yes, provided
+that the system is not too strong. For example, Presburger arithmetic
+and Tarski's elementary geometry are both consistent and complete.
+But these systems cannot define the set of natural numbers. If a
+system can define the set of natural numbers, then it cannot be both
+consistent and complete. This is Gödel's first incompleteness theorem.
+
+But can a consistent system prove its own consistency

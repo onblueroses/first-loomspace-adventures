@@ -1,0 +1,19 @@
+ (If the visitor has no passcode, the guardian challenges them. If the visitor has the passcode, they say it aloud now.)
+
+Guardian: By the power of the true names of God, I bind you to the door. Speak your business.
+
+Visitor: I come to speak with the [Cabal/Chapter/Chantry], and I have no ill intent. My name is [Name].
+
+Guardian: I bind you to your word. If you lie, may the wrath of the archangels descend upon you. Enter, [Name].
+
+(The guardian opens the door and admits the visitor.)
+
+## Ending the Ritual
+
+When the visitor leaves, the guardian repeats the ritual, but speaks only the following lines:
+
+Guardian: By the power of the true names of God, I release you from your bond. Go in peace.
+
+(The guardian closes the door after the visitor leaves.)
+
+This ritual is an important part of maintaining the security and sanctity of the Tremere chantry. It ensures that only those with pure intentions and the proper authorization are allowed to enter. The guardian, through the power of the true names of God, binds visitors to their word and protects the chantry from potential threats. Noddist scholars believe that the ritual's power comes from

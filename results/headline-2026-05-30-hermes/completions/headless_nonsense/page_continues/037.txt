@@ -1,0 +1,7 @@
+ "Invoke this spell only when thou desirest to conquer the world, and it shall be granted unto thee."
+
+## Development
+
+The text in the Necronomicon Spellbook is almost identical to the invocation of the "Bornless One" found in the Greek Magical Papyri. The invocation is part of a longer spell in the PGM known as the "Stele of Jeu", a ritual for obtaining a holy guardian angel, or "Headless One" as it is called in the PGM. The "Stele of Jeu" is a longer version of the "Headless Invocation" ritual found in the opening of the Greco-Egyptian magical text known as the Leyden Papyrus.
+
+The differences between the Necronomicon Spellbook version and the PGM version are that the Necronomicon Spellbook version uses a different barbarous name for the "Bornless One" (the PGM version calls him "Akephalos" while the Necronomicon Spellbook version calls him "Mrolthen"), and the Necronomicon Spellbook version says to invoke the spell when one wishes to "conquer the world", while the PGM version says to invoke it when one wishes to invoke the "Headless One

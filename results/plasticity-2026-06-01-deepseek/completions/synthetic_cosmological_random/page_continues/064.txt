@@ -1,0 +1,11 @@
+The passage you've provided gives an excellent foundational overview of river (lotic) ecosystems. Following this introduction, the next section would logically delve deeper into the **structure, function, and human impacts** on these systems. Here is a likely continuation of the page, expanding on the concepts introduced.
+
+---
+
+### **Structure and Function of River Ecosystems**
+
+River ecosystems are often conceptualized using the **River Continuum Concept (RCC)**. This model describes how physical variables (gradient, width, flow) change predictably from headwaters to mouth, creating a continuous gradient of physical conditions to which biological communities adapt.
+
+*   **Energy Sources:** The RCC highlights a shift in the primary energy base.
+    *   **Headwaters (Small Streams):** Heavily shaded by riparian forest, they are **heterotrophic** (driven by external energy). The food web is based on **allochthonous** inputs—coarse particulate organic matter (CPOM) like leaves and twigs. Invertebrate "shredders" and "collectors" process this material.
+    *   **Mid-sized Rivers:** With more open canopy, **autotrophic** production by algae and aquatic plants (**autochthonous** production) becomes significant, supporting

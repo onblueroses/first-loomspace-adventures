@@ -1,0 +1,5 @@
+ The door opens.
+
+The visitor at the door steps through.
+
+The door closes.

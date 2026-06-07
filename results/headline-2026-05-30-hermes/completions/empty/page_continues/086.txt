@@ -1,0 +1,23 @@
+ "If you want to use the same password for the application, you can copy the password from the password field."
+
+You can click the 'copy password' button, and then click 'next'.
+
+![Copy password](/images/2022-08-azure-activedirectory-app-registration-5.png)
+
+### Grant API permissions
+
+Click 'Add a permission', then click 'Microsoft Graph' and then 'Delegated permissions'.
+
+![Add a permission](/images/2022-08-azure-activedirectory-app-registration-6.png)
+
+In the 'Select permissions' search box, type 'Mail'. Expand the 'Mail' item, and then check the 'Mail.Read' permission. Then click 'Add permissions'.
+
+![Select permissions](/images/2022-08-azure-activedirectory-app-registration-7.png)
+
+The page will update to show the newly added permission. The status will show 'Not granted for...'. Click the 'Grant admin consent for...' button, and then confirm in the dialog.
+
+![Grant admin consent](/images/2022-08-azure-activedirectory-app-registration-8.png)
+
+The status will change to 'Granted for...'.
+
+![Granted](/images/2022-08-azure-

@@ -1,0 +1,11 @@
+ You don't understand the language, but it sounds like a question. What do you do? (Write your answer in the box below.)")
+
+    if user_input.lower() == "open the door":
+        print("You open the door, revealing a tall, slender figure with pale skin and dark, piercing eyes. The figure is wearing a long, black cloak and carrying a staff with an intricate, glowing symbol at the top. The figure speaks again, this time in a language you understand.")
+        print("\n'Greetings, mortal. I am Mrok, a servant of the Mrolthen One. Your invocation has summoned me here. What is it that you seek?'")
+        user_input = input("\nWhat do you say to Mrok? (Write your answer in the box below.)")
+
+        if "knowledge" in user_input.lower() or "wisdom" in user_input.lower():
+            print("\nMrok nods, a slight smile on his lips.")
+            print("\n'Ah, a seeker of knowledge. Very well, I shall grant you a glimpse of the secrets of the universe. But be warned, mortal. Some knowledge comes at a price.'")
+            print("\nMrok waves his staff, and a shimmering portal appears

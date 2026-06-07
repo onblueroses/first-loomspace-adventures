@@ -1,0 +1,35 @@
+ (Enter 1 for a Knight, 2 for a Wizard, or 3 for a Thief): 2
+A Wizard enters the room.
+
+There are 2 creatures in the room.
+A Wizard
+A Knight
+
+What enters the room now. (Enter 1 for a Knight, 2 for a Wizard, or 3 for a Thief): 3
+A Thief enters the room.
+
+There are 3 creatures in the room.
+A Wizard
+A Knight
+A Thief
+
+What enters the room now. (Enter 1 for a Knight, 2 for a Wizard, or 3 for a Thief): 4
+Invalid input. Please enter a number between 1 and 3.
+
+What enters the room now. (Enter 1 for a Knight, 2 for a Wizard, or 3 for a Thief): 1
+A Knight enters the room.
+
+There are 4 creatures in the room.
+A Wizard
+A Knight
+A Thief
+A Knight
+
+What enters the room now. (Enter 1 for a Knight, 2 for a Wizard, or 3 for a Thief): 2
+A Wizard enters the room.
+
+There are 5 creatures in the room.
+A Wizard
+A Knight
+A Thief
+A Knight

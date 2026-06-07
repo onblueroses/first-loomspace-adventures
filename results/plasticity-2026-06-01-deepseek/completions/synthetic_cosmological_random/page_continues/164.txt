@@ -1,0 +1,11 @@
+This is an excellent and clear overview of river ecosystem structure and function. The text you've provided outlines the core principles of lotic ecology, moving logically from the defining characteristics to the longitudinal changes along a river's course.
+
+Here’s a breakdown of the key concepts presented, followed by what the "page continued" likely discusses:
+
+### Summary of the Provided Text:
+
+1.  **Definition & Distinction:** Rivers are **lotic** (flowing) ecosystems, defined by unidirectional flow, which differentiates them from **lentic** (still water) systems.
+2.  **Controlling Factors:** A river's character is shaped by its **catchment (watershed), climate, geology, and gradient**.
+3.  **Longitudinal Zonation (The River Continuum):** The text describes how physical and biological conditions change from source to mouth:
+    *   **Headwaters (Upper Reaches):** Cold, fast, high oxygen. Food web based on **allochthonous** inputs (leaf litter). Inhabited by specialized insects (e.g., stoneflies) and cold-water fish (e.g., trout).
+    *   **Middle & Lower Reaches:** Warmer, slower, finer sediments. Food web shifts to **

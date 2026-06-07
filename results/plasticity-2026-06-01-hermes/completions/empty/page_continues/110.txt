@@ -1,0 +1,7 @@
+ "This is a real number, and it's greater than 0, but it's less than any positive number, so it's an infinitesimal number. In fact, it's the greatest lower bound of all the positive numbers. Cantor studied this number and its properties, and he named it epsilon-zero. He also proved that epsilon-zero is uncountable, meaning that it's somehow bigger than the set of all natural numbers."
+
+The page is written in a way that suggests that it's talking about a single, specific, real number. But no real number could have the properties that are described here. There is no real number that is greater than zero but less than every positive number. If you have a real number that's greater than zero, then you can always find a smaller positive real number by dividing it by two. If you have a real number that's less than every positive number, then it must be less than or equal to zero.
+
+I think the author of the page is trying to describe the idea of an infinitesimal number, but he's doing it in a way that's mathematically incorrect. Infinitesimal numbers are not real numbers, and they don't have the properties that the author is describing.
+
+The page also mentions Cantor and

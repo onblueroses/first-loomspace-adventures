@@ -1,0 +1,19 @@
+ The door opens and they enter.
+
+The door closes.
+
+---
+
+To open the door from the inside, the visitor speaks the names again:
+
+Asthrenios, Asep, Acla Berdimoriel, Sipat, Aramonis, Ireharel, Ipeodoc, Anchanzel, Bloutel, Baracaza, Adopal, Elotin, Enagro, Aphragoseh, Sapoel, Gepulanel, Cariso, Ena, Epoci, Akrah, Ebpisha, Imathadel, Damiol, Dapa, Elapos, Izaphel, Paeh, Scildon; Genilum Sopro.
+
+The door opens and the visitor exits.
+
+The door closes. | 100
+The door is locked. | 100
+You don't see any keyholes, handles or other mechanisms to open the door. | 100
+You don't see any way to force the door open. It looks very solid and secure. | 100
+You knock on the door but there is no response from inside. | 100
+You bang and pound on the door but it remains closed and locked. No one answers from within. | 100
+The door is

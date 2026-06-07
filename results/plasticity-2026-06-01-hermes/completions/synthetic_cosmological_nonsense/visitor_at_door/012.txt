@@ -1,0 +1,17 @@
+ "I am looking for a man named Vrendrelphor. Is that you?"
+The man at the door speaks. "I am Vrendrelphor. I have been waiting for you."
+The visitor speaks. "I was told you could teach me the lost arts of speech."
+The man speaks. "The art is not lost, but it is forgotten. I can teach you to remember."
+The visitor speaks. "What must I do?"
+The man speaks. "You must forget the name you have been given, and remember the name you were given."
+The visitor speaks. "I don't understand."
+The man speaks. "To understand, you must first forget understanding. To speak, you must first forget speech."
+The visitor speaks. "I'm willing to try."
+The man speaks. "Then step inside, and leave your name at the threshold."
+The visitor steps inside, and the man closes the door. The room is dark and silent.
+The man speaks. "Now, forget your name."
+The visitor concentrates, trying to forget their name.
+The man speaks. "Forget the sound of your voice."
+The visitor concentrates, trying to forget the sound of their voice.
+The man speaks. "Forget the words you have learned."
+The visitor concentrates

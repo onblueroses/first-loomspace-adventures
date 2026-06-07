@@ -1,0 +1,9 @@
+ "When you see a problem like this, don't let the words and all the "stuff" get in the way. Look for and focus on the underlying patterns, and ignore the rest."
+
+The underlying pattern is the triangular numbers. The triangular numbers are 1, 3, 6, 10, 15, 21, 28, 36, 45, 55,... The formula for the nth triangular number is n(n+1)/2.
+
+To solve the problem, we need to find the value of n such that n(n+1)/2 = 55. Multiplying both sides by 2, we get n(n+1) = 110. This is a quadratic equation, which we can solve by factoring: n^2 + n - 110 = 0. The factors of 110 are 1, 2, 5, 10, 11, 22, 55, and 110. The pair of factors that add up to 1 are 10 and 11. So, n = 10.
+
+Therefore, the answer is 10.
+
+This problem demonstrates the importance of recognizing patterns and using them to simplify complex problems. By identifying the underlying pattern of triangular numbers, we

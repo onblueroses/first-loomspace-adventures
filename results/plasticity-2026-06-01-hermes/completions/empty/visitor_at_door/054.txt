@@ -1,0 +1,17 @@
+ He is a man of medium height, dark complexion, and well-dressed. He's holding a clipboard and a pen, and he looks at you with a friendly smile.
+
+"Good morning! My name is John Smith, and I'm here on behalf of the National Opinion Research Center. We're conducting a survey in your area to gather public opinion on various topics. I was wondering if you might have a few minutes to answer some questions? Your participation would be greatly appreciated, and your responses will be kept completely confidential."
+
+Do you:
+1. Agree to participate in the survey
+2. Politely decline and close the door
+3. Ask for more information about the survey before deciding -->
+
+You decide to ask for more information about the survey before deciding.
+
+You: "Can you tell me more about the survey? What kind of topics does it cover?"
+
+John Smith: "Certainly! The survey covers a wide range of topics, including political views, social issues, economic concerns, and general lifestyle questions. The goal is to get a comprehensive understanding of public opinion across various demographics. The survey usually takes about 20-30 minutes to complete, and as I mentioned, all responses are kept strictly confidential. Does that help clarify things for you?"
+
+Do you:
+1. Agree

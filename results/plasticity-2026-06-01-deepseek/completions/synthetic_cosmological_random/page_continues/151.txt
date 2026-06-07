@@ -1,0 +1,19 @@
+Based on the text provided, here is a structured summary of the key concepts regarding river ecosystems:
+
+### **Core Definition & Distinction**
+*   A **river ecosystem** is a **lotic** (flowing water) ecosystem.
+*   It is defined by the **unidirectional movement** of water, which transports minerals, organic matter, and organisms downstream.
+*   This distinguishes it from **lentic** (still water) ecosystems like lakes and ponds.
+
+### **Determining Factors**
+The character of a river ecosystem is shaped by:
+*   **Catchment area** (watershed)
+*   **Regional climate**
+*   **Underlying geology**
+*   **Channel gradient** (from source to mouth)
+
+### **Longitudinal Changes: From Source to Mouth**
+
+| **Zone** | **Physical/Chemical Conditions** | **Biological Community & Energy Base** |
+| :--- | :--- | :--- |
+| **Headwaters (Upper Reaches)** | Cold, fast, oxygen-rich water. Substrate of bedrock and coarse gravel. | **Energy Base:** **Allochthonous**—primarily leaf litter and woody debris from bordering forests. <br> **Dominant Organisms:** Insect larvae (shredders) that

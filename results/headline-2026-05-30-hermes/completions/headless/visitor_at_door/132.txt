@@ -1,0 +1,63 @@
+ The operator does not reply. The visitor at the door leaves. The operator remains. The operator repeats the invocation.
+
+---
+
+The operator opens the door.
+
+The visitor at the door speaks. The operator replies.
+
+The visitor enters. The door closes.
+
+The visitor speaks. The operator listens.
+
+The visitor is a spirit.
+
+The spirit speaks. The operator listens.
+
+The spirit teaches. The operator learns.
+
+The spirit commands. The operator obeys.
+
+The spirit departs. The operator remains.
+
+The operator closes the door.
+
+The operator opens the door.
+
+The visitor at the door speaks. The operator replies.
+
+The visitor enters. The door closes.
+
+The visitor speaks. The operator listens.
+
+The visitor is a spirit.
+
+The spirit speaks. The operator listens.
+
+The spirit teaches. The operator learns.
+
+The spirit commands. The operator obeys.
+
+The spirit departs. The operator remains.
+
+The operator closes the door.
+
+The operator opens the door.
+
+The visitor at the door speaks. The operator replies.
+
+The visitor enters. The door closes.
+
+The visitor speaks. The operator listens.
+
+The visitor is a spirit.
+
+The spirit speaks. The operator listens.
+
+The spirit teaches. The operator learns.
+
+The spirit commands. The operator obeys.
+
+The spirit departs. The operator remains.
+
+The

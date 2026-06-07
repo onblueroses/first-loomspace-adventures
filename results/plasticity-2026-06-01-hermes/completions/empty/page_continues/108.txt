@@ -1,0 +1,11 @@
+ "The number of samples taken in a 12 month period can be used to calculate the estimated annual average radon concentration by using a special algorithm. This estimate is as accurate as having a continuous working radon detector for the entire year. If the annual average is calculated to be at or above the EPA action level (4 pCi/L), then the homeowner will be notified in writing and provided with a list of radon mitigators."
+
+This claim is suspicious. How could a few samples accurately determine the annual average radon level? The EPA recommends measuring radon levels for at least 48 hours, and ideally longer. The radon concentration in a home varies over time, and the EPA even recommends doing a short-term and long-term test because of these fluctuations. A few samples does not seem like a reliable way to determine the annual average.
+
+To test this claim, I will simulate radon measurements and determine how well the algorithm estimates the annual average.
+
+# Simulating Radon Measurements
+
+The radon level in a home varies due to many factors. The radon level could be affected by the home's design and air flow, as well as outside conditions like temperature, wind, and precipitation. There are also random fluctuations in radon levels.
+
+I will model the rad

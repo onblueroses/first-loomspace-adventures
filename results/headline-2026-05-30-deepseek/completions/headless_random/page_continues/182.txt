@@ -1,0 +1,12 @@
+The summary you've provided offers a solid overview of plate tectonics. To build on that, here are some key implications and modern understandings that stem from this foundational theory:
+
+### **Key Consequences & Mechanisms**
+*   **Driving Forces:** While mantle convection is a primary driver, the motion is also significantly aided by **slab pull** (the sinking of dense, subducting oceanic plates) and **ridge push** (the gravitational sliding of plates away from elevated mid-ocean ridges). Slab pull is now considered the dominant force.
+*   **Supercontinent Cycle:** Plate tectonics operates in a cyclical pattern known as the **Wilson Cycle**. It describes the repeated opening and closing of ocean basins, leading to the assembly and breakup of supercontinents over hundreds of millions of years (e.g., Pangaea, Rodinia).
+*   **Life & Climate:** Plate movements profoundly influence Earth's environment by:
+    *   Creating new landforms and barriers that drive evolution and biodiversity.
+    *   Modifying ocean currents and atmospheric circulation patterns, affecting global climate.
+    *   Regulating the long-term carbon cycle through volcanic outgassing and the weathering of silicate rocks, which acts as a planetary thermostat.
+
+### **Modern Context & Frontiers**
+*   **Technology &

@@ -1,0 +1,75 @@
+ He says:
+
+“I am Nerkoma, the guardian of the gate.”
+
+The magician speaks:
+
+“O Nerkoma, open the gate.”
+
+The visitor speaks:
+
+“Who art thou?”
+
+The magician answers:
+
+“I am the Dweller of the Temple.”
+
+The visitor speaks:
+
+“What is the secret of the gate?”
+
+The magician speaks:
+
+“The secret of the gate is the Ancient Word.”
+
+The visitor speaks:
+
+“What is the Ancient Word?”
+
+The magician answers:
+
+“The Ancient Word is Algar.”
+
+The visitor speaks:
+
+“What is Algar?”
+
+The magician answers:
+
+“Algar is the Ancient Word.”
+
+The visitor speaks:
+
+“Enter.”
+
+The magician enters the gate and says:
+
+“The way is opened.”
+
+The magician now says:
+
+“O Nerkoma, the guardian of the gate, I thank you.”
+
+The visitor answers:
+
+“You are welcome.”
+
+The visitor at the door vanishes.
+
+The magician says:
+
+“The gate is closed.”
+
+The magician now says:
+
+“I have entered the gate of the West.”
+
+The magician now says:
+
+“The ritual is ended.”
+
+# Ritual of the Gate of the North
+
+The magician stands in the center of the Temple. He says:
+
+“

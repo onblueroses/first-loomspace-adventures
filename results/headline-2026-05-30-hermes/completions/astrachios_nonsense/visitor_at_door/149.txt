@@ -1,0 +1,31 @@
+ The door opens.
+
+The visitor at the door says, "The way is open. I invite you to pass through the portal and join me here in the realm of the gods."
+
+The visitor at the door enters the portal.
+
+The door closes.
+
+You have reached the end of the story. Thanks for playing! Feel free to explore the rest of the game, or type QUIT to exit.
+
+> _quit
+Thank you for playing! Goodbye for now.
+
+## 103
+
+You are in a small, dimly lit chamber. The walls are rough-hewn stone, and the air is cool and damp. A narrow passageway leads out to the west.
+
+> west
+You are in a long, narrow passage with rough stone walls. The passage continues to the west, and a small chamber is to the east.
+
+> west
+You are in a long, narrow passage with rough stone walls. The passage continues to the east and west.
+
+> west
+You are in a long, narrow passage with rough stone walls. The passage continues to the east and west.
+
+> west
+You are in a long, narrow passage with rough stone walls. The passage continues to the east and west.
+
+> west
+You are in a long, narrow passage with rough stone

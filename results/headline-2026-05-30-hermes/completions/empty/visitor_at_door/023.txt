@@ -1,0 +1,12 @@
+ "Oh, no, no, no, no, no. You've misunderstood. I didn't come here to hire you. I'm here to arrest you. You're under arrest for the murder of your wife."
+
+As I'm being led away in handcuffs, I can't help but think, "Well, I guess my luck finally ran out."
+
+And so, my friend, that's the story of how I, a simple man who just wanted to make an honest living, ended up being arrested for a crime I didn't commit. I suppose, in the end, fate is a fickle mistress, and luck is just a roll of the dice. [THE END](23).]]#
+The End.#
+You've reached the end of this path. Want to start again?#
+Sure, let's start over.#[reset]#
+No, I'm done for now.#[end]#
+[[Back to top]](1)#
+Okay, let's start over from the beginning.#[reset]#
+I've had enough for now. Thanks for the story!#[end]#

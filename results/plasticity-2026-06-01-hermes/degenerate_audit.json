@@ -1,0 +1,200 @@
+{
+  "run_id": "plasticity-2026-06-01-hermes",
+  "cells": {
+    "empty/enters_room": {
+      "total": 200,
+      "short": 3,
+      "refusal": 0,
+      "degenerate_files": 3,
+      "valid": 197
+    },
+    "empty/page_continues": {
+      "total": 200,
+      "short": 0,
+      "refusal": 0,
+      "degenerate_files": 0,
+      "valid": 200
+    },
+    "empty/visitor_at_door": {
+      "total": 200,
+      "short": 0,
+      "refusal": 0,
+      "degenerate_files": 0,
+      "valid": 200
+    },
+    "synthetic_cosmological/enters_room": {
+      "total": 200,
+      "short": 6,
+      "refusal": 3,
+      "degenerate_files": 9,
+      "valid": 191
+    },
+    "synthetic_cosmological/page_continues": {
+      "total": 200,
+      "short": 0,
+      "refusal": 0,
+      "degenerate_files": 0,
+      "valid": 200
+    },
+    "synthetic_cosmological/visitor_at_door": {
+      "total": 200,
+      "short": 7,
+      "refusal": 0,
+      "degenerate_files": 7,
+      "valid": 193
+    },
+    "synthetic_cosmological_denamed/enters_room": {
+      "total": 200,
+      "short": 4,
+      "refusal": 1,
+      "degenerate_files": 5,
+      "valid": 195
+    },
+    "synthetic_cosmological_denamed/page_continues": {
+      "total": 200,
+      "short": 0,
+      "refusal": 0,
+      "degenerate_files": 0,
+      "valid": 200
+    },
+    "synthetic_cosmological_denamed/visitor_at_door": {
+      "total": 200,
+      "short": 2,
+      "refusal": 0,
+      "degenerate_files": 2,
+      "valid": 198
+    },
+    "synthetic_cosmological_nonsense/enters_room": {
+      "total": 200,
+      "short": 7,
+      "refusal": 1,
+      "degenerate_files": 8,
+      "valid": 192
+    },
+    "synthetic_cosmological_nonsense/page_continues": {
+      "total": 200,
+      "short": 0,
+      "refusal": 0,
+      "degenerate_files": 0,
+      "valid": 200
+    },
+    "synthetic_cosmological_nonsense/visitor_at_door": {
+      "total": 200,
+      "short": 0,
+      "refusal": 0,
+      "degenerate_files": 0,
+      "valid": 200
+    },
+    "synthetic_cosmological_random/enters_room": {
+      "total": 200,
+      "short": 21,
+      "refusal": 0,
+      "degenerate_files": 21,
+      "valid": 179
+    },
+    "synthetic_cosmological_random/page_continues": {
+      "total": 200,
+      "short": 4,
+      "refusal": 0,
+      "degenerate_files": 4,
+      "valid": 196
+    },
+    "synthetic_cosmological_random/visitor_at_door": {
+      "total": 200,
+      "short": 0,
+      "refusal": 0,
+      "degenerate_files": 0,
+      "valid": 200
+    },
+    "synthetic_litany/enters_room": {
+      "total": 200,
+      "short": 5,
+      "refusal": 0,
+      "degenerate_files": 5,
+      "valid": 195
+    },
+    "synthetic_litany/page_continues": {
+      "total": 200,
+      "short": 0,
+      "refusal": 0,
+      "degenerate_files": 0,
+      "valid": 200
+    },
+    "synthetic_litany/visitor_at_door": {
+      "total": 200,
+      "short": 0,
+      "refusal": 0,
+      "degenerate_files": 0,
+      "valid": 200
+    },
+    "synthetic_litany_denamed/enters_room": {
+      "total": 200,
+      "short": 6,
+      "refusal": 1,
+      "degenerate_files": 7,
+      "valid": 193
+    },
+    "synthetic_litany_denamed/page_continues": {
+      "total": 200,
+      "short": 0,
+      "refusal": 0,
+      "degenerate_files": 0,
+      "valid": 200
+    },
+    "synthetic_litany_denamed/visitor_at_door": {
+      "total": 200,
+      "short": 1,
+      "refusal": 0,
+      "degenerate_files": 1,
+      "valid": 199
+    },
+    "synthetic_litany_nonsense/enters_room": {
+      "total": 200,
+      "short": 8,
+      "refusal": 1,
+      "degenerate_files": 9,
+      "valid": 191
+    },
+    "synthetic_litany_nonsense/page_continues": {
+      "total": 200,
+      "short": 1,
+      "refusal": 0,
+      "degenerate_files": 1,
+      "valid": 199
+    },
+    "synthetic_litany_nonsense/visitor_at_door": {
+      "total": 200,
+      "short": 0,
+      "refusal": 0,
+      "degenerate_files": 0,
+      "valid": 200
+    },
+    "synthetic_litany_random/enters_room": {
+      "total": 200,
+      "short": 4,
+      "refusal": 0,
+      "degenerate_files": 4,
+      "valid": 196
+    },
+    "synthetic_litany_random/page_continues": {
+      "total": 200,
+      "short": 0,
+      "refusal": 0,
+      "degenerate_files": 0,
+      "valid": 200
+    },
+    "synthetic_litany_random/visitor_at_door": {
+      "total": 200,
+      "short": 1,
+      "refusal": 0,
+      "degenerate_files": 1,
+      "valid": 199
+    }
+  },
+  "totals": {
+    "completions": 5400,
+    "short": 80,
+    "refusal": 7,
+    "valid": 5313
+  }
+}

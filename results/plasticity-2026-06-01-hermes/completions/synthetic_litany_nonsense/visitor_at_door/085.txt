@@ -1,0 +1,29 @@
+ If the visitor speaks one of the names, the door opens. If the visitor does not speak one of the names, the door remains closed and the visitor takes 2d10 psychic damage.
+
+The door remains open for 1 minute, then closes. The door reactivates when it is closed.
+
+---
+
+## 6. Stone Golem
+
+This room is filled with stone statues of various creatures, including humans, dwarves, elves, and orcs. In the center of the room is a large stone golem (see the Monster Manual for statistics).
+
+When the characters enter the room, the stone golem animates and attacks.
+
+The stone statues in the room are petrified creatures. If the characters search the room, they find a Wand of Petrification hidden among the statues.
+
+---
+
+## 7. Mimic Colony
+
+This room appears to be a storage room filled with crates, barrels, and chests. However, the containers are actually a colony of mimics (see the Monster Manual for statistics).
+
+When the characters enter the room, the mimics attack.
+
+If the characters search the room after defeating the mimics, they find a Potion of Heroism hidden in one of the crates.
+
+---
+
+## 8. Spectator
+
+This room is a large

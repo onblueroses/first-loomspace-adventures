@@ -1,0 +1,11 @@
+This text provides an excellent, concise overview of river (lotic) ecosystems. Following the introduction, the page would logically continue by elaborating on the key concepts and processes mentioned. Here is a plausible continuation, structured under thematic headings:
+
+### **Key Ecological Processes in River Ecosystems**
+
+*   **Nutrient Spiraling:** Due to the unidirectional flow, nutrients like nitrogen and phosphorus are not recycled in a closed loop but are carried downstream while being taken up, used, and released by organisms—a process visualized as a spiral. The length of a spiral (the distance a nutrient atom travels before being reused) is a key measure of ecosystem function.
+*   **River Continuum Concept:** This model describes a predictable change in physical conditions and biological communities from headwaters to mouth. It links the upstream input of coarse organic matter (allochthonous input) to the downstream communities that rely on finer particles and in-stream production (autochthonous input).
+*   **Disturbance and Patch Dynamics:** Rivers are dynamic systems shaped by periodic floods and droughts. These disturbances create a mosaic of habitat patches (e.g., riffles, pools, debris piles) at different stages of recovery, which enhances overall biodiversity.
+
+### **Human Impacts and Conservation**
+
+*   **Altered

@@ -1,0 +1,9 @@
+ "By the power of these names, the way is open." The final page of the spellbook contains a single line of text: "The way is open. Enter and be one with That Which Lies Beyond The Veil."
+
+If the spellbook is taken out of the room, it turns to dust.
+
+#### 10. The Chamber of the Veil
+
+The circular chamber is 30 feet in diameter and 30 feet high. A shaft of pale light descends from the ceiling, illuminating an ornate stone archway carved with strange symbols. The archway stands in the center of the room, unsupported by any other structure. Beyond the archway is a shimmering veil of iridescent light. The veil ripples and swirls like liquid, casting kaleidoscopic patterns on the walls and floor.
+
+If a creature steps through the veil, they are instantly transported to a random location in the Far Realm. The creature must succeed on a DC 20 Wisdom saving throw or take 44 (8d10) psychic damage and gain a random form of short-term madness. Even if the saving throw is successful, the creature takes half damage and gains a random form of long-term madness. The creature can return to the Material Plane only by casting the *

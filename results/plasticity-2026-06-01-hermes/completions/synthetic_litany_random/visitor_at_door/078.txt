@@ -1,0 +1,16 @@
+ He says, "I have been fishing in the sea, and I caught something strange. It's an anglerfish, but it's not like any I've seen before. Its lure glows with a light that seems almost... alive. I brought it here because I thought you might want to study it."
+
+The anglerfish is indeed strange. Its lure pulses with a mesmerizing, almost hypnotic light. As you observe the creature, a sudden realization dawns on you. This is no ordinary fish. This anglerfish harbors a secret - a secret that could change the course of your research, and perhaps even the world.
+
+What do you do? Do you:
+
+1. [Study the anglerfish's lure](#study)
+2. [Release the anglerfish back into the sea](#release)
+3. [Consult your ancient texts](#consult)
+
+<a name="study"></a>
+## Study the Anglerfish's Lure
+
+You decide to study the anglerfish's lure. As you examine it closely, you notice that the light it emits is not constant. It pulses in a rhythmic pattern, almost like a code. You wonder if this could be a form of communication.
+
+You set up your equipment and begin to

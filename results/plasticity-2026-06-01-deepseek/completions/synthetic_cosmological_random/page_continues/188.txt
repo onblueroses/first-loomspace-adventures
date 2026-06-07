@@ -1,0 +1,17 @@
+This text provides a clear and structured overview of river (lotic) ecosystems. Following the introductory definition, it details the progression of a river from source to mouth, explaining the key physical and biological changes at each stage.
+
+Here is a breakdown of the concepts presented, which could serve as a foundation for a diagram or further discussion:
+
+### Core Concepts of the River Ecosystem Description:
+
+**1. Defining Characteristics:**
+*   **Lotic Ecosystem:** Characterized by unidirectional, flowing water.
+*   **Key Transport:** Water, minerals, organic matter, and organisms are constantly moved downstream.
+*   **Controlling Factors:** Catchment area, climate, geology, and channel gradient.
+
+**2. Longitudinal Zonation (From Source to Mouth):**
+
+| River Zone | Physical/Chemical Conditions | Biological Community | Energy Base |
+| :--- | :--- | :--- | :--- |
+| **Headwaters (Upper Reach)** | Cold, high oxygen, fast current, rocky/gravel substrate | Insect larvae (cling to substrates), cold-water predators (e.g., trout) | **Allochthonous:** External organic input (leaf litter, wood) processed by shredders. |
+| **Middle & Lower Reaches** | Warmer, slower, substrate shifts

@@ -1,0 +1,17 @@
+ "If you're using the software as part of an organization or company, you should coordinate with your colleagues so that you all use the same license key."
+
+I don't know how this works if I install the software on a machine with several users. Would I have to install the software separately for each user?
+
+Comment: I'm voting to close this question as off-topic because it is about licensing and not programming.
+
+Answer: The short answer is no, you do not have to install the software separately for each user.
+
+The license key is stored in the user's home directory, in the file `.Rprofile`.  When RStudio starts, it looks for this file and reads the license key from it.  If the file does not exist, RStudio will prompt the user to enter a license key.
+
+If you want all users on the machine to use the same license key, you can create a system-wide `.Rprofile` file in the R installation directory.  For example, on a Linux machine, you could create the file `/usr/lib/R/etc/.Rprofile` and add the following line to it:
+
+\begin{code}
+options(rstudio.license.key = "your_license_key_here")
+\end{code}
+
+This will set the license key for all

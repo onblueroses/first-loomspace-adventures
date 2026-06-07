@@ -1,0 +1,20 @@
+This appears to be a detailed, well-structured summary of river ecosystem dynamics. The text can be logically organized into the following sections for clarity:
+
+### **1. Definition and Distinction**
+*   **Lotic Ecosystem:** Defines a river ecosystem as a flowing-water (lotic) system.
+*   **Key Driver:** Highlights the unidirectional flow of water as the fundamental shaping force.
+*   **Contrast:** Distinguishes it from non-flowing lentic ecosystems (lakes, ponds).
+
+### **2. Determinants of Character**
+Lists the primary physical factors that define any specific river's nature:
+*   Catchment area (watershed)
+*   Regional climate
+*   Underlying geology
+*   Channel gradient
+
+### **3. Longitudinal Zones (From Source to Mouth)**
+Describes how the ecosystem changes along its course:
+*   **Headwaters (Upper Reaches):**
+    *   **Conditions:** Cold, fast, oxygen-rich water; coarse substrate (bedrock, gravel).
+    *   **Biology:** Dominated by insect larvae (adapted to cling); cold-water predators (e.g., trout).
+    *   **Energy Base:** Allochthonous—primarily organic matter from outside (leaf litter, wood) processed by shred

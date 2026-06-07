@@ -1,0 +1,18 @@
+ If the visitor has given the correct response, the door opens.
+
+The door remains open for one minute before closing automatically. The door may be closed earlier by speaking the word "Vrokh" (CLOSE).
+
+If the visitor's response is incorrect in any way, the door does not open. The door does not acknowledge incorrect responses in any way. It will not open for the same visitor for 24 hours, though it will open for a different visitor in the meantime.
+
+Once the door is open, any number of people may pass through in either direction.
+
+The door may be opened from the inside by speaking the word "Vrokh" (CLOSE).
+
+The door may be held open physically, but will close with great force when "Vrokh" is spoken or after one minute, whichever comes first. The door cannot be prevented from closing by normal physical means, and will crush anything in its path.
+
+The door will open and close normally if the correct password is spoken by any voice, living or recorded.
+
+The door will not open if the password is not spoken in the correct language, even if the sounds are correct.
+
+The door will not open if the password is sung, shouted, whispered, or otherwise altered from normal speech, even if the sounds are correct.
+

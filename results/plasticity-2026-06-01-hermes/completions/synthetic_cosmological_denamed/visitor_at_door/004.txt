@@ -1,0 +1,27 @@
+ The visitor says, "I am not the one you expect."
+
+The visitor is invited in. The visitor says, "I am not the one you invited."
+
+The visitor is offered a seat. The visitor says, "I am not the one who sits."
+
+The visitor is offered food. The visitor says, "I am not the one who eats."
+
+The visitor is offered drink. The visitor says, "I am not the one who drinks."
+
+The visitor is offered conversation. The visitor says, "I am not the one who speaks."
+
+The visitor is offered a bed. The visitor says, "I am not the one who sleeps."
+
+The visitor is offered a name. The visitor says, "I am not the one who is named."
+
+The visitor is offered a memory. The visitor says, "I am not the one who remembers."
+
+The visitor is offered a forgetting. The visitor says, "I am not the one who forgets."
+
+The visitor is offered a silence. The visitor says, "I am not the one who is silent."
+
+The visitor is offered a departure. The visitor says, "I am not the one who departs."
+
+The visitor is offered a reflection. The visitor says, "I am not the one who reflects."
+
+The visitor is

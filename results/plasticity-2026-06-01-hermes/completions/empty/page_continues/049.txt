@@ -1,0 +1,13 @@
+ "The concept of the 'Von Neumann Architecture' is predicated on three design factors all sharing the same memory: the CPU, the MU and the MMU."
+
+First, I would like to know what the MU and MMU are. I can't find any other source mentioning them in relation to the Von Neumann Architecture.
+
+Second, wouldn't the instruction set be considered a design factor of the Von Neumann Architecture as well?
+
+Comment: I'm not sure this is a computer *science* question but I'll answer it anyway.
+
+Comment: @DavidRicherby Since Von Neumann is credited with the design of the first computer architecture, I would say that it is absolutely a computer science question. The MU and MMU may not be (and I'm still not sure what they are), but the instruction set definitely is.
+
+Comment: I'm not sure the instruction set would be considered part of the von Neumann architecture. It's more a concept of how the different components of the system are laid out and connected, rather than the specifics of what instructions the processor executes. Just like how saying a house is semi-detached doesn't tell you how many bedrooms it has.
+
+Comment: @DavidRicherby: Actually, I think this question is on

@@ -1,0 +1,9 @@
+ "Anglerfish typically have at least one long filament sprouting from the middle of their heads, termed the illicium. It can move in all directions and emits light from its tip, which serves to attract prey in the darkness of the deep sea. Some anglerfish are pelagic, while others are benthic; some live in the deep sea (e.g., Ceratiidae), while others on the continental shelf (e.g., the frogfishes Antennariidae and the monkfish/goosefish Lophiidae). Pelagic forms are generally laterally compressed, whereas the benthic forms are often extremely dorsoventrally compressed (depressed), often with large upward-pointing mouths."
+
+That's all the background we need to understand the information in the sentence. Now let's analyze the sentence itself:
+
+1. "Deep-sea anglerfish are strange and elusive creatures that are very rarely observed in their natural habitat."
+
+This sentence tells us that anglerfish are unusual and not often seen in the wild. The words "strange," "elusive," and "very rarely observed" emphasize how mysterious and uncommon it is to encounter these fish.
+
+2. "Typically, the only way to see one is to catch it

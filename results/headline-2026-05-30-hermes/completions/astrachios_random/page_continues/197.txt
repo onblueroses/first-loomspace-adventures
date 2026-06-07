@@ -1,0 +1,18 @@
+ "The kakapo is critically endangered; as of February 2020, the total known adult population was 211 living individuals, all of which have been given names."
+
+There are a number of things that could be extracted from this text. One approach would be to extract all of the facts about the kakapo. These could be represented as triples, for example:
+
+- (kakapo, species_of, parrot)
+- (kakapo, native_to, New_Zealand)
+- (kakapo, is, flightless)
+- (kakapo, is, nocturnal)
+- (kakapo, is, ground-dwelling)
+- (kakapo, is, heaviest_parrot)
+- (kakapo, conservation_status, critically_endangered)
+- (kakapo, length, 58_to_64_cm)
+- (kakapo, weight, 0.95_to_4_kg)
+- (kakapo, breeding_system, polygynous)
+- (kakapo, breeding_system, lek)
+- (kakapo, diet, functionally_herbivorous)
+- (kakapo, male_parental_care, none)
+- (kakapo, genus,

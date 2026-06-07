@@ -1,0 +1,17 @@
+ "And they were gone, and with them the secret of their making."
+
+The second-to-last word "Krelphem" is missing from the list of names above. Adding it to the list results in 33 names. The names are divided into three groups of 11 names each, with the first name in each group beginning with "V", the next three with "S", the following six with "K", and the last one with "P".
+
+The names are listed in an 11 by 3 grid:
+
+```
+Vrokthemnar Vrolthemnar Vrendrelth
+Snorth       Sneldrek    Snelthorvak
+Klompronek   Mrolthengek Mrolthumek
+Vronth       Vrendrabmar Vrendrelth
+Sneldrek     Snolthrolm  Snolthemroth
+Klomphreth   Plekriskem  Plendreol
+Vrendrabmar  Vrendrelth  Vrendrelth
+Snolthrolm   Snolthar    Smelthrenak
+Krelphondoth Plendoth    Krelphendoth
+Mrolthengek  Mrolthumek  Klemph

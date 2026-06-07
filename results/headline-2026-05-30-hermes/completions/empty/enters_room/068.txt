@@ -1,0 +1,15 @@
+ So, you can calculate what is the volume of the air that is inside the room now. You can calculate it using the ideal gas law. Right?
+
+So, in the beginning, the volume of the air inside the room was $V_1$. After some time, the volume of the air inside the room is $V_2$. The difference between these two volumes is the volume of the air that has escaped the room. Right?
+
+So, the volume of the air that has escaped the room is $V_1 - V_2$. And you can calculate this volume using the ideal gas law. Right?
+
+So, you have the volume of the air that has escaped the room. And you have the molar volume of air at STP. Right?
+
+So, you can calculate the number of moles of air that has escaped the room by dividing the volume of the air that has escaped the room by the molar volume of air at STP. Right?
+
+So, the number of moles of air that has escaped the room is:
+
+$$n = \frac{V_1 - V_2}{V_m}$$
+
+where $n$ is the number of moles of air that has escaped the room, $V_1$ is

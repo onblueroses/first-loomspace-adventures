@@ -1,0 +1,27 @@
+ He is to state his name and business.
+
+The doorkeeper answers:
+
+"I am he who is set to guard this way. Prepare to show the sign and the token and the word that will allow you to pass. If you cannot, it would be better for you to depart in peace."
+
+The visitor shows the sign, token, and word.
+
+The doorkeeper says:
+
+"You have shown that you know the sign, the token, and the word. Pass, and prepare for the trial of the Three Great Guardians."
+
+The doorkeeper steps aside and allows the visitor to enter.
+
+The doorkeeper then leaves and returns as the Second Guardian. He wears a black mask and holds a sword.
+
+The Second Guardian speaks:
+
+"I am the Second Guardian of the Way. I am the Guardian of the element of fire. My name is written in flame: Ananel, and by this name I guard the way. To pass me, you must show that you know the sign, the token, and the word."
+
+The visitor shows the sign, token, and word.
+
+The Second Guardian says:
+
+"You have shown that you know the sign, the token, and the word. Pass, and prepare for the trial of the Third Guardian."
+
+The Second Guardian steps aside and allows the visitor to approach the

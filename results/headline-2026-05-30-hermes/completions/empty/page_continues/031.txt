@@ -1,0 +1,13 @@
+ "If the line is curved, then the angle of intersection is the angle formed by the tangent to the curve at the point of intersection and the line of the other object."
+
+My question is: is there a universally accepted definition of "angle of intersection" for a curve intersecting a line, or could this be open to interpretation?
+
+Comment: The tangent to the curve at the point of intersection is a line.  So we are back to the intersection of two lines and the angle between them.  So yes, this is a universally accepted definition.
+
+Comment: Thank you. That's what I thought, but I wanted to confirm.
+
+Comment: You should confirm what you think by your own reason.
+
+Answer: Your textbook's definition is indeed the universally accepted definition of the angle between a line and a curve.
+
+In general, if we have two curves $y = f(x)$ and $y = g(x)$ that intersect at a point $P$, the angle of intersection between these two curves is defined as the angle between the tangent lines to the two curves at point $P$. In a way, we can think of this as the "best" approximation of the angle between the curves, since the tangent lines are the "best" linear approximations of the curves at

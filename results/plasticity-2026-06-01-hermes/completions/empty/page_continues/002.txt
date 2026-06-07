@@ -1,0 +1,19 @@
+ "This function works by creating a new connection to the database server. If you use persistent connections, every time you call mysql_connect() with the same parameter values, you will get the same connection identifier. For example, you can iterate over the same MySQL connection like this:"
+
+\begin{code}
+<?php
+
+for ($i = 0; $i < 10; $i++) {
+    $dbh = mysql_connect('localhost', 'username', 'password', true);
+    print_r(mysql_thread_id($dbh));
+    mysql_close($dbh);
+}
+
+?>
+\end{code}
+
+The `true` parameter indicates that the connection should be a persistent one.
+
+Comment: Thanks! But I don't think I want a persistent connection. I want to open a connection, run some queries, then close the connection. Then, when I need to run more queries later, I want to open a new connection, run the queries, then close the new connection. Is this not possible?
+
+Comment: @Nate: That's what you get if you don't use the `true` parameter. However, you shouldn't be closing the connection manually; PHP will handle that for you when your script terminates. If you have a long-running script, then you might

@@ -1,0 +1,14 @@
+ "The idea of the measure of a set is due to Borel. A theory of the measure of point sets was created by Borel and Lebesgue."
+
+The references given are:
+
+- Borel, E., "Leçons sur la théorie des fonctions", Paris, 1898
+- Lebesgue, H., "Leçons sur l'intégration et la recherche des fonctions primitives", Paris, 1904
+
+I don't have access to those texts so I can't confirm how close they come to our modern-day definition. But my guess is that the definition of measure would be close to our modern definition, and the main differences would be in the types of sets that they consider measurable.
+
+There is some more information on the Wikipedia page for Lebesgue measure, which you can probably corroborate with other sources:
+
+https://en.wikipedia.org/wiki/Lebesgue_measure#History
+
+Comment: Although the general concept of measure is certainly due to Borel and Lebesgue, it seems to me that the idea of defining a measure on an algebra or $\sigma$-algebra of sets should be attributed to Fréchet (1915) and Carathéodory (1914). See

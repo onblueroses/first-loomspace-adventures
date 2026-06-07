@@ -1,0 +1,25 @@
+ "I am Mr. Smith. I am here to see Mr. Johnson."
+
+This is an example of direct speech. The visitor's words are quoted exactly as they were spoken, using quotation marks.
+
+### Indirect Speech
+
+The visitor at the door said that he was Mr. Smith and that he was there to see Mr. Johnson.
+
+This is an example of indirect speech. The visitor's words are reported or paraphrased, without using quotation marks.
+
+## Direct Speech
+
+In direct speech, the speaker's words are quoted exactly as they were spoken. Quotation marks are used to indicate the exact words of the speaker. Direct speech is often used in narratives, dialogues, and conversations.
+
+### Rules for Direct Speech
+
+1. Use quotation marks to enclose the speaker's exact words.
+2. Capitalize the first word inside the quotation marks.
+3. Place the reporting verb (e.g., said, asked, replied) outside the quotation marks.
+4. Use a comma to separate the reporting verb from the quotation, unless the quotation is a question or exclamation.
+5. If the quotation is a question or exclamation, use a question mark or exclamation point inside the quotation marks.
+
+### Examples of Direct Speech
+
+1. John said, "I am

@@ -1,0 +1,7 @@
+ "Then shall the Way be opened unto the power of the wielder, and the power shall be his forever. Such is the power of the Riddle of the Way."
+
+The Riddle of the Way is a trap, intended to imprison the unwary. It is a form of the binding spell known as the Imprisonment. To use it, the caster must read the entire riddle aloud, speaking all the names of power in the correct order. This takes a full round to complete.
+
+When the riddle is completed, the target creature must make a DC 23 Will save or be imprisoned. An imprisoned creature shrinks to a tiny mote of light and disappears into a gem on the page. The gem can be any kind of valuable stone, but it must be worth at least 1,000 gp before the spell is cast. As long as the gem and the spellbook are safe, the imprisoned creature cannot escape.
+
+An imprisoned creature is not aware of its state, nor does it age. It effectively exists outside the normal flow of time. The only way to free the creature is to break the gem or cast a freedom spell of the appropriate level at the gem. A wish or miracle spell can also free the creature, of course, but the caster

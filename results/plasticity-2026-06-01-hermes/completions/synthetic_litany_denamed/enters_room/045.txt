@@ -1,0 +1,17 @@
+ Is it human? Is it a beast? Is it something else? The light is dim, the shadows are deep. What comes from the shadows, to the edge of the circle, and then within it?
+
+### 9. The Spirit
+*The spirit speaks.*
+
+#### 9A. The spirit is friendly
+Greetings, magus. I have heard your call, and I have come. I am [insert name], a spirit of [insert domain]. I know many secrets of this world and others. What would you ask of me?
+
+*If the magus asks a question, go to 10. If the magus orders the spirit to do something, go to 11.*
+
+#### 9B. The spirit is neutral
+You have called me here, magus. I am [insert name], a spirit of [insert domain]. The circle binds me, but I am no slave to mortal whims. I will share what knowledge I wish, and no more. Ask, and I may answer.
+
+*If the magus asks a question, go to 10. If the magus orders the spirit to do something, go to 11.*
+
+#### 9C. The spirit is hostile
+Foolish mortal! You dare summon me, [

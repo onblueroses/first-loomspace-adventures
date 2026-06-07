@@ -1,0 +1,7 @@
+ If the name of the visitor is not one of the names that open the way, the door remains sealed. If the visitor speaks one of the names that open the way, the door opens, allowing the visitor to enter.
+
+The visitor is then escorted to the reception chamber, where the visitor will meet with the council of the Glothenkion. The council will listen to the visitor's request or proposal and decide whether to grant it or not.
+
+If the council decides to grant the visitor's request or proposal, they will provide the necessary assistance or resources. If the council decides not to grant the visitor's request or proposal, the visitor will be politely escorted out of the Glothenkion.
+
+Regardless of the outcome, the visitor will be treated with respect and courtesy throughout their visit to the Glothenkion. The Glothenkion values diplomacy and seeks to maintain good relations with all who come to their door.

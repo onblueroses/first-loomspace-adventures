@@ -1,0 +1,13 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+The image below is a map of the Earth's tectonic plates and their boundaries. The arrows indicate the direction of movement of each plate.
+
+[IMAGE]
+
+Figure Caption: Figure 9.11: Earth's tectonic plates and their boundaries.
+
+### Oceanic Crust vs. Continental Crust
+
+Oceanic crust is the thin part of the Earth's lithosphere that underlies the ocean basins. Oceanic crust is primarily composed of mafic rocks, or sima, which is rich in iron and magnesium. It is thinner than continental crust, or sial, generally less than 10 kilometers thick, however it is denser, having a mean density of about 3.0 grams per cubic centimeter.
+
+The crust uppermost layer of the lithosphere of the Earth. It is composed of a variety of igneous, metamorphic, and sedimentary rocks. The crust is underlain by the mantle. The upper part of the mantle is composed mostly of peridotite, a rock denser than rocks common in the overlying crust. The boundary between the crust and mantle is conventionally placed at the Mohorovičić discontinuity, a boundary defined by a contrast in

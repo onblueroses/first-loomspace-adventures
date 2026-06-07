@@ -1,0 +1,19 @@
+ I wish to enter.
+
+The doorkeeper speaks. What do you seek?
+
+The visitor speaks. I seek the mysteries of the Magic of Light.
+
+The doorkeeper speaks. Will you guard them with your life?
+
+The visitor speaks. I will.
+
+The doorkeeper speaks. Will you swear to keep them secret, and never to reveal them to any living being, except it be to a true and proven adept of the Art?
+
+The visitor speaks. I swear it.
+
+The doorkeeper speaks. Then enter, in the name of the great mysteries of the Magic of Light.
+
+The visitor enters, and the doorkeeper closes the door. The doorkeeper and the visitor go to the altar. The doorkeeper stands at the west of the altar, facing east, and the visitor stands at the east of the altar, facing west.
+
+The doorkeeper speaks. Place your right hand on the Book of the Sacred Magic of Abramelin the Mage, and repeat after me: I, (your name), in the presence of the Holy Guardian Angel who watches over the mysteries of the Magic of Light, do solemnly swear to keep secret all the mysteries of the Magic of Light that may be revealed to me, and to guard them with my life. I swear never to reveal them to any living

@@ -1,0 +1,11 @@
+ Say his name, and the gate will open. Speak the wrong name, and the door will remain closed. Speak the name of one who is not present, and the door will close forever. 
+
+## 15
+The door swings open, revealing a small chamber beyond. The walls are covered in intricate bas-relief carvings depicting strange, otherworldly scenes. In the center of the room stands a pedestal, upon which rests a curious device: a complex arrangement of interlocking gears, levers, and crystalline components, all set within a framework of dark, pitted metal.
+
+As you approach the device, you feel a strange sensation, as if the very air around you is charged with an unseen energy. The device seems to hum with an inner power, drawing you closer.
+
+Examine the device more closely. 
+
+## 16
+You step up to the pedestal and lean in to study the strange apparatus. The device is a marvel of engineering, its components fitted together with incredible precision. The gears are made of a material you can't identify, each tooth intricately carved with miniscule, swirling patterns. The levers are fashioned from a dark, glossy substance that seems to absorb light. The crystalline components glitter with an inner fire, casting

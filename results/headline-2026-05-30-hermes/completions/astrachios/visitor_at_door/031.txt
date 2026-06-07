@@ -1,0 +1,27 @@
+]
+Visitor: I am here to learn the art of magic.
+
+[The doorkeeper responds.]
+Doorkeeper: To enter, you must answer three questions three. Speak truly, or forever be barred from entry.
+
+[The visitor nods, ready to answer the doorkeeper's questions.]
+
+Doorkeeper: First, what is it you seek within these walls?
+
+[The visitor replies.]
+Visitor: I seek knowledge and the power to shape my destiny.
+
+[The doorkeeper nods, then asks the second question.]
+Doorkeeper: Second, are you prepared to face the challenges that lie ahead, no matter the cost?
+
+[The visitor answers firmly.]
+Visitor: I am ready to face whatever trials may come, for the rewards are worth any price.
+
+[The doorkeeper poses the final question.]
+Doorkeeper: And last, do you swear to use the knowledge gained within for the betterment of yourself and others, and never for evil or selfish ends?
+
+[The visitor replies solemnly.]
+Visitor: I swear to use the power and knowledge I gain here for good, to help myself and others, and never to harm or deceive.
+
+[The doorkeeper steps aside, allowing the visitor to enter.]
+Doorkeeper: Then enter, seeker of truth, and may

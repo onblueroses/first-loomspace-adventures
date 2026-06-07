@@ -1,0 +1,5 @@
+ If the visitor is a member of the household, the doorkeeper opens the door and greets them with a kiss on the cheek. If the visitor is a stranger, the doorkeeper asks them their name and business. If the doorkeeper is satisfied with their answer, they open the door and greet them with a kiss on the cheek. If the doorkeeper is not satisfied, they close the peephole and say:
+
+The way is closed to you. May you find what you seek elsewhere.
+
+The doorkeeper then returns to their seat. The ritual is complete.

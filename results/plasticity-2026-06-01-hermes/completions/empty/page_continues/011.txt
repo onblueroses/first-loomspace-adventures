@@ -1,0 +1,13 @@
+ "When you enter your password, you’re also automatically logged in to your Google Account. This means that if you have Gmail, Google Keep, or another Google service open, you’re already signed in to your account."
+
+If you are already signed in to your Google account and visit the login page, you will see your account profile picture and a "Manage your Google Account" button. You can click on the button to access your account settings.
+
+If you are not signed in to your Google account and visit the login page, you will see a form to enter your email address and password. Once you enter your credentials and click "Next," you will be signed in to your Google account.
+
+In summary, if you see your account profile picture and the "Manage your Google Account" button on the Google login page, it means you are already signed in to your Google account. If you see a form to enter your email address and password, it means you are not currently signed in and need to enter your credentials to access your account.
+
+The login page also includes links to create a new Google account, recover a forgotten email address or password, and learn more about Google's privacy and terms.
+
+### 2. Google Account Creation
+
+Creating a new Google account is a straightforward process that

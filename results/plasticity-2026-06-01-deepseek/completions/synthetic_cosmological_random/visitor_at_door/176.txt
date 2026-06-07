@@ -1,0 +1,9 @@
+[The voice is calm, measured, and carries a tone of patient authority, like a park ranger or a senior ecologist addressing a new student.]
+
+"Excellent summary. You've captured the core longitudinal model—from the erosional, allochthonous headwaters to the depositional, autochthonous lowlands. It's a classic zonation concept.
+
+But I'd like to push you on one point. You describe the headwater food web as being based on terrestrial leaf litter, processed by shredders. That's correct for many temperate forested streams. However, what about a headwater stream originating in a treeless alpine meadow or a grassland? Or a desert canyon? The energetic base shifts dramatically. In those systems, **periphyton**—the algal film on rocks—and direct inputs of dissolved organic carbon can become paramount. The insect community would be dominated by **grazers**, not shredders.
+
+The model is a powerful template, but the specific **biome** overlays it. The catchment's terrestrial ecology dictates the menu for the river.
+
+Now, a practical question based on your last paragraph about ecosystem health: If you were tasked with a rapid assessment of a river's ecological integrity, what **three physical parameters** would you measure

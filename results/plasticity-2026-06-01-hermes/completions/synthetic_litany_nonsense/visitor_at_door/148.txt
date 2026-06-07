@@ -1,0 +1,23 @@
+ Ask them to state their business and why they should be granted entry. If their purpose is deemed worthy, say:
+
+Your purpose is true, and your heart is strong. Enter, and may you find what you seek within these ancient halls.
+
+If their purpose is not worthy, say:
+
+Your purpose is unclear, and your heart is not true. You shall not pass. Return whence you came, and reflect upon your path.
+
+If the visitor is hostile or attempts to force entry, say:
+
+Foolish mortal! Your insolence shall be your undoing. The guardians of the tomb shall feast upon your flesh, and your bones shall be ground to dust. Begone, and trouble us no more!
+
+If the visitor is an ally or friend, say:
+
+Welcome, friend. Your presence honors us. Enter and be at peace, for you are among allies here.
+
+If the visitor is a known enemy, say:
+
+You! How dare you show your face here? Your crimes against us are unforgiven and unforgotten. Prepare to meet your doom, for you shall not leave this place alive!
+
+If the visitor is a stranger with unknown intentions, say:
+
+Hail, traveler. We know not your face nor your purpose. Speak your intentions plainly, for deception will

@@ -1,0 +1,9 @@
+ "A quantum computer can in principle simulate any quantum system, so the whole subject of physics is open to re-examination."
+
+What does this even mean? Quantum computers are not magical devices. What allows them to simulate other quantum systems? Is there an obvious way to translate the Hamiltonian of a system into a circuit on a quantum computer? Why do we even expect quantum systems to be good at simulating other quantum systems?
+
+I think the main reason people think quantum computers will be faster is simply that the dimension of the Hilbert space of $n$ qubits is $2^n$. So for a quantum system with a large state space, we expect it to take an exponential number of classical bits to simulate it, but it could conceivably be simulated with a number of qubits that grows only linearly with the size of the system.
+
+Is there more to it than this? Is there a general argument for why a quantum system with Hilbert space of dimension $D$ can be simulated with $\log_2 D$ qubits? I'm hoping there's a standard reference that answers these questions at a reasonable level of rigor.
+
+• I think the statement is a reference to the idea that since quantum computers can efficiently simulate quantum systems and any physical system can be described

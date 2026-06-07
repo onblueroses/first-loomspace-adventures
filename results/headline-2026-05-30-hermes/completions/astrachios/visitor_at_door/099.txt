@@ -1,0 +1,16 @@
+ If the visitor is a vampire, the door opens.
+
+### Inside the Crypt
+
+The crypt has 20-foot-high ceilings. The walls are covered in frescos depicting the history of the Amber Temple. The images are faded and worn. The central chamber of the crypt contains a dozen large stone sarcophagi, their lids carved to resemble noble men and women. The lids of ten sarcophagi are askew, the coffins empty. Two remain sealed and untouched.
+
+The sealed sarcophagi contain two of the temple's original guardians:
+
+- **Lars Kjurls** (male human wizard)
+- **Neferon** (male human cleric)
+
+Lars Kjurls is a 9th-level spellcaster with the following spells prepared:
+
+- Cantrips: _[[[spell:mending]]]_, _[[[spell:ray of frost]]]_, _[[[spell:shocking grasp]]]_
+- 1st level (4 slots): _[[[spell:detect magic]]]_, _[[[spell:shield]]]_, _[[[spell:sleep]]]_
+- 2nd level (3 slots): _[[[spell:hold person]]]_, _[[[spell:invisibility]]]_, _[[[

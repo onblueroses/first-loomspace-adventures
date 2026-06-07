@@ -1,0 +1,11 @@
+This text appears to be an excerpt from an educational or scientific source, likely a textbook or an encyclopedia entry, describing the structure and function of river ecosystems.
+
+Here is a breakdown of the key concepts presented, which could serve as a continuation or summary:
+
+### **Key Ecological Concepts and Human Impact**
+
+*   **River Continuum Concept:** The description illustrates this fundamental ecological model, which states that a river's physical conditions (gradient, flow, substrate, temperature) change predictably from source to mouth, creating a continuous gradient of habitats. The biological communities (from insect larvae to fish species) and the base of the food web (from external leaf litter to internal algal production) shift in response along this continuum.
+*   **Energy Sources:** The text highlights the shift in the primary energy source for the food web:
+    1.  **Headwaters:** **Allochthonous** input (organic matter from outside, like leaves).
+    2.  **Mid/Lower Reaches:** Increasing **autochthonous** production (organic matter generated within the river by algae and plants).
+*   **Connectivity:** A healthy river ecosystem is defined by its **longitudinal connectivity** (unimpeded flow from source to sea), **lateral connectivity** (exchange

@@ -1,0 +1,9 @@
+]
+VISITOR: A message from the king, sir. [The visitor holds out a small scroll.]
+[Vrendrelphor takes the scroll, breaks the seal, and reads it. He nods to the visitor, who turns and leaves.]
+VRENDRELPHOR [to himself]: It is as I thought. The king's voice has been stolen by a demon. He cannot speak, and his rule is imperiled. I must journey to the palace and restore his voice.
+[Vrendrelphor gathers some items and places them in a pouch. He takes a staff and walks to the door. Before leaving, he turns and speaks.]
+VRENDRELPHOR: SMOLTHEKRELB. [Vrendrelphor leaves his dwelling and begins his journey to the palace.]
+[Scene 2: Vrendrelphor arrives at the palace and is escorted to the king's chambers. The king sits on his throne, looking distressed.]
+KING [whispering]: Vrendrelphor, thank you for coming. My voice has been stolen by a demon, and I am unable to rule effectively without it.
+VRENDRELPHOR: Your Majesty, I will do all in my power to restore

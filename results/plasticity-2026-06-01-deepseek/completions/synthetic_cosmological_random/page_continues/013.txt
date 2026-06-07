@@ -1,0 +1,11 @@
+The description above provides a strong foundational overview of river ecosystems. Building upon that, here are some additional critical aspects and contemporary contexts:
+
+**Key Ecological Processes and Concepts:**
+
+*   **River Continuum Concept:** This model describes how the physical variables (width, depth, flow, substrate) change predictably from headwaters to mouth, and how the biological community and its energy sources (allochthonous vs. autochthonous) shift in response.
+*   **Nutrient Spiraling:** In flowing water, nutrients like nitrogen and phosphorus are not cycled in a stationary "loop" but are carried downstream while being taken up and released by organisms—a process visualized as a spiral. The length of a spiral (how far a nutrient atom travels before being reused) is a key measure of ecosystem function.
+*   **Flow Disturbance as an Organizing Principle:** Periodic floods and droughts are natural disturbances that reset ecological succession, scour channels, and create habitat heterogeneity (pools, riffles). Many species are adapted to these cycles.
+
+**Human Impacts and Conservation:**
+
+*   **Fragmentation:** Dams are the most significant disruptors of river continuity, blocking sediment transport, fish migration (e.g., salmon, eels), and altering flow and temperature regimes downstream

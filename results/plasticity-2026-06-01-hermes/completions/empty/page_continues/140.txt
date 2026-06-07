@@ -1,0 +1,25 @@
+ "The implication is that the most efficient way to do this is to have a single loop, and use a single array for the Fibonacci sequence. At the end of each iteration, update the array with the next value. This way, you're not recalculating Fibonacci values, and you're modifying the array in place rather than creating a new array at each iteration."
+
+This is exactly what I did. Yet, the page says my solution is wrong. Here is my solution:
+
+\begin{code}
+function sumFibs(num) {
+  let fib = [1, 1];
+  let sum = 0;
+
+  for (let i = 2; fib[i-1] <= num; i++) {
+    fib[i] = fib[i-1] + fib[i-2];
+    if (fib[i] % 2!== 0) {
+      sum += fib[i];
+    }
+  }
+
+  return sum + 2;
+}
+
+sumFibs(10);
+\end{code}
+
+I even added 2 to the sum because the for loop starts at i = 2, thus not counting the first two odd numbers in the Fibonacci sequence. I don't understand what I'm doing wrong.
+
+Comment: Have you tried debugging your code? [

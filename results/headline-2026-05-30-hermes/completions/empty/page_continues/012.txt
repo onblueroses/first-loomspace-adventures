@@ -1,0 +1,9 @@
+ "If a page is in the working set, it is normally loaded in physical memory. However, the operating system can remove a page from physical memory (and write it to disk if it is dirty) if the working set is over a threshold size and the page has not been accessed recently."
+
+The implication is that if a page is in the working set, it is normally in memory, but it may not be. The page may have been written to disk. This implies that the working set is not necessarily the set of pages in memory. The working set is the set of pages that the process has recently accessed.
+
+If the working set is the set of pages the process has recently accessed, and the system removes a page from physical memory if it has not been accessed recently, then the working set is not necessarily the set of pages in memory. The working set is the set of pages that the process has recently accessed, regardless of whether they are in memory or on disk.
+
+The working set is the set of pages that the process has recently accessed, regardless of whether they are in memory or on disk. The set of pages in memory is the resident set. The working set is a superset of the resident set.
+
+The working set is the set of pages that the process

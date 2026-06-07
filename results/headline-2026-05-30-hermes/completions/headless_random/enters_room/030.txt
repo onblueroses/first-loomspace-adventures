@@ -1,0 +1,17 @@
+ (turn around and face the door)
+
+The Earth's layered structure. (1) inner core; (2) outer core; (3) lower mantle; (4) upper mantle; (5) lithosphere; (6) crust
+
+The main features of plate tectonics are:
+
+1. The Earth's surface is covered by a series of crustal plates.
+2. The plates are composed of oceanic lithosphere and thicker continental lithosphere, each topped by its own kind of crust.
+3. The plates are not fixed but are in constant motion relative to each other and the Earth's surface.
+4. The plates are rigid and deform very little.
+5. Deformation occurs at the plate boundaries.
+6. The boundaries between plates are of three kinds: convergent, divergent, and transform.
+7. New oceanic crust is formed at the divergent boundaries by seafloor spreading.
+8. Oceanic crust is recycled back into the mantle at some convergent boundaries by subduction.
+9. The motion of the plates is driven by convection currents in the mantle.
+
+The modern theory of plate tectonics has evolved from an earlier theory, continental drift, and has become the accepted explanation for the formation of most of the Earth's geological

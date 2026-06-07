@@ -1,0 +1,15 @@
+ Say the words that open the way:
+
+"Othar, Othar, Vrelth, Meron, Onthor, Vrelth, Meron, Othar, Othar. The way is open."
+
+If the words are spoken correctly, the door opens, revealing the room beyond. If the words are spoken incorrectly, the door remains closed, and the face speaks again:
+
+"Othar, Othar, Vrelth, Meron, Onthor, Vrelth, Meron, Othar, Othar. The way is closed."
+
+The door remains closed until the correct phrase is spoken. If the characters attempt to force the door open, it resists all attempts to open it or destroy it. 
+
+The Face of the Moon is a manifestation of the Moon's power, and it cannot be harmed or altered by any means available to the characters. If the characters attack it, it simply vanishes, and the door becomes a normal door that can be opened or destroyed normally.
+
+### 3. The Moonlit Room
+
+Beyond the door is a circular room with a domed ceiling. The room is lit by a soft, silvery light that seems to emanate from the walls and ceiling. The

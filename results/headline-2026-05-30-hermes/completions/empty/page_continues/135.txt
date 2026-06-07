@@ -1,0 +1,7 @@
+ "You have made an effort to obtain a single sample. In fact, you have obtained a single sample, but a sample of what? It is not a sample of the kind of world you are interested in. It is a sample of the kind of world that would be produced by whatever rules you picked plus the fact that you exist."
+
+The last sentence seems to be a kind of converse of the anthropic principle. The anthropic principle says that the rules of any world we observe are constrained by the requirement that they must allow our existence. The converse, which we might call the "anthropic fallacy", says that any world we imagine must be constrained by the requirement that it could be produced by rules which allow our existence.
+
+This seems to be a non sequitur. The way I would approach a question like "what if the speed of light were different" would be to hold constant the physical rules of our world, change the speed of light, and try to figure out the consequences. This seems to be the approach Eliezer is advocating in the next paragraph, where he says "Imagine the world as it might be, and then think about what kind of rules might have produced it."
+
+So, what is the purpose of the page? Is it meant to illustrate

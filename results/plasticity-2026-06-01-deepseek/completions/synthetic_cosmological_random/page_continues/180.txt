@@ -1,0 +1,18 @@
+Based on the provided text, here is a summary of the key characteristics of river ecosystems, structured according to their progression from source to mouth:
+
+### **Defining Feature: Lotic Ecosystems**
+Rivers are defined by the **unidirectional flow of water**, which continuously transports water, minerals, organic matter, and organisms downstream. This distinguishes them from still-water (lentic) ecosystems.
+
+### **Key Determining Factors**
+A river's character is shaped by its:
+*   **Catchment area**
+*   **Regional climate**
+*   **Underlying geology**
+*   **Channel gradient**
+
+### **Zonation from Source to Mouth**
+
+| River Zone | Physical/Chemical Conditions | Biological Community & Energy Base |
+| :--- | :--- | :--- |
+| **Headwaters (Upper Reaches)** | Cold, fast, oxygen-rich water over bedrock/gravel. | **Dominant Organisms:** Insect larvae (cling to substrates), cold-water fish (e.g., trout). <br> **Energy Base:** **Allochthonous**—primarily leaf litter and woody debris from bordering forests, processed by shredder invertebrates. |
+| **Middle & Lower Reaches** | Water slows, widens, and warms. Substrate shifts to

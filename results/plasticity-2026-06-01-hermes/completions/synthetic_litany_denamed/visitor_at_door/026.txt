@@ -1,0 +1,13 @@
+  Let the way be open, and let the visitor pass.
+
+Visitor: May I enter?
+
+Guardian: You may enter.  The way is open.
+
+The Guardian returns the sword to the sheath, and steps back.  The visitor enters, and the Guardian follows, closing the door.  The Guardian then proceeds to lead the visitor to the room of the ritual, whatever it may be.  Once there, the Guardian announces the visitor.
+
+Guardian: Throbenas, Maraith, Queloman, Iston, Kerudin, Astrolach, Volmuroth, Drabosaim, Olemproam, Cresilim, Bidremael, Octorum, Saphronoth, Yodulim, Iethreon, Marzabet, Caloneph, Theamorach, Belindath, Glomareth, Senaberoth, Hialop, Trifenath, Olemar, Vesporath, Khalepith, Estramon; Brashveroth, Lominem Adventu.
+
+The visitor has arrived.
+
+The Guardian then waits for the ritual leader to give further instructions.  When the ritual is complete and the visitor is ready to depart, the Guardian leads them back to

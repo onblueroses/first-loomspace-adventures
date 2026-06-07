@@ -1,0 +1,10 @@
+ “Rivers are characterized by strong one-way physical and chemical gradients, such as temperature, dissolved oxygen, and sediment load, from their headwaters to their mouths. These gradients frame the ecosystem structure of rivers and are shaped by complex interactions among the atmosphere, geology, and terrestrial and aquatic biota.” ^{8} The page then describes the longitudinal profiles of rivers, the floodplain, and the temporal patterns of river ecosystems.
+
+In a similar way, the entry “River” in the Encyclopedia Britannica begins with the following definition: “River, (ultimately from Latin ripa, ‘bank’), any natural stream of water that flows in a channel with defined banks. Modern usage includes rivers that are multichanneled, intermittent, or ephemeral in flow and channels that are practically bankless. The concept of channeled surface flow, however, remains central to the definition.” ^{9} The entry continues by discussing the geometry of river channels, the shaping of river channels, and the evolution of channels and drainage networks.
+
+### The Fundamental Questions
+
+The fundamental questions that a theory of rivers should aim to answer are the following:
+
+  1. 1. What is a river system and how can it be defined?
+  2. 2. What

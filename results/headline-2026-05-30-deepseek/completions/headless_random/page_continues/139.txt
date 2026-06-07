@@ -1,0 +1,12 @@
+This is an excellent and accurate summary of plate tectonics. The text covers the core components of the theory concisely. Building on what you've provided, here are some key elaborations and implications:
+
+### Key Concepts Implied or Extended from Your Text:
+
+1.  **Driving Forces:** While convection currents in the mantle are a primary driver, the motion is also powered by **ridge push** (the gravitational sliding of plates away from the elevated mid-ocean ridges) and **slab pull** (the gravitational pull of a dense, subducting oceanic plate sinking into the mantle, which is considered the most significant force).
+
+2.  **Types of Crust:**
+    *   **Oceanic Crust:** Thin (~5-10 km), dense (basaltic), young (always <~200 million years old), and continuously recycled by subduction.
+    *   **Continental Crust:** Thick (~30-50 km), less dense (granitic), old (up to 4 billion years), and buoyant, so it is not easily subducted. This is why continents are permanent features, though they rift and collide.
+
+3.  **Plate Boundary Details:**
+    *   **Divergent:** Creates new lithosphere

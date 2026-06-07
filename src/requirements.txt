@@ -1,0 +1,8 @@
+httpx>=0.27
+python-dotenv>=1.0
+pyyaml>=6.0
+# M1 embedding-shape analysis (src/embed_shape.py)
+sentence-transformers>=5.5
+# Plasticity probe collision gate (per spec Decision #12)
+phonetics>=1.0
+Levenshtein>=0.27

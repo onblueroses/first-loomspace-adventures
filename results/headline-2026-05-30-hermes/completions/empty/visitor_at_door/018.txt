@@ -1,0 +1,7 @@
+ The homeowner says, “I’m just about to make a fresh pot of coffee. Would you like to join me for a cup?” The visitor says, “Yes, I’d love to, thank you.” The homeowner says, “Great, come on in.” The visitor says, “Oh, wait, I forgot something in my car. I’ll be right back.” The homeowner says, “Okay, I’ll start the coffee.” The visitor returns with a small gift and says, “I brought you a little something to say thank you for the coffee.” The homeowner says, “Oh, that’s so thoughtful of you! You didn’t have to do that.” The visitor says, “It’s my pleasure. It’s a small token of my appreciation.”
+
+Question: What does the visitor bring back from their car?
+
+Answer: A small gift. The visitor brings back a small gift from their car to give to the homeowner as a token of appreciation for the coffee. Question: What does the homeowner say when the visitor offers the gift?
+
+Answer: The homeowner says, "Oh, that's so thoughtful of you! You didn't have to do that." This shows the homeowner's surprise and appreciation for the visitor's kind gesture. Question: Why does the visitor go

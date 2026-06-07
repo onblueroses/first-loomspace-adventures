@@ -1,0 +1,5 @@
+ "This class provides a simple interface for performing the most common SAX2 tasks: creating various readers (XMLReader, XMLFilter, ContentHandler), setting and querying features and properties, and parsing documents. It encapsulates knowledge of the various underlying parsers, their options, and their limitations, providing a single, standard way to interact with any SAX2 parser."
+
+Answer: You need to define a class that implements the `ContentHandler` interface, and pass an instance of it to `XMLReader.setContentHandler`.  This will define a listener that gets notified of SAX events as the document is parsed.
+
+You can find an example in [this tutorial](http://www.saxproject.org/quickstart.html).

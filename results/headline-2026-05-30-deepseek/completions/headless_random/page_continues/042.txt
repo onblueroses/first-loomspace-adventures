@@ -1,0 +1,9 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+Plate Tectonics
+
+Tectonic plates are able to move because the Earth's lithosphere has greater mechanical strength than the underlying asthenosphere. Lateral density variations in the mantle result in convection currents, the slow creeping motion of Earth's solid mantle. At a seafloor spreading ridge, plates move away from the ridge, which is a topographic high, and the newly-formed crust cools as it moves away, increasing its density and contributing to the motion.
+
+In 1993, J. Marvin Herndon proposed a controversial theory that the inner core is a nuclear fission reactor. Herndon postulated that uranium accumulated in the core as the Earth formed, eventually reaching critical mass and starting a chain reaction. This reaction produces the heat necessary to drive convection in the outer core, which in turn generates the Earth's magnetic field via the geodynamo process.
+
+Herndon's theory challenges the widely accepted model of core heat generation through the gradual cooling and solidification of the Earth from its initial molten state. While intriguing, his hypothesis faces significant challenges, including the difficulty of accumulating sufficient fissile material in the core and the lack of direct evidence for ongoing nuclear reactions. Most geophysicists continue to favor the conventional model of primordial

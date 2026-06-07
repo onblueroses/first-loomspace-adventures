@@ -1,0 +1,14 @@
+ "I am a friend of the master of this house. I come to him in his hour of need. Let me pass!"
+
+A sound of thunder fills the chamber, and the great stone door grinds open. The way is now open.
+
+### 21. The Chamber of the Spheres
+
+In the center of this circular chamber, twelve feet in diameter, is a circular stone dais, six feet across, which supports three spheres of crystal. These spheres are about one foot in diameter and seem to contain swirling mist. A stone archway in the south wall leads to the Chamber of the Pillars.
+
+The spheres contain powerful elementals. When a character touches a sphere, the elemental within is released. The elementals attack immediately and fight until destroyed or banished. If the characters have the proper item, they can use it to control the elemental (see area 24). The spheres reform one hour after the elementals are released.
+
+The spheres contain the following elementals:
+
+1. **Air Elemental:** AC 2, HD 8, hp 36, MV 360' (120'), #AT 1, Dmg 1-28, Save F8, ML 11
+2. **Fire Elemental:** AC 2, HD 8

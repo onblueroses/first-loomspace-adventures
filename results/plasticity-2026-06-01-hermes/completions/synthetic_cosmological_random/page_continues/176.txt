@@ -1,0 +1,15 @@
+ "Headwater streams are small, narrow, and steep. The fast-moving water carves channels through rocky substrates, forming riffles and pools. The uppermost streams may be ephemeral, only carrying water during snowmelt or precipitation. The biological community is dominated by benthic invertebrates, primarily aquatic insects. These include larvae of Ephemeroptera (mayflies), Plecoptera (stoneflies), and Trichoptera (caddisflies), collectively known as EPT taxa, which are considered indicator species for a healthy stream. Cold-water fish such as trout may occupy headwater reaches. Leaf litter and woody debris from the riparian zone provide the energetic base of the food web, with shredder invertebrates breaking down coarse particulate organic matter and grazing invertebrates consuming periphyton coating the substrate."
+
+### Subsections
+
+Subsections are a mix of topics that provide more detail or cover related or subtopics. For example, the "Headwater streams" subsection of "River ecosystem" is followed by these subsections:
+
+* Middle reaches
+* Lower reaches
+* Floodplains
+* Estuaries
+* Ecosystem health
+
+### Bibliography
+
+The "Bibliography" section contains all references cited in the

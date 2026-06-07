@@ -1,0 +1,11 @@
+Based on the provided text, here is a summary of the key concepts of plate tectonics:
+
+*   **Core Idea:** The Earth's rigid outer layer (the lithosphere) is broken into moving plates.
+*   **Historical Development:** The theory evolved from the earlier idea of continental drift and was widely accepted after the validation of **seafloor spreading** in the late 1950s/early 1960s.
+*   **Plate Structure & Motion:**
+    *   Plates are made of oceanic lithosphere (topped by oceanic crust) and thicker continental lithosphere (topped by continental crust).
+    *   They move relative to each other at speeds from 0 to 100 mm per year.
+    *   Movement is possible because the lithosphere is stronger than the underlying, ductile **asthenosphere**.
+*   **Plate Boundaries:** The type of boundary is defined by how the plates move relative to each other at their edges:
+    *   **Divergent:** Plates move apart (e.g., at seafloor spreading ridges, creating new crust).
+    *   **Convergent:** Plates move together, often with one plate being forced beneath another in a process called **subduction** (recycling crust into the mantle and

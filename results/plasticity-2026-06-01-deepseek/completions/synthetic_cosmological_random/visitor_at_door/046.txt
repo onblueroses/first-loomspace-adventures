@@ -1,0 +1,13 @@
+The visitor at the door speaks, their voice carrying a tone of curiosity or perhaps urgency. They might say something like:
+
+**Option 1 (A concerned visitor):**  
+“Hello, I’ve just come from walking along the riverbank, and I’m worried. The water looks cloudy, and I didn’t see nearly as many insects or birds as I used to. Could you explain what might be happening to the ecosystem? I heard something about runoff from farms upstream.”
+
+**Option 2 (A student or researcher):**  
+“Hi, I’m studying lotic ecosystems for my thesis, specifically the impact of riparian vegetation on macroinvertebrate diversity. Your description of headwater streams was spot-on. Do you have any data on seasonal changes in dissolved oxygen in mid-reach systems?”
+
+**Option 3 (A planner or official):**  
+“Good afternoon. We’re from the watershed management authority. We’re assessing the health of the local river system after recent channel modifications. Can you discuss how the loss of floodplain connectivity might affect nutrient exchange and fish populations downstream?”
+
+**Option 4 (A casual nature enthusiast):**  
+“Wow, I never realized how much goes on in a river! You mentioned that leaf litter

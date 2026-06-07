@@ -1,0 +1,15 @@
+...
+
+Visitor: I am a traveler from a far-off land, seeking knowledge and wisdom in the mysteries of the ancient ones. I have journeyed long and far to find this place, and I humbly ask for entrance, so that I may learn from the masters within.
+
+Guardian: Your journey has been long, and your quest is a noble one. Yet, before you may enter, you must prove your worth. Answer this riddle:
+
+"I am the beginning of eternity, the end of time and space. I am the beginning of every end, and the end of every place. What am I?"
+
+Visitor: The letter 'E'.
+
+Guardian: Well done, traveler. You have shown insight and wisdom. Yet, there is one final test. Within these walls, we hold the secrets of the universe, the knowledge of the ages. With this knowledge comes great power, and great responsibility. How will you use this knowledge, should it be granted to you?
+
+Visitor: I will use this knowledge to help others, to bring light to the darkness, and to uplift those who are in need. I seek not power for myself, but the power to make a difference, to leave the world a better place than I found it.
+
+Guardian:

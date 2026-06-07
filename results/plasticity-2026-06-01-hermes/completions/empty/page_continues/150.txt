@@ -1,0 +1,9 @@
+ “A few months ago, I wrote about a study that demonstrated how a simple change in the way a question was worded could result in a drastic difference in how people responded. In that study, researchers found that when a question about gay marriage was worded with the phrase ‘gay men and lesbians,’ about 65% of people were in favor of it. However, when the question was worded with just the term ‘same-sex couples,’ only about 45% were in favor of it.”
+
+• The study mentioned in this quote was published in 2010. To conduct this study, researchers asked 2,678 individuals in a survey about their opinions on either “gay marriage” or “same-sex marriage.” The results are summarized in the table below.
+
+• Based on the results of the survey, we can say that the proportion of individuals who said that they approve of “gay marriage” is 0.42 (or 42%). The proportion of individuals who said that they approve of “same-sex marriage” is 0.32 (or 32%).
+
+• The difference in proportions is 0.42 - 0.32 = 0.10 (or 10%).
+
+• In order to determine if this difference is statistically significant, we need to

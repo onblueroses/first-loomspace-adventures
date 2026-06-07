@@ -1,0 +1,11 @@
+The visitor, likely a student, researcher, or perhaps a concerned landowner, might approach you and say something like:
+
+“Hello. I’ve been reading about river ecosystems and I’m trying to understand how a dam upstream might be affecting the wildlife in the stretch of river behind my property. The water seems warmer, there’s more algae, and I haven’t seen the trout that used to be there. Based on what you just described, could you help me connect the dots?”
+
+**You could respond by linking their observation directly to the concepts:**
+
+"Absolutely. You've made some very astute observations that map perfectly onto the principles of lotic ecosystems. Let's break it down:
+
+1.  **Altered Flow Regime & Temperature:** The dam you mentioned is a profound modification. It traps water, releasing it from a reservoir. This often **slows the current**, eliminates natural flood pulses, and **warms the water**—changing the river from a cold, fast, oxygen-rich 'headwater' character to a warmer, slower 'middle reach' character, even if it's geographically in the upper reaches.
+
+2.  **Shift in Biological Community:** The cold-water, high-oxygen specialist species like **trout are intolerant

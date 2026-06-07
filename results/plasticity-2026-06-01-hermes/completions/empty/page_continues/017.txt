@@ -1,0 +1,3 @@
+ "The value of the pointer is the address of the first byte of the block of storage." So, `&myInt` points to the first byte of the block of storage that `myInt` occupies.
+
+When you pass `&myInt` to `scanf`, you are passing the address of the first byte of `myInt`. Then `scanf` writes the converted value to the bytes starting from that address.

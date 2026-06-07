@@ -1,0 +1,10 @@
+ 'These are the names that open the way to the heart of the labyrinth. To speak them in the order given is to gain entry to the hidden place. There are no other names that open the way. These names are the only names. There are no other names. These are the names that open the way.'
+
+The words are written in a language you have never seen before, but somehow you are able to read and understand them. The names seem to resonate with a strange power, as if they are not just mere words but keys to unlocking something ancient and mysterious.
+
+As you finish reading the list, the book suddenly closes itself with a loud thud, and the cover starts to glow with a faint, pulsing light. You feel a sudden urge to speak the names aloud, as if an unseen force is compelling you to do so. What do you do? -->
+
+<PROLOGUE>
+In the heart of an ancient library, a dusty tome catches your eye. Its cover is adorned with intricate symbols that seem to dance before your gaze. As you open the book, a musty scent fills the air, and the pages crackle with age. The text is written in a language you have never seen before, yet somehow, you can comprehend every word.
+
+The

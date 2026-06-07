@@ -1,0 +1,29 @@
+ "I am an Adept of the Fourth Circle. I have passed the Pylon of the Sphinx and the Pylon of the Ox. I have descended into the Crypt and beheld the Formless One. I have crossed the Chasm by the Path of the Arrow. I have climbed the Great Tower and entered the Triangle. I have stood before the Seven and received the Name."
+
+The officiant speaks. "Enter, O Adept, for you have received the Name."
+
+The visitor enters the temple and joins the officiant. They both turn to face the East.
+
+The officiant speaks. "Let us consecrate the temple."
+
+The visitor speaks. "So let it be."
+
+All present perform the Consecration of the Temple.
+
+The officiant speaks. "Let us invoke the presence of Vrelth."
+
+The visitor speaks. "So let it be."
+
+All present perform the First Invocation of Vrelth.
+
+The officiant speaks. "Let us invoke the presence of the Mrolthen One."
+
+The visitor speaks. "So let it be."
+
+All present perform the Second Invocation of Vrelth.
+
+The officiant speaks. "Let us invoke the presence of the Eternal."
+
+The visitor speaks. "So let it be."
+
+All present perform the Third Invocation

@@ -1,0 +1,15 @@
+ Let them in, or send them away.
+
+**I:** Let them in.
+
+**C:** The door opens, and in steps a figure cloaked in midnight blue, their face obscured by a deep cowl. In their hand, they clutch a silver chalice, ornately engraved with swirling patterns that seem to dance and shift in the flickering candlelight. The figure approaches slowly, deliberately, and extends the chalice towards you.
+
+"Drink," they intone, their voice echoing with the weight of ages, "and be transported to the realm of dreams, where the boundaries of reality blur and the impossible becomes possible."
+
+Do you accept the offered chalice and drink, or do you decline the mysterious visitor's gift?
+
+**I:** I accept the chalice and drink from it.
+
+**C:** As the cool, sweet liquid touches your lips, a sensation of warmth spreads through your body, starting from your core and radiating outwards to your fingertips and toes. Your vision begins to swim, and the room around you seems to melt away, the walls dissolving into a swirling mist of colors and shapes.
+
+You find yourself standing on a vast, featureless plain, the ground beneath your feet a shimmering expanse of iridescent light. The sky above

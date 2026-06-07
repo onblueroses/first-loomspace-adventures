@@ -1,0 +1,18 @@
+ "The new design is simpler, and it’s easier to navigate, whether you’re using a mouse, keyboard shortcuts, or a touchscreen device. The new Gmail has been redesigned to help you take action quicker and focus on the work that matters. We’re introducing several new features, including:
+
+* A new left-hand navigation menu that makes it easier to access Calendar, Tasks, and other G Suite products.
+* The ability to click on attachments in your inbox before opening conversations.
+* Actions like Archive, Delete, and Mark as Read are now more accessible.
+* Larger, bolder labels for easier message categorization.
+* A new snooze button to postpone emails to a future date or time.
+* A new hover menu with commonly used actions like Archive, Delete, Mark as Read, and Snooze."
+
+These changes are available now for G Suite customers and will be rolling out to all users in the coming weeks.
+
+## Google Calendar
+
+The page continues: "In addition to the new Gmail design, we’re also introducing a new look for Google Calendar on the web. The new Calendar features:
+
+* A modern, cleaner look with more white space and updated colors.
+* A new navigation menu on the left side that mirrors the new Gmail design.
+* A new way to view and

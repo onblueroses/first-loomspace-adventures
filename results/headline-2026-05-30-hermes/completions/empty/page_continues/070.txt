@@ -1,0 +1,11 @@
+ "The $x$-axis is the axis of symmetry."  This means that the graph of the parabola is symmetric around the $x$-axis.  In other words, the parabola is its own reflection across the $x$-axis.
+
+The graph of the parabola is shown below:
+
+<a href="https://i.stack.imgur.com/3E8y6.png" rel="nofollow noreferrer"><IMAGE></a>
+
+If we reflect the graph of the parabola across the $x$-axis, we obtain the same graph.  Hence, the graph is symmetric with respect to the $x$-axis.
+
+In general, the graph of the equation $x = ay^2$ is a parabola with its vertex at the origin whose axis of symmetry is the $x$-axis.  If $a > 0$, the parabola opens to the right, as shown above.  If $a < 0$, the parabola opens to the left.
+
+Answer: The axis of symmetry is the line about which the parabola is symmetric.  In the case of the parabola $x=ay^2$, the axis of symmetry is the $x$-axis. 

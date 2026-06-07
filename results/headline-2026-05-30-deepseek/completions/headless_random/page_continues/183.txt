@@ -1,0 +1,27 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+Last edited by a moderator:
+
+- #2
+
+BillTre
+
+Science Advisor
+
+Gold Member
+
+- 2,531
+
+- 10,061
+
+Here is a link to an article in a recent Nature, on a possible explanation for a sudden acceleration of plate tectonic motion about 2 billion years ago.
+
+They propose that the first continents were lighter and too buoyant to sink back into the mantle (and thus drive plate tectonic motion). The continents needed to get heavier before they would sink.
+
+After a while (~1.5 billion years) radioactive decay of thorium and uranium in the continental rocks produced enough lead to make the continents heavier (lead is heavier than thorium and uranium) and sink.
+
+Here is the abstract:
+
+Nature said:
+
+An expected consequence of plate tectonics is that the lithosphere cools and thickens as it ages, according to the conductive cooling model1. However, it has been known for decades that the Indian and North Atlantic oceans contain seafloor that is older than 100 million years and yet is relatively shallow. Moreover, this seafloor is not distributed uniformly across these basins but is concentrated in the northern Indian Ocean and the North Atlantic between Canada and Northwest Africa, respectively. These regions,

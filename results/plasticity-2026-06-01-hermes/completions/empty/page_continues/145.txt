@@ -1,0 +1,28 @@
+ "The algorithm is pretty simple yet produces really nice results. It is based on the idea that the faster the vehicle is moving, the more space in front and behind the vehicle is required, and thus the following vehicle should keep a longer distance to the vehicle in front of it."
+
+Here is the code from the page:
+
+\begin{code}
+local vehicles = game.Workspace.Vehicles:GetChildren()
+
+for _, v in pairs(vehicles) do
+    local vehicleInFront = nil
+    local smallestDistanceToNextVehicle = math.huge
+
+    for _, otherVehicle in pairs(vehicles) do
+        if otherVehicle ~= v then
+            local distanceToOtherVehicle = (otherVehicle.Position - v.Position).Magnitude
+
+            if distanceToOtherVehicle < smallestDistanceToNextVehicle then
+                smallestDistanceToNextVehicle = distanceToOtherVehicle
+                vehicleInFront = otherVehicle
+            end
+        end
+    end
+
+    if vehicleInFront then
+        local safetyDistance = v.Velocity.Magnitude * 2
+        local currentDistanceToVehicleInFront = (vehicleInFront.Position - v.Position).Magnitude
+
+        if currentDistanceToVehicleInFront < safetyDistance then
+            -- Apply brakes or reduce throttle to maintain safe distance

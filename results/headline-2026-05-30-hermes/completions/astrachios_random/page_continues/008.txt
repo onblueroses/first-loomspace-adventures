@@ -1,0 +1,44 @@
+ "Kakapo are critically endangered; as of March 2023, the total known adult population was 249 living individuals, all of which have been given names." So let's check the "249" figure against the data.
+
+```python
+len(kakapo_df)
+```
+
+```
+249
+```
+
+The number matches. It's a good sign that the data is up to date and accurate.
+
+## 2. Inspecting the data
+
+Now that we have the data in a DataFrame, let's inspect its structure and content.
+
+```python
+kakapo_df.head()
+```
+
+<div>
+<style scoped>
+   .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+   .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+   .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>name</th>
+      <th>sex</th>
+      <th>alive</th>
+      <th>hatch_year</th>
+      <th>death_year</th>
+      

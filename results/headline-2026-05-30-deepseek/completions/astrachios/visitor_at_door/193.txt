@@ -1,0 +1,25 @@
+ “I am called Bael. I am a king ruling in the east. I command sixty-six legions. I appear with three heads: one is that of a toad, one is that of a man, and one is that of a cat. I speak in a hoarse voice. I can make you invisible. I can give you knowledge of all arts and sciences. I can make you cunning.”
+
+Speak: “Welcome Bael. You have answered my call. I ask you to give me knowledge of the arts and sciences.”
+
+The visitor replies: “I will give you knowledge of the arts and sciences. I will make you cunning.”
+
+Speak: “I ask that you make me invisible.”
+
+The visitor replies: “I will make you invisible.”
+
+Speak: “I ask that you give me a familiar spirit.”
+
+The visitor replies: “I will give you a familiar spirit.”
+
+Speak: “I ask that you answer all my questions truthfully.”
+
+The visitor replies: “I will answer all your questions truthfully.”
+
+Speak: “I ask that you give me a treasure.”
+
+The visitor replies: “I will give you a treasure.”
+
+Speak: “I ask that you give me knowledge of all secrets.”
+
+The visitor replies: “

@@ -1,0 +1,9 @@
+Based on the provided text, here is a summary of the key points about plate tectonics:
+
+*   **Core Theory:** It explains that Earth's rigid outer layer (the lithosphere) is broken into moving plates. This unified the earlier concept of continental drift with the validated evidence of seafloor spreading.
+*   **Plate Structure:** The lithosphere consists of 7-8 major plates and many minor ones. Each plate is made of either oceanic lithosphere (with oceanic crust) or thicker continental lithosphere (with continental crust).
+*   **Plate Boundaries & Effects:** The movement of plates relative to each other at their boundaries creates three main types:
+    *   **Convergent:** Plates collide, causing subduction (one plate forced under another), mountain-building, earthquakes, and volcanoes.
+    *   **Divergent:** Plates move apart (e.g., at mid-ocean ridges), creating new crust and seafloor spreading.
+    *   **Transform:** Plates slide past each other, causing earthquakes.
+*   **Driving Force:** Movement is possible because the strong lithosphere "floats" on the weaker, ductile asthenosphere below. Convection currents in the mantle, driven by heat and density variations, provide the primary driving force

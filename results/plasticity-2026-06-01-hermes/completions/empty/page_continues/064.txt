@@ -1,0 +1,16 @@
+ "I have not been able to find a reference to the original work. I would be grateful to anyone who can tell me the origin of this problem."
+
+Does anyone know the origin of this problem?
+
+Answer: It appears that the problem was first published in a Russian mathematical folklore collection "Mathematical Entertainer" by B. A. Kordemsky in 1956. In the same year Kordemsky's book was translated into German and Hungarian. The English translation was published in 1972.
+
+I could not find an original Russian book of 1956, but in the edition of 1979 it is problem 10.12 (10th chapter, 12th problem), and it reads (in my translation):
+
+\begin{blockquote}
+In one of the issues of "Quantum" magazine a problem was published:
+
+\begin{blockquote}
+There are 100 coins on a table. A move consists of choosing some $n$ coins ($1\leq n\leq 100$) and turning them over. The goal is to reach a state when all coins face the same side up. What is the minimal number of moves?
+\end{blockquote}
+
+The solution was given in the editorial note: "The problem,

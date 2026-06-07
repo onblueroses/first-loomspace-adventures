@@ -1,0 +1,13 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+## 2. What is a fault?
+
+A fault is a fracture or discontinuity in a volume of rock. This discontinuity can vary from a few centimeters to many kilometers in length. It is formed by the movement of one block of rock relative to the other, along the plane of the fracture. Large faults within the Earth's crust result from the action of plate tectonic forces, with the largest forming the boundaries between the plates, such as subduction zones or transform faults. Energy release associated with rapid movement on active faults is the cause of most earthquakes.
+
+A fault plane is the plane that represents the fracture surface of a fault. A fault trace or fault line is the intersection of the fault plane with the ground surface.
+
+The page continues: https://en.wikipedia.org/wiki/Fault_(geology)
+
+## 3. What is an earthquake, and how is it caused?
+
+An earthquake is the result of a sudden release of energy in the Earth's crust that creates seismic waves. The seismicity or seismic activity of an area refers to the frequency, type and size of earthquakes experienced over a period of time. Earthquakes are measured with a seismometer; a device which also records is

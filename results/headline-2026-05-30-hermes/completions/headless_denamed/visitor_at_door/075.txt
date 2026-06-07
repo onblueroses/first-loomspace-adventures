@@ -1,0 +1,13 @@
+ 
+
+The visitor's speech is translated into English by the host. 
+
+Visitor: I am a traveler from a distant land, seeking knowledge and wisdom. I have journeyed far to reach this place, drawn by the tales of your renowned library. I humbly request entry, so that I may study the ancient texts and learn from the great minds of the past.
+
+Host: Welcome, weary traveler, to our humble abode. Your quest for knowledge is a noble pursuit, and we are honored by your presence. Please, come in and rest your weary feet. Our library is open to all who seek enlightenment. May your stay here be fruitful and your thirst for wisdom quenched.
+
+Visitor: Thank you for your warm welcome. I am grateful for the opportunity to explore your vast collection of texts. I have heard whispers of a particular tome, said to contain the secrets of the universe. Is it true that such a book exists within these walls?
+
+Host: Ah, you speak of the legendary "Codex Universalis." It is indeed a treasure among our collection, but I must warn you, the knowledge contained within its pages is not for the faint of heart. Many have sought its wisdom, only to find themselves consumed by the weight of its revelations.
+
+Visitor: I

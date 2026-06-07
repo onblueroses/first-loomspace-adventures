@@ -1,0 +1,7 @@
+.. is the idea that the continents have not always been where they are now, but have, over geologic time, drifted from where they were to where they are. -- John McPhee, Basin and Range
+
+The concept of continental drift was first proposed by Frank Bursley Taylor in 1908, but the idea did not reach the mainstream of the scientific community until the presentation of the concept by Alfred Wegener in 1912. The idea was initially rejected by many scientists because no mechanism to drive the motion was known. The prevailing view in the earth sciences was that the Earth was solid, and that the continents were fixed in place.
+
+In the 1950s and 1960s, evidence supporting the idea of continental drift began to accumulate. Paleomagnetic data showed that the orientation of the Earth's magnetic field has changed over geologic time, and that the continents have changed position relative to the magnetic poles. Seismic imaging of the ocean floor showed that the oceanic crust was much younger than the continental crust, supporting the idea that the ocean basins were created by the movement of the continents.
+
+In the early 1960s, the theory of plate tectonics was developed by a number of scientists, including Harry Hess, Robert

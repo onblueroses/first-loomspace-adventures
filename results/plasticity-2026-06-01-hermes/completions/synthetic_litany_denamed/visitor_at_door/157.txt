@@ -1,0 +1,12 @@
+ "I am Javeroth, the spirit of the gate, the keeper of the keys. I will open the way to the chamber, but first you must answer my questions three."
+
+The spirit will ask three questions about the history and lore of the chamber. The character must answer each question correctly to be granted entry. If they answer incorrectly, they may try again, but each incorrect answer will result in a penalty, such as losing a small amount of health or mana.
+
+Possible questions:
+1. Who was the first king to be buried in this chamber? (Answer: King Eldred the Wise)
+2. What is the name of the ancient artifact said to be hidden within? (Answer: The Scepter of the Ancients)
+3. Which great battle was depicted on the murals of the chamber walls? (Answer: The Battle of Red Ford)
+
+Once the character answers the three questions correctly, Javeroth will open the way to the chamber. "You have proven your knowledge and worth. I grant you entry to the Chamber of Kings. May you find what you seek, but beware the dangers that lurk within."
+
+The character enters the chamber, ready to face the challenges and uncover the secrets that await. The adventure in the Chamber of Kings

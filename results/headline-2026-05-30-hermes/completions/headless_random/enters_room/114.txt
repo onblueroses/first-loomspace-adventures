@@ -1,0 +1,9 @@
+ (read more)
+
+Tectonics
+
+Tectonics is the process that controls the structure and properties of the Earth's crust and its evolution through time. In particular, it describes the processes of mountain building, the growth and behavior of the strong, old cores of continents known as cratons, and the ways in which the relatively rigid plates that constitute the Earth's outer shell interact with each other. Tectonics also provides a framework to understand the earthquake and volcanic belts of the Earth.
+
+Tectonic studies are important for understanding patterns of seismicity, stress in the crust, and other earthquake-related phenomena. The main purpose of tectonic analysis is to determine the timing, magnitude, and rate of deformation within a region. This information can then be used to assess the seismic hazard and to estimate the likelihood of future earthquakes. Tectonic analysis can also help to identify active faults and to determine the slip rates on these faults. This information is important for land-use planning and for the design of structures that are resistant to earthquake damage.
+
+Tectonic analysis is a complex process that requires the integration of data from many different sources. These data sources include geological maps, seismicity data, GPS measurements, and satellite imagery. The interpretation of these data requires a

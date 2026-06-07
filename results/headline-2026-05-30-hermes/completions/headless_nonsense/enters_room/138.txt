@@ -1,0 +1,18 @@
+.. is the Truth that hates the deeds of injustice in the world. The one whose mouth utterly flames. The one who begets and destroys. The Grace of the World. The Mighty One, who possesses the immortal Fire. The Mrolthen Krelph with sight in his feet. 
+
+---
+
+Ritual: Invocation of the Mrolthen One
+Components: V, S, M (a flame, which the caster must extinguish at the conclusion of the ritual)
+Duration: Concentration, up to 1 hour
+Casting Time: 1 action
+Range: Self (30-foot radius)
+Level: 5
+School: Conjuration
+
+When you cast this ritual, you invoke the power of the Mrolthen One, an ancient and powerful entity of flame and destruction. For the duration, you are wreathed in flickering flames that shed bright light in a 30-foot radius and dim light for an additional 30 feet. 
+
+As part of the ritual, you can use a bonus action on each of your turns to cause one of the following effects:
+
+- You can cause a creature within range that you can see to take 2d10 fire damage.
+- You can cause a flammable object within range that you can see to ignite

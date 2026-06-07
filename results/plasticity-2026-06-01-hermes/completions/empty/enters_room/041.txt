@@ -1,0 +1,9 @@
+  You are in a room with 3 doors, one to the left, one to the right, and one in front of you.  A giant enters the room, and he looks very hungry.  He is holding a big club, and he looks like he is going to attack you.  What do you do?""")
+
+    # Check the user's input and respond accordingly
+    if "left" in choice.lower():
+        print("""You quickly run through the door to the left and escape the giant.  You find yourself in a long hallway with many doors on either side.  You continue down the hallway, trying to find a way out of this strange place.""")
+    elif "right" in choice.lower():
+        print("""You run through the door to the right, but it leads to a dead end.  The giant is right behind you, and you have nowhere to go.  He swings his club and hits you, knocking you unconscious.  Game over.""")
+    elif "front" in choice.lower():
+        print("""You bravely charge towards the giant and try to run past him through the door in front of you.  The giant is surprised by your bold move and doesn't have time to react.  You make it through

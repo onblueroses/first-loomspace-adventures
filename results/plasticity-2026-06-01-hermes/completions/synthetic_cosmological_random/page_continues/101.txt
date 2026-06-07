@@ -1,0 +1,11 @@
+ https://www.britannica.com/science/river-ecosystem
+
+## Water flow and sediment transport
+
+The physical characteristics of a river channel influence the water flow and sediment transport. In turn, the water flow and sediment transport influence the physical characteristics of the river channel. This dynamic interaction between the physical characteristics of the river channel and the water flow and sediment transport is a key aspect of river geomorphology.
+
+### Water flow
+
+The water flow in a river channel is influenced by several factors, including the channel geometry, the channel slope, the roughness of the channel bed and banks, and the discharge of water. The channel geometry is the shape and size of the channel, including the width, depth, and cross-sectional area. The channel slope is the gradient of the channel bed, which determines the rate at which the water flows downhill. The roughness of the channel bed and banks is determined by the size and shape of the particles that make up the channel bed and banks, as well as the presence of vegetation or other obstacles. The discharge of water is the volume of water that flows through the channel per unit time.
+
+The water flow in a river channel can be described by several parameters, including the velocity, the depth, and the Froude number

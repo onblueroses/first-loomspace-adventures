@@ -1,0 +1,12 @@
+ "These names are the keys to the path. Without them, the way is closed to the unworthy. But to the worthy who know them, the way is opened and the power is theirs to command." It seems that the names are some kind of password or key to access the secrets contained further in the book.
+
+You turn the page, feeling a strange mix of apprehension and excitement. The next section is titled "The First Gate: Summoning the Servitor". It describes a ritual to conjure a minor supernatural entity called a "servitor" to assist the caster:
+
+The ritual requires a quiet, dark room. The caster sits in the center of a circle drawn on the floor with powdered bone and recites an incantation:
+
+"Vrokthemnar, Snorth, Klompronek, I call to thee from beyond the veil. 
+Vronth, Sneldrek, Mrolthengek, hear my plea and come to my aid.
+Klomphreth, Vrendrabmar, Snolthrolm, I summon you to do my bidding.
+Plekriskem, Krendrenel, Smartrekol, manifest before me now."
+
+If done correctly, a small imp-like creature will appear within the

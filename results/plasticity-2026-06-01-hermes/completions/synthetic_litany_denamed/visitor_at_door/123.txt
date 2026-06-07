@@ -1,0 +1,19 @@
+ If they are a Friend of the Order, the door opens and they are admitted. If they are not, the door remains closed, and the ritual ends. The Order's hospitality is not extended to the uninitiated.
+
+## 312 - The Ritual of the Iron Key
+
+**Name:** The Ritual of the Iron Key  
+**Tier:** 2  
+**Range:** Touch  
+**Target:** Object  
+**Duration:** Permanent  
+**Incantation Time:** 1 hour  
+**Materials:** A key made of pure iron, the object to be locked or unlocked, and a drop of the caster's blood.  
+**Concentration:** No  
+**Description:** This ritual allows the caster to magically lock or unlock a specific object, such as a door, chest, or padlock, by touching it with an iron key. The caster must forge the iron key themselves and imbue it with their essence through a drop of their own blood. During the ritual, the caster speaks the following incantation while holding the key:
+
+Serratus clavis, ferro et sanguine meo necto.
+Adnuo ius meum, obsero vel revelo.
+Clavis ferrea, tuum munus facio.
+
+Once the ritual is

@@ -1,0 +1,15 @@
+ The visitor says, "You have an appointment with the Oracle of Kharabdis. You must depart at once." The visitor gives you directions to the Oracle's home, and tells you that they will be expecting you within the hour. You set out immediately.
+
+---
+
+You arrive at the Oracle's home. The Oracle is waiting for you, standing in the doorway. They motion for you to enter. You do so, and the Oracle follows, closing the door behind them.
+
+The Oracle speaks. They say, "I have foreseen your coming. You are the one who will bring an end to the silence that has consumed this city. You are the one who will restore the voices of the people."
+
+You are taken aback by the Oracle's words. You ask them how you are supposed to accomplish such a feat.
+
+The Oracle replies, "You must journey to the center of the city, to the place where the silence began. There, you will find the source of the silence, and you must confront it."
+
+You ask the Oracle what the source of the silence is.
+
+The Oracle says, "It is a being known as the Silence Eater. It is a creature that feeds on the voices of the people, leaving them mute. It has grown powerful in

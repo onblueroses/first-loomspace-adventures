@@ -1,0 +1,9 @@
+The passage you've shared provides an excellent overview of plate tectonics, the unifying theory of modern geology. Let's break down and expand upon the key concepts mentioned:
+
+### **Core Principles in Detail:**
+
+1.  **The "Conveyor Belt" System:** This is a critical concept. New oceanic lithosphere is continuously created at **mid-ocean ridges** (divergent boundaries) through seafloor spreading. Simultaneously, old, dense oceanic lithosphere is destroyed as it sinks into the mantle at **subduction zones** (convergent boundaries). This cycle maintains a roughly constant surface area for the Earth.
+
+2.  **The Engine: Mantle Convection:** The plates don't move on their own. They are *passively rafted* atop the slowly flowing **asthenosphere** (the ductile upper layer of the mantle). Heat from the Earth's core and radioactive decay creates **convection currents** in the mantle—hot material rises, cools, and sinks—which provides the primary driving force for plate motion. Slab pull (the sinking force of a cold, dense subducting plate) and ridge push (the gravitational slide of plates away from a raised ridge) are also significant forces.
+
+3.  **Types of Plate Boundaries &

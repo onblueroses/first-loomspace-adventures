@@ -1,0 +1,23 @@
+ "The downside is that there's no way to actually return the value. The only way to pass the value to the caller is to modify a global variable, which may or may not be what you want. For example, if you wanted to simply return the value of `i`, you could do something like this:"
+
+\begin{code}
+var globalResult = 0;
+
+function foo(i) {
+    if (i < 0)
+        return;
+    setTimeout(function() {
+        globalResult = i;
+        foo(i - 1);
+    }, 100);
+}
+\end{code}
+
+I don't understand why you need to modify a global variable to return the value. Why can't you just do `return i;` instead of `globalResult = i;`?
+
+Answer: The problem is that the `return` statement returns from the anonymous function inside `setTimeout`, not from the `foo` function. `foo` has actually already returned by the time the anonymous function is executed. That's the nature of asynchronous programming in JavaScript. If you want to get the result, you need to use a callback function.
+
+\begin{code}
+function foo(i, callback) {
+    if (i < 0) {
+        callback(0);

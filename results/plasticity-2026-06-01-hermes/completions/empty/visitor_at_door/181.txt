@@ -1,0 +1,9 @@
+ The visitor's dialogue box is displayed on the screen. The visitor says, "Hello! I'm here to see John. Is he available?" The player character responds, "Yes, he is. Please come in." The visitor enters the house, and the player character leads them to John's room.
+
+The visitor and John engage in a conversation. The visitor's dialogue box is displayed on the screen. The visitor says, "John, I have some important news to share with you." John responds, "What is it?" The visitor explains, "I've discovered a hidden treasure map that leads to a valuable artifact. I need your help to find it."
+
+John agrees to help the visitor. The player character, John, and the visitor leave the house together and embark on their quest to find the hidden treasure.
+
+As they journey through various locations, they encounter challenges and obstacles. The player character's dialogue box is displayed on the screen. The player character says, "We need to solve this puzzle to proceed further." John responds, "Let's work together to figure it out."
+
+The trio successfully solves the puzzle and continues their quest. They finally reach the location indicated on the treasure map. The visitor's dialogue box is displayed on the screen. The visitor says, "

@@ -1,0 +1,13 @@
+This text provides a clear and structured overview of river ecosystems. To build on this foundation, the page might continue by exploring several key areas:
+
+**1. Key Ecological Processes and Concepts**
+*   **River Continuum Concept:** Explaining how the physical conditions change predictably from source to mouth, and how the biological community and its energy sources (allochthonous vs. autochthonous) shift in response.
+*   **Nutrient Spiraling:** Describing how nutrients like nitrogen and phosphorus are cycled within the flowing system, moving between the water, sediment, and organisms as they are carried downstream.
+*   **Food Web Dynamics:** Detailing trophic interactions beyond shredders, including collectors, grazers, and predators, and how energy from leaf litter and algae moves through the system.
+
+**2. Human Impacts and Conservation**
+*   **Specific Threats:** Elaborating on how dams (altering flow, temperature, and sediment), channelization (destroying habitat), pollution (nutrient loading, toxins), and water extraction degrade ecosystem health.
+*   **Conservation and Restoration:** Introducing strategies like:
+    *   Environmental flow management to mimic natural regimes.
+    *   Riparian buffer zone restoration to filter runoff and provide habitat.
+    *   Dam removal or

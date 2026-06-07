@@ -1,0 +1,10 @@
+ "In some species, the bacteria recruited to the esca are incapable of luminescence outside of the host organism, suggesting that they have developed a symbiotic relationship and the bacteria are unable to synthesize the appropriate luciferase to luminesce on their own. However, it is uncertain whether the bacteria are bioluminescent in their natural environment, or if the host organisms provide the necessary chemicals for bioluminescence."
+
+In other words, the bacteria don't glow on their own, they only glow when inside the anglerfish's lure. This implies that the anglerfish's body is providing some of the necessary chemistry for the reaction.
+
+The page also says: "The source of luminescence is the symbiotic bacteria that live in and around the esca, enclosed in a cup-shaped reflector containing crystals, probably consisting of guanine." So the light is produced by a chemical reaction, and the anglerfish's body also has structures to reflect and direct the light.
+
+The exact nature of the chemicals used to produce the light seems to be unknown, but I hope that helps!
+
+• The bacteria is what glows, not a chemical reaction with the fish. – RonJohn Aug 28 '18 at 6:50
+• @

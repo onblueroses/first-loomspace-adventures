@@ -1,0 +1,11 @@
+ [https://en.wikipedia.org/wiki/Plate_tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
+
+---
+### Plate Boundaries
+
+![Plate boundaries](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Plates_tect2_en.svg/330px-Plates_tect2_en.svg.png)
+
+The three types of plate boundaries are:
+
+1. Convergent boundaries occur where two plates slide towards each other to form either a subduction zone (if one plate moves underneath the other) or a continental collision (if the two plates contain continental crust). Subduction zones are marked by oceanic trenches. Plate boundaries can also occur within plates, as part of distributed deformation in plate boundary zones.
+2. Divergent boundaries occur where two plates slide apart from each other. At zones of ocean-to-ocean rifting, divergent boundaries form by seafloor spreading, allowing for the formation of new ocean basin. As the ocean plate splits, the ridge forms at the spreading center, the ocean basin expands, and finally, the plate area increases causing many small volcanoes and/or shallow earthquakes. At zones of continent-to-continent rifting, divergent boundaries may cause new ocean basin to form as the continent

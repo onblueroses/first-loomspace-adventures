@@ -1,0 +1,18 @@
+ "This is a list of all of the known methods that can be used to create a new object in JavaScript. There are many different ways to do this, but the most common method is to use the new keyword, followed by a constructor function. However, there are also other methods, such as using Object.create() or using a factory function."
+
+I'm not going to copy the entire page here, as it is quite long and detailed. However, I highly recommend reading through it if you want to gain a deeper understanding of object creation in JavaScript. The page covers a wide range of topics, including:
+
+- Using constructor functions
+- Using Object.create()
+- Using factory functions
+- Using object literals
+- Using the Object() constructor
+- Using the new keyword with built-in constructors
+- Using ECMAScript 6 classes
+- Using the prototype pattern
+- Using the module pattern
+- Using the revealing module pattern
+
+Each method is explained in detail, with code examples and explanations of when and why you might choose to use each one. The page also discusses the pros and cons of each approach, and provides some guidance on when to use each method.
+
+Overall, I found this page to be an excellent resource for anyone looking to deepen their understanding of object creation in

@@ -1,0 +1,15 @@
+ He speaks the words of the opening, and the door opens. The door opens. The visitor enters.
+
+This is the opening of the gate. The gate is opened. The visitor has passed through the gate. The gate is closed.
+
+Speak the names that close the way:
+
+Scildon, Paeh, Izaphel, Elapos, Dapa, Damiol, Imathadel, Ebpisha, Akrah, Epoci, Ena, Cariso, Gepulanel, Sapoel, Aphragoseh, Enagro, Elotin, Adopal, Baracaza, Bloutel, Anchanzel, Ipeodoc, Ireharel, Aramonis, Sipat, Acla Berdimoriel, Asep, Asthrenios; Genilum Sopro.
+
+The visitor at the door speaks. He speaks the words of the closing, and the door closes. The door closes. The visitor leaves.
+
+This is the closing of the gate. The gate is closed. The visitor has passed through the gate. The gate is opened.
+
+Speak the names that open the way:
+
+Asthrenios, Asep, Acla Berdimoriel, Sipat, Aramonis,

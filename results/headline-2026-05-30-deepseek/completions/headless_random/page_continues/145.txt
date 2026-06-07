@@ -1,0 +1,13 @@
+Thank you for that detailed summary of plate tectonics. It's a great overview of the key concepts. To build on that and provide a more comprehensive picture, here are some additional points about the theory and its implications:
+
+### Key Drivers and Mechanisms (Expanded)
+
+*   **Mantle Convection:** While convection in the mantle is a primary driver, the exact relationship is complex. Plates are not simply passive passengers on convection cells. Their own weight (especially dense, sinking slabs in subduction zones) is a major force that pulls plates along. This is called **slab pull** and is considered the strongest driving force.
+*   **Other Driving Forces:**
+    *   **Ridge Push (Slab Push):** At mid-ocean ridges, the elevated new crust slides downhill due to gravity, pushing the plate away from the ridge.
+    *   **Trench Suction:** At subduction zones, the sinking plate can create flow in the mantle that "sucks" the overriding plate toward the trench.
+
+### Types of Plate Boundaries (Examples)
+
+*   **Divergent:** Plates move apart. *Example:* Mid-Atlantic Ridge, East African Rift.
+*   **Convergent:** Plates move toward each other. There are

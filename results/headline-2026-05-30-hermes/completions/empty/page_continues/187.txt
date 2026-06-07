@@ -1,0 +1,5 @@
+ "We have seen that the slope of a position vs. time graph is the velocity. What if we graphed the velocity vs. time? Let's say we had a graph of the velocity vs. time as shown below.
+
+Let's find the area under the curve from $t = 0$ to $t = 4 \, \text{s}$. We'll use four rectangles."
+
+The width of the first rectangle is $1 \, \text{s}$ and the height is $2 \, \text{m/s}$. Therefore, the area of the first rectangle is $2 \, \text{m}$. The width of the second rectangle is also $1 \, \text{s}$, but the height is $4 \, \text{m/s}$. The area of the second rectangle is $4 \, \text{m}$. The width of the third rectangle is $1 \, \text{s}$ and the height is $6 \, \text{m/s}$. The area of the third rectangle is $6 \, \text{m}$. The width of the fourth rectangle is $1 \, \text{s}$ and the height is $8 \, \text{m/s}$. The

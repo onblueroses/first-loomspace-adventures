@@ -1,0 +1,23 @@
+ "If you are in the United States and would like additional information regarding AstraZeneca products, or you are a third party with an opportunity that may benefit AstraZeneca, please contact us." AstraZeneca is based in the United Kingdom.
+
+The site is not a secure site (https), and it asks for the following information:
+
+* First Name
+* Last Name
+* Email Address
+* Phone Number
+* Street Address
+* City
+* State
+* Zip Code
+* Country
+
+Is this a legitimate site? Is it really AstraZeneca collecting the information? If not, is it a phishing site?
+
+Answer: No, this is not a legitimate AstraZeneca website.
+
+All of the official AstraZeneca websites are listed here: https://www.astrazeneca.com/country-sites.html
+
+The legitimate website for AstraZeneca in the United States is https://www.astrazeneca-us.com/. Note that it is a secure site (https). It provides information about AstraZeneca's products and has a "Contact Us" page with the company's address, main phone number, and links to email various departments.
+
+The site you found, http://astrazeneca.com, is a fake Astra

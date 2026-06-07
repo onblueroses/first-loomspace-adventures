@@ -1,0 +1,11 @@
+ If they are the player, they say "It is I, your friend and ally, [player name]. Open the way, so that we may speak and enjoy each other's company once more." If they are an NPC, they say "It is I, [NPC name], [NPC title or role]. Open the way, so that we may speak and enjoy each other's company once more."
+
+The door opens. The visitor enters, and the door closes behind them. They greet the demon with a smile and a nod. The demon returns the greeting.
+
+The demon speaks: "Welcome, my friend. It is good to see you again. Please, sit and let us talk. Tell me, what brings you to my domain on this day?"
+
+The visitor explains their reason for coming, whether it's to seek advice, share news, or simply enjoy the demon's company. The demon listens attentively, nodding and asking questions where appropriate.
+
+After the visitor has spoken, the demon shares their own thoughts and news. They may offer advice, reveal secrets, or discuss their own plans and activities. The conversation continues for some time, with both parties enjoying the intellectual exchange.
+
+As the visit draws to a close, the demon stands and offers a final word of wisdom

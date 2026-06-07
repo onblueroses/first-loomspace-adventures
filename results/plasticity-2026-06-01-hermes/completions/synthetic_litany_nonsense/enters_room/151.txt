@@ -1,0 +1,50 @@
+ A shadow, a shape, a form. Look closely! Look closely! Do you see it?
+
+You must speak its name.
+
+Look closer! What is it?
+
+The thing in the room is a [dice: [[1d6]]]
+1. Shadow
+2. Phantom
+3. Spectre
+4. Wraith
+5. Shade
+6. Ghost
+
+Look again! What is it?
+
+The thing in the room is a [dice: [[1d6]]]
+1. Shadow
+2. Phantom
+3. Spectre
+4. Wraith
+5. Shade
+6. Ghost
+
+Look again! What is it?
+
+The thing in the room is a [dice: [[1d6]]]
+1. Shadow
+2. Phantom
+3. Spectre
+4. Wraith
+5. Shade
+6. Ghost
+
+Look again! What is it?
+
+The thing in the room is a [dice: [[1d6]]]
+1. Shadow
+2. Phantom
+3. Spectre
+4. Wraith
+5. Shade
+6. Ghost
+
+Look again! What is it?
+
+The thing in the room is a [dice: [[1d6]]]
+1. Shadow
+2. Phantom
+3. Spect

@@ -1,0 +1,11 @@
+ If the visitor is the bearer of the key, the door opens. If the visitor is not the bearer of the key, the door remains closed. If the visitor attempts to enter without the key, they are destroyed.
+
+The bearer of the key steps through the door. The door closes behind them, sealing with the sound of a thunderclap. The key vanishes from their hand.
+
+The bearer of the key finds themselves in a vast, dark chamber. The air is cold and still. In the center of the chamber stands a towering black throne, carved from a single piece of obsidian. Upon the throne sits a figure draped in tattered black robes. The figure's face is hidden beneath a hood, but two points of crimson light gleam from within the shadows.
+
+The figure speaks, its voice a whisper that echoes through the chamber:
+
+"Welcome, seeker of the Rite of the Key. You have proven yourself worthy to stand before me. I am the guardian of this place, the keeper of its secrets. I am the one who holds the power to grant your desire.
+
+But be warned: the path you have chosen is not for the faint of heart. The Rite of the Key is a ritual of great power, and with great power comes great risk

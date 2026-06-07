@@ -1,0 +1,10 @@
+ "Anglerfish are bony fish of the teleost order Lophiiformes. They are bottom-dwelling, marine, carnivorous fish, named for their characteristic mode of predation, in which a modified luminescent fin ray acts as a lure for other fish. The luminescence comes from symbiotic bacteria, which are thought to be acquired from seawater, that dwell in and around the esca. Most anglerfish live in the dark depths of the ocean, though some species live on the continental shelf. Female ceratioid anglerfishes are sexually parasitic; the much smaller male fuses with the female's body and becomes a permanent appendage providing sperm in exchange for nutrients."
+
+This text is available under the Creative Commons Attribution-ShareAlike License. For more information, visit http://creativecommons.org/licenses/by-sa/3.0/.
+# 17.2. Search for an Element
+## Solution
+Use the indexOf() method to search for a specific element.
+The indexOf() method returns the index of the first occurrence of a specified element in the array, or -1 if it is not found.
+Here is an example:
+```
+var   fruits   =   [ "apple",   "banana

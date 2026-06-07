@@ -1,0 +1,15 @@
+ The visitor is a robot. "I am a robot. I will read the book out loud to you."
+
+The robot reads the book to you, starting from the beginning.
+
+"Once upon a time, in a land far, far away, there lived a princess named Amelia. She lived in a grand castle with her father, the king, and her mother, the queen. The castle was surrounded by a lush forest, filled with all sorts of magical creatures. Amelia loved to explore the forest and befriend the creatures that lived there.
+
+One day, while she was exploring the forest, Amelia stumbled upon a hidden grove. In the center of the grove stood an ancient, gnarled tree. As she approached the tree, she noticed something peculiar. The tree had a face, and it was talking to her!
+
+'Welcome, Princess Amelia,' the tree said. 'I am the guardian of this forest. I have been waiting for you.'
+
+Amelia was surprised but curious. 'Waiting for me? Why?' she asked.
+
+The tree's eyes twinkled as it spoke. 'I have a quest for you, Amelia. The forest is in danger, and only you can save it.'
+
+Amelia's heart raced. A quest! She had always dreamed of

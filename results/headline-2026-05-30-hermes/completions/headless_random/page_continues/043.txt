@@ -1,0 +1,13 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+The following is a plate tectonics map from the USGS. The map shows 15 major tectonic plates. The page continues: https://pubs.usgs.gov/gip/dynamic/slabs.html
+
+A dynamic map of tectonic plates is available from the UNAVCO university consortium. The map can be manipulated to show tectonic plate boundaries and movement vectors. The page continues: https://www.unavco.org/software/web-applications/plate-motion-calculator/plate-motion-calculator.html
+
+The following is a cross-section of the Earth showing the tectonic plates. The page continues: https://pubs.usgs.gov/gip/dynamic/understanding.html
+
+The following is a cross-section of the Earth showing the asthenosphere and lithosphere. The page continues: https://pubs.usgs.gov/gip/dynamic/understanding.html
+
+The following is a cross-section of the Earth showing tectonic plate subduction. The page continues: https://pubs.usgs.gov/gip/dynamic/understanding.html
+
+The following is a cross-section of the Earth showing tectonic plate rifting. The page continues: https://pubs.us

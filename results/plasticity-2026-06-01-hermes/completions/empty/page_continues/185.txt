@@ -1,0 +1,11 @@
+ "The function f is continuous on the closed interval [a, b] and differentiable on the open interval (a, b). Then there exists a point c in the interval (a, b) such that the derivative of the function f at point c is equal to the average rate of change of the function on the interval [a, b]."
+
+The formula is then written: f'(c) = (f(b) - f(a)) / (b - a)
+
+The page concludes with a note: "In other words, there is a point in the interval where the instantaneous rate of change (the derivative) is equal to the average rate of change over the entire interval."
+
+Let's break this down:
+
+1) The function f is continuous on the closed interval [a, b]: This means that the function has no breaks or gaps in its graph over the interval [a, b]. In other words, you can draw the graph of the function from point a to point b without lifting your pencil.
+
+2) The function f is differentiable on the open interval (a, b): This means that the derivative of the function exists at every point in the interval (a, b). The derivative is a measure of how the function is changing at each point

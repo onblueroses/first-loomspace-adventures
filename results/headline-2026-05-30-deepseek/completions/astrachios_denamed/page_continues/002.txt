@@ -1,0 +1,19 @@
+ "Say this after the sun has risen and the moon has set."
+
+On the reverse side of the page is a protective prayer to be spoken at the moment of danger: "Lord God, come to my aid. Lord God, hurry to help me. Let your servants be safe in you, O Lord."
+
+The papyrus is now in the British Museum in London.
+
+Sources: Goodenough, Erwin R. Jewish Symbols in the Greco-Roman Period. Vol. 2. New York: Pantheon Books, 1953.
+
+magic square A square composed of numbers arranged in equal rows so that the sum of each row, column and diagonal is the same. Magic squares were used as talismans in ancient times to attract certain planets and to acquire the virtues of the numbers. They are used in magic and ceremonial magic for spells and talismans.
+
+Magic squares are constructed by arranging numbers in a square pattern so that the sum of each row, column and diagonal is the same. The most common magic square is the one for Saturn, which consists of three rows of three numbers each.
+
+\[\begin{array}{ccc}
+4 & 9 & 2 \\
+3 & 5 & 7 \\
+8 & 1 & 6 \\
+\end{array}\]
+
+The sum

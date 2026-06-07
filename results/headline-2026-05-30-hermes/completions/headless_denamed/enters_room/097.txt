@@ -1,0 +1,15 @@
+ Is it a ghost? Is it a demon? No. It is simply a dog. It comes over to you and licks your hand. It seems friendly enough. It's a nice looking dog. You pet it behind the ears and it seems to enjoy that.
+
+You look around the room. There are doors to the north, south, east, and west. The dog seems to want to go west, but you can go in any direction you choose. What do you do?
+\end{code}
+
+I didn't think this would work, but I ran it through the neural network and it continued the story:
+
+```
+> go west
+
+You decide to follow the dog's lead and head west. The dog trots happily beside you as you open the door and step through.
+
+The room you enter is brightly lit, with sunlight streaming through large windows. It appears to be a library, with bookshelves lining the walls and comfortable chairs scattered around. The dog bounds over to one of the chairs and sits down, tail wagging.
+
+You notice that one of the books on the shelf seems to be glowing slightly. Intrigued, you walk over and pull it out. The title on the cover reads "The Tome of Infinite Knowledge." As you open the

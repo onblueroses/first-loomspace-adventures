@@ -1,0 +1,13 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+Question: What does "lateral density variations in the mantle result in convection currents" mean? I can't visualize how lateral density variations in the mantle can result in convective currents. Can someone explain this to me in a visual way?
+
+• I edited your question to make it clear that you are quoting from Wikipedia. I also added the source link. If that is not the source you were quoting, please edit your question to add the correct source link. Thanks for your interest in Earth Science. – David Hammen Jan 30 at 7:27
+
+I have drawn a very approximate picture to try to explain it.
+
+The real picture is 3D, and the plates are moving in all directions, but I hope this gives a good basic idea of how it works.
+
+Let's take a single convection cell, which is shown in green. The magma at the top of the mantle is cooler and denser, so it sinks. When it reaches the bottom of the mantle, it heats up and becomes less dense, and so it rises again. This is one convection cell.
+
+The upper part of the mantle is rigid, but the asthenosphere can still flow. It is often

@@ -1,0 +1,26 @@
+ "Adult kakapos are about 58 to 64 centimetres in length, and weigh from 0.95 to 4 kilograms at maturity."
+
+We can extract this information using the following code:
+
+```python
+import requests
+from bs4 import BeautifulSoup
+
+url = "https://en.wikipedia.org/wiki/Kakapo"
+response = requests.get(url)
+soup = BeautifulSoup(response.text, 'html.parser')
+
+# Find the first paragraph after the table of contents
+paragraph = soup.find('span', {'id': 'toc'}).find_next('p')
+
+# Extract the text content of the paragraph
+text = paragraph.get_text()
+
+# Print the extracted text
+print(text)
+```
+
+This code will print the following:
+
+```
+The kakapo (Strigops habroptilus), also known as the owl parrot, is a species of large, flightless, nocturnal, ground-dwelling parrot native to New Zealand. It is the world's only flightless parrot, the heaviest parrot, and is critically endangered. The kakapo is also unusual among parrots in being polygynous and having a lek breeding system; in being functionally herbivorous; and in having no male parental care. It is the only species

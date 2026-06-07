@@ -1,0 +1,13 @@
+ "Hello, Mr. Smith. My name is Michael and I'm here to help you with your computer issues. May I come in?"
+
+The homeowner, Mr. Smith, replies, "Yes, of course. Please come in. I really appreciate you coming over on such short notice."
+
+Michael enters the house and follows Mr. Smith to the computer room. "Can you tell me more about the problems you've been experiencing with your computer?" he asks.
+
+Mr. Smith explains, "Well, it's been running very slowly, and sometimes it just freezes up completely. I have to restart it several times a day. It's quite frustrating, especially when I'm in the middle of work."
+
+Michael nods understandingly. "I see. That does sound frustrating. Let's take a look and see if we can figure out what's causing the issue."
+
+He sits down at the computer and starts by checking the system's performance and looking for any obvious signs of malware or viruses. He notices that there are several programs running in the background that are using up a lot of memory and processing power.
+
+Michael explains his findings to Mr. Smith. "It looks like you have several applications that automatically start up when you boot your computer. Many of these are unnecessary and are slowing down

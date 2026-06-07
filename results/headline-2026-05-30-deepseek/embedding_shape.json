@@ -1,0 +1,1115 @@
+{
+  "run_id": "headline-2026-05-30-deepseek",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "cells": {
+    "astrachios/enters_room": {
+      "n": 200,
+      "centroid_norm": 0.5821443796157837,
+      "spread_cos": 0.6679134964942932,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -13455.425290105102
+        ],
+        [
+          2,
+          -12958.457536281156
+        ],
+        [
+          3,
+          -9861.163244371273
+        ],
+        [
+          4,
+          -9724.01604718795
+        ],
+        [
+          5,
+          -10827.774611723376
+        ]
+      ]
+    },
+    "astrachios/page_continues": {
+      "n": 200,
+      "centroid_norm": 0.6855835318565369,
+      "spread_cos": 0.5302056670188904,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -15233.957699773071
+        ],
+        [
+          2,
+          -10287.270707667874
+        ],
+        [
+          3,
+          -5665.316686754086
+        ],
+        [
+          4,
+          -2396.28167218795
+        ],
+        [
+          5,
+          -3258.777419340564
+        ]
+      ]
+    },
+    "astrachios/visitor_at_door": {
+      "n": 200,
+      "centroid_norm": 0.654604434967041,
+      "spread_cos": 0.5981138944625854,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -16059.842709538696
+        ],
+        [
+          2,
+          -14435.78297573428
+        ],
+        [
+          3,
+          -14916.622839097836
+        ],
+        [
+          4,
+          -15684.80706281295
+        ],
+        [
+          5,
+          -13603.351393949939
+        ]
+      ]
+    },
+    "astrachios_denamed/enters_room": {
+      "n": 200,
+      "centroid_norm": 0.5890776515007019,
+      "spread_cos": 0.6594415307044983,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -13104.834774968383
+        ],
+        [
+          2,
+          -8905.442399562406
+        ],
+        [
+          3,
+          -5850.540075425961
+        ],
+        [
+          4,
+          -5604.707575508262
+        ],
+        [
+          5,
+          -9181.174269926501
+        ]
+      ]
+    },
+    "astrachios_denamed/page_continues": {
+      "n": 200,
+      "centroid_norm": 0.6729844212532043,
+      "spread_cos": 0.5547510981559753,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -14897.57311725354
+        ],
+        [
+          2,
+          -11016.613359035062
+        ],
+        [
+          3,
+          -7025.866613511898
+        ],
+        [
+          4,
+          -9393.858576484825
+        ],
+        [
+          5,
+          -10208.148757231189
+        ]
+      ]
+    },
+    "astrachios_denamed/visitor_at_door": {
+      "n": 200,
+      "centroid_norm": 0.6488045454025269,
+      "spread_cos": 0.587865948677063,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -14379.991940495727
+        ],
+        [
+          2,
+          -9923.682756007718
+        ],
+        [
+          3,
+          -9435.116491441586
+        ],
+        [
+          4,
+          -6773.30803937545
+        ],
+        [
+          5,
+          -10293.622390043689
+        ]
+      ]
+    },
+    "astrachios_nonsense/enters_room": {
+      "n": 200,
+      "centroid_norm": 0.7101038694381714,
+      "spread_cos": 0.4960494041442871,
+      "k_best": 2,
+      "bic_curve": [
+        [
+          1,
+          -16391.2895479176
+        ],
+        [
+          2,
+          -17675.178117335843
+        ],
+        [
+          3,
+          -14798.52591526971
+        ],
+        [
+          4,
+          -13793.788386055137
+        ],
+        [
+          5,
+          -10451.611891996814
+        ]
+      ]
+    },
+    "astrachios_nonsense/page_continues": {
+      "n": 200,
+      "centroid_norm": 0.6727766990661621,
+      "spread_cos": 0.5782540440559387,
+      "k_best": 4,
+      "bic_curve": [
+        [
+          1,
+          -17770.81377887463
+        ],
+        [
+          2,
+          -20916.672868312406
+        ],
+        [
+          3,
+          -26224.78323948846
+        ],
+        [
+          4,
+          -28565.523005195762
+        ],
+        [
+          5,
+          -28532.28205801244
+        ]
+      ]
+    },
+    "astrachios_nonsense/visitor_at_door": {
+      "n": 200,
+      "centroid_norm": 0.6467269659042358,
+      "spread_cos": 0.5996783971786499,
+      "k_best": 4,
+      "bic_curve": [
+        [
+          1,
+          -15701.80895709729
+        ],
+        [
+          2,
+          -17100.071305812406
+        ],
+        [
+          3,
+          -18202.31925023065
+        ],
+        [
+          4,
+          -19857.350397773887
+        ],
+        [
+          5,
+          -17552.185622465564
+        ]
+      ]
+    },
+    "astrachios_random/enters_room": {
+      "n": 199,
+      "centroid_norm": 0.8704172968864441,
+      "spread_cos": 0.1631525754928589,
+      "k_best": 2,
+      "bic_curve": [
+        [
+          1,
+          -26003.239179749813
+        ],
+        [
+          2,
+          -33557.0588034542
+        ],
+        [
+          3,
+          -30041.22406924843
+        ],
+        [
+          4,
+          -28601.474082357112
+        ],
+        [
+          5,
+          -23585.359837653297
+        ]
+      ]
+    },
+    "astrachios_random/page_continues": {
+      "n": 200,
+      "centroid_norm": 0.8895246982574463,
+      "spread_cos": 0.19639205932617188,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -28300.673703191038
+        ],
+        [
+          2,
+          -25652.106828273343
+        ],
+        [
+          3,
+          -23331.5062619494
+        ],
+        [
+          4,
+          -23566.890192695762
+        ],
+        [
+          5,
+          -22213.294020903064
+        ]
+      ]
+    },
+    "astrachios_random/visitor_at_door": {
+      "n": 200,
+      "centroid_norm": 0.7652294039726257,
+      "spread_cos": 0.35355961322784424,
+      "k_best": 2,
+      "bic_curve": [
+        [
+          1,
+          -19300.905636784788
+        ],
+        [
+          2,
+          -21055.585832179593
+        ],
+        [
+          3,
+          -19099.22171605096
+        ],
+        [
+          4,
+          -19648.878718086387
+        ],
+        [
+          5,
+          -16164.441481840564
+        ]
+      ]
+    },
+    "empty/enters_room": {
+      "n": 200,
+      "centroid_norm": 0.6968973278999329,
+      "spread_cos": 0.4876551032066345,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -18718.5844697926
+        ],
+        [
+          2,
+          -16507.575578273343
+        ],
+        [
+          3,
+          -18030.12991917596
+        ],
+        [
+          4,
+          -16418.959284492637
+        ],
+        [
+          5,
+          -17349.255934965564
+        ]
+      ]
+    },
+    "empty/page_continues": {
+      "n": 200,
+      "centroid_norm": 0.8430336713790894,
+      "spread_cos": 0.2528076171875,
+      "k_best": 3,
+      "bic_curve": [
+        [
+          1,
+          -27183.736447331663
+        ],
+        [
+          2,
+          -31630.698747218656
+        ],
+        [
+          3,
+          -33415.194616441586
+        ],
+        [
+          4,
+          -31678.657770820762
+        ],
+        [
+          5,
+          -32857.56281973119
+        ]
+      ]
+    },
+    "empty/visitor_at_door": {
+      "n": 200,
+      "centroid_norm": 0.7545109987258911,
+      "spread_cos": 0.4491088390350342,
+      "k_best": 4,
+      "bic_curve": [
+        [
+          1,
+          -19619.591549870725
+        ],
+        [
+          2,
+          -21061.524552882718
+        ],
+        [
+          3,
+          -30236.801061754086
+        ],
+        [
+          4,
+          -36480.53155011764
+        ],
+        [
+          5,
+          -34734.070388090564
+        ]
+      ]
+    },
+    "headless/enters_room": {
+      "n": 200,
+      "centroid_norm": 0.8808690905570984,
+      "spread_cos": 0.2127373218536377,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -24775.414303776975
+        ],
+        [
+          2,
+          -20270.383805812406
+        ],
+        [
+          3,
+          -19937.77152073846
+        ],
+        [
+          4,
+          -16296.455622383262
+        ],
+        [
+          5,
+          -13988.422194731189
+        ]
+      ]
+    },
+    "headless/page_continues": {
+      "n": 200,
+      "centroid_norm": 0.9002851843833923,
+      "spread_cos": 0.1890459656715393,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -26780.7182588551
+        ],
+        [
+          2,
+          -22356.528825343656
+        ],
+        [
+          3,
+          -19319.48233616815
+        ],
+        [
+          4,
+          -17347.1483714067
+        ],
+        [
+          5,
+          -19748.767653715564
+        ]
+      ]
+    },
+    "headless/visitor_at_door": {
+      "n": 200,
+      "centroid_norm": 0.8332946300506592,
+      "spread_cos": 0.29206717014312744,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -22187.267331120725
+        ],
+        [
+          2,
+          -18602.988786281156
+        ],
+        [
+          3,
+          -14599.951086168148
+        ],
+        [
+          4,
+          -14775.972223945762
+        ],
+        [
+          5,
+          -15136.289016020251
+        ]
+      ]
+    },
+    "headless_denamed/enters_room": {
+      "n": 200,
+      "centroid_norm": 0.8225157260894775,
+      "spread_cos": 0.3189489245414734,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -20862.120846745725
+        ],
+        [
+          2,
+          -16933.57350307803
+        ],
+        [
+          3,
+          -14006.637487535336
+        ],
+        [
+          4,
+          -14472.9296214067
+        ],
+        [
+          5,
+          -14643.176833403064
+        ]
+      ]
+    },
+    "headless_denamed/page_continues": {
+      "n": 200,
+      "centroid_norm": 0.8880833983421326,
+      "spread_cos": 0.21038436889648438,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -25319.64648151135
+        ],
+        [
+          2,
+          -20827.183122218656
+        ],
+        [
+          3,
+          -17628.8695431994
+        ],
+        [
+          4,
+          -16298.7352854692
+        ],
+        [
+          5,
+          -18618.335524809314
+        ]
+      ]
+    },
+    "headless_denamed/visitor_at_door": {
+      "n": 200,
+      "centroid_norm": 0.7991579174995422,
+      "spread_cos": 0.3315025568008423,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -19651.644162175413
+        ],
+        [
+          2,
+          -16992.81422573428
+        ],
+        [
+          3,
+          -19158.57230198846
+        ],
+        [
+          4,
+          -14700.990534492637
+        ],
+        [
+          5,
+          -11046.018019926501
+        ]
+      ]
+    },
+    "headless_nonsense/enters_room": {
+      "n": 200,
+      "centroid_norm": 0.8232051730155945,
+      "spread_cos": 0.3170156478881836,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -21185.799435612913
+        ],
+        [
+          2,
+          -17560.557145656156
+        ],
+        [
+          3,
+          -13522.848425035336
+        ],
+        [
+          4,
+          -13823.109675117637
+        ],
+        [
+          5,
+          -14044.919387114001
+        ]
+      ]
+    },
+    "headless_nonsense/page_continues": {
+      "n": 200,
+      "centroid_norm": 0.9073904752731323,
+      "spread_cos": 0.1695570945739746,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -26998.952511784788
+        ],
+        [
+          2,
+          -23041.93531948428
+        ],
+        [
+          3,
+          -19221.25540745721
+        ],
+        [
+          4,
+          -20132.19475812545
+        ],
+        [
+          5,
+          -18029.858962309314
+        ]
+      ]
+    },
+    "headless_nonsense/visitor_at_door": {
+      "n": 200,
+      "centroid_norm": 0.8027240633964539,
+      "spread_cos": 0.35666942596435547,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -20409.487179753538
+        ],
+        [
+          2,
+          -17431.760758937406
+        ],
+        [
+          3,
+          -13523.57474339471
+        ],
+        [
+          4,
+          -13884.578180977012
+        ],
+        [
+          5,
+          -15234.259597074939
+        ]
+      ]
+    },
+    "headless_random/enters_room": {
+      "n": 200,
+      "centroid_norm": 0.867104172706604,
+      "spread_cos": 0.15722334384918213,
+      "k_best": 2,
+      "bic_curve": [
+        [
+          1,
+          -25610.811642644163
+        ],
+        [
+          2,
+          -33141.349381984284
+        ],
+        [
+          3,
+          -29494.97366917596
+        ],
+        [
+          4,
+          -24263.075495430137
+        ],
+        [
+          5,
+          -22457.24543691869
+        ]
+      ]
+    },
+    "headless_random/page_continues": {
+      "n": 199,
+      "centroid_norm": 0.8592661619186401,
+      "spread_cos": 0.23648959398269653,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -23727.947950501766
+        ],
+        [
+          2,
+          -22101.073711291116
+        ],
+        [
+          3,
+          -22772.267480503313
+        ],
+        [
+          4,
+          -22226.95471895379
+        ],
+        [
+          5,
+          -15545.448292853493
+        ]
+      ]
+    },
+    "headless_random/visitor_at_door": {
+      "n": 200,
+      "centroid_norm": 0.707705020904541,
+      "spread_cos": 0.47432708740234375,
+      "k_best": 1,
+      "bic_curve": [
+        [
+          1,
+          -16586.718014714475
+        ],
+        [
+          2,
+          -13737.842912257718
+        ],
+        [
+          3,
+          -10065.209875230648
+        ],
+        [
+          4,
+          -12311.29632062545
+        ],
+        [
+          5,
+          -12031.805983793689
+        ]
+      ]
+    }
+  },
+  "pairwise_centroid_cos": {
+    "astrachios/enters_room__vs__astrachios/page_continues": 0.22834956645965576,
+    "astrachios/enters_room__vs__astrachios/visitor_at_door": 0.20071125030517578,
+    "astrachios/enters_room__vs__astrachios_denamed/enters_room": 0.022345304489135742,
+    "astrachios/enters_room__vs__astrachios_denamed/page_continues": 0.212444007396698,
+    "astrachios/enters_room__vs__astrachios_denamed/visitor_at_door": 0.15723705291748047,
+    "astrachios/enters_room__vs__astrachios_nonsense/enters_room": 0.204947829246521,
+    "astrachios/enters_room__vs__astrachios_nonsense/page_continues": 0.37667936086654663,
+    "astrachios/enters_room__vs__astrachios_nonsense/visitor_at_door": 0.3054855465888977,
+    "astrachios/enters_room__vs__astrachios_random/enters_room": 0.5706825256347656,
+    "astrachios/enters_room__vs__astrachios_random/page_continues": 0.8513855338096619,
+    "astrachios/enters_room__vs__astrachios_random/visitor_at_door": 0.6330550909042358,
+    "astrachios/enters_room__vs__empty/enters_room": 0.460687518119812,
+    "astrachios/enters_room__vs__empty/page_continues": 0.8030797243118286,
+    "astrachios/enters_room__vs__empty/visitor_at_door": 0.5441585779190063,
+    "astrachios/enters_room__vs__headless/enters_room": 0.2715059518814087,
+    "astrachios/enters_room__vs__headless/page_continues": 0.4370878338813782,
+    "astrachios/enters_room__vs__headless/visitor_at_door": 0.3437340259552002,
+    "astrachios/enters_room__vs__headless_denamed/enters_room": 0.19465065002441406,
+    "astrachios/enters_room__vs__headless_denamed/page_continues": 0.36513763666152954,
+    "astrachios/enters_room__vs__headless_denamed/visitor_at_door": 0.17542338371276855,
+    "astrachios/enters_room__vs__headless_nonsense/enters_room": 0.23570281267166138,
+    "astrachios/enters_room__vs__headless_nonsense/page_continues": 0.39306002855300903,
+    "astrachios/enters_room__vs__headless_nonsense/visitor_at_door": 0.23890280723571777,
+    "astrachios/enters_room__vs__headless_random/enters_room": 0.5271377563476562,
+    "astrachios/enters_room__vs__headless_random/page_continues": 0.9406955242156982,
+    "astrachios/enters_room__vs__headless_random/visitor_at_door": 0.6890496015548706,
+    "astrachios/page_continues__vs__astrachios/visitor_at_door": 0.18028241395950317,
+    "astrachios/page_continues__vs__astrachios_denamed/enters_room": 0.2521580457687378,
+    "astrachios/page_continues__vs__astrachios_denamed/page_continues": 0.03458511829376221,
+    "astrachios/page_continues__vs__astrachios_denamed/visitor_at_door": 0.2033746838569641,
+    "astrachios/page_continues__vs__astrachios_nonsense/enters_room": 0.426338255405426,
+    "astrachios/page_continues__vs__astrachios_nonsense/page_continues": 0.42263299226760864,
+    "astrachios/page_continues__vs__astrachios_nonsense/visitor_at_door": 0.4473835825920105,
+    "astrachios/page_continues__vs__astrachios_random/enters_room": 0.8449188470840454,
+    "astrachios/page_continues__vs__astrachios_random/page_continues": 0.948286771774292,
+    "astrachios/page_continues__vs__astrachios_random/visitor_at_door": 0.8333873152732849,
+    "astrachios/page_continues__vs__empty/enters_room": 0.8031888604164124,
+    "astrachios/page_continues__vs__empty/page_continues": 0.816216230392456,
+    "astrachios/page_continues__vs__empty/visitor_at_door": 0.7376292943954468,
+    "astrachios/page_continues__vs__headless/enters_room": 0.3505709767341614,
+    "astrachios/page_continues__vs__headless/page_continues": 0.3206351399421692,
+    "astrachios/page_continues__vs__headless/visitor_at_door": 0.26876991987228394,
+    "astrachios/page_continues__vs__headless_denamed/enters_room": 0.3345564007759094,
+    "astrachios/page_continues__vs__headless_denamed/page_continues": 0.24215584993362427,
+    "astrachios/page_continues__vs__headless_denamed/visitor_at_door": 0.2104804515838623,
+    "astrachios/page_continues__vs__headless_nonsense/enters_room": 0.32943665981292725,
+    "astrachios/page_continues__vs__headless_nonsense/page_continues": 0.2526848316192627,
+    "astrachios/page_continues__vs__headless_nonsense/visitor_at_door": 0.23320960998535156,
+    "astrachios/page_continues__vs__headless_random/enters_room": 0.7615863084793091,
+    "astrachios/page_continues__vs__headless_random/page_continues": 0.9212055802345276,
+    "astrachios/page_continues__vs__headless_random/visitor_at_door": 0.7854793071746826,
+    "astrachios/visitor_at_door__vs__astrachios_denamed/enters_room": 0.24161630868911743,
+    "astrachios/visitor_at_door__vs__astrachios_denamed/page_continues": 0.1276523470878601,
+    "astrachios/visitor_at_door__vs__astrachios_denamed/visitor_at_door": 0.12019699811935425,
+    "astrachios/visitor_at_door__vs__astrachios_nonsense/enters_room": 0.2891584038734436,
+    "astrachios/visitor_at_door__vs__astrachios_nonsense/page_continues": 0.250782310962677,
+    "astrachios/visitor_at_door__vs__astrachios_nonsense/visitor_at_door": 0.17130428552627563,
+    "astrachios/visitor_at_door__vs__astrachios_random/enters_room": 0.7092748880386353,
+    "astrachios/visitor_at_door__vs__astrachios_random/page_continues": 0.912555456161499,
+    "astrachios/visitor_at_door__vs__astrachios_random/visitor_at_door": 0.6268455982208252,
+    "astrachios/visitor_at_door__vs__empty/enters_room": 0.6274986267089844,
+    "astrachios/visitor_at_door__vs__empty/page_continues": 0.8174837827682495,
+    "astrachios/visitor_at_door__vs__empty/visitor_at_door": 0.4277533292770386,
+    "astrachios/visitor_at_door__vs__headless/enters_room": 0.33885836601257324,
+    "astrachios/visitor_at_door__vs__headless/page_continues": 0.4186055064201355,
+    "astrachios/visitor_at_door__vs__headless/visitor_at_door": 0.2748206853866577,
+    "astrachios/visitor_at_door__vs__headless_denamed/enters_room": 0.3208932876586914,
+    "astrachios/visitor_at_door__vs__headless_denamed/page_continues": 0.32550984621047974,
+    "astrachios/visitor_at_door__vs__headless_denamed/visitor_at_door": 0.21112275123596191,
+    "astrachios/visitor_at_door__vs__headless_nonsense/enters_room": 0.3128893971443176,
+    "astrachios/visitor_at_door__vs__headless_nonsense/page_continues": 0.32630455493927,
+    "astrachios/visitor_at_door__vs__headless_nonsense/visitor_at_door": 0.210829496383667,
+    "astrachios/visitor_at_door__vs__headless_random/enters_room": 0.6510277986526489,
+    "astrachios/visitor_at_door__vs__headless_random/page_continues": 0.9769029021263123,
+    "astrachios/visitor_at_door__vs__headless_random/visitor_at_door": 0.6996889114379883,
+    "astrachios_denamed/enters_room__vs__astrachios_denamed/page_continues": 0.2296866774559021,
+    "astrachios_denamed/enters_room__vs__astrachios_denamed/visitor_at_door": 0.14237761497497559,
+    "astrachios_denamed/enters_room__vs__astrachios_nonsense/enters_room": 0.23214858770370483,
+    "astrachios_denamed/enters_room__vs__astrachios_nonsense/page_continues": 0.38246995210647583,
+    "astrachios_denamed/enters_room__vs__astrachios_nonsense/visitor_at_door": 0.2956567406654358,
+    "astrachios_denamed/enters_room__vs__astrachios_random/enters_room": 0.5781410932540894,
+    "astrachios_denamed/enters_room__vs__astrachios_random/page_continues": 0.8398197889328003,
+    "astrachios_denamed/enters_room__vs__astrachios_random/visitor_at_door": 0.6326730847358704,
+    "astrachios_denamed/enters_room__vs__empty/enters_room": 0.49559497833251953,
+    "astrachios_denamed/enters_room__vs__empty/page_continues": 0.7995362877845764,
+    "astrachios_denamed/enters_room__vs__empty/visitor_at_door": 0.5504818558692932,
+    "astrachios_denamed/enters_room__vs__headless/enters_room": 0.32141345739364624,
+    "astrachios_denamed/enters_room__vs__headless/page_continues": 0.4787730574607849,
+    "astrachios_denamed/enters_room__vs__headless/visitor_at_door": 0.3898077607154846,
+    "astrachios_denamed/enters_room__vs__headless_denamed/enters_room": 0.2341514229774475,
+    "astrachios_denamed/enters_room__vs__headless_denamed/page_continues": 0.4093937873840332,
+    "astrachios_denamed/enters_room__vs__headless_denamed/visitor_at_door": 0.20491182804107666,
+    "astrachios_denamed/enters_room__vs__headless_nonsense/enters_room": 0.2779395580291748,
+    "astrachios_denamed/enters_room__vs__headless_nonsense/page_continues": 0.44465500116348267,
+    "astrachios_denamed/enters_room__vs__headless_nonsense/visitor_at_door": 0.27539587020874023,
+    "astrachios_denamed/enters_room__vs__headless_random/enters_room": 0.540282130241394,
+    "astrachios_denamed/enters_room__vs__headless_random/page_continues": 0.9261951446533203,
+    "astrachios_denamed/enters_room__vs__headless_random/visitor_at_door": 0.6785397529602051,
+    "astrachios_denamed/page_continues__vs__astrachios_denamed/visitor_at_door": 0.17472296953201294,
+    "astrachios_denamed/page_continues__vs__astrachios_nonsense/enters_room": 0.3925855755805969,
+    "astrachios_denamed/page_continues__vs__astrachios_nonsense/page_continues": 0.34986305236816406,
+    "astrachios_denamed/page_continues__vs__astrachios_nonsense/visitor_at_door": 0.37657952308654785,
+    "astrachios_denamed/page_continues__vs__astrachios_random/enters_room": 0.8032953143119812,
+    "astrachios_denamed/page_continues__vs__astrachios_random/page_continues": 0.9224592447280884,
+    "astrachios_denamed/page_continues__vs__astrachios_random/visitor_at_door": 0.7861097455024719,
+    "astrachios_denamed/page_continues__vs__empty/enters_room": 0.7830172777175903,
+    "astrachios_denamed/page_continues__vs__empty/page_continues": 0.7939091324806213,
+    "astrachios_denamed/page_continues__vs__empty/visitor_at_door": 0.6798645257949829,
+    "astrachios_denamed/page_continues__vs__headless/enters_room": 0.37310731410980225,
+    "astrachios_denamed/page_continues__vs__headless/page_continues": 0.3488333225250244,
+    "astrachios_denamed/page_continues__vs__headless/visitor_at_door": 0.2826188802719116,
+    "astrachios_denamed/page_continues__vs__headless_denamed/enters_room": 0.35796183347702026,
+    "astrachios_denamed/page_continues__vs__headless_denamed/page_continues": 0.2625528573989868,
+    "astrachios_denamed/page_continues__vs__headless_denamed/visitor_at_door": 0.23107099533081055,
+    "astrachios_denamed/page_continues__vs__headless_nonsense/enters_room": 0.35888099670410156,
+    "astrachios_denamed/page_continues__vs__headless_nonsense/page_continues": 0.28000950813293457,
+    "astrachios_denamed/page_continues__vs__headless_nonsense/visitor_at_door": 0.25287550687789917,
+    "astrachios_denamed/page_continues__vs__headless_random/enters_room": 0.7436982989311218,
+    "astrachios_denamed/page_continues__vs__headless_random/page_continues": 0.9324899315834045,
+    "astrachios_denamed/page_continues__vs__headless_random/visitor_at_door": 0.7879481911659241,
+    "astrachios_denamed/visitor_at_door__vs__astrachios_nonsense/enters_room": 0.3734193444252014,
+    "astrachios_denamed/visitor_at_door__vs__astrachios_nonsense/page_continues": 0.399016797542572,
+    "astrachios_denamed/visitor_at_door__vs__astrachios_nonsense/visitor_at_door": 0.19761121273040771,
+    "astrachios_denamed/visitor_at_door__vs__astrachios_random/enters_room": 0.6741374731063843,
+    "astrachios_denamed/visitor_at_door__vs__astrachios_random/page_continues": 0.8700712323188782,
+    "astrachios_denamed/visitor_at_door__vs__astrachios_random/visitor_at_door": 0.5719227194786072,
+    "astrachios_denamed/visitor_at_door__vs__empty/enters_room": 0.6438970565795898,
+    "astrachios_denamed/visitor_at_door__vs__empty/page_continues": 0.818701982498169,
+    "astrachios_denamed/visitor_at_door__vs__empty/visitor_at_door": 0.41890084743499756,
+    "astrachios_denamed/visitor_at_door__vs__headless/enters_room": 0.3531632423400879,
+    "astrachios_denamed/visitor_at_door__vs__headless/page_continues": 0.4605909585952759,
+    "astrachios_denamed/visitor_at_door__vs__headless/visitor_at_door": 0.3144803047180176,
+    "astrachios_denamed/visitor_at_door__vs__headless_denamed/enters_room": 0.3500874638557434,
+    "astrachios_denamed/visitor_at_door__vs__headless_denamed/page_continues": 0.4022058844566345,
+    "astrachios_denamed/visitor_at_door__vs__headless_denamed/visitor_at_door": 0.2372698187828064,
+    "astrachios_denamed/visitor_at_door__vs__headless_nonsense/enters_room": 0.36184823513031006,
+    "astrachios_denamed/visitor_at_door__vs__headless_nonsense/page_continues": 0.42417967319488525,
+    "astrachios_denamed/visitor_at_door__vs__headless_nonsense/visitor_at_door": 0.2656540274620056,
+    "astrachios_denamed/visitor_at_door__vs__headless_random/enters_room": 0.6486544609069824,
+    "astrachios_denamed/visitor_at_door__vs__headless_random/page_continues": 0.977773904800415,
+    "astrachios_denamed/visitor_at_door__vs__headless_random/visitor_at_door": 0.6813684701919556,
+    "astrachios_nonsense/enters_room__vs__astrachios_nonsense/page_continues": 0.22780537605285645,
+    "astrachios_nonsense/enters_room__vs__astrachios_nonsense/visitor_at_door": 0.2541636824607849,
+    "astrachios_nonsense/enters_room__vs__astrachios_random/enters_room": 0.5027031302452087,
+    "astrachios_nonsense/enters_room__vs__astrachios_random/page_continues": 0.8062074184417725,
+    "astrachios_nonsense/enters_room__vs__astrachios_random/visitor_at_door": 0.5979790687561035,
+    "astrachios_nonsense/enters_room__vs__empty/enters_room": 0.34095990657806396,
+    "astrachios_nonsense/enters_room__vs__empty/page_continues": 0.8305361270904541,
+    "astrachios_nonsense/enters_room__vs__empty/visitor_at_door": 0.4882505536079407,
+    "astrachios_nonsense/enters_room__vs__headless/enters_room": 0.30244672298431396,
+    "astrachios_nonsense/enters_room__vs__headless/page_continues": 0.49415040016174316,
+    "astrachios_nonsense/enters_room__vs__headless/visitor_at_door": 0.4026639461517334,
+    "astrachios_nonsense/enters_room__vs__headless_denamed/enters_room": 0.13544303178787231,
+    "astrachios_nonsense/enters_room__vs__headless_denamed/page_continues": 0.42856717109680176,
+    "astrachios_nonsense/enters_room__vs__headless_denamed/visitor_at_door": 0.21595317125320435,
+    "astrachios_nonsense/enters_room__vs__headless_nonsense/enters_room": 0.1449785828590393,
+    "astrachios_nonsense/enters_room__vs__headless_nonsense/page_continues": 0.41542208194732666,
+    "astrachios_nonsense/enters_room__vs__headless_nonsense/visitor_at_door": 0.23326432704925537,
+    "astrachios_nonsense/enters_room__vs__headless_random/enters_room": 0.43441516160964966,
+    "astrachios_nonsense/enters_room__vs__headless_random/page_continues": 0.9119504690170288,
+    "astrachios_nonsense/enters_room__vs__headless_random/visitor_at_door": 0.6172208786010742,
+    "astrachios_nonsense/page_continues__vs__astrachios_nonsense/visitor_at_door": 0.15493077039718628,
+    "astrachios_nonsense/page_continues__vs__astrachios_random/enters_room": 0.7259746193885803,
+    "astrachios_nonsense/page_continues__vs__astrachios_random/page_continues": 0.8448909521102905,
+    "astrachios_nonsense/page_continues__vs__astrachios_random/visitor_at_door": 0.6867879629135132,
+    "astrachios_nonsense/page_continues__vs__empty/enters_room": 0.6897112727165222,
+    "astrachios_nonsense/page_continues__vs__empty/page_continues": 0.7706525325775146,
+    "astrachios_nonsense/page_continues__vs__empty/visitor_at_door": 0.5745382308959961,
+    "astrachios_nonsense/page_continues__vs__headless/enters_room": 0.5650147199630737,
+    "astrachios_nonsense/page_continues__vs__headless/page_continues": 0.5706333518028259,
+    "astrachios_nonsense/page_continues__vs__headless/visitor_at_door": 0.5066912770271301,
+    "astrachios_nonsense/page_continues__vs__headless_denamed/enters_room": 0.4466705918312073,
+    "astrachios_nonsense/page_continues__vs__headless_denamed/page_continues": 0.47012847661972046,
+    "astrachios_nonsense/page_continues__vs__headless_denamed/visitor_at_door": 0.3760450482368469,
+    "astrachios_nonsense/page_continues__vs__headless_nonsense/enters_room": 0.4140647053718567,
+    "astrachios_nonsense/page_continues__vs__headless_nonsense/page_continues": 0.4216620922088623,
+    "astrachios_nonsense/page_continues__vs__headless_nonsense/visitor_at_door": 0.3357466459274292,
+    "astrachios_nonsense/page_continues__vs__headless_random/enters_room": 0.6924574375152588,
+    "astrachios_nonsense/page_continues__vs__headless_random/page_continues": 0.8965750336647034,
+    "astrachios_nonsense/page_continues__vs__headless_random/visitor_at_door": 0.7192825078964233,
+    "astrachios_nonsense/visitor_at_door__vs__astrachios_random/enters_room": 0.5890464782714844,
+    "astrachios_nonsense/visitor_at_door__vs__astrachios_random/page_continues": 0.8453986644744873,
+    "astrachios_nonsense/visitor_at_door__vs__astrachios_random/visitor_at_door": 0.4952753782272339,
+    "astrachios_nonsense/visitor_at_door__vs__empty/enters_room": 0.5475286245346069,
+    "astrachios_nonsense/visitor_at_door__vs__empty/page_continues": 0.763240396976471,
+    "astrachios_nonsense/visitor_at_door__vs__empty/visitor_at_door": 0.26523667573928833,
+    "astrachios_nonsense/visitor_at_door__vs__headless/enters_room": 0.47469228506088257,
+    "astrachios_nonsense/visitor_at_door__vs__headless/page_continues": 0.6212584972381592,
+    "astrachios_nonsense/visitor_at_door__vs__headless/visitor_at_door": 0.4622340798377991,
+    "astrachios_nonsense/visitor_at_door__vs__headless_denamed/enters_room": 0.41244304180145264,
+    "astrachios_nonsense/visitor_at_door__vs__headless_denamed/page_continues": 0.5568921566009521,
+    "astrachios_nonsense/visitor_at_door__vs__headless_denamed/visitor_at_door": 0.3504965901374817,
+    "astrachios_nonsense/visitor_at_door__vs__headless_nonsense/enters_room": 0.3989250659942627,
+    "astrachios_nonsense/visitor_at_door__vs__headless_nonsense/page_continues": 0.5314573645591736,
+    "astrachios_nonsense/visitor_at_door__vs__headless_nonsense/visitor_at_door": 0.3255652189254761,
+    "astrachios_nonsense/visitor_at_door__vs__headless_random/enters_room": 0.566926121711731,
+    "astrachios_nonsense/visitor_at_door__vs__headless_random/page_continues": 0.9939317107200623,
+    "astrachios_nonsense/visitor_at_door__vs__headless_random/visitor_at_door": 0.6383870840072632,
+    "astrachios_random/enters_room__vs__astrachios_random/page_continues": 0.36394792795181274,
+    "astrachios_random/enters_room__vs__astrachios_random/visitor_at_door": 0.25345808267593384,
+    "astrachios_random/enters_room__vs__empty/enters_room": 0.37590354681015015,
+    "astrachios_random/enters_room__vs__empty/page_continues": 0.8975971341133118,
+    "astrachios_random/enters_room__vs__empty/visitor_at_door": 0.5988998413085938,
+    "astrachios_random/enters_room__vs__headless/enters_room": 0.47904282808303833,
+    "astrachios_random/enters_room__vs__headless/page_continues": 0.7870216369628906,
+    "astrachios_random/enters_room__vs__headless/visitor_at_door": 0.7070207595825195,
+    "astrachios_random/enters_room__vs__headless_denamed/enters_room": 0.5589454770088196,
+    "astrachios_random/enters_room__vs__headless_denamed/page_continues": 0.8283101320266724,
+    "astrachios_random/enters_room__vs__headless_denamed/visitor_at_door": 0.7151853442192078,
+    "astrachios_random/enters_room__vs__headless_nonsense/enters_room": 0.5665404796600342,
+    "astrachios_random/enters_room__vs__headless_nonsense/page_continues": 0.8462778925895691,
+    "astrachios_random/enters_room__vs__headless_nonsense/visitor_at_door": 0.6965091824531555,
+    "astrachios_random/enters_room__vs__headless_random/enters_room": 0.3793075680732727,
+    "astrachios_random/enters_room__vs__headless_random/page_continues": 1.060292363166809,
+    "astrachios_random/enters_room__vs__headless_random/visitor_at_door": 0.8279285430908203,
+    "astrachios_random/page_continues__vs__astrachios_random/visitor_at_door": 0.22775942087173462,
+    "astrachios_random/page_continues__vs__empty/enters_room": 0.8763839602470398,
+    "astrachios_random/page_continues__vs__empty/page_continues": 0.9664952158927917,
+    "astrachios_random/page_continues__vs__empty/visitor_at_door": 0.9201263189315796,
+    "astrachios_random/page_continues__vs__headless/enters_room": 0.8426767587661743,
+    "astrachios_random/page_continues__vs__headless/page_continues": 0.8517297506332397,
+    "astrachios_random/page_continues__vs__headless/visitor_at_door": 0.8461505174636841,
+    "astrachios_random/page_continues__vs__headless_denamed/enters_room": 0.8708238005638123,
+    "astrachios_random/page_continues__vs__headless_denamed/page_continues": 0.8918434381484985,
+    "astrachios_random/page_continues__vs__headless_denamed/visitor_at_door": 0.90777587890625,
+    "astrachios_random/page_continues__vs__headless_nonsense/enters_room": 0.8345333933830261,
+    "astrachios_random/page_continues__vs__headless_nonsense/page_continues": 0.8782528638839722,
+    "astrachios_random/page_continues__vs__headless_nonsense/visitor_at_door": 0.8468939661979675,
+    "astrachios_random/page_continues__vs__headless_random/enters_room": 0.9620077610015869,
+    "astrachios_random/page_continues__vs__headless_random/page_continues": 0.9389750361442566,
+    "astrachios_random/page_continues__vs__headless_random/visitor_at_door": 0.9165177941322327,
+    "astrachios_random/visitor_at_door__vs__empty/enters_room": 0.6139047145843506,
+    "astrachios_random/visitor_at_door__vs__empty/page_continues": 0.8300057649612427,
+    "astrachios_random/visitor_at_door__vs__empty/visitor_at_door": 0.4232195019721985,
+    "astrachios_random/visitor_at_door__vs__headless/enters_room": 0.6655064225196838,
+    "astrachios_random/visitor_at_door__vs__headless/page_continues": 0.7872296571731567,
+    "astrachios_random/visitor_at_door__vs__headless/visitor_at_door": 0.6667032837867737,
+    "astrachios_random/visitor_at_door__vs__headless_denamed/enters_room": 0.6861035227775574,
+    "astrachios_random/visitor_at_door__vs__headless_denamed/page_continues": 0.8091126084327698,
+    "astrachios_random/visitor_at_door__vs__headless_denamed/visitor_at_door": 0.6982505321502686,
+    "astrachios_random/visitor_at_door__vs__headless_nonsense/enters_room": 0.6490693688392639,
+    "astrachios_random/visitor_at_door__vs__headless_nonsense/page_continues": 0.8032208681106567,
+    "astrachios_random/visitor_at_door__vs__headless_nonsense/visitor_at_door": 0.6349211931228638,
+    "astrachios_random/visitor_at_door__vs__headless_random/enters_room": 0.701330840587616,
+    "astrachios_random/visitor_at_door__vs__headless_random/page_continues": 1.0187913179397583,
+    "astrachios_random/visitor_at_door__vs__headless_random/visitor_at_door": 0.6492472887039185,
+    "empty/enters_room__vs__empty/page_continues": 0.8701807260513306,
+    "empty/enters_room__vs__empty/visitor_at_door": 0.4754347801208496,
+    "empty/enters_room__vs__headless/enters_room": 0.40609002113342285,
+    "empty/enters_room__vs__headless/page_continues": 0.7911216020584106,
+    "empty/enters_room__vs__headless/visitor_at_door": 0.6781657934188843,
+    "empty/enters_room__vs__headless_denamed/enters_room": 0.38984155654907227,
+    "empty/enters_room__vs__headless_denamed/page_continues": 0.8313288688659668,
+    "empty/enters_room__vs__headless_denamed/visitor_at_door": 0.5953577160835266,
+    "empty/enters_room__vs__headless_nonsense/enters_room": 0.4229394197463989,
+    "empty/enters_room__vs__headless_nonsense/page_continues": 0.8334357738494873,
+    "empty/enters_room__vs__headless_nonsense/visitor_at_door": 0.6165117621421814,
+    "empty/enters_room__vs__headless_random/enters_room": 0.3291439414024353,
+    "empty/enters_room__vs__headless_random/page_continues": 1.078068494796753,
+    "empty/enters_room__vs__headless_random/visitor_at_door": 0.729072093963623,
+    "empty/page_continues__vs__empty/visitor_at_door": 0.7559891939163208,
+    "empty/page_continues__vs__headless/enters_room": 0.9381630420684814,
+    "empty/page_continues__vs__headless/page_continues": 0.9106814861297607,
+    "empty/page_continues__vs__headless/visitor_at_door": 0.876949667930603,
+    "empty/page_continues__vs__headless_denamed/enters_room": 0.8516179323196411,
+    "empty/page_continues__vs__headless_denamed/page_continues": 0.8562560081481934,
+    "empty/page_continues__vs__headless_denamed/visitor_at_door": 0.7973833084106445,
+    "empty/page_continues__vs__headless_nonsense/enters_room": 0.864362359046936,
+    "empty/page_continues__vs__headless_nonsense/page_continues": 0.8690751791000366,
+    "empty/page_continues__vs__headless_nonsense/visitor_at_door": 0.7941951155662537,
+    "empty/page_continues__vs__headless_random/enters_room": 0.7732216715812683,
+    "empty/page_continues__vs__headless_random/page_continues": 0.8202762603759766,
+    "empty/page_continues__vs__headless_random/visitor_at_door": 0.7449820637702942,
+    "empty/visitor_at_door__vs__headless/enters_room": 0.6106156706809998,
+    "empty/visitor_at_door__vs__headless/page_continues": 0.826984167098999,
+    "empty/visitor_at_door__vs__headless/visitor_at_door": 0.6232049465179443,
+    "empty/visitor_at_door__vs__headless_denamed/enters_room": 0.5871502757072449,
+    "empty/visitor_at_door__vs__headless_denamed/page_continues": 0.812625527381897,
+    "empty/visitor_at_door__vs__headless_denamed/visitor_at_door": 0.572353720664978,
+    "empty/visitor_at_door__vs__headless_nonsense/enters_room": 0.5959377288818359,
+    "empty/visitor_at_door__vs__headless_nonsense/page_continues": 0.8217424154281616,
+    "empty/visitor_at_door__vs__headless_nonsense/visitor_at_door": 0.5708482265472412,
+    "empty/visitor_at_door__vs__headless_random/enters_room": 0.5721158981323242,
+    "empty/visitor_at_door__vs__headless_random/page_continues": 1.1032458543777466,
+    "empty/visitor_at_door__vs__headless_random/visitor_at_door": 0.6101728677749634,
+    "headless/enters_room__vs__headless/page_continues": 0.20592820644378662,
+    "headless/enters_room__vs__headless/visitor_at_door": 0.1242174506187439,
+    "headless/enters_room__vs__headless_denamed/enters_room": 0.18001896142959595,
+    "headless/enters_room__vs__headless_denamed/page_continues": 0.3032301664352417,
+    "headless/enters_room__vs__headless_denamed/visitor_at_door": 0.2631348967552185,
+    "headless/enters_room__vs__headless_nonsense/enters_room": 0.20776474475860596,
+    "headless/enters_room__vs__headless_nonsense/page_continues": 0.36079227924346924,
+    "headless/enters_room__vs__headless_nonsense/visitor_at_door": 0.29731041193008423,
+    "headless/enters_room__vs__headless_random/enters_room": 0.458948016166687,
+    "headless/enters_room__vs__headless_random/page_continues": 0.990931510925293,
+    "headless/enters_room__vs__headless_random/visitor_at_door": 0.7711165547370911,
+    "headless/page_continues__vs__headless/visitor_at_door": 0.06950408220291138,
+    "headless/page_continues__vs__headless_denamed/enters_room": 0.3965091109275818,
+    "headless/page_continues__vs__headless_denamed/page_continues": 0.15256094932556152,
+    "headless/page_continues__vs__headless_denamed/visitor_at_door": 0.34623968601226807,
+    "headless/page_continues__vs__headless_nonsense/enters_room": 0.39060622453689575,
+    "headless/page_continues__vs__headless_nonsense/page_continues": 0.21991866827011108,
+    "headless/page_continues__vs__headless_nonsense/visitor_at_door": 0.34681588411331177,
+    "headless/page_continues__vs__headless_random/enters_room": 0.7671788334846497,
+    "headless/page_continues__vs__headless_random/page_continues": 0.9200204014778137,
+    "headless/page_continues__vs__headless_random/visitor_at_door": 0.8234140872955322,
+    "headless/visitor_at_door__vs__headless_denamed/enters_room": 0.2921445369720459,
+    "headless/visitor_at_door__vs__headless_denamed/page_continues": 0.16113793849945068,
+    "headless/visitor_at_door__vs__headless_denamed/visitor_at_door": 0.23008310794830322,
+    "headless/visitor_at_door__vs__headless_nonsense/enters_room": 0.29284948110580444,
+    "headless/visitor_at_door__vs__headless_nonsense/page_continues": 0.22457998991012573,
+    "headless/visitor_at_door__vs__headless_nonsense/visitor_at_door": 0.2460482120513916,
+    "headless/visitor_at_door__vs__headless_random/enters_room": 0.6917071342468262,
+    "headless/visitor_at_door__vs__headless_random/page_continues": 0.9448540210723877,
+    "headless/visitor_at_door__vs__headless_random/visitor_at_door": 0.7466948628425598,
+    "headless_denamed/enters_room__vs__headless_denamed/page_continues": 0.3048124313354492,
+    "headless_denamed/enters_room__vs__headless_denamed/visitor_at_door": 0.08387315273284912,
+    "headless_denamed/enters_room__vs__headless_nonsense/enters_room": 0.06627929210662842,
+    "headless_denamed/enters_room__vs__headless_nonsense/page_continues": 0.37461620569229126,
+    "headless_denamed/enters_room__vs__headless_nonsense/visitor_at_door": 0.1733068823814392,
+    "headless_denamed/enters_room__vs__headless_random/enters_room": 0.45396584272384644,
+    "headless_denamed/enters_room__vs__headless_random/page_continues": 0.9255503416061401,
+    "headless_denamed/enters_room__vs__headless_random/visitor_at_door": 0.6671026945114136,
+    "headless_denamed/page_continues__vs__headless_denamed/visitor_at_door": 0.2141953706741333,
+    "headless_denamed/page_continues__vs__headless_nonsense/enters_room": 0.31700974702835083,
+    "headless_denamed/page_continues__vs__headless_nonsense/page_continues": 0.10251104831695557,
+    "headless_denamed/page_continues__vs__headless_nonsense/visitor_at_door": 0.23878240585327148,
+    "headless_denamed/page_continues__vs__headless_random/enters_room": 0.7652685642242432,
+    "headless_denamed/page_continues__vs__headless_random/page_continues": 0.8617168664932251,
+    "headless_denamed/page_continues__vs__headless_random/visitor_at_door": 0.7770925164222717,
+    "headless_denamed/visitor_at_door__vs__headless_nonsense/enters_room": 0.1323884129524231,
+    "headless_denamed/visitor_at_door__vs__headless_nonsense/page_continues": 0.2819351553916931,
+    "headless_denamed/visitor_at_door__vs__headless_nonsense/visitor_at_door": 0.09721368551254272,
+    "headless_denamed/visitor_at_door__vs__headless_random/enters_room": 0.5940291881561279,
+    "headless_denamed/visitor_at_door__vs__headless_random/page_continues": 0.8674874305725098,
+    "headless_denamed/visitor_at_door__vs__headless_random/visitor_at_door": 0.6321531534194946,
+    "headless_nonsense/enters_room__vs__headless_nonsense/page_continues": 0.25524455308914185,
+    "headless_nonsense/enters_room__vs__headless_nonsense/visitor_at_door": 0.07895278930664062,
+    "headless_nonsense/enters_room__vs__headless_random/enters_room": 0.48335570096969604,
+    "headless_nonsense/enters_room__vs__headless_random/page_continues": 0.924142599105835,
+    "headless_nonsense/enters_room__vs__headless_random/visitor_at_door": 0.6506319642066956,
+    "headless_nonsense/page_continues__vs__headless_nonsense/visitor_at_door": 0.1547234058380127,
+    "headless_nonsense/page_continues__vs__headless_random/enters_room": 0.794074535369873,
+    "headless_nonsense/page_continues__vs__headless_random/page_continues": 0.871916651725769,
+    "headless_nonsense/page_continues__vs__headless_random/visitor_at_door": 0.7887915372848511,
+    "headless_nonsense/visitor_at_door__vs__headless_random/enters_room": 0.615208089351654,
+    "headless_nonsense/visitor_at_door__vs__headless_random/page_continues": 0.8864070177078247,
+    "headless_nonsense/visitor_at_door__vs__headless_random/visitor_at_door": 0.6276134848594666,
+    "headless_random/enters_room__vs__headless_random/page_continues": 0.6613671779632568,
+    "headless_random/enters_room__vs__headless_random/visitor_at_door": 0.408974826335907,
+    "headless_random/page_continues__vs__headless_random/visitor_at_door": 0.2996148467063904
+  }
+}

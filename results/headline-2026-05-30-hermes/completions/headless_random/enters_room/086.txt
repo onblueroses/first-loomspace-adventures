@@ -1,0 +1,13 @@
+ 
+
+It is a life-sized robotic model of Earth, showing the planet's layers and tectonic plates in great detail. The model is interactive, allowing you to explore the Earth's internal structure and the movement of tectonic plates over time.
+
+The robotic model splits open, revealing the Earth's layers:
+
+1. Inner Core: The innermost layer is the solid inner core, composed primarily of iron and nickel. Despite the immense heat, the inner core is solid due to the extreme pressure at the center of the Earth.
+
+2. Outer Core: Surrounding the inner core is the liquid outer core, also composed mainly of iron and nickel. The motion of the liquid in the outer core generates Earth's magnetic field.
+
+3. Mantle: The mantle is the largest layer, composed of silicate rocks rich in iron and magnesium. The mantle is divided into the upper and lower mantle. The upper mantle contains the asthenosphere, a highly viscous, mechanically weak region that allows the tectonic plates to move.
+
+4. Crust: The thin outermost layer is the crust, which comes in two types - oceanic crust (thinner and denser) and continental crust (thicker and less dense). The crust and the solid uppermost part of the

@@ -1,0 +1,14 @@
+That's an excellent and accurate summary of plate tectonics. You've captured the core concepts clearly.
+
+Building on what you've provided, here are some additional key points and implications of the theory:
+
+### Driving Forces & Mechanisms (Beyond Convection)
+While mantle convection is a primary driver, the movement is also powered by:
+*   **Ridge Push:** At mid-ocean ridges, the new, hot lithosphere is elevated. Gravity causes it to slide down the sloping ridge, pushing the plate away.
+*   **Slab Pull:** At subduction zones, the cold, dense oceanic plate sinks into the mantle. This sinking pulls the rest of the plate behind it, which is considered the most significant single driving force.
+
+### The "Conveyor Belt" in Detail
+This principle explains the **rock cycle** on a planetary scale:
+1.  **Creation:** New oceanic crust forms at **divergent boundaries** (mid-ocean ridges) from upwelling magma.
+2.  **Destruction:** Old, cold oceanic crust is recycled back into the mantle at **convergent boundaries** (subduction zones).
+3.  Because of this, **the oldest oceanic crust on Earth is only about ~200 million years old**, while continental crust can be billions of

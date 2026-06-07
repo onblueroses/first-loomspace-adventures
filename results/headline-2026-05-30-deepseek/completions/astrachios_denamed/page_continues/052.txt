@@ -1,0 +1,7 @@
+ "The first angel of the first hour, Satquiel; of the second, Bakiel; of the third, Mudiel; of the fourth, Machasiel; of the fifth, Acusuel; of the sixth, Dalquiel; of the seventh, Zachariel; of the eighth, Barbiel; of the ninth, Cafziel; of the tenth, Hocroel; of the eleventh, Agiel; of the twelfth, Adoniel."
+
+The names of the hours of the day: "First, Yanor; second, Janor; third, Nasnia; fourth, Salla; fifth, Sadedali; sixth, Thamur; seventh, Ourer; eighth, Thamic; ninth, Neron; tenth, Jayon; eleventh, Abai; twelfth, Natalon."
+
+The names of the hours of the night: "First, Beron; second, Barol; third, Thami; fourth, Athar; fifth, Methon; sixth, Rana; seventh, Netos; eighth, Tafrac; ninth, Sassur; tenth, Aglo; eleventh, Calerva; twelfth, Salam."
+
+The names of the angels of the winds: "East, Oriel; West,

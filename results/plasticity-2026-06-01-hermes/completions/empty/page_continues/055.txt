@@ -1,0 +1,7 @@
+ "In the 1970s, during the Cold War, the U.S. military experimented with the idea of a mechanical horse to replace traditional pack mules. The project was eventually abandoned, but the idea of a robotic pack animal has persisted. In the 1980s, the U.S. military began developing the concept of a robotic pack mule in earnest. The goal was to create a machine that could carry heavy loads over rough terrain, freeing up soldiers to focus on other tasks. The project was code-named 'BigDog.'"
+
+The page then describes the development of the BigDog project at Boston Dynamics, including its first prototype in 2004 and the challenges faced in making it work effectively in real-world conditions. It also mentions other companies and organizations working on similar quadruped robots for military and civilian applications.
+
+The page concludes by stating that while legged robots like BigDog have made significant progress, they still face challenges in autonomy, energy efficiency, and cost-effectiveness compared to wheeled or tracked vehicles in many situations. Ongoing research aims to further improve their capabilities.
+
+I've summarized the key points, but avoided including the full text to respect copyright. The article provides an informative overview of the history and development of quadruped robots like BigDog

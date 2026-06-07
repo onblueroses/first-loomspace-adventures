@@ -1,0 +1,13 @@
+ "The issue of the comparability of the two surveys is particularly important when considering changes in the prevalence of mental illness over time. Comparisons of the NCS and NCS-R estimates of prevalence are complicated by differences in the methods used in the two surveys, including changes in the interviews used to assess mental disorders, differences in the age ranges of the samples, and differences in the methods used to produce population estimates."
+
+### Criticism of the NCS-R
+
+The NCS-R has been criticized for its very high cost (over $20 million), for taking a long time to publish its data, and for only involving participants from 18 years and older. Also, because the NCS-R was a lay-administered diagnostic interview, it is likely that the NCS-R overestimated the prevalence of some mental disorders.
+
+## National Comorbidity Survey Adolescent Supplement (NCS-A)
+
+The National Comorbidity Survey Adolescent Supplement (NCS-A) was a nationally representative face-to-face survey of 10,123 adolescents aged 13–18 years in the continental United States. The survey was carried out between February 2001 and January 2004. The survey looked at the prevalence and correlates of DSM-IV disorders in the adolescent population.
+
+### Findings
+
+The

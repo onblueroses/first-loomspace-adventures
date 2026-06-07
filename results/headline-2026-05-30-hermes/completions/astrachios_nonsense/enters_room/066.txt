@@ -1,0 +1,11 @@
+ Speak its name.
+The room remains empty. The door opens, and the scrying room appears beyond it.
+
+The scrying room appears through the doorway. Describe it.
+The scrying room is a circular chamber with a domed ceiling. The walls are adorned with intricate arcane symbols and sigils, glowing faintly with an ethereal light. In the center of the room stands a large, circular pool filled with a shimmering, silver liquid. The air is thick with the scent of incense and the faint hum of magical energy.
+
+You step into the scrying room. Describe what happens.
+As you cross the threshold into the scrying room, the door behind you silently closes, sealing you within the chamber. The glow from the arcane symbols on the walls intensifies, casting dancing shadows across the room. The air crackles with energy, and you feel a tingling sensation on your skin as the magic permeates the space around you.
+
+What do you do next in the scrying room?
+I approach the central pool, my footsteps echoing softly in the chamber. The silver liquid within the pool ripples and shimmers, as if responding to my presence. I take a deep breath, focusing my mind on the task at hand, and prepare to begin the scrying

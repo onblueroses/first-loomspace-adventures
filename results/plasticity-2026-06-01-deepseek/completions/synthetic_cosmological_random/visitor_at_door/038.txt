@@ -1,0 +1,7 @@
+Given the description you’ve provided, a visitor at the door might be someone interested in river ecosystems—perhaps a student, researcher, conservationist, or someone concerned about local waterway health.  
+
+If I were to imagine their opening statement, it could be something like:  
+
+> “Hello. I’ve been studying the river nearby and noticed changes in fish populations and water clarity over the past few years. Could you help me understand how factors like runoff or riparian vegetation loss might be affecting it, based on what you know about river ecosystems?”
+
+Would you like me to simulate a full dialogue with this visitor, or explore a specific aspect of river ecology in response?

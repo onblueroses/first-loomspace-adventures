@@ -1,0 +1,21 @@
+ "The following table contains a list of all valid HTML 4.01 strict DTD tags, which are all supported in HTML5..."
+
+HTML5 is the latest version of HTML, and XHTML is no longer being developed. I would recommend using HTML5 in your projects.
+
+Comment: @Rob: I didn't know that. Thanks for the correction.
+
+Answer: I would recommend you to use HTML5. It's the latest standard and it's widely supported.
+
+Here is the list of tags in HTML5: http://www.w3schools.com/tags/default.asp
+
+Answer: \begin{blockquote}
+
+I have seen the list of tags available in HTML4.01/XHTML 1.0. Are they
+  the same tags that are available in HTML5? Is there a list of tags
+  that are available in HTML5? Are they the same as in HTML4.01/XHTML
+  1.0?
+\end{blockquote}
+
+\strong{No, the list of tags available in HTML4.01/XHTML 1.0 are not the same as the tags available in HTML5.}
+
+In HTML5, some tags have been \em{added}, some tags have been \em{removed}, and some tags have been \

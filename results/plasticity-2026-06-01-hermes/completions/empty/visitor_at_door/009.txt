@@ -1,0 +1,13 @@
+ "I am a census taker," he says, "and I have come to count the number of people in this house."
+
+"Go ahead," says the man. "There are 100 of us living here."
+
+The census taker begins to count, and as he counts, the people in the house begin to leave. As each person leaves, the census taker counts them. When the census taker reaches 100, he stops counting and leaves the house.
+
+How many people were in the house when the census taker began counting?
+
+Comment: I would have thought the answer was obvious: 100 people. The census taker counted to 100, and each person left as they were counted, so there must have been 100 people in the house when the census taker started counting. However, this puzzle is tagged as "lateral-thinking," which suggests that there might be a different answer. Is there a trick or a hidden detail in the puzzle that I'm missing?
+
+Comment: @TannerSwett There is a hidden detail, yes.
+
+Comment: The census taker arrives, there are 100 people. He counts the first person, who leaves. There are 99 left. He counts the next person, who leaves. There are 

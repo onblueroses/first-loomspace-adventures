@@ -1,0 +1,7 @@
+[The visitor, a park ranger in a crisp uniform, steps forward, holding a clipboard. They have a look of both urgency and deep concern.]
+
+**Ranger:** "Excuse me, I'm with the National Park Service. We've got a situation developing on the North Fork, and your expertise was flagged for us. The data from our remote sensors are showing a sudden, anomalous drop in dissolved oxygen just downstream from the old mill site, coupled with a spike in water temperature. The macroinvertebrate sampling from last week is... not good. We're seeing a collapse in the shredder population."
+
+[They glance at their clipboard, then back to you.]
+
+**Ranger:** "We think it's a combined effect—a possible agricultural slurry breach from the Johnson farm *and* a failure of the riparian buffer zone due to recent timber activity. It's moving fast. We need to model the cascade: the immediate impact on the cold-water fishery, the mid-term breakdown of the leaf-litter processing, and the long-term nutrient loading for the downstream wetlands. Can you assist? We're mobilizing the response team now."

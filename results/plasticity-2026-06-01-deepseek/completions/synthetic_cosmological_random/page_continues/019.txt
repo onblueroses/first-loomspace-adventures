@@ -1,0 +1,11 @@
+This appears to be a detailed introductory passage on river (lotic) ecosystem dynamics. Based on its structure and content, it is likely the beginning of a textbook chapter, an encyclopedia entry, or a scientific review article. The passage methodically builds a conceptual framework, starting with a definition and then describing the ecosystem's components and processes along a river's continuum.
+
+The text that follows this passage would logically expand on the concepts introduced. Here is a likely continuation, based on standard ecological discourse:
+
+### Likely Continuation of the Text:
+
+**Human Impacts and River Management**
+The alteration of natural river processes poses significant threats to ecosystem health. Dams, for instance, fragment habitat, disrupt sediment transport (leading to scouring downstream and siltation upstream), and alter the natural flow and temperature regimes essential for many species' life cycles. Channelization for flood control or navigation simplifies habitat structure, eliminating pools, riffles, and backwaters critical for different life stages. Pollution from point sources (e.g., industrial effluent) and non-point sources (e.g., agricultural fertilizers and pesticides) can lead to eutrophication, toxic algal blooms, and hypoxia.
+
+**Ecological Concepts and Applications**
+River ecologists often use the **River Continuum Concept (RCC)** to model the predictable

@@ -1,0 +1,37 @@
+ "To create a new database, use the CREATE DATABASE statement as shown in the following example:"
+
+```
+CREATE DATABASE testdb;
+```
+
+The book continues: "If you try to create a database that already exists, MySQL will issue an error. To avoid this error, and to ensure that you're creating the database only if it doesn't already exist, use the IF NOT EXISTS clause:"
+
+```
+CREATE DATABASE IF NOT EXISTS testdb;
+```
+
+The page continues: "To view a list of all databases, use the SHOW DATABASES statement:"
+
+```
+SHOW DATABASES;
+```
+
+The book continues: "To switch to a specific database, use the USE statement:"
+
+```
+USE testdb;
+```
+
+The page continues: "To delete a database, use the DROP DATABASE statement:"
+
+```
+DROP DATABASE testdb;
+```
+
+The book continues: "If you try to drop a database that doesn't exist, MySQL will issue an error. To avoid this error, and to ensure that you're dropping the database only if it exists, use the IF EXISTS clause:"
+
+```
+DROP DATABASE IF EXISTS testdb;
+```
+
+The page continues: "Note: Be careful when using the DROP DATABASE statement, as it permanently deletes the database

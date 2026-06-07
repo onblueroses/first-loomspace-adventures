@@ -1,0 +1,28 @@
+ (If the correct name is spoken, the door will open, otherwise, it remains shut. The party will know if they have spoken the correct name.)
+
+1. A Troll
+2. A Gorgon
+3. A Banshee
+4. A Wraith
+5. A Dragon
+6. A Lich
+7. A Vampire
+8. A Balrog
+9. A Spectre
+10. A Cockatrice
+11. A Golem
+12. A Medusa
+13. A Basilisk
+14. A Giant
+15. A Mummy
+16. A Werewolf
+17. A Demon
+18. A Beholder
+19. A Doppelganger
+20. A Mind Flayer
+
+After the encounter, the party may rest before proceeding to the next room. They may also return to the entrance to leave the dungeon and return to the town to heal, identify magic items, sell loot, etc. They will not be able to return to a room they have already encountered after leaving the dungeon.
+
+# The Crypt of the Sorcerer
+
+The final room of the dungeon is the crypt of the sorcerer. In the center of the room is a stone sarcophagus. The sarcophagus is sealed with a magic

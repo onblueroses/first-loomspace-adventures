@@ -1,0 +1,11 @@
+ "The above is the simplest version of the puzzle. For a more challenging version, try this: Which one of the five people — Alberto, Brenda, Carlos, Dagmar, or Evelyn — is the liar? The liar could be lying in their statement about their own birth month or their statement about another person's birth month."
+
+The answer given is that Alberto is the liar. The reasoning is that since Carlos said that Alberto was born in January, and Alberto said that Carlos was born in January, one of them must be lying. Since Carlos's statement is confirmed by Dagmar, Alberto must be the liar.
+
+However, I don't think this answer is correct. It's possible that Alberto was born in January and Carlos was born in March. This would mean that Alberto is telling the truth about Carlos being born in March, and Carlos and Dagmar are lying about Alberto being born in January.
+
+Am I missing something, or is the answer given incorrect?
+
+Comment: I think you're right.  This would make Alberto, Carlos, and Dagmar the liars, and since the puzzle says there is only one liar, this is a contradiction.  The answer given is correct, but the logic is incomplete.  As it stands, there is no solution.
+
+Comment:

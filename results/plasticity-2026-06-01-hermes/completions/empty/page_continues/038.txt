@@ -1,0 +1,13 @@
+ "The current approach to the CSS standardization process, and to large parts of the web standards process in general, is broken. The approach of letting a few browser vendors with conflicting priorities and resources decide where CSS goes has lead to stagnation and frustration among developers and browser representatives alike."
+
+It then outlines a new process, one which includes the community, rather than a few browser vendors. It's one where issues are discussed in the open, where anyone can contribute, and where the community decides what to prioritize.
+
+It sounds wonderful, and like a much better approach than what we have now. But it's not without its challenges.
+
+The web is a complex place, with many different stakeholders, each with their own priorities and goals. Getting everyone to agree on a single vision for the web is no easy task.
+
+But it's a task worth undertaking. The web is too important to be left in the hands of a few browser vendors. It belongs to all of us, and we all have a stake in its future.
+
+I'm excited to see where this new approach to CSS standardization leads. I hope it leads to a more open, inclusive, and collaborative process, one that results in a better web for everyone.
+
+What do you think? Is this new approach to CSS standard

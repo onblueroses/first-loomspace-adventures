@@ -1,0 +1,10 @@
+ "In this case, if you have a single user account with no password set, the application will automatically log in to that account at startup." –  Steve Chambers Sep 17 '15 at 8:45
+The quoted text is slightly misleading. If there is only one user account, and it has no password, and the computer is set to log in automatically, then the computer will log in to that account automatically. This is regardless of whether the account is an admin account or not. –  Steve Chambers Sep 17 '15 at 8:46
+
+add a comment  |
+
+up vote 0 down vote This is a late answer, but I came across this issue recently and discovered that it was related to the 'loginwindow' process not being owned by root. In my case, this process was owned by another user I had created.
+To fix this, I booted to the recovery partition by holding Command+R while the system started up, opened the Terminal (Utilities > Terminal in the top menu), and typed the following commands:
+```
+chown root:admin /Volumes/Macintosh\ HD/System/Library/CoreServices/loginwindow.app/loginwindow
+chown root:wheel /Volumes/Macintosh\ HD/System/Library/CoreServices/loginwindow

@@ -1,0 +1,14 @@
+..?
+
+This rite calls forth a bizarre, alien entity from beyond the boundaries of the world. The being so summoned can be compelled to serve the caster for a time, but its behavior is erratic and unpredictable, and it often misinterprets orders. The caster must maintain concentration on the entity at all times or it will break free and attempt to flee.
+
+The entity has the following characteristics:
+* Hit Dice: 8
+* Armor Class: 15
+* Attacks: 2 claws (1d6+1) and 1 bite (2d6)
+* Move: 120' (40')
+* Save: 8
+* Morale: 12
+* Special: The entity's touch causes 1d4 damage from extreme cold. It is immune to cold, poison, and disease, and takes half damage from electricity and fire. The entity can become invisible at will, but becomes visible when attacking. It can see invisible creatures and objects. If the caster loses concentration, the entity will break free and attempt to flee (50% chance each round of returning to its home plane).
+
+This rite can only be performed in a room or space that has been ritually prepared with strange geometries and symbols. The caster must know the entity

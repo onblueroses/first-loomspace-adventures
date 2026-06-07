@@ -1,0 +1,11 @@
+You have provided a comprehensive overview of river ecosystems. Based on this foundation, the page would logically continue by exploring one or more of the following key themes in greater detail:
+
+### Potential Next Sections:
+
+**1. Human Impacts and Management**
+*   **Detailed Threats:** Expanding on damming (fragmenting habitat, altering flow regimes, blocking sediment), channelization (destroying habitat complexity), pollution from point and non-point sources, water abstraction, and invasive species.
+*   **Consequences:** Specific examples of how these impacts degrade ecosystem health, such as algal blooms from nutrient runoff, loss of riparian shading leading to higher temperatures, and declines in sensitive species like stoneflies or salmon.
+*   **Restoration & Conservation:** Principles of river restoration (e.g., re-meandering channels, riparian replanting, dam removal), the importance of protected areas, and integrated catchment management (ICM) strategies.
+
+**2. Ecological Processes and Food Web Dynamics**
+*   **Energy Pathways:** Elaborating on the **River Continuum Concept (RCC)**, which describes the systematic shift from allochthonous (externally derived, e.g., leaves) energy sources in headwaters to autochthonous (internally produced, e.g., algae) energy

@@ -1,0 +1,11 @@
+ It's a two-wheeled robot. It looks like a Segway with no handlebars. And it's carrying a box.
+
+The robot is the Fetch, a model that's designed for warehouses. This particular one, nicknamed "HitchBOT 2.0," is a prototype for a special mission. It's going to be sent on a cross-country trip, from Boston to San Francisco, all by itself.
+
+The idea is to study how humans interact with robots. HitchBOT 2.0 will be relying on the kindness of strangers to get from one coast to the other. It'll be an interesting experiment, to say the least.
+
+But the robot's journey is still a few months away. For now, it's just a box-carrying robot in a room full of people who are excited to see it in action.
+
+The Fetch robot is part of a new wave of robots that are designed to work alongside humans. They're not the kind of robots that you see in factories, where they're kept away from people for safety reasons. These robots are meant to be collaborative, to work with humans in the same space.
+
+The Fetch is designed to be easy to use. You can control it with a smartphone app, or you can just tell it what

@@ -1,0 +1,21 @@
+ Make a reaction roll.
+
+1-2: The visitor is hostile. They attack.
+
+3-5: The visitor is uncertain. They are not sure if they should trust you.
+
+6-8: The visitor is friendly. They are willing to help you.
+
+9-10: The visitor is very friendly. They are willing to go out of their way to help you.
+
+11-12: The visitor is extremely friendly. They will do anything they can to help you.
+
+Once the visitor has been dealt with, the characters may continue on their way. If they choose to enter the temple, they will find a large, open room with a statue of a strange, alien god in the center. The statue is surrounded by a dozen smaller statues, each holding a different weapon. The weapons are:
+
+1. A sword made of a strange, black metal.
+2. A spear with a glowing, red tip.
+3. A bow made of a translucent, green material.
+4. A mace with a head made of a pulsing, blue energy.
+5. A dagger with a blade that seems to shift and change shape.
+6. A staff with a crystal at the top that emits a soft, white light.
+7. A hammer with a head made of a swirling

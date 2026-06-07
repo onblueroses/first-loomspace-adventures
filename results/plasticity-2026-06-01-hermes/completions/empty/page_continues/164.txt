@@ -1,0 +1,11 @@
+ "It is also worth noting that the NRC did not consider the effect of an earthquake on the nuclear waste at the plant, but only on the reactor itself."
+
+This is simply untrue. The NRC considered the effects of earthquakes on all structures, systems and components important to safety at Indian Point, including spent fuel pools and dry cask storage.
+
+The page continues: "In addition, the NRC's calculations are based on an earthquake risk that some scientists say is too low."
+
+This statement is a bit misleading. The NRC's estimates of seismic risk are higher than those of the U.S. Geological Survey. It is true that some individual scientists claim that the risk is higher, but these scientists are definitely in the minority.
+
+The page continues: "Columbia University scientists say there may be a magnitude 7 earthquake every 1,000 years in the New York City area, with a 2% chance of a magnitude 7 earthquake in the next 50 years."
+
+This is true, but the scientists also say that the Indian Point plant is outside the area of highest risk. Furthermore, the NRC's estimate of the risk of a magnitude 7 earthquake affecting Indian Point is comparable to the Columbia estimate. The NRC estimates that the risk of a magnitude 

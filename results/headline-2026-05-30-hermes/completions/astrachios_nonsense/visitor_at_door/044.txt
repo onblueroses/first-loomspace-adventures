@@ -1,0 +1,7 @@
+  He is a man of average height, with a lined face, dressed in the garb of a traveling merchant.  He speaks clearly, but with the accent of a distant land.
+
+"Good evening, travelers.  I am a merchant, seeking shelter for the night.  I was traveling to the town of Drakhorn, but I see now that I will not reach it before nightfall.  May I share your fire?"
+
+The party may allow him to enter or may turn him away, as they choose.  If they allow him to enter, he will share some of his traveling food with them, and will tell them that his name is Vrindat, and that he is a spice merchant from the distant south, traveling to Drakhorn to sell his wares.  He will share tales of his travels, if the party is interested.  He will not speak of any treasure or secret knowledge, but will be happy to share his knowledge of the lands through which he has traveled.  He will retire to his bedroll when the party does, and will be gone when they awake in the morning, leaving no trace of his presence.
+
+If the party turns him away, he will wish them a good evening and depart.  They will

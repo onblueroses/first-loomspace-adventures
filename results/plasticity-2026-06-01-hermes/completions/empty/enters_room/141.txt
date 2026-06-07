@@ -1,0 +1,5 @@
+ I haven't been able to find an answer to this, but the information I've seen seems to suggest that for a rotating black hole, the outer event horizon occurs at $r_s = M + \sqrt{M^2 - a^2}$ where $M$ is the mass of the black hole and $a$ is the angular momentum. The inner event horizon occurs at $r = M - \sqrt{M^2 - a^2}$. The event horizon for a non-rotating black hole is $r = 2M$. All of these seem to suggest that the event horizon is a coordinate, not a physical object. This means that it doesn't make sense to ask what happens to the event horizon. Instead you should be asking what happens to the mass/energy/angular momentum when two black holes merge.
+
+When two black holes merge, the mass of the final black hole is not the sum of the masses of the initial black holes. Some of the energy is radiated away as gravitational waves. This means that the mass of the final black hole will be less than the sum of the masses of the initial black holes.
+
+The angular momentum of the final black hole will also be less than the sum of the angular momenta of the initial black

@@ -1,0 +1,9 @@
+ "The same is true for the tangent of an angle: the tangent function is undefined whenever cos(θ)=0, which occurs at odd multiples of 90° (). Therefore, the lines θ=(2n+1)90°, where n is an integer, are also asymptotes to the graph."
+
+I'm confused as to what they mean by this. From what I understand, the tangent function is basically just the sine function divided by the cosine function. In which case, the tangent function would be undefined if cos(θ) equals zero, because you cannot divide by zero.
+
+So why do they say that the tangent function is undefined "whenever cos(θ)=0, which occurs at odd multiples of 90°"? Wouldn't it be correct to say that the tangent function is undefined at \em{any} value of θ that makes cos(θ)=0, as opposed to just the odd multiples of 90°?
+
+I'm a lowly high school student, so the less jargon, the better. Thank you in advance!
+
+Comment: $\cos{\theta} = 0$ only when $\theta$ is an odd multiple of $90^\circ$. (within the span of one period, only $\theta = 90^\circ

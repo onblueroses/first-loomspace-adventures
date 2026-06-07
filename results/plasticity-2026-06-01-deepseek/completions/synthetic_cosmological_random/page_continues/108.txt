@@ -1,0 +1,10 @@
+This appears to be a well-structured overview of a river ecosystem, detailing its defining characteristics, longitudinal changes (from source to mouth), and key factors affecting its health.
+
+The text you've provided covers the essential concepts clearly:
+
+1.  **Definition & Distinction:** It starts by defining a river as a **lotic** (flowing water) ecosystem and distinguishes it from **lentic** (still water) systems.
+2.  **Key Controlling Factors:** It identifies the catchment area, climate, geology, and channel gradient as the fundamental shapers of the river's character.
+3.  **Longitudinal Zonation (The River Continuum):** It describes the classic changes from headwaters to mouth:
+    *   **Headwaters/Upper Reaches:** Cold, fast, high oxygen; bedrock/gravel substrate; energy from **allochthonous** inputs (leaf litter); communities of clinging insect larvae and trout.
+    *   **Middle/Lower Reaches:** Warmer, slower; finer substrates (sand, silt); energy from **autochthonous** production (algae, plants); larger, more diverse fish; connection to floodplains.
+    *   **Terminus:** The river meets the sea, forming an **estuary**

@@ -1,0 +1,13 @@
+ "This is a placeholder page installed by the Debian release of the Apache Web server package, because no home page was installed on this host. You may want to replace this as soon as possible with your own web pages, of course..."
+
+How do I replace this page with my own web pages?
+
+Comment: Read the documentation. Seriously. This is a very basic question which suggests that you haven't read any of the introductory documentation. Doing so will save you a lot of time in the long run.
+
+Comment: @david: I did read the documentation. It's a lot to take in. I thought I'd ask here instead.
+
+Comment: You should at least try to solve the problem yourself. If you have problems then come back here with specific questions. Taking the time to learn the basics will help you enormously.
+
+Comment: I did try to solve the problem myself. I did learn the basics. I still had problems. Hence my question. I don't see what the problem is.
+
+Comment: I appreciate that it can be difficult when you're starting out but you didn't provide any evidence of your attempts to solve the problem yourself. The way your question is phrased suggests that you haven't read any documentation or tried anything yourself. If you have tried and

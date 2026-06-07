@@ -1,0 +1,21 @@
+ "I have a question about the rules for
+your community. Can you tell me more about the rules of your community?"
+
+The agent responds, "Our community has a set of guidelines that all residents
+are expected to follow. These include respecting quiet hours between 10pm and
+8am, keeping common areas clean, and promptly reporting any maintenance issues
+to management. We also have rules around parking, with assigned spots for each
+unit and guest parking available in designated areas. Pets are allowed, but
+owners are responsible for cleaning up after them and keeping them leashed in
+common areas. Let me know if you have any other specific questions!"
+
+The visitor asks, "What are the consequences for violating these rules? Are
+there any fines or penalties?"
+
+The agent replies, "For minor infractions, residents typically receive a
+warning from management. Repeated violations can result in fines, which vary
+depending on the severity and frequency of the offense. In extreme cases,
+continued non-compliance with community rules could lead to eviction. However,
+our goal is to work with residents to ensure a harmonious living environment
+for everyone. Open communication and cooperation are key." The visitor nods in
+understanding. "That seems reasonable. I appreciate you taking the time

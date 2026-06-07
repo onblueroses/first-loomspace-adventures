@@ -1,0 +1,17 @@
+ (7)
+
+The Earth's lithosphere is broken into tectonic plates which have been slowly moving since about 3.4 billion years ago.
+
+## 7
+
+What is the next term in the sequence 2, 5, 10, 17, 26,...? (2)
+
+The differences between consecutive terms in the sequence 2, 5, 10, 17, 26,... are 3, 5, 7, 9,.... The next difference will be 11, so the next term in the sequence is 26 + 11 = 37.
+
+## 8
+
+A ship is sailing on a course bearing 030°. If the ship is steaming at 20 knots, how far north will it travel in one hour? (3)
+
+The ship is sailing on a course bearing 030°, which means it is sailing 30° east of north. To find out how far north the ship will travel in one hour, we can use the sine function, which gives the ratio of the opposite side to the hypotenuse in a right triangle.
+
+In this case, the hypotenuse is the distance the ship travels in one hour, which is 20 knots. We want to find

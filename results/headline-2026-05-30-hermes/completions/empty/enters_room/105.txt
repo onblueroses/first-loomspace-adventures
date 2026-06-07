@@ -1,0 +1,21 @@
+ I'm sure you're all familiar with the idea of a stack. For those of you who aren't, a stack is a simple data structure that operates on the principle of "last in, first out" (LIFO). It's like a stack of plates - the last plate you put on the stack is the first one you take off.
+
+In Python, a stack can be easily implemented using a list. The `append()` method is used to push an item onto the stack, and the `pop()` method is used to remove an item from the stack.
+
+Here's a simple example of how to use a stack in Python:
+
+```python
+stack = []
+
+# Push items onto the stack
+stack.append(1)
+stack.append(2)
+stack.append(3)
+
+# Pop items from the stack
+item = stack.pop()  # item is 3
+item = stack.pop()  # item is 2
+item = stack.pop()  # item is 1
+```
+
+In this example, we create an empty list called `stack` to represent our stack. We then use the `append()` method to push the values 1, 2, and 3 onto the stack. Finally, we use the `pop()` method to remove the

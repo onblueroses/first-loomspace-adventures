@@ -1,0 +1,3 @@
+The visitor listens thoughtfully, then nods, framing a question informed by your detailed explanation.
+
+**Visitor:** "That's a very clear overview. It makes me wonder about the practical application. If I were a conservationist trying to assess the health of a local river, what would be the simplest, most telling signs I should look for in the field, based on those key parameters you mentioned at the end? For instance, could I just look at the insects present, or the state of the riverbanks?"

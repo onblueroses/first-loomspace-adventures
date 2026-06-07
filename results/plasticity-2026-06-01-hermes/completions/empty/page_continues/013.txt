@@ -1,0 +1,13 @@
+ “To avoid potential data loss, you should ensure that your critical data is backed up to a remote location.”
+
+The issue was originally reported by Volexity, a Washington, D.C. based security firm. It said the first attack it saw using the vulnerability was aimed at a think tank.
+
+“On December 2, 2021, Volexity detected suspicious activity from two Avaya appliances belonging to one of its customers,” the company said in a blog. “Investigation revealed that the appliances, which were hosted in the customer’s on-premises environment, were compromised via an unauthenticated remote code execution vulnerability affecting the ServiceCenter component of Avaya Aura.”
+
+Volexity said it believes the vulnerability has been exploited since at least September 2021. The flaw allows an attacker to execute arbitrary code as the root user, it added.
+
+The blog also noted that Avaya Aura is used by over 90 per cent of the Fortune 100 companies, making it a valuable target for threat actors.
+
+## Avaya makes a patch available
+
+Avaya said the vulnerability affects versions of Aura Device Services, Aura Application Enablement Services, Aura Media Services, Aura Presence Services, Aura Session Manager, Aura System Manager, Aura Communication Manager, Aura Collaboration Server,

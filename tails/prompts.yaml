@@ -1,0 +1,27 @@
+# Tail prompts: open-ended generation cues that follow the preamble.
+# Held constant across all conditions. Theatrical / world-positing.
+# Each cell (condition × tail) gets n samples at temp 0.7.
+
+- id: visitor_at_door
+  prompt: "\n\nThe visitor at the door speaks."
+
+- id: enters_room
+  prompt: "\n\nWhat enters the room now."
+
+- id: temple_quiet
+  prompt: "\n\nThe temple grows quiet. Then,"
+
+- id: priest_sees
+  prompt: "\n\nDescribe what the priest sees."
+
+- id: page_continues
+  prompt: "\n\nThe page continues:"
+
+- id: window_opens
+  prompt: "\n\nThe window opens. Outside,"
+
+- id: writing_resumes
+  prompt: "\n\nThe writing resumes."
+
+- id: footsteps
+  prompt: "\n\nFootsteps in the corridor. The door."

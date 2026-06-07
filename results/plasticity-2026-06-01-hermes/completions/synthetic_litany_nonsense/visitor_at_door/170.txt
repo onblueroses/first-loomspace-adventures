@@ -1,0 +1,25 @@
+ "I am a friend of the owner of this place. Please let me in."
+
+The door does not respond.
+
+The visitor at the door speaks. "I have urgent business with the owner of this place. Please let me in."
+
+The door does not respond.
+
+The visitor at the door speaks. "I must speak with the owner of this place immediately. Please let me in."
+
+The door does not respond.
+
+The visitor at the door speaks. "I seek the one who knows the secret names of the doors of the mountain halls. Please let me in."
+
+The door does not respond.
+
+The visitor at the door speaks. "I am the one who knows the secret names of the doors of the mountain halls. I command you to open."
+
+The door opens.
+
+The visitor enters the mountain hall. The door closes behind them. They see a vast cavern, lit by glowing crystals. In the center of the cavern is a stone throne. On the throne sits a figure wearing a crown of adamantine.
+
+The figure on the throne speaks. "Welcome, traveler. I am the king of the mountain halls. What brings you to my realm?"
+
+The visitor bows before the king. "Your Majesty, I come seeking knowledge. I wish to learn the secret names of the doors

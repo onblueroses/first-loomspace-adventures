@@ -1,0 +1,45 @@
+ Speak.
+
+# The Vrolthen One
+
+A spirit enters the room, the spirit of a dog.
+
+# Vrendrelphor
+
+What is your name, spirit?
+
+# The Dog Spirit
+
+My name is Barks-at-Shadows.
+
+# Vrendrelphor
+
+Why do you come to me, Barks-at-Shadows?
+
+# The Dog Spirit
+
+I come to warn you of a great danger.
+
+# Vrendrelphor
+
+What is this danger?
+
+# The Dog Spirit
+
+There is a dark force rising in the east, a force that threatens to consume all that is good and light in the world. It is a force of pure evil, a force that seeks to destroy all that you hold dear.
+
+# Vrendrelphor
+
+How can this force be stopped?
+
+# The Dog Spirit
+
+It cannot be stopped by force of arms alone. It must be stopped by the power of the spirit, by the power of love and compassion. Only by uniting all the peoples of the world in a common cause can this darkness be defeated.
+
+# Vrendrelphor
+
+But how can I, a mere mortal, hope to unite the peoples of the world?
+
+# The Dog Spirit
+
+You are not a mere mortal, Vrendrelph

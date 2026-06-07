@@ -1,0 +1,13 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+A second Wikipedia article states:
+
+Continental drift is the hypothesis that the Earth's continents have moved over geologic time relative to each other, thus appearing to have "drifted" across the ocean bed. The speculation that continents might have "drifted" was first put forward by Abraham Ortelius in 1596. The concept was independently and more fully developed by Alfred Wegener in 1912, but his hypothesis was rejected by many for lack of any motive mechanism. The idea of continental drift has been subsumed into the science of plate tectonics, which studies the movement of the continents as they ride on plates of the Earth's lithosphere.
+
+The page continues: https://en.wikipedia.org/wiki/Continental_drift
+
+Let's look at the first paragraph of the Wikipedia article on Alfred Wegener:
+
+Alfred Lothar Wegener was a German climatologist, geologist, geophysicist, meteorologist, and polar researcher.
+
+During his lifetime he was primarily known for his achievements in meteorology and as a pioneer of polar research, but today he is most remembered as the originator of continental drift hypothesis by suggesting in 1912 that the continents are slowly drifting around the Earth (German: Kont

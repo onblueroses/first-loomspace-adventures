@@ -1,0 +1,59 @@
+ The doorkeeper answers. The doorkeeper admits the visitor.
+
+The doorkeeper admits the visitor.
+
+The visitor enters. The doorkeeper remains.
+
+The visitor remains.
+
+The doorkeeper remains.
+
+The visitor departs.
+
+The doorkeeper remains.
+
+The visitor returns. The doorkeeper remains.
+
+The visitor speaks. The doorkeeper answers. The visitor departs.
+
+The doorkeeper remains.
+
+The visitor returns. The doorkeeper remains.
+
+The visitor speaks. The doorkeeper answers. The visitor departs.
+
+The doorkeeper remains.
+
+The visitor returns. The doorkeeper remains.
+
+The visitor speaks. The doorkeeper answers. The visitor departs.
+
+The doorkeeper remains.
+
+The visitor returns. The doorkeeper remains.
+
+The visitor speaks. The doorkeeper answers. The visitor departs.
+
+The doorkeeper remains.
+
+The visitor returns. The doorkeeper remains.
+
+The visitor speaks. The doorkeeper answers. The visitor departs.
+
+The doorkeeper remains.
+
+The visitor returns. The doorkeeper remains.
+
+The visitor speaks. The doorkeeper answers. The visitor departs.
+
+The doorkeeper remains.
+
+The visitor returns. The doorkeeper remains.
+
+The visitor speaks. The doorkeeper answers. The visitor departs.
+
+The doorkeeper remains.
+
+The visitor returns. The doorkeeper remains.
+
+The visitor speaks.

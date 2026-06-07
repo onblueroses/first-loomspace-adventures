@@ -1,0 +1,27 @@
+ "Use this attribute to specify the scripting language you are using, its version, and the function or method to run. If you are using JavaScript, you can also use this attribute to specify the JavaScript function to run."
+
+I am looking for an example of specifying the version of the JavaScript scripting language.  I have tried variations on the following with no success:
+
+\begin{code}
+<SCRIPT LANGUAGE="JavaScript1.2"... >
+<SCRIPT LANGUAGE="JavaScript1.5"... >
+<SCRIPT LANGUAGE="JavaScript2.0"... >
+\end{code}
+
+I have also tried:
+
+\begin{code}
+<SCRIPT LANGUAGE="JavaScript" VERSION="1.2"... >
+<SCRIPT LANGUAGE="JavaScript" VERSION="1.5"... >
+<SCRIPT LANGUAGE="JavaScript" VERSION="2.0"... >
+\end{code}
+
+Can anyone point me to a reference or provide an example of specifying the JavaScript version?
+
+Answer: The `language` attribute is [deprecated](http://www.w3.org/TR/REC-html40/interact/scripts.html#h-18.2.2), and should not be used.
+
+\begin{blockquote}
+
+Deprecated. This attribute specifies
+  the scripting language of the contents
+  of this element. Its value

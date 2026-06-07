@@ -1,0 +1,11 @@
+Based on the text you've provided, here is a continuation that discusses key processes, threats, and management in river ecosystems, maintaining the same style and technical depth.
+
+---
+
+**Continuation:**
+
+A defining feature of river ecosystems is the concept of **river continuum**, which describes the predictable physical, chemical, and biological changes from headwaters to mouth. Energy sources shift along this gradient: upstream communities rely on **allochthonous inputs** (organic matter from outside, like leaves), while downstream communities depend more on **autochthonous production** (algae and aquatic plants within the river). Invertebrate functional feeding groups—shredders, collectors, grazers, and predators—change in dominance accordingly.
+
+Human activities pose significant threats to these processes. **Fragmentation** by dams and weirs disrupts the longitudinal connectivity essential for fish migration and sediment transport. **Channelization** (straightening and hardening banks) simplifies habitat structure, reduces flow diversity, and severs the lateral connection to floodplains. **Pollution** from point sources (e.g., wastewater) and non-point sources (e.g., agricultural fertilizers and pesticides) can lead to eutrophication, toxic algal blooms, and oxygen depletion.
+
+Effective management of river ecosystems therefore focuses on maintaining

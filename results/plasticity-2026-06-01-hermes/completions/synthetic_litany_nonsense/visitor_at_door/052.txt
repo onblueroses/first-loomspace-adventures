@@ -1,0 +1,17 @@
+ "Open the way to the treasures of the Kingdom of Snolthanth."
+
+The door opens.
+
+#### 24
+The chamber is filled with stacks of gold coins, each stack reaching nearly to the ceiling. Scattered among the stacks of coins are chests, some of which are open, revealing sparkling gems, gold jewelry, and silver chalices. A large wooden table stands in the center of the room, its surface covered with more coins, as well as golden candelabras and ornate weapons.
+
+The visitor at the door speaks. "Behold, the wealth of Snolthanth, gathered from across the realms and hidden here, in the heart of the mountain."
+
+#### 25
+The visitor at the door speaks. "Take what you will, but know that the true treasure of Snolthanth is not gold or jewels, but the knowledge and secrets hidden within these walls. Seek the Chamber of Scrolls, where the wisdom of ages past awaits those who are worthy."
+
+#### 26
+The visitor at the door speaks. "To find the Chamber of Scrolls, you must first pass through the Hall of Echoes. Speak the words 'Krelphendoth Vrolthemnar' to open the way."
+
+#### 27
+The door opens,

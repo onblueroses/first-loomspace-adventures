@@ -1,0 +1,20 @@
+ "Plate movement is thought to be driven by a combination of the motion of the seafloor away from spreading ridges due to variations in topography and density changes in the crust. However, there is ongoing debate regarding the relative importance of each of these factors and their relationship to mantle convection."
+
+This is a complex topic with many nuances, but the key points are:
+
+- The Earth's lithosphere is broken into tectonic plates
+- These plates move slowly over time (a few centimeters per year)
+- The movement is driven primarily by convection currents in the mantle
+- Plate boundaries are where most geological activity occurs
+
+The article provides much more detail about the history of the theory, types of plate boundaries, driving forces, and evidence supporting plate tectonics.
+
+## What are the main types of plate boundaries?
+
+Based on the Wikipedia article on plate tectonics, the main types of plate boundaries are:
+
+1. **Divergent boundaries** (constructive boundaries): These occur where two plates move away from each other. Examples include:
+   - Mid-ocean ridges (like the Mid-Atlantic Ridge)
+   - Continental rift zones (like the East African Rift)
+
+2. **Convergent boundaries** (destructive boundaries): These occur where two plates move toward each other. There are three types

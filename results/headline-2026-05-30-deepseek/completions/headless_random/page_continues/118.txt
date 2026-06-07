@@ -1,0 +1,20 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+If you want to learn more about plate tectonics, you can visit the following website: https://education.nationalgeographic.org/resource/plate-tectonics/
+
+I hope this helps! Let me know if you have any other questions.
+
+## Friday, October 13, 2023
+
+### AI:List the AI technologies which are available to take input from the human brain thoughts - which can be used to implement various tasks in real time. Which scientific and natural alternative are available there to implement such things in real time using various neural networks and LLMs in real time.
+
+There are several AI technologies and scientific approaches that aim to interface with the human brain to interpret thoughts and implement tasks in real-time. These technologies fall under the field of Brain-Computer Interfaces (BCIs). Here are some AI technologies and scientific alternatives available for this purpose:
+
+Electroencephalography (EEG):
+
+- Technology: EEG measures electrical activity in the brain using electrodes placed on the scalp.
+- AI Application: Machine learning algorithms can decode EEG signals to identify patterns associated with specific thoughts or intentions. This can be used for tasks like controlling a computer cursor or robotic devices.
+
+Functional Magnetic Resonance Imaging (fMRI):
+
+- Technology: fMRI

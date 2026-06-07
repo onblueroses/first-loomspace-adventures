@@ -1,0 +1,25 @@
+ "The data can be found in the file 'us-states.csv'. You can download it and read it into a Pandas DataFrame using the following Python code:
+
+```python
+import pandas as pd
+
+url = 'https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv'
+df = pd.read_csv(url)
+```
+
+Your task is to create a new DataFrame called 'df_total_cases' that contains the total number of cases for each state on the most recent date available in the dataset. The DataFrame should have two columns: 'state' and 'total_cases', and should be sorted in descending order by the 'total_cases' column."
+
+To solve this problem, we can follow these steps:
+
+1. Read the CSV file into a DataFrame using the provided code.
+2. Find the most recent date in the dataset.
+3. Filter the DataFrame to include only the rows with the most recent date.
+4. Group the filtered DataFrame by state and sum the 'cases' column to get the total cases for each state.
+5. Sort the resulting DataFrame in descending order by the 'total_cases' column.
+
+Here's the Python code to accomplish this:
+
+```python
+import pandas as pd
+
+url = 'https://raw.githubusercontent.com/nytimes/c

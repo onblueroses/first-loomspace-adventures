@@ -1,0 +1,15 @@
+ The game announces "The visitor at the door says, 'Hello, I'm a visitor at the door. Can I come in?'"
+
+You can reply with "Yes" or "No". If you reply "Yes", the game announces "You let the visitor in." and the visitor enters the room. If you reply "No", the game announces "You don't let the visitor in." and the visitor remains outside.
+
+You can also ask the visitor questions, like "What's your name?" or "Why are you here?". The visitor will respond with generic answers like "My name is John." or "I'm here to visit."
+
+### 4.2. The Visitor's Purpose
+
+The visitor's purpose is to deliver a message or item to you. Once the visitor is inside, they will say something like "I have a message for you." or "I brought you a gift."
+
+You can ask the visitor about the message or item, and they will provide more details. For example, they might say "The message is from your friend. They want you to meet them at the park." or "The gift is a book. I thought you might enjoy it."
+
+### 4.3. Interacting with the Visitor
+
+You can engage in

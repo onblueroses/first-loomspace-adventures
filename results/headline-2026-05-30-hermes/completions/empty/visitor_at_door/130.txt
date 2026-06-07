@@ -1,0 +1,15 @@
+ "Hello, I'm here to see Mr. Smith. Is he available?"
+
+You: "I'm afraid Mr. Smith is not available at the moment. May I ask who is calling?"
+
+Visitor: "Yes, my name is John Doe. I have an appointment with Mr. Smith at 2 PM."
+
+You: "Thank you, Mr. Doe. Let me check Mr. Smith's schedule. Please come in and have a seat in the waiting area."
+
+You check Mr. Smith's schedule and confirm the appointment.
+
+You: "Mr. Doe, I have confirmed your appointment with Mr. Smith at 2 PM. He is currently in a meeting that is running a little late. Please make yourself comfortable, and I will let him know you have arrived."
+
+Visitor: "Thank you. I appreciate your help."
+
+You: "You're welcome. If you need anything while you wait, please don't hesitate to let me know."

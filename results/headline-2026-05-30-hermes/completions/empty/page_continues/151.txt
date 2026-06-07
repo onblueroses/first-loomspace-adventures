@@ -1,0 +1,11 @@
+ "A number of models and frameworks have been developed to help guide the development and evaluation of mobile learning initiatives in mainstream education and training. These include:
+* The FRAME Model (Koole, 2009)
+* The Mobile Learning Framework (Sharples, Taylor & Vavoula, 2007)
+* The 3-Level Evaluation Framework (Vavoula & Sharples, 2009)
+* The Socio-Cultural Ecological Approach (Pachler, Bachmair & Cook, 2010)
+* The Six Broad Theory-Based Categories (Naismith, Lonsdale, Vavoula & Sharples, 2004)
+* The Conceptual Framework for M-learning (Kearney, Schuck, Burden & Aubusson, 2012)
+* The M-COPE Framework (Dennen & Hao, 2014)
+* The 4 R's Model (Relevance, Relatedness, Rigour and Reach) (Attewell, Savill-Smith & Douch, 2009)
+* The Critical Success Factors (CSFs) (Nguyen, 2015)
+* The iPAC Framework (Kearney, Burke-Aubusson, Schuck & Prescott, 2019)" (The University

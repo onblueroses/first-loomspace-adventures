@@ -1,0 +1,21 @@
+This text provides a clear and structured overview of river ecosystems (lotic systems). Here is a breakdown of its key points, organized as a summary:
+
+### **Core Definition & Determining Factors**
+*   A **river ecosystem** is defined by the unidirectional flow of water.
+*   Its fundamental character is shaped by its:
+    *   **Catchment area** (watershed)
+    *   **Regional climate**
+    *   **Underlying geology**
+    *   **Channel gradient**
+
+### **Downstream Continuum: From Headwaters to Mouth**
+Rivers change predictably from source to mouth, forming a continuum:
+
+**1. Headwaters (Upper Reaches)**
+*   **Physical Conditions:** Cold, fast, oxygen-rich water; substrate of bedrock and coarse gravel.
+*   **Biology & Energy Base:**
+    *   **Community:** Dominated by insect larvae (adapted to cling to surfaces) and cold-water predators like trout.
+    *   **Energy Source:** **Allochthonous**—The food web is based on organic matter from outside (e.g., leaf litter from riparian forests), processed by shredder invertebrates.
+
+**2. Middle & Lower Reaches**
+*   **Physical Conditions:** River widens, slows, and

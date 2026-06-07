@@ -1,0 +1,30 @@
+ "Kakapo are critically endangered; the total known population is only 247 living individuals, all of which are named and tagged, as of 2023. Because of the introduction of predators such as cats, rats, ferrets, and stoats during European colonisation, the kakapo was almost wiped out. Conservation efforts began in the 1890s, but they were not very successful until the implementation of the Kakapo Recovery Programme in the 1980s. As of April 2023, the Kakapo Recovery Programme has managed to bring the population up to 249 individuals."
+
+This is a graph of the kakapo population:
+
+```
+Year	Population
+1995	51
+1996	54
+1997	57
+1998	60
+1999	62
+2000	62
+2001	62
+2002	86
+2003	86
+2004	83
+2005	86
+2006	86
+2007	85
+2008	91
+2009	124
+2010	122
+2011	131
+2012	127
+2013	124
+2014	126
+2015	125
+2016	123
+2017	153
+2018	148

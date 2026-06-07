@@ -1,0 +1,15 @@
+ If they speak the words correctly, read the following:
+
+The door swings open, revealing a dark passageway. A gust of cold, ancient air rushes out from the depths beyond.
+
+If they do not speak the words correctly, read the following:
+
+The door remains sealed shut, unmoving and unyielding. The runes glow briefly with a faint, mocking light before fading back into the stone.
+
+The door will only open if the words are spoken correctly. The players may attempt to open it again, but each failed attempt will cause the runes to glow more brightly and the air to grow colder, as if in warning. If they fail three times, read the following:
+
+The runes flare with an icy blue light, and a blast of frigid air erupts from the door, chilling you to the bone. The door will not open for you today.
+
+The players must then wait until the next day to try again, or find another way to open the door.
+
+If the players manage to open the door, they may proceed into the dungeon. What lies beyond is up to you, the Game Master, to decide. Perhaps the ancient tomb of a long-dead king, a hidden treasure vault, or a portal to another realm entirely. The possibilities are endless, and the

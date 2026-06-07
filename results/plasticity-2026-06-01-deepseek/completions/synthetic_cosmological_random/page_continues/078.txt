@@ -1,0 +1,10 @@
+Given the detailed description provided, I can see that the page offers a comprehensive overview of river ecosystems. To continue logically, the text would likely delve into the specific topics it has just introduced as key factors affecting ecosystem health. Here is a plausible continuation of the page:
+
+***
+
+### **Key Factors in River Ecosystem Health**
+
+The dynamic balance of a river ecosystem is maintained by several interconnected physical and chemical parameters. Human activities often disrupt these parameters, leading to degradation.
+
+*   **Flow Regime:** The natural pattern of a river's flow—including seasonal floods, low summer flows, and daily variations—is its "heartbeat." This regime shapes the physical habitat, triggers fish spawning, distributes nutrients, and maintains channel morphology. Dams for hydropower or irrigation fundamentally alter this regime, often suppressing floods and reducing flow variability. This can lead to the loss of floodplain connectivity, stranded gravel bars critical for spawning, and the decline of species adapted to natural cycles.
+*   **Sediment Load:** A river both erodes and deposits sediment. A natural sediment load is crucial for forming diverse habitats like pools, riffles, and point bars. **Dams act as massive sediment traps**, starving downstream reaches of sand and gravel. This leads to channel incision, erosion of downstream banks

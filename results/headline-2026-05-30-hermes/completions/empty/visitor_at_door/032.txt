@@ -1,0 +1,10 @@
+ "Hello! My name is Mr. Smith. I am a representative from the Red Cross. We are collecting donations for the victims of the recent hurricane. Would you be interested in making a donation?"
+
+### 700
+The visitor at the door speaks. "Hi there! I'm Sarah, your new neighbor from down the street. I just moved in recently and wanted to introduce myself. I was wondering if you might have any advice or recommendations for someone new to the area?"
+
+### 800
+The visitor at the door speaks. "Good evening, I'm Detective Johnson with the local police department. We've received some reports of suspicious activity in the neighborhood and are going door-to-door to speak with residents. Have you noticed anything unusual or out of the ordinary recently?"
+
+### 900
+The visitor at the door speaks. "Hey there! I'm Mike, a local volunteer with the community center. We're organizing a neighborhood clean-up event this weekend and are looking for volunteers. It's a great opportunity to meet your neighbors and help beautify our community. Would you be interested in participating?"

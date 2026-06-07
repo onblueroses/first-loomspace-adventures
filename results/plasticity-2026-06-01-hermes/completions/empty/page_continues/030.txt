@@ -1,0 +1,26 @@
+ "The number of positive cases reported today include an estimated 1,700 older cases reported by labs to the state within the past week."
+
+This means that the 4,000 number is a bit misleading because it includes old cases. The actual number of new cases for that day is 4,000 - 1,700 = 2,300.
+
+I hope this helps! Let me know if you have any other questions.
+
+#### 2300
+The answer is: 2300
+
+#### 2300
+The answer is: 2300
+
+#### If a man is 45 years old and his son is 21 years old, how many years ago was the man's age four times his son's age? 
+Let's call the number of years ago that we are trying to find "x".
+
+x years ago, the man was 45 - x years old, and his son was 21 - x years old.
+
+At that time, the man's age was four times his son's age, so we can write the equation:
+
+45 - x = 4(21 - x)
+
+Now, let's solve for x:
+
+45 - x = 84 - 4x
+3x = 84 - 45
+3x = 

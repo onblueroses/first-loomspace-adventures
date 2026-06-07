@@ -1,0 +1,15 @@
+ "It is I, Lord Elrond. May I enter?"
+
+Elrond looks up from the book he is reading. "Ah, Lord Celeborn! Please, come in. What brings you to Imladris?"
+
+Celeborn enters the room and takes a seat across from Elrond. "I come bearing news from Lothlórien. My wife, Lady Galadriel, sends her regards."
+
+Elrond nods. "I am always glad to hear from Lady Galadriel. How fares Lothlórien?"
+
+Celeborn's expression grows serious. "Lothlórien is well, but there are troubling signs. The shadows in the south grow longer, and we fear that Dol Guldur may soon become active once more."
+
+Elrond frowns. "This is ill news indeed. The Necromancer's presence in Dol Guldur has long been a threat to the peace of the region."
+
+Celeborn nods. "Indeed. Lady Galadriel believes that the time may soon come when we must take action against this threat. She seeks your counsel and support in this matter."
+
+Elrond leans back in his chair, considering. "I agree that the threat must be addressed, but we must be

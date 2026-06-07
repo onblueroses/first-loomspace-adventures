@@ -1,0 +1,13 @@
+Based on the text you've provided, here is a continuation that elaborates on key concepts and introduces related topics, maintaining the same technical and descriptive style.
+
+---
+
+### Human Impacts and Conservation
+
+Anthropogenic activities have profoundly altered river ecosystems on a global scale. **Dams and impoundments** fragment river corridors, converting lotic habitats into lentic ones, disrupting natural flow regimes, and blocking the migration of fish and the transport of sediment. This can lead to the loss of specialized upstream and downstream communities. **Channelization**—the straightening and hardening of banks for flood control or navigation—reduces habitat complexity, eliminates backwaters and pools, and severs the connection between the river and its floodplain.
+
+**Pollution** from point sources (e.g., industrial effluent) and non-point sources (e.g., agricultural runoff containing fertilizers, pesticides, and animal waste) degrades water quality. Excess nutrients, particularly nitrogen and phosphorus, can lead to **eutrophication** in slower-moving sections, causing algal blooms that deplete dissolved oxygen upon decomposition, creating "dead zones" harmful to aquatic life.
+
+**Restoration ecology** seeks to mitigate these impacts. Strategies include:
+*   **Restoring natural flow regimes** through modified dam operations.
+*

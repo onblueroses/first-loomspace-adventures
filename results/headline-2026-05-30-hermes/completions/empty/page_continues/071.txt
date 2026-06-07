@@ -1,0 +1,13 @@
+ "If you use the same password on multiple sites, we recommend changing it on those sites as well." Yes, you should, but that's still a PITA. It's also a bit rich coming from a company that also says: "Choose a strong password for your Google Account that you don't use for any other websites." How many people actually do that?
+
+It's not Google's fault that many people are lazy or ignorant when it comes to computer security. However, the company could do more to help.
+
+For example, Google could have forced people to change their passwords, or at least warned them directly. Instead, it just blogged about the problem.
+
+Google could also have adopted two-factor authentication, which would have made password theft pointless. Twitter did this in August 2013, and Microsoft followed in January.
+
+Google has supported two-factor authentication for some time, but it's an option, and optional security is generally less effective than mandatory security.
+
+Google could also have a system that flags up weak passwords, or passwords that are used on multiple sites, and prompts users to change them.
+
+It looks as though most people have got away with it this time, but the incident provides another nudge for people to improve their password security. This includes using long or complex

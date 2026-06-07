@@ -1,0 +1,7 @@
+[The visitor is a person in practical outdoor clothing, holding a field notebook and a small, waterproof case that likely contains sampling equipment. They have a focused, inquisitive expression.]
+
+**Visitor:** "Hello. I've been doing a biological survey upstream, focusing on macroinvertebrate populations as indicators of water quality. Your description of the headwater stream community is precisely what I've been documenting. However, I've noted a significant decrease in shredder species—the ones that process leaf litter—about two kilometers back, coinciding with a section where the riparian zone has been cleared. I'm trying to correlate this with changes in the dissolved organic carbon and nitrogen levels."
+
+They pause, glancing back toward the direction of the river.
+
+**Visitor:** "Given the system's connectivity you outlined, I'm concerned this perturbation might cascade downstream, affecting the productivity in the middle reaches. I was hoping to compare notes or perhaps access a vantage point to observe the channel morphology here, to see if the sediment load has already begun to shift."

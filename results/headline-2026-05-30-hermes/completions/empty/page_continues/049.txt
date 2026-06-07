@@ -1,0 +1,16 @@
+ "In the 1960s, a group of researchers set out to determine whether various cognitive, personality, and demographic factors could predict creative ability. When they compared the results with ratings of the subjects’ creativity based on their actual creative achievements, they found that only one of the measures directly correlated with creative achievement—and it was the one they’d added as an afterthought. The successful predictor of creativity was the Brief Creativity Scale, a measure of everyday creativity."
+
+The scale is composed of 13 questions. Respondents answer each question using a 5-point Likert scale: Very Often, Often, Sometimes, Rarely, Never. The questions are:
+
+1. I have fresh insights about myself or others.
+2. I am full of ideas.
+3. I can think of various ways to solve a problem.
+4. I can make up stories easily.
+5. I have a lively imagination.
+6. I can come up with new and practical ideas.
+7. I can find similarities between seemingly unrelated ideas.
+8. I am good at combining ideas in ways that others have not tried.
+9. I can give examples of many different solutions to a problem.
+10. I am very curious.
+11. I can look at things from different angles.
+12. I often

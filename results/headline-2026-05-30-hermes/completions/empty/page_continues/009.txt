@@ -1,0 +1,11 @@
+ "The function of the program is to store, manipulate, and retrieve data from the database. The database is the information, and the program is the database management system."
+
+Then, later: "A database system is a computerized record-keeping system. It is a way of storing and manipulating data to produce information. The database is the data, and the software that stores, retrieves, and manipulates the data is the database management system (DBMS)."
+
+If you were to ask a DBA "what is a database?", I would expect them to tell you it is the data. If you were to ask a developer "what is a database?", I would expect them to tell you it is the system (including the data).
+
+In my opinion, it is the collection of data. The software is the DBMS. But I think it is common to refer to the whole thing (data, software, and sometimes even the hardware too) as "the database".
+
+Comment: The hardware is not part of the database.  The hardware is part of the computer that the database resides on.  The database is the collection of data.  The DBMS is the software.  The hardware is the computer.  3 separate things.
+
+Comment: @Dunk,

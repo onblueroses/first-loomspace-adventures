@@ -1,0 +1,14 @@
+ "By these words, you are bound to me. Do my will, as I command." The spell then lists several dozen names of spirits, which the caster may summon and control.
+
+### Reactions
+
+A character who hears the spell and understands its meaning must succeed on a DC 17 Wisdom saving throw or be stunned until the end of their next turn. On a successful save, the character is immune to this effect for 24 hours.
+
+A character who reads the spell aloud must succeed on a DC 17 Charisma saving throw or gain one level of exhaustion. On a successful save, the character is immune to this effect for 24 hours.
+
+### Casting the Spell
+
+To cast the spell, the caster must read the entire text aloud. This requires 1 minute of uninterrupted concentration. If the caster's concentration is broken, the spell fails and the caster takes 3d6 psychic damage.
+
+If the caster successfully reads the entire spell, they may then name one of the spirits listed in the text. The named spirit appears in an unoccupied space within 60 feet of the caster and is bound to the caster's service for 1 hour. The spirit is friendly to the caster and their companions and obeys the caster's commands to the best of its ability.
+

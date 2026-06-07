@@ -1,0 +1,7 @@
+ "We will be updating this list as we find more apps that are not working on the iPad 2."
+
+As of this writing, the list has not been updated, so it appears that these are the only apps that have been found to not work on the iPad 2 so far. If you are an iPad 2 owner and have encountered other apps that don't work on your device, please let us know in the comments.
+
+It's worth noting that the iPad 2 has been jailbroken, so it's possible that some of these apps may work on a jailbroken iPad 2. However, we have not tested this and cannot confirm it.
+
+We will continue to update this story as more information becomes available.

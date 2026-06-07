@@ -1,0 +1,10 @@
+ "In the 1970s, the world of chess was dominated by the Soviets. They were considered unbeatable. But everything changed in 1976, when a computer called Kaissa challenged the Soviet supremacy and won. Kaissa was developed by a team of programmers at the Institute of Control Sciences in Moscow. The victory of Kaissa over the Soviet grandmasters was a turning point in the history of chess and artificial intelligence."
+
+The page also provides the following information about the Kaissa program:
+
+- Kaissa was written in assembly language for the M-20 computer, which had only 4K words of core memory.
+- The program used a Shannon Type B strategy with a deep search (8-12 plies) for the end game and a shallower search (4-6 plies) for the middle game.
+- Kaissa's evaluation function included material, mobility, king safety, pawn structure, and control of key squares.
+- The program also had a large opening book and an endgame database for certain pawn endings.
+
+The page concludes by stating that Kaissa's victory in 1976 was a milestone in computer chess and AI, proving that computers could compete with the best human players. It paved the way for future chess programs like Deep Blue, which would

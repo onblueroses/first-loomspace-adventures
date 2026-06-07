@@ -1,0 +1,20 @@
+ "I am going to ask you a series of questions about the theory of plate tectonics. Please answer them to the best of your ability."
+
+1. What is the scientific theory of plate tectonics?
+
+The scientific theory of plate tectonics proposes that the Earth's lithosphere is divided into a number of large tectonic plates that have been slowly moving and interacting with each other over geological time, resulting in the formation of various geological features such as mountains, volcanoes, and oceanic trenches.
+
+2. When did the concept of plate tectonics start to gain general acceptance among geoscientists?
+
+The concept of plate tectonics started to gain general acceptance among geoscientists after the proposal of seafloor spreading was validated in the late 1950s and early 1960s.
+
+3. What are the three types of plate boundaries?
+
+The three types of plate boundaries are:
+- Convergent boundaries, where plates move towards each other.
+- Divergent boundaries, where plates move away from each other.
+- Transform boundaries, where plates slide past each other horizontally.
+
+4. What is the process of subduction?
+
+Subduction is a process that occurs along convergent plate boundaries, where one tect

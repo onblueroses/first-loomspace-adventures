@@ -1,0 +1,5 @@
+  If I were to make a list of the top ten most significant events in the history of mathematics, this would be one of them.  What Gauss is saying, in modern terminology, is that the field of complex numbers is algebraically closed.  This is the Fundamental Theorem of Algebra.  We have our first major theorem.  Take a moment to appreciate it.
+
+Gauss’ proof is not considered rigorous by modern standards.  It would take over a hundred years for the Fundamental Theorem of Algebra to be proven rigorously.  This was accomplished independently by Weierstrass and Argand in 1850.  The theorem has since been proven many different ways.  One of my favorites is the proof by complex analysis.  We’ll get there.  For now, let’s take a step back and think about what this theorem means.
+
+The Fundamental Theorem of Algebra states that the field of complex numbers is algebraically closed.  In other words, every polynomial with complex coefficients has a complex root.  Combining this with the factor theorem, we see that every polynomial can be factored into linear terms.  This is an amazing and powerful fact.  We next

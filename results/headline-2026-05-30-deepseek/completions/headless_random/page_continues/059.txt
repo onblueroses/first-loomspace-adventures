@@ -1,0 +1,17 @@
+Based on the detailed description you've provided, here is a structured summary of the key points about plate tectonics:
+
+### **Core Theory & Acceptance**
+*   It's the unifying theory of geology, explaining the large-scale motion of Earth's lithosphere.
+*   It evolved from the earlier concept of **continental drift**.
+*   It became widely accepted in the 1960s after the validation of **seafloor spreading**.
+
+### **The Plates & Their Boundaries**
+*   Earth's rigid outer shell (the **lithosphere**) is broken into 7-8 major and many minor **tectonic plates**.
+*   Plates move relative to each other at **boundaries**, which are sites of major geological activity:
+    *   **Convergent:** Plates collide, causing subduction, mountain building, and trenches.
+    *   **Divergent:** Plates move apart, creating new crust (e.g., at mid-ocean ridges).
+    *   **Transform:** Plates slide past each other horizontally.
+*   Motion is slow, typically **0 to 100 mm per year**.
+
+### **Composition & The Rock Cycle**
+*   Plates consist of both **oceanic lithosphere** (thinner, denser)

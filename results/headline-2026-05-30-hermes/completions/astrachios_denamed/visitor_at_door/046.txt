@@ -1,0 +1,9 @@
+ The gatekeeper replies.
+
+Gatekeeper: I hear the words and see the sigil. Welcome, traveler. By the names I am bound, I open the way. Enter and be received.
+
+The visitor passes through the door, which opens and closes behind them. The ritual concludes. 
+
+The ritual is complete. The visitor has gained entry to the desired location through the power of the ritual and the names invoked. The gatekeeper has fulfilled their role as guardian and granted access as commanded. ]]
+
+return ritual

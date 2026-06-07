@@ -1,0 +1,45 @@
+ The dog barks.
+
+In the second example, the visitor speaks before the dog barks.
+
+## Using Adverbs of Time
+
+Adverbs of time are words that indicate when an action took place. They can be used to specify the time of an event or the sequence of events. Here are some common adverbs of time:
+
+- before
+- after
+- when
+- while
+- as soon as
+- until
+- since
+
+Adverbs of time can be used to connect two clauses in a sentence, indicating the sequence of events.
+
+Example:
+
+She finished her homework before she went to bed.
+
+In this example, "before" is an adverb of time that connects two clauses and indicates the sequence of events.
+
+## Using Conjunctions
+
+Conjunctions are words that connect two clauses, phrases, or words in a sentence. They can be used to indicate the sequence of events.
+
+Some common conjunctions used to indicate sequence include:
+
+- and
+- but
+- or
+- yet
+- so
+
+Example:
+
+I went to the store, and I bought some groceries.
+
+In this example, "and" is a conjunction that connects two clauses and indicates the sequence of events.
+
+## Using Transition Words
+
+Transition words are words or phrases that show the relationship

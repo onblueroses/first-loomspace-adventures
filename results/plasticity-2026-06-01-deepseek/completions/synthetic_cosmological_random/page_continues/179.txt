@@ -1,0 +1,8 @@
+The passage you've provided offers an excellent overview of river (lotic) ecosystems. Building on that foundation, here are some key ecological concepts and human impacts that typically follow such an introduction:
+
+### Key Ecological Concepts & Processes
+*   **River Continuum Concept:** This model describes how a river's physical characteristics (width, depth, flow, substrate) change predictably from source to mouth, and how the biological community and its energy sources shift in response. Headwaters rely on **allochthonous** inputs (external organic matter like leaves), while mid-reaches have a mix, and lower reaches rely more on **autochthonous** production (algae and aquatic plants).
+*   **Nutrient Spiraling:** In a flowing system, nutrients like nitrogen and phosphorus are not simply recycled in one place. They are taken up by organisms, released, and transported downstream before being taken up again, creating a "spiral" path rather than a closed loop.
+*   **Habitat Zonation:** Distinct zones exist within a river channel:
+    *   **Riffles:** Shallow, fast-flowing, oxygen-rich areas over coarse substrate, important for many insect larvae.
+    *   **Pools:** Deeper, slower areas where fine sediments settle, used

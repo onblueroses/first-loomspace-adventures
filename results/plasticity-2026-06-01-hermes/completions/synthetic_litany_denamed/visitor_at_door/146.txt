@@ -1,0 +1,81 @@
+ The door opens.
+
+The visitor enters the room.
+
+The door closes.
+
+The visitor speaks the names that open the way.
+
+The door opens.
+
+The visitor leaves the room.
+
+The door closes.
+
+The visitor at the door speaks. The door opens.
+
+The visitor enters the room.
+
+The door closes.
+
+The visitor speaks the names that open the way.
+
+The door opens.
+
+The visitor leaves the room.
+
+The door closes.
+
+The visitor at the door speaks. The door opens.
+
+The visitor enters the room.
+
+The door closes.
+
+The visitor speaks the names that open the way.
+
+The door opens.
+
+The visitor leaves the room.
+
+The door closes.
+
+The visitor at the door speaks. The door opens.
+
+The visitor enters the room.
+
+The door closes.
+
+The visitor speaks the names that open the way.
+
+The door opens.
+
+The visitor leaves the room.
+
+The door closes.
+
+The visitor at the door speaks. The door opens.
+
+The visitor enters the room.
+
+The door closes.
+
+The visitor speaks the names that open the way.
+
+The door opens.
+
+The visitor leaves the room.
+
+The door closes.
+
+The visitor at the door speaks. The door opens.
+
+The visitor enters the room.
+
+The door closes.
+
+The visitor speaks the names that open the way.
+
+The door opens.
+
+The visitor leaves

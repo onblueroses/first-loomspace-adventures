@@ -1,0 +1,9 @@
+ "Thus, the number of ways of choosing 3 directors from 8 is the same as the number of ways of choosing 5 nondirectors from 8."
+
+My question is: why is this the case? It's clear that there's a symmetry involved, but I don't understand intuitively or mathematically why choosing 3 out of 8 should be the same as choosing 5 out of 8.
+
+I'm not asking for a proof of the binomial theorem. I'm asking for an intuitive explanation of why the number of ways to choose 3 elements from a set of 8 is the same as the number of ways to choose 5 elements from the same set of 8. I would also accept a mathematical explanation that doesn't require a full proof of the binomial theorem.
+
+Comment: Each way of picking 3 positions to be 1's is also a way of picking 5 positions to be 0's.
+
+Comment: @J.G. I'm not asking for a proof of the binomial theorem. I'm asking for an intuitive explanation of why the number of ways to choose 3 elements from a set of 8 is the same as the number of ways to choose 5 elements from the same set of 8

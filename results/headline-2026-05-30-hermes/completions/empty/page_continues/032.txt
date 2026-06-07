@@ -1,0 +1,9 @@
+ "This is a simple example of a situation where a quantum algorithm can outperform any possible classical algorithm."
+
+I think this is a mistake in the article. The correct statement is that there is no known classical algorithm that can outperform the quantum algorithm.
+
+• The quantum Fourier transform can be used to crack certain encryption systems. I'm not sure what effect this has on the efficiency of the known cracking algorithms. There is a quantum algorithm that efficiently solves Pell's equation (thanks to a suggestion of Ed Pegg Jr. for pointing this out to me). However, it doesn't seem to me that the problem of solving Pell's equation has been studied so much from the point of view of computational complexity, so it's not clear to me that this is a case where the quantum algorithm is known to outperform the classical one.
+
+So my question is, is there a known example of a problem for which the best known quantum algorithm outperforms the best known classical algorithm? And is there a problem for which it has been proved that the quantum algorithm outperforms any classical algorithm?
+
+• I strongly suspect that the answer to your last question is no, because that would imply that we could prove that P is a proper subset of PSPACE, and I think that's unknown. –

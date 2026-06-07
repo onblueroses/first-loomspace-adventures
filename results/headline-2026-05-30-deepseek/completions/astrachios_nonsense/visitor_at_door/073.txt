@@ -1,0 +1,94 @@
+ Say:
+
+Who is there?
+
+It says:
+
+One who has passed the gates.
+
+Say:
+
+Enter in peace.
+
+The visitor enters.
+
+Say:
+
+Who are you?
+
+It says:
+
+I am the one who passes the gates. I have travelled the road from the world of the dead to the world of the living.
+
+Say:
+
+What is the road?
+
+It says:
+
+It is the road that the dead travel and the living travel. It is the road of those who are not dead and not living. It is the road of the gods who are dead and living.
+
+Say:
+
+What is the world of the dead?
+
+It says:
+
+It is the world of the living.
+
+Say:
+
+What is the world of the living?
+
+It says:
+
+It is the world of the dead.
+
+Say:
+
+How can this be?
+
+It says:
+
+The dead are not dead but living. The living are not living but dead.
+
+Say:
+
+What is death?
+
+It says:
+
+It is life.
+
+Say:
+
+What is life?
+
+It says:
+
+It is death.
+
+Say:
+
+Who are you?
+
+It says:
+
+I am the one who passes the gates.
+
+Say:
+
+Pass in peace.
+
+The visitor leaves.
+
+Say:
+
+The gates are open.
+
+The gates are open.
+
+The gates are open.
+
+The gates are open.
+

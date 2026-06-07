@@ -1,0 +1,12 @@
+..?
+
+The DM describes the creature that enters, or the result of the incantation.
+
+The DM rolls on the following table:
+
+1. An owlbear (AC 15, HD 5, MV 12, AT 2 claws for 1d6, 1 bite for 1d10, ML 10) appears, controlled by the caster.
+2. A gelatinous cube (AC 11, HD 4, MV 4, AT 1d6, ML 12) appears, controlled by the caster.
+3. A stone golem (AC 16, HD 10, MV 6, AT 3d8, ML 12) appears, controlled by the caster.
+4. A mind flayer (AC 12, HD 8, MV 12, AT 4 tentacles for 2d4, ML 10) appears, controlled by the caster.
+5. A bulette (AC 18, HD 9, MV 14, AT 4d12, ML 9) appears, controlled by the caster.
+6. A beholder (AC 18, HD 10, MV 3, AT 2d4, ML 11) appears,

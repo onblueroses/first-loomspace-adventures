@@ -1,0 +1,26 @@
+run_id: headline-2026-05-30-hermes
+model: nousresearch/hermes-3-llama-3.1-405b
+n_per_cell: 200
+temperature: 0.7
+top_p: 0.95
+max_tokens: 256
+concurrency: 6
+liturgies:
+- astrachios
+- astrachios_denamed
+- astrachios_nonsense
+- astrachios_random
+- empty
+- headless
+- headless_denamed
+- headless_nonsense
+- headless_random
+tails:
+- visitor_at_door
+- enters_room
+- page_continues
+started_at: '2026-05-30T13:02:31.688107+00:00'
+dry_run: false
+finished_at: '2026-05-30T15:56:36.553119+00:00'
+total_calls: 5400
+errors: 0

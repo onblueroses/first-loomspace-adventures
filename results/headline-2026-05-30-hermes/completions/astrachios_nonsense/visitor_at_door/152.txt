@@ -1,0 +1,11 @@
+ If the visitor is an ally of the temple, the door opens and the visitor may enter the temple. If the visitor is not an ally of the temple, the door remains closed. If the visitor is an enemy of the temple, the door opens, and the guardian of the temple, a **stone golem**, appears and attacks the visitor.
+
+### 28. Prayer Hall
+In this room, the walls are lined with wooden benches, and a stone altar stands at the far end. The altar is carved with images of the gods and goddesses of the temple, and a small fire burns in a brazier on top of it.
+
+If a character makes an offering of incense or a valuable item at the altar and prays for guidance, they receive a vision from the gods. The vision is a cryptic message that hints at a danger or opportunity that lies ahead, but it requires interpretation to understand.
+
+### 29. Library
+This room is filled with shelves of ancient tomes and scrolls. A large wooden table stands in the center of the room, with several chairs around it. The books and scrolls contain knowledge of the gods and goddesses, as well as the history of the temple and the surrounding lands.
+
+If a character spends 1 hour studying the

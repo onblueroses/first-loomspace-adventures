@@ -1,0 +1,7 @@
+ 
+
+Plate movement is thought to be driven by a combination of the motion of the seafloor away from spreading ridges due to variations in topography and density changes in the crust, which result in conventional currents in the mantle. In this way, the process of seafloor spreading at mid-ocean ridges and subduction at trenches is compensated by the slow creeping motion of Earth's solid mantle. This process is referred to as convection and is thought to be driven by slow cooling of Earth's interior.
+
+The relative importance of each of these factors and their relationship to each other is unclear, and still the subject of much debate.
+
+The outer layers of the Earth are divided into the lithosphere and asthenosphere. The division is based on differences in mechanical properties and in the method for the transfer of heat. The lithosphere is cooler and more rigid, while the asthenosphere is hotter and flows more easily. In terms of heat transfer, the lithosphere loses heat by conduction, whereas the asthenosphere also transfers heat by convection and has a nearly adiabatic temperature gradient. This division should not be confused with the chemical subdivision of these same layers into the mantle (comprising both the asthenosphere and the mantle portion of the lithosphere)

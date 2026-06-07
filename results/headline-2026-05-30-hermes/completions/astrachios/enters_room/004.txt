@@ -1,0 +1,21 @@
+ To be in command of these spirits is to be in command of the entire world. You must master these demons, they must obey your will and you must never give in to them. That is the price of using these grimoires, that is the price of power. Power is never free, and demons are always looking for a way to escape their bonds and turn on their masters. You must always be vigilant, you must always be in control. And if you can do that, then the world will be yours.
+
+The room is filled with a sense of power and darkness as the demons enter. They are not to be trifled with, but if you can control them, you can control the world. The choice is yours, but choose wisely, for the path of demons is not for the faint of heart. 
+
+Do you wish to continue? (Yes/No) [End]'''
+        self.choices = [Yes(), No()]
+
+    def handle_player_choice(self, choice):
+        if choice == Yes():
+            return self.choices[0].get_state()
+        elif choice == No():
+            return self.choices[1].get_state()
+
+    def get_prompt(self):
+        return self.prompt
+
+    def get_choices(self):
+        return self.choices
+
+
+class Astrach

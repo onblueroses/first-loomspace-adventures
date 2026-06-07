@@ -1,0 +1,33 @@
+ "I hope you can help me with my puzzle. I'm at my wit's end." The door closes behind him. "I'll pay you handsomely for your assistance." He takes a seat across from you.
+
+"My family and I have been on a scavenger hunt of sorts. We've found all but one of the treasures. The search has led us to this town." He looks out the window. "I know the treasure is somewhere here, but the clue we obtained is, well, rather cryptic."
+
+He hands you a piece of paper. You read it:
+
+\begin{blockquote}
+
+Where the treasure lies
+
+  the past is the key
+
+  in the middle of the town
+
+  where the trees yet sing
+
+  standing on the edge
+
+  where the water once flowed
+
+  a step to the left
+
+  in the center you'll find
+\end{blockquote}
+
+"An odd clue indeed," you remark. "But this town is full of history. I'm sure we can find the answer."
+
+"I hope so," the man replies. "I don't want to disappoint my family. They're counting on me."
+
+You smile. "Don't worry. We'll figure this out."
+
+Where should you look for the treasure?
+

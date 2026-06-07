@@ -1,0 +1,11 @@
+ "In the 1970s, the United States Department of Defense used the term 'software engineering' to refer to the analysis, design, and development of software for military systems. The term 'software engineering' was not widely used until the 1980s, when it became a widely recognized field of study and practice."
+
+I have a few concerns about this passage:
+
+1. It suggests that the term "software engineering" was coined in the 1960s, but only became widely used in the 1980s. This seems like a significant gap. Were there other terms used in the interim?
+
+2. The passage mentions that the Department of Defense used the term in the 1970s, but it's not clear if this was the first usage by the DoD, or if they had been using it since the 1960s.
+
+3. The final sentence states that the term became widely recognized in the 1980s. This seems late, considering that the field of computer science and software development had been rapidly growing since the 1950s.
+
+I'm hoping to gain a more detailed understanding of the history and evolution of the term "software engineering" and how it became the widely recognized term we use today. Any additional insights or clarifications

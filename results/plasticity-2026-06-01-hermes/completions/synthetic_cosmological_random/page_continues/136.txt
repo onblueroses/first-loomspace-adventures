@@ -1,0 +1,9 @@
+ 
+
+The biological community of a river ecosystem is shaped by the physical and chemical environment, which is determined largely by the flow regime and sediment load of the river. The flow regime is the variation in flow over time, influenced by precipitation patterns, snowmelt, and the river's channel morphology. The sediment load is the amount and type of suspended and bedload sediment transported by the river, influenced by the underlying geology and land use in the catchment.
+
+River ecosystems can be divided into three main zones: the headwaters, the middle reaches, and the lower reaches. Each zone has distinct physical, chemical, and biological characteristics.
+
+Headwater streams are typically fast-flowing, cold, and oxygen-rich, with a substrate of bedrock and coarse gravel. The biological community is dominated by aquatic insects whose larvae cling to substrates against the current, such as mayflies, stoneflies, and caddisflies. Cold-water fish such as trout occupy the predator niche. Organic matter enters these systems largely from outside, in the form of leaf litter and woody debris falling from the bordering forest. This allochthonous material forms the energetic base of the food web, supporting shredder invertebrates that break down the coarse organic matter into finer particles.
+
+As the river

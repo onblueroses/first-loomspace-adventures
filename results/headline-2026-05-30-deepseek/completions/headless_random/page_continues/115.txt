@@ -1,0 +1,12 @@
+That's an excellent and accurate summary of the core concepts of plate tectonic theory. It covers the historical development, key components, and driving mechanisms.
+
+To build on that foundation, here are some additional critical aspects and implications of plate tectonics, which the "page" might continue to discuss:
+
+### **Driving Forces: The Engine of Plate Motion**
+While convection in the mantle is the primary driver, geoscientists now understand it as a combination of forces:
+1.  **Ridge Push (Gravity Slide):** At mid-ocean ridges, the new, hot lithosphere is elevated. Gravity causes it to slide downhill away from the ridge, pushing the plate.
+2.  **Slab Pull:** This is considered the most significant force. At convergent boundaries, the cold, dense oceanic plate sinks into the mantle (subduction). The weight of this sinking slab pulls the rest of the plate behind it.
+3.  **Mantle Drag:** Convection currents in the asthenosphere can exert frictional forces on the base of plates, either driving or resisting their motion.
+
+### **The Supercontinent Cycle**
+Plate tectonics operates on a cyclical timeline of ~300-500 million years. Continents rift apart, disperse, and eventually collide again to form a

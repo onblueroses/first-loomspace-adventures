@@ -1,0 +1,15 @@
+ You must speak its name to pass.
+
+The creature that enters the room is a Netherdrake. You must speak its name to pass.
+
+Say "Netherdrake" to pass. The creature is a Netherdrake. The name "Netherdrake" is the key to passing through the room.
+
+Netherdrake
+
+*The Netherdrake hisses and slithers back into the shadows. The door behind you slams shut and the door in front of you creaks open. You have passed the trial of the Netherdrake.*
+
+You find yourself in a dimly lit chamber with a large, circular stone platform in the center. Torches flicker on the walls, casting eerie shadows across the room. In the center of the platform rests an ornate stone pedestal, upon which sits an ancient tome bound in black leather and adorned with mysterious runes.
+
+As you approach the pedestal, the tome's pages begin to flip on their own, as if caught in an unseen breeze. The runes on the cover glow with an ethereal light, and a deep, resonant voice echoes through the chamber:
+
+"Mortal, you stand before the Tome of Forbidden Knowledge. Within these pages lie secrets that have been hidden from the world for

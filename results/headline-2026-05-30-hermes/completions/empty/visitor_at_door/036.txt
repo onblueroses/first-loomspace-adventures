@@ -1,0 +1,19 @@
+ “Hi, I’m James, the owner of the house. Can I help you with something?”
+
+* Choose: "Yes, I was wondering if you could tell me more about the history of this house."
+* Choose: "No, I was just admiring the architecture. Have a good day!"
+
+### 328
+The visitor looks at you with a puzzled expression. "I'm not sure what you mean by that. I'm just here to visit my friend who lives here. Is there something I can help you with?"
+
+* Choose: "No, I must have been mistaken. Have a great day!"
+* Choose: "I was just curious about the history of the house. Do you know anything about it?"
+
+### 329
+The visitor's eyes widen in surprise. "Oh, wow, I had no idea this house had such an interesting history! I'm just here to visit my friend, but now I'm really curious to learn more about the place. Thanks for sharing that with me!"
+
+* Choose: "You're welcome! It's always fascinating to learn about the stories behind old buildings."
+* Choose: "No problem! I love sharing interesting tidbits about the neighborhood."
+
+### 330
+The visitor smiles and nods. "I completely agree

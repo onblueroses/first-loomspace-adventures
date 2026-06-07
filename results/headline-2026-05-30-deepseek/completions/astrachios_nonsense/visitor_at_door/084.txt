@@ -1,0 +1,18 @@
+ The voice is that of a child: “The great god is pleased with you and sends a reward. Open the door and receive your gift.”
+
+Will you open the door? If so, turn to 85. If you decide not to open the door, turn to 46.
+
+352
+
+You look around for a hiding-place, but there is nothing but flat, open ground. There is no cover at all, but you might be able to hide behind the boat. However, you hear footsteps approaching, and you have no time to think. You must hide behind the boat (turn to 392) or fight (turn to 163).
+
+353
+
+Your spells are powerful enough to destroy the Guardians. If you have a spell of Magic Missiles, turn to 212. If not, turn to 86.
+
+354
+
+The air grows cold around you. You feel a deep sense of foreboding. A ghostly figure drifts towards you. It is dressed in armour, and it carries a shield and a sword. The ghost speaks: “I am the guardian of this place. To pass, you must fight me.” You must fight the ghost. If you win, turn to 212.
+
+GHOST SKILL 7 STAMINA 9
+

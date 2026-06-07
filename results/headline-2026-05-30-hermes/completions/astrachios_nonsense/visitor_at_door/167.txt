@@ -1,0 +1,13 @@
+ The door answers, opening if the visitor is accepted. If the visitor is rejected, the door remains closed and silent.
+
+#### 27. The Stair of the False King
+A wide, grand staircase of stone ascends to the east, ending at a landing with a door. The steps are worn and cracked, and the walls are adorned with faded murals and dusty tapestries depicting a king and his court. Close inspection reveals that the king's face has been scratched out in each image.
+
+If the characters ascend the stairs, the air grows colder and a sense of dread builds. Upon reaching the top, the characters hear a deep, echoing voice in their minds that says, "Turn back, for only death awaits you here."
+
+The door atop the stairs is locked, and the key is nowhere to be found. If the characters open the door, read:
+
+The chamber beyond the door is empty save for a stone throne against the far wall. Atop the throne sits a skeleton clad in tattered robes and a tarnished crown.
+
+The skeleton is all that remains of a forgotten king who died alone in his keep. If the characters approach the throne, the skeleton crumbles to dust, leaving behind the tarnished crown and a ruby ring worth 250 gp.
+

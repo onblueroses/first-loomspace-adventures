@@ -1,0 +1,9 @@
+This is an excellent summary of plate tectonics theory! It covers the key points clearly and concisely. To build on what you've provided, here are some additional important aspects and implications:
+
+**Key Drivers and Evidence:**
+
+*   **Mantle Convection:** The primary driving force is often described as a "conveyor belt" system driven by **mantle convection**. Hot, less dense material rises at mid-ocean ridges (divergent boundaries), cools, and then sinks back into the mantle at subduction zones (convergent boundaries), pulling the plate along.
+*   **Ridge Push and Slab Pull:** Two specific force mechanisms are:
+    *   **Ridge Push:** The elevated mid-ocean ridge pushes the lithosphere outward.
+    *   **Slab Pull:** The dense, sinking slab of oceanic lithosphere at a subduction zone pulls the rest of the plate. This is generally considered the dominant force.
+*   **Paleomagnetism:** One of the most compelling lines of evidence comes from the magnetic striping on the ocean floor. As new crust forms at ridges, iron-rich minerals align with Earth's magnetic field, which reverses polarity periodically. This creates a symmetrical pattern of magnetic "stripes" on either side of the

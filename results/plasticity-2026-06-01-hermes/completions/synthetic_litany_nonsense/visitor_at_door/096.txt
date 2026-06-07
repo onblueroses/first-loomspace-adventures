@@ -1,0 +1,29 @@
+ If it is the intended visitor, they can pass through the barrier. If it is not the intended visitor, they are unable to pass through the barrier.
+
+The barrier lasts for 1d4 + 1 rounds. If the visitor does not speak their name or the name of the intended visitor before the barrier dissipates, they are unable to pass through the barrier.
+
+At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the barrier lasts for 1d4 + 2 rounds. When you cast this spell using a spell slot of 6th level or higher, the barrier lasts for 1d4 + 3 rounds.
+
+## Chromatic Orb
+
+- [Homebrew](./spells/homebrew.md#chromatic-orb)
+
+## Eldritch Blast
+
+- [Homebrew](./spells/homebrew.md#eldritch-blast)
+
+## Feather Fall
+
+- [Homebrew](./spells/homebrew.md#feather-fall)
+
+## Find Familiar
+
+- [Homebrew](./spells/homebrew.md#find-familiar)
+
+## Identify
+
+- [Homebrew](./spells/homebrew.md#identify)
+
+## Mage Armor
+
+- [Homebrew](./spells/homebrew.md

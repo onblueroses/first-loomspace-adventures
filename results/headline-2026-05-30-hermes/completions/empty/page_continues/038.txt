@@ -1,0 +1,9 @@
+ "The independence of the two events is irrelevant. If $A$ and $B$ are independent, then $P(A\cap B)=P(A)P(B)$. However, the conditional probability is defined as $$P(A|B)=\frac{P(A\cap B)}{P(B)}$$"
+
+I think I understand the equation for the conditional probability, but I don't understand why the independence of the two events is irrelevant.
+
+Comment: The formula for conditional probability is defined as it is regardless of whether $A$ and $B$ are independent or not. The formula is true if they are independent and it is true if they are not independent. The independence of the events has no effect on the truth of the formula.  That is why the independence is irrelevant.
+
+Answer: It’s irrelevant because the formula for conditional probability, as you’ve stated it, is true by definition, whether or not $A$ and $B$ are independent.
+
+Answer: The formula for conditional probability is derived from the definition of independence. Two events $A$ and $B$ are independent if and only if $P(A\cap B)=P(A)P(B)$. If we divide both sides of this equation by $P(B)$, we get

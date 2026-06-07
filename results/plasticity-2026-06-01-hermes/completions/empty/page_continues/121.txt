@@ -1,0 +1,12 @@
+ "If you want to use a different version of Java, or if you want to use Java for development and not just to run Java applications, download the Java Development Kit, or JDK."
+
+That's what you want.
+
+Answer: \begin{blockquote}
+
+If you want to develop Java applications, download the Java Development Kit, or JDK. The JDK includes the JRE, so you do not have to download both separately.
+\end{blockquote}
+
+From: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+If you're just running Java, you only need the JRE. If you're developing Java software, you need the JDK. The JDK includes the JRE.

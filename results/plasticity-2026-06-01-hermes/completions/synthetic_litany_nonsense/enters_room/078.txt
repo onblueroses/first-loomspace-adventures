@@ -1,0 +1,19 @@
+ [Pause] What enters the room now. [Pause] What enters the room now.
+
+A grotesque creature appears. Its body is a writhing mass of tentacles, with a bulbous head covered in eyes. It speaks in a voice that sounds like the scraping of metal on stone.
+
+**Entity:** You have called me here, mortal. Speak your desire, but know that the price may be steep.
+
+**Carter:** I seek power and knowledge beyond the reach of ordinary men. I wish to commune with the Old Ones and learn their secrets.
+
+**Entity:** Such knowledge comes at a cost. Are you prepared to pay it?
+
+**Carter:** I am. I have already given much in pursuit of this goal.
+
+**Entity:** Then let us begin. The first key is the Sigil of Xanthrok. Carve it into your flesh, and let the blood flow freely. Only then will the Old Ones hear your call.
+
+**Carter:** [Sounds of cutting, followed by a sharp intake of breath] It is done.
+
+**Entity:** Good. Now, the second key. You must offer a sacrifice. A life, freely given, to open the way.
+
+**Carter:** [Pause] I... I have a subject prepared.

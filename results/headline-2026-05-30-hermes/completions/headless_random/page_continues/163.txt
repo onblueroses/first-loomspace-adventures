@@ -1,0 +1,13 @@
+ https://en.wikipedia.org/wiki/Plate_tectonics
+
+I don't understand what this sentence means:
+
+Lateral density variations in the mantle result in convection currents, the slow creeping motion of Earth's solid mantle.
+
+What does lateral density variations in the mantle mean? What does lateral mean here? Why does it cause convection currents?
+
+The mantle is a solid, but it behaves in a ductile manner over very long timescales (in the order of millions of years). So don't think of it as rigid, but rather as a very very viscous fluid.
+
+Lateral heterogeneities in the mantle means that the mantle is not uniform. There are parts of it that are different than others. This can be due to a variety of reasons, such as the presence of water, differences in chemical composition, or differences in temperature. These differences cause the mantle to have different properties in different places, for example in some places it might be denser, and in other places less dense.
+
+This difference in properties can cause the mantle to move. For example, if you have a vertical column of fluids, and the fluid at the bottom is less dense than the fluid on top, it will want to rise. It will be buoyant. This can result in con

@@ -1,0 +1,25 @@
+ Their voice is deep and resonant, and seems to echo from within a great cavern.
+
+"I am the Guardian of the Threshold, the Watcher at the Gate. I guard the way to the mysteries that lie beyond. To pass, you must solve my riddle."
+
+The Guardian speaks the riddle:
+
+"I am the beginning of eternity, the end of time and space. I am the beginning of every end, and the end of every place. What am I?"
+
+The answer to the riddle is "E". 
+
+If the party answers correctly, the Guardian speaks:
+
+"You have answered true, and proven yourselves worthy. The way is now open to you. Step through the portal and behold the mysteries that await."
+
+The stone door grinds open, revealing a shimmering portal filled with swirling light. Stepping through, the party finds themselves in the mystical realm beyond, ready to continue their quest.
+
+If the party answers incorrectly, the Guardian says:
+
+"You have failed to grasp the truth. The way remains closed to you until you can prove your wisdom. Return when you believe you know the answer."
+
+The Guardian and doorway vanish, leaving the party to ponder the riddle. They can attempt the trial again later if they wish.
+
+---
+
+The riddle's answer is "E

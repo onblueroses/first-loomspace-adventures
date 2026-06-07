@@ -1,0 +1,12 @@
+ “In 2020, the UK government decided to allow Huawei to be used in the country’s 5G networks but with restrictions, including banning its equipment from the core of the network and limiting its role to 35% of the network’s periphery.”
+
+This is a really interesting case study because it has all the ingredients of a complex decision making problem:
+
+• It involves many stakeholders: The UK government, Huawei, other telcos, consumers, security agencies, and foreign governments, all with their own interests and agendas.
+• It involves tradeoffs: Allowing Huawei could lead to faster and cheaper 5G rollout, but may pose security risks. Banning them mitigates those risks but could delay 5G and anger China.
+• It has incomplete information: The true extent of the security risks is unclear. Would Huawei really spy for China? How vulnerable are their systems? No one knows for sure.
+• It has long-term consequences: The decision shapes the UK’s critical infrastructure for decades. It impacts the UK-China relationship. Short-term savings could lead to long-term costs.
+
+In many ways, it’s a microcosm of the difficult choices leaders face in an increasingly complex world. There are no easy answers, only tradeoffs and uncertainties.
+
+The UK tried

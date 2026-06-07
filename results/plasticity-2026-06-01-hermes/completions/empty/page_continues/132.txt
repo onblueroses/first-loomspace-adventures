@@ -1,0 +1,12 @@
+ "The first thing to understand is that the `this` keyword is not a variable. It is not possible to assign a value to `this`. JavaScript will determine the value of `this` based on how the function is called."
+
+If `this` is not a variable, how does JavaScript determine its value? The page explains: "There are four rules that JavaScript uses to determine the value of `this`. Understanding these rules is the key to mastering `this` in JavaScript."
+
+The four rules are:
+
+1. **Global Context**: In the global context, outside of any function, `this` refers to the global object. In a browser, the global object is `window`. In Node.js, it's `global`.
+
+2. **Function Context**: Inside a function, the value of `this` depends on how the function is called. 
+   - If the function is called with `()`, `this` is the global object (or `undefined` in strict mode).
+   - If the function is called as a method (e.g., `obj.method()`), `this` is the object that the method is a property of.
+   - If the function is called with `call()`, `apply()`, or

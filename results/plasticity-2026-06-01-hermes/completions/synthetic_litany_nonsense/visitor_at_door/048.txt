@@ -1,0 +1,15 @@
+ "I am Vrokthemnar, and I seek entry."
+
+The door opens. "Welcome, Vrokthemnar. You may enter."
+
+### 433. Vronth
+
+You stand before a massive stone door, inscribed with intricate glyphs and symbols. A deep, resonant voice echoes from the door, speaking in a language you understand:
+
+"Speak the names that open the way:
+
+Vrokthemnar, Snorth, Klompronek, Vronth, Sneldrek, Mrolthengek, Klomphreth, Vrendrabmar, Snolthrolm, Plekriskem, Krendrenel, Smartrekol, Krelphondoth, Mrolthumek, Plendreol, Vrendrelth, Krelnumph, Snelthorvak, Plendoth, Krelphendrek, Smolthemroth, Vroklep, Klemphendrak, Snolthar, Smelthrenak, Krelphendoth, Vrolthemnar; Snolphondreth, Krelphem Skemphrok.
+
+The visitor at the door speaks. "I am Vronth, and I seek entry."
+
+The door opens.

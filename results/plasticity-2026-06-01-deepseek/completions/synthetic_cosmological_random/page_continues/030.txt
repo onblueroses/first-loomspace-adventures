@@ -1,0 +1,8 @@
+This detailed description provides a strong foundation. Here is how the page might logically continue, building upon the established concepts:
+
+### **Human Impacts and River Management**
+The very factors that define river ecosystems—flow, sediment, temperature, and riparian connectivity—are the most vulnerable to human alteration.
+
+*   **Flow Alteration:** Dams and diversions disrupt the natural flow regime, which is the "master variable" controlling ecological processes. They can eliminate seasonal floods that cue fish spawning, inundate floodplains, and transport sediment, leading to channel incision and disconnection from riparian zones. Downstream, reduced or altered flows can degrade habitat, increase water temperature, and allow saltwater intrusion in estuaries.
+*   **Water Quality Degradation:** Pollution from point sources (e.g., industrial effluent) and non-point sources (e.g., agricultural runoff containing fertilizers, pesticides, and animal waste) introduces excess nutrients (eutrophication), toxins, and organic matter. This can lead to algal blooms, oxygen depletion ("dead zones"), and loss of sensitive species.
+*   **Physical Habitat Destruction:** Channelization (straightening and lining channels with concrete or rock) for flood control or drainage destroys in-stream habitat complexity, increases flow velocity, and eliminates riparian vegetation

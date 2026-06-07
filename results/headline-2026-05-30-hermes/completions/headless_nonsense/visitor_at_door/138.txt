@@ -1,0 +1,21 @@
+ He wears a black robe, and a golden mask conceals his face.
+
+VISITOR: I have come to learn the secrets of Smelphenor.
+
+VRONDH: And why should I teach them to you, a stranger?
+
+VISITOR: I have traveled far and wide, seeking the wisdom of the ancients. I have studied the mysteries of the Egyptians, the Babylonians, and the Greeks. But I have heard that the secrets of Smelphenor surpass them all.
+
+VRONDH: Indeed, the secrets of Smelphenor are not for the faint of heart. They require dedication, discipline, and a willingness to confront the darkest aspects of existence.
+
+VISITOR: I am prepared for whatever challenges lie ahead. I have faced many trials in my quest for knowledge.
+
+VRONDH: Very well. But first, you must prove your worth. I will ask you three questions, and if you answer them correctly, I will share with you the secrets of Smelphenor.
+
+VISITOR: I accept your challenge, wise Vrondh.
+
+VRONDH: First, tell me the name of the serpent that encircles the world.
+
+VISITOR: The serpent that encircles the world is known as Ouroboros.
+
+VRONDH

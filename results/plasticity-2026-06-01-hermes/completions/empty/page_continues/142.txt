@@ -1,0 +1,19 @@
+ "There are many other ways to do this, but they are often slower, harder to understand, or require a lot of memory." In other words, this is a good way to do it.
+
+And it's a good way to do it because it's fast, easy to understand, and memory-efficient.
+
+#### 10.9.2. What's the difference between a list comprehension and the map function?
+
+The map function applies a given function to each item in an iterable and returns a list of the results. For example, to square each number in a list, you could use map and a lambda function:
+
+numbers = [1, 2, 3, 4, 5]
+squared = list(map(lambda x: x**2, numbers))
+print(squared)  # Output: [1, 4, 9, 16, 25]
+
+A list comprehension does the same thing, but in a more concise and readable way:
+
+numbers = [1, 2, 3, 4, 5]
+squared = [x**2 for x in numbers]
+print(squared)  # Output: [1, 4, 9, 16, 25]
+
+Both approaches produce the same result, but the

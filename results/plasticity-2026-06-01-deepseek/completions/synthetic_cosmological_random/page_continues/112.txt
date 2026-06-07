@@ -1,0 +1,11 @@
+The passage you've provided offers a clear and structured overview of river (lotic) ecosystems. It establishes a foundational framework that can be expanded upon in several key areas. Here is a continuation that builds on the concepts introduced, delving deeper into ecological processes, human impacts, and management.
+
+### **Continued: Ecological Processes and Human Dimensions**
+
+**Energy Flow and Nutrient Cycling**
+The description of energy sources—allochthonous (externally derived) organic matter in headwaters and autochthonous (internally produced) algae and plants in mid-reaches—defines a fundamental shift known as the **River Continuum Concept**. This model describes a predictable change in the dominant feeding groups (functional feeding guilds) of invertebrates along the river's course:
+*   **Headwaters:** Shredders (e.g., some caddisfly larvae) break down coarse leaf litter.
+*   **Mid-reaches:** Grazers/scrapers (e.g., mayfly larvae) consume algae growing on substrates, and collectors (e.g., blackfly larvae) filter fine particulate matter from the water.
+*   **Lower reaches:** Collectors dominate, processing the fine organic particles transported from upstream.
+
+Nutrients like nitrogen and phosphorus spiral downstream as they are alternately taken up by organisms
