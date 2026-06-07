@@ -4,6 +4,8 @@ A small loomspace experiment on liturgical address: do base models engage a hist
 
 This repository is the supporting data for an external research-log writeup. It is meant to be browsed (raw model output, measurements, scripts, decisions) by anyone who wants to see what was actually done.
 
+Writeup: https://lingua-latenta.com/research-log/what-stays-when-the-names-change.html
+
 ## What's in here
 
 ```
